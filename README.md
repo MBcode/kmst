@@ -6,6 +6,9 @@ KM+Protege.stanford.edu  (www.cs.utexas.edu/users/mfkb/km)
 Get Protege3.5, jess-tab jess.jar(for now),Start it then: project-&gt configure to select jesstab
 batch load https://github.com/MBcode/CLIPSmsc/blob/master/jutl.clp for a few lisp like utils
 
+-might still use protege, or at lease SemanticMediaWiki+ from KM, or (Power)LOOM web interface
+  less of ML focus, and more about getting descriptions of things in quickly for any reasoning need.
+
 One of the MachineLearning pprj I use in (cl-)kme uses protege, and I could store/display/edit
  other(km)constructs w/it, incl maybe some other basic (lisp)code;  
 
