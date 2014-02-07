@@ -21,3 +21,5 @@ might make a kmst km semantic things; can show mapping example when needed; romi
  want tree to triple translation now;see P S O, at start, w/P O pairs w/in the {}s
  could use: http://www.cliki.net/trivial-configuration-parser too
  
+will also look at cl-kb or similar, to pull in protege pont/pins files ;eg. w/xml-tab imports
+ can just take xml in directly though
