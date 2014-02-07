@@ -1,0 +1,5 @@
+(lu)
+(lkm2)
+(load-kb "tags.km")
+(load-kb "links.km")
+(taxonomy)

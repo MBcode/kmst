@@ -1,0 +1,13 @@
+total 120
+-rw-r--r--  1 bobak   1.2K Feb  6 17:23 README.md
+-rw-r--r--  1 bobak   1.2K Feb  6 17:22 README.md~
+lrwxr-xr-x  1 bobak    66B Feb  6 17:24 cl-kb@ -> /Users/bobak/dwn/lang/lsp/code/project/src/malecoli/malecoli/cl-kb
+lrwxr-xr-x  1 bobak    50B Feb  6 17:24 components@ -> /Users/bobak/dwn/lang/lsp/ai/ut/mfkb/km/components
+-rw-r--r--  1 bobak   788B Feb  6 17:21 ld3.cl
+-rw-r--r--  1 bobak    64B Feb  6 17:21 ld6.cl
+-rw-r--r--  1 bobak   5.9K Feb  6 17:21 links.km
+lrwxr-xr-x  1 bobak    65B Feb  6 17:24 mlcl@ -> /Users/bobak/dwn/lang/lsp/code/project/src/malecoli/malecoli/mlcl
+lrwxr-xr-x  1 bobak    49B Feb  6 17:25 romilly@ -> /Users/bobak/wrk/sie/stefan/doc/www.romilly.co.uk
+lrwxr-xr-x  1 bobak    71B Feb  6 17:24 tag@ -> /Users/bobak/Documents/www/www.siemens.com/new/project-haystack.org/tag
+-rw-r--r--  1 bobak   8.3K Feb  6 17:21 tags.km
+lrwxr-xr-x  1 bobak    51B Feb  6 17:24 tst@ -> /Users/bobak/dwn/lang/lsp/code/project/src/sicl/tst
