@@ -11,5 +11,13 @@ lrwxr-xr-x  1 bobak    49B Feb  6 17:25 romilly@ -> /Users/bobak/wrk/sie/stefan/
 lrwxr-xr-x  1 bobak    71B Feb  6 17:24 tag@ -> /Users/bobak/Documents/www/www.siemens.com/new/project-haystack.org/tag
 -rw-r--r--  1 bobak   8.3K Feb  6 17:21 tags.km
 lrwxr-xr-x  1 bobak    51B Feb  6 17:24 tst@ -> /Users/bobak/dwn/lang/lsp/code/project/src/sicl/tst
+
 -might still use protege, or at lease SemanticMediaWiki+ from KM, or (Power)LOOM web interface
-  less of ML focus, and more about getting descriptions of things in quickly for any reasoning need. 
+  less of ML focus, and more about getting descriptions of things in quickly for any reasoning need.
+-
+ then on the mapping from slightly different description hierarchies(once they are determined).
+  really should look at descriptions to be used, and tool up just enough to get them going.
+might make a kmst km semantic things; can show mapping example when needed; romilly.co.uk sed..  
+ want tree to triple translation now;see P S O, at start, w/P O pairs w/in the {}s
+ could use: http://www.cliki.net/trivial-configuration-parser too
+ 
