@@ -21,7 +21,9 @@ might make a kmst km semantic things; can show mapping example when needed; romi
  could use ini file parser like: http://www.cliki.net/clinicap 
  want tree to triple translation now;see P S O, at start, w/P O pairs w/in the {}s
  could use: http://www.cliki.net/trivial-configuration-parser too
+   works, after some transformation; look at transforms&other parsing, to meet in middle
  
 will also look at cl-kb or similar, to pull in protege pont/pins files ;eg. w/xml-tab imports
  can just take xml in directly though
-http://franz.com/agraph/support/documentation/v4/lisp-reference.html 
+www.cliki.net/semantic%20web http://franz.com/agraph/support/documentation/v4/lisp-reference.html 
+ 
