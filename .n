@@ -18,7 +18,8 @@ lrwxr-xr-x  1 bobak    51B Feb  6 17:24 tst@ -> /Users/bobak/dwn/lang/lsp/code/p
  then on the mapping from slightly different description hierarchies(once they are determined).
   really should look at descriptions to be used, and tool up just enough to get them going.
 might make a kmst km semantic things; can show mapping example when needed; romilly.co.uk sed..  
- could use ini file parser like: http://www.cliki.net/clinicap 
+ could use ini file parser like: http://www.cliki.net/clinicap &several others, but really
+  look at how many need to be parsed in near&further terms.  -just get this device-descrp going &..
  want tree to triple translation now;see P S O, at start, w/P O pairs w/in the {}s
  could use: http://www.cliki.net/trivial-configuration-parser too
    works, after some transformation; look at transforms&other parsing, to meet in middle
@@ -26,4 +27,4 @@ might make a kmst km semantic things; can show mapping example when needed; romi
 will also look at cl-kb or similar, to pull in protege pont/pins files ;eg. w/xml-tab imports
  can just take xml in directly though
 www.cliki.net/semantic%20web http://franz.com/agraph/support/documentation/v4/lisp-reference.html 
- 
+www.w3.org/2005/Incubator/ssn/wiki/Main_Page buff.ly/NfM03q on gen semantic-sensor-description
