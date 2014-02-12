@@ -28,3 +28,5 @@ will also look at cl-kb or similar, to pull in protege pont/pins files ;eg. w/xm
  can just take xml in directly though
 www.cliki.net/semantic%20web http://franz.com/agraph/support/documentation/v4/lisp-reference.html 
 www.w3.org/2005/Incubator/ssn/wiki/Main_Page buff.ly/NfM03q on gen semantic-sensor-description
+in end want kn-resources into triples: http://nlp2rdf.org/ http://linguistics.okfn.org/ 
+ http://persistence.uni-leipzig.org/nlp2rdf/ https://github.com/NLP2RDF stanbol lmf connection
