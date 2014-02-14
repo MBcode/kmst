@@ -30,3 +30,6 @@ www.cliki.net/semantic%20web http://franz.com/agraph/support/documentation/v4/li
 www.w3.org/2005/Incubator/ssn/wiki/Main_Page buff.ly/NfM03q on gen semantic-sensor-description
 in end want kn-resources into triples: http://nlp2rdf.org/ http://linguistics.okfn.org/ 
  http://persistence.uni-leipzig.org/nlp2rdf/ https://github.com/NLP2RDF stanbol lmf connection
+ also github.com/percyliang/sempre.git  ;framenet many uses incl train-set4finding relations
+http://en.wikipedia.org/wiki/Category:Semantic_Web ;found km component-lib framenet sumo connection
+ want ability to describe event relationships&more, but need (problem) descriptions
