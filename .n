@@ -35,3 +35,4 @@ http://en.wikipedia.org/wiki/Category:Semantic_Web ;found km component-lib frame
  want ability to describe event relationships&more, but need (problem) descriptions
 Bring over more from kmp, but can still do some early dev there 1st. Tools&some gen-structure..km
 ModelBased(actors)for:semantic-service composition,monitoring,diagnosis,&repair suggestions.
+Want data(cube)info aligned w/the(sumo like)component-lib of KM;Start rough&cleanUp,in all directions
