@@ -37,3 +37,10 @@ Bring over more from kmp, but can still do some early dev there 1st. Tools&some 
 ModelBased(actors)for:semantic-service composition,monitoring,diagnosis,&repair suggestions.
 Want data(cube)info aligned w/the(sumo like)component-lib of KM;Start rough&cleanUp,in all directions
 get,pd: lparallel,lfarm cl-p2p pcall stmx  ;distrib-blackboard,  linda(tuple) setup going
+https://github.com/naveensundarg/RLCNL  could be used &/or km bits, to have ~NL output
+ found other planner/constriant /pd:csp etc too
+pick&try any simple com/above sockets, could also use ccl or cmucl, &try:
+ http://www.pvv.ntnu.no/~ljosa/doc/encycmuclopedia/devenv/cmu-user/ipc.html
+    http://www.cs.cmu.edu/afs/cs/project/clisp/src/exp/struct/code/remote.lisp 
+also consider slime/swank, as remote dbg will also be needed
+also http://www.cliki.net/websocket%20server https://github.com/spratt/cl-websocket.git
