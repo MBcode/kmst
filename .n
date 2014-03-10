@@ -44,3 +44,37 @@ pick&try any simple com/above sockets, could also use ccl or cmucl, &try:
     http://www.cs.cmu.edu/afs/cs/project/clisp/src/exp/struct/code/remote.lisp 
 also consider slime/swank, as remote dbg will also be needed
 also http://www.cliki.net/websocket%20server https://github.com/spratt/cl-websocket.git
+on osx updated sbcl 1.1[8->16] &got update of: https://github.com/aaltodsg/instans.git 
+ and finally got a clean command-line binary
+Usage: instans [ -h | --help | -v | --version | { <configuration-option> } ]
+
+General options:
+-h | --help                             Print this message and exit.
+-v | --version                          Print version information and exit.
+
+Configuration options:
+-n <string>   | --name <string>         Use <string> as the name of the system.
+-d <dir>      | --directory <dir>       Use <dir> as the prefix for file lookup.
+                                        You can use a file or an URL as <dir>
+-b <url>      | --base <url>            Use <url> as the base.
+-g <graph>    | --graph <graph>         If <graph> is 'default' add the following 
+                                        inputs to the default graph. If it is <url>
+                                        add them to the graph named by <url>
+-r <rules>    | --rules <rules>         Use rules in <rules>.
+-i <input>    | --input <input>         Read input based on <input>.
+-t <input>    | --triples <input>       Same as -i.
+-o <output>   | --output <output>       Write output based on <output>.
+-e <expect>   | --expect <expect>       Compare the results to <expect>.
+-f <commands> | --file <commands>       Read options from <commands>.
+--report <rules>                        The kinds of rules you want to get reported; a ':'
+                                        separated list of (select|construct|modify).
+--triple-processing-policy <policy>     See the documentation.
+--rule-instance-removal-policy <policy> See the documentation.
+--rete-html-page-dir <dir>              Create an HTML page about the Rete network.
+--queue-execution-policy <policy>       See the documentation.
+-e            | --execute               Execute the system. This is done by default at the end of processing all arguments.
+--debug <phases>                        See the documentation.
+--verbose <phases>                      Same ase --debug.
+
+See the documentation for description of the parameters of the options above 
+=having a streaming sparql engine should be really useful, to deal w/~RT updates
