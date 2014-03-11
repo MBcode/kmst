@@ -78,3 +78,7 @@ Configuration options:
 
 See the documentation for description of the parameters of the options above 
 =having a streaming sparql engine should be really useful, to deal w/~RT updates
+http://www.cs.hut.fi/~mjrinne/documents/INSTANS%2011102013.pdf 
+added link to sparql11-test-suite while changing hard coded test links
+=will also look at: http://trac.common-lisp.net/isidorus/wiki/TmSparql 
+=and https://github.com/mtravers/swframes had tried BioLisp/BioBike before
