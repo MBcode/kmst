@@ -83,5 +83,7 @@ bin/sbcl-instans:exec sbcl --core ${CORE} $*
 =having a streaming sparql engine should be really useful, to deal w/~RT updates
 http://www.cs.hut.fi/~mjrinne/documents/INSTANS%2011102013.pdf 
 added link to sparql11-test-suite while changing hard coded test links
+Get instans <-> km interop, ~like the kmp km rdf/owl/etc interop
+ having streaming sparql queries, and other KM reasoning together could be great
 =will also look at: http://trac.common-lisp.net/isidorus/wiki/TmSparql 
 =and https://github.com/mtravers/swframes had tried BioLisp/BioBike before
