@@ -86,5 +86,6 @@ added link to sparql11-test-suite while changing hard coded test links
 Get instans <-> km interop, ~like the kmp km rdf/owl/etc interop
  having streaming sparql queries, and other KM reasoning together could be great
  also just try KM's: 29.8 Forward Chaining on Slots, &see about starting w/just instans I/O
+ curious why instans rules done w/: rete/rete-classes.lisp &not reuse lisa.sf.net work
 =will also look at: http://trac.common-lisp.net/isidorus/wiki/TmSparql 
 =and https://github.com/mtravers/swframes had tried BioLisp/BioBike before
