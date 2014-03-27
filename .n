@@ -89,3 +89,6 @@ Get instans <-> km interop, ~like the kmp km rdf/owl/etc interop
  curious why instans rules done w/: rete/rete-classes.lisp &not reuse lisa.sf.net work
 =will also look at: http://trac.common-lisp.net/isidorus/wiki/TmSparql 
 =and https://github.com/mtravers/swframes had tried BioLisp/BioBike before
+In kmp started to look at krss2 loads, continue here;
+ (define-primitive-concept a b) -> (a has (superclasses (b)))
+ (define-primitive-role a ::parents(b)) -> (a has (superclasses (b))) ;where top class is (Slot)
