@@ -93,3 +93,5 @@ In kmp started to look at krss2 loads, continue here;
  (define-primitive-concept a b) -> (a has (superclasses (b)))
  (define-primitive-role a ::parents(b)) -> (a has (superclasses (b))) ;where top class is (Slot)
 inputs from:.. nlp2rdf.org also trying: stack.lod2.eu/blog notional.no-ip.org/srv.html
+DataRobot Automated Predictive Modeling http://bit.ly/1sFwb65 more kmp, but aiding etl/srvc compose  
+ 
