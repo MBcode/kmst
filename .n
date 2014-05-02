@@ -94,4 +94,9 @@ In kmp started to look at krss2 loads, continue here;
  (define-primitive-role a ::parents(b)) -> (a has (superclasses (b))) ;where top class is (Slot)
 inputs from:.. nlp2rdf.org also trying: stack.lod2.eu/blog notional.no-ip.org/srv.html
 DataRobot Automated Predictive Modeling http://bit.ly/1sFwb65 more kmp, but aiding etl/srvc compose  
+Still interested in the above, but less from some of the IoT buzz uses, &more for some of the
+ longer view use of semantics(KnRep&Reasoning)to aid KnBased(eg.scietific)endevour.
+General shared standards are still a focus, but getting thigs working w/in their spheres w/the
+ best most flexible tech(where one can still explore),is still a focus.  Still have interest in
+ things like common-logic as well, as some cNL &much more. Want to knock out a lil in the area soon.
  
