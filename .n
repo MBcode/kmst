@@ -36,6 +36,8 @@ http://en.wikipedia.org/wiki/Category:Semantic_Web ;found km component-lib frame
 Bring over more from kmp, but can still do some early dev there 1st. Tools&some gen-structure..km
 ModelBased(actors)for:semantic-service composition,monitoring,diagnosis,&repair suggestions.
 Want data(cube)info aligned w/the(sumo like)component-lib of KM;Start rough&cleanUp,in all directions
+http://semstats.org/
+
 get,pd: lparallel,lfarm cl-p2p pcall stmx  ;distrib-blackboard,  linda(tuple) setup going
 https://github.com/naveensundarg/RLCNL  could be used &/or km bits, to have ~NL output
  found other planner/constriant /pd:csp etc too
