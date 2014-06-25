@@ -108,3 +108,6 @@ https://github.com/willf/apex.git nasa human-factors w/pubsub...
     http://human-factors.arc.nasa.gov/publications/20051025121038_chi02.pdf 
     a hierarchical task decomposition expressed in a cognitive modeling tool 
 
+http://lispm.de/genera-concepts 
+
+http://www.qudt.org/ &datacube, re: how datatypes should w/in tbox, @least w/units when applicable
