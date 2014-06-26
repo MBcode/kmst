@@ -122,3 +122,5 @@ https://github.com/ha-mo-we/Racer.git &more
 (Notes from the digital underground of @codeforamerica alum @allafarce)
     etl then rdb2rdf, etl w/ld/nlp/..(apache/etc)code 
 https://github.com/daguar/etl-for-america /wiki good links, incl OpenRefine;incls(rdf/etc)plugins
+http://blog.semantic-web.at/2011/02/17/transforming-spreadsheets-into-skos-with-google-refine/ 
+https://github.com/OpenRefine/grefine-rdf-extension http://refine.deri.ie/ 
