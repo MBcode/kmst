@@ -111,3 +111,10 @@ https://github.com/willf/apex.git nasa human-factors w/pubsub...
 http://lispm.de/genera-concepts 
 
 http://www.qudt.org/ &datacube, re: how datatypes should w/in tbox, @least w/units when applicable
+
+https://github.com/sfbrigade ohana-api (2postgres)&some mongo; pg/cl-postgres mongo
+    http://franz.com/agraph/allegrograph/doc/mongo-interface.html
+    http://franz.com/agraph/support/documentation/v4/mongo-interface.html 
+    http://answers.semanticweb.com/questions/27249/sparql-mapping-to-mongodb 
+https://github.com/kraison/vivace-graph-v3.git
+https://github.com/ha-mo-we/Racer.git &more
