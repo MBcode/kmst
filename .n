@@ -118,3 +118,7 @@ https://github.com/sfbrigade ohana-api (2postgres)&some mongo; pg/cl-postgres mo
     http://answers.semanticweb.com/questions/27249/sparql-mapping-to-mongodb 
 https://github.com/kraison/vivace-graph-v3.git
 https://github.com/ha-mo-we/Racer.git &more
+@medriscoll "ETL: a hard ^#&@ing problem." http://daguar.github.io/2014/03/17/etl-for-america/ …  
+(Notes from the digital underground of @codeforamerica alum @allafarce)
+    etl then rdb2rdf, etl w/ld/nlp/..(apache/etc)code 
+https://github.com/daguar/etl-for-america /wiki good links, incl OpenRefine;incls(rdf/etc)plugins
