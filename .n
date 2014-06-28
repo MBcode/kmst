@@ -130,3 +130,10 @@ https://www.google.com/events/io/io14videos/7e2b1008-97bf-e311-b297-00155d5066d7
 https://www.google.com/events/io/io14videos/6e2c6545-00c0-e311-b297-00155d5066d7
 https://www.google.com/events/io/io14videos/86c8ee27-39da-e311-b297-00155d5066d7
  
+ Retweeted by Dataverse Network
+ Mercè Crosas ‏@mercecrosas  23h
+Slides on "Dataverse with DataTags: Sharing Data you can't Share" presented with @michbarsinai at iRODS Meeting @IQSS http://owl.li/yxkh1  
+also: http://datascience.iq.harvard.edu/presentations/data-publishing-workflows-dataverse ...
+iRODS uses rules for data-store, this sci data store/share metadata not necc w3c stnd
+also looking@ distrib file sys, w/meta-data, incl: coda, ceph, glusterfs, openafs, ...
+want meta-fs, w/offline cache, file&s3 like interact,...
