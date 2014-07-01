@@ -140,4 +140,6 @@ want meta-fs, w/offline cache, file&s3 like interact,...
 
 Lots of interesting presentations to read in more details: workshop on #imaging ontology http://ncorwiki.buffalo.edu/index.php/Ontology_and_Imaging_Informatics … via @cekahn 
 really do want data-cube/etc to annotae sci data, maybe w/kmp &hdf part of cl-ana/?
- 
+
+ Dean Wampler ‏@deanwampler  ;might help pick distrib-filestore; get RRDs on ceph too?
+Tachyon near-term roadmap: Ceph integration (Redhat), Hierarchical Local Storage (Intel), Improve Shark perf. (Yahoo), others. #sparksummit 
