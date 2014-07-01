@@ -143,3 +143,11 @@ really do want data-cube/etc to annotae sci data, maybe w/kmp &hdf part of cl-an
 
  Dean Wampler ‏@deanwampler  ;might help pick distrib-filestore; get RRDs on ceph too?
 Tachyon near-term roadmap: Ceph integration (Redhat), Hierarchical Local Storage (Intel), Improve Shark perf. (Yahoo), others. #sparksummit 
+
+Kingsley Uyi Idehen ‏@kidehen  -> Semantic Networks by John Sowa
+Semantic Networks: http://bit.ly/VBew3y  . #LinkedData #SemanticWeb #Logic #RDF #AI #SmartData #BigData #NewSQL #SPARQL #DBMS 
+
+www.meetup.com/SF-Data-Science/events/188757622 meetup.com/Code-for-San-Francisco-Civic-Hack-Night
+data.context(via semantics)methods&data which needs ETL that annotates well&used domainOnto Info
+described data&goals should point at ways to both refine then model&predict
+start w/refine w/additions, &expand from there  ;use these meetups &last week of HPI KnEng class
