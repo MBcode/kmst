@@ -156,3 +156,5 @@ start w/refine w/additions, &expand from there  ;use these meetups &last week of
 https://twitter.com/philarcher1/status/481345638349938688 incl these data-descriptors
 The most important @w3c vocabulary since SKOS, Data Cube, has its own conference in September http://semstats2014.wordpress.com/  #semstats2014 @csarven
 https://twitter.com/OpenCubeProject  http://opencube-project.eu/ work-packages
+
+http://yieldbot.github.io/flambo/ have wanted lisp on spark's rdd's (in ceph or similar)now w/clj
