@@ -124,6 +124,9 @@ github.com/ha-mo-we/Racer.git github.com/aaltodsg/instans.git &more
 https://github.com/daguar/etl-for-america /wiki good links, incl OpenRefine;incls(rdf/etc)plugins
 http://blog.semantic-web.at/2011/02/17/transforming-spreadsheets-into-skos-with-google-refine/ 
 https://github.com/OpenRefine/grefine-rdf-extension http://refine.deri.ie/ 
+    lod2-refine - LOD-enabled version of OpenRefine
+    lodgrefine - LOD-enabled version of Google Refine
+    lodrefine - LOD-enabled version of OpenRefine
 http://dat-data.com/
 googleIO14 kn-graph vids:
 https://www.google.com/events/io/io14videos/7e2b1008-97bf-e311-b297-00155d5066d7
