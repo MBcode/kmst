@@ -164,6 +164,10 @@ data.context(via semantics)methods&data which needs ETL that annotates well&used
 described data&goals should point at ways to both refine then model&predict
 start w/refine w/additions, &expand from there  ;use these meetups &last week of HPI KnEng class
 
+also reminded of work2look through blogs &get product info relations;&earlier re:email qry work
+look into a lisp openrefine client, similar to: https://pypi.python.org/pypi/refine-client
+also at beautiful-soup equivalents/or connectors/etc.
+
 https://twitter.com/philarcher1/status/481345638349938688 incl these data-descriptors
 The most important @w3c vocabulary since SKOS, Data Cube, has its own conference in September http://semstats2014.wordpress.com/  #semstats2014 @csarven
 https://twitter.com/OpenCubeProject  http://opencube-project.eu/ work-packages
