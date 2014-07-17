@@ -137,6 +137,8 @@ googleIO14 kn-graph vids:
 https://www.google.com/events/io/io14videos/7e2b1008-97bf-e311-b297-00155d5066d7
 https://www.google.com/events/io/io14videos/6e2c6545-00c0-e311-b297-00155d5066d7
 https://www.google.com/events/io/io14videos/86c8ee27-39da-e311-b297-00155d5066d7
+
+http://blog.swirrl.com/articles/linked-data-etl/
  
  Retweeted by Dataverse Network
  Mercè Crosas ‏@mercecrosas  23h
@@ -168,6 +170,8 @@ also reminded of work2look through blogs &get product info relations;&earlier re
 look into a lisp openrefine client, similar to: https://pypi.python.org/pypi/refine-client
 also at beautiful-soup equivalents/or connectors/etc.
 earlier used sub-domain info &did not have as much from: https://schema.org/Product build off now
+
+http://blog.swirrl.com/articles/linked-data-etl/ can stream vs openrefine in ram
 
 https://twitter.com/philarcher1/status/481345638349938688 incl these data-descriptors
 The most important @w3c vocabulary since SKOS, Data Cube, has its own conference in September http://semstats2014.wordpress.com/  #semstats2014 @csarven
