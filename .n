@@ -178,3 +178,6 @@ The most important @w3c vocabulary since SKOS, Data Cube, has its own conference
 https://twitter.com/OpenCubeProject  http://opencube-project.eu/ work-packages
 
 http://yieldbot.github.io/flambo/ have wanted lisp on spark's rdd's (in ceph or similar)now w/clj
+Making sense of LSD: http://csarven.ca/sense-of-lsd-analysis … #LinkedData #SemStats #LinkedResearch 
+ https://github.com/csarven/lsd-sense http://www.cs.bham.ac.uk/~pxt/IDA/lsa_ind.pdf
+ http://radimrehurek.com/gensim/index.html  https://github.com/albertmeronyo/SemanticCorrelation . 
