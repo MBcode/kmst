@@ -147,6 +147,7 @@ also: http://datascience.iq.harvard.edu/presentations/data-publishing-workflows-
 iRODS uses rules for data-store, this sci data store/share metadata not necc w3c stnd
 also looking@ distrib file sys, w/meta-data, incl: coda, ceph, glusterfs, openafs, ...
 want meta-fs, w/offline cache, file&s3 like interact,...
+  https://twitter.com/MBstream/status/347517793924685824 zookeeper ..service-monitor
 
 Lots of interesting presentations to read in more details: workshop on #imaging ontology http://ncorwiki.buffalo.edu/index.php/Ontology_and_Imaging_Informatics … via @cekahn 
 really do want data-cube/etc to annotae sci data, maybe w/kmp &hdf part of cl-ana/?
