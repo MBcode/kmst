@@ -184,3 +184,6 @@ Making sense of LSD: http://csarven.ca/sense-of-lsd-analysis … #LinkedData #Se
 https://semtools.ecoinformatics.org http://ontolog.cim3.net/cgi-bin/wiki.pl?MarkSchildhauer
  https://sonet.ecoinformatics.org  https://www.nceas.ucsb.edu http://notional.ddns.net/cnt3.txt
 Bringing biodiversity data2the SemanticWeb http://www.biomedcentral.com/1471-2105/15/257/abstract 
+
+http://semanticweb.com/rdf-critical-successful-internet-things_b42994
+http://semanticweb.com/semantic-data-ecosystem-oil-gas-sector-norway_b43833 
