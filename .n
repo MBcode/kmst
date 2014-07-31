@@ -182,5 +182,5 @@ Making sense of LSD: http://csarven.ca/sense-of-lsd-analysis … #LinkedData #Se
  https://github.com/csarven/lsd-sense http://www.cs.bham.ac.uk/~pxt/IDA/lsa_ind.pdf
  http://radimrehurek.com/gensim/index.html  https://github.com/albertmeronyo/SemanticCorrelation . 
 https://semtools.ecoinformatics.org http://ontolog.cim3.net/cgi-bin/wiki.pl?MarkSchildhauer
- https://sonet.ecoinformatics.org  https://www.nceas.ucsb.edu
+ https://sonet.ecoinformatics.org  https://www.nceas.ucsb.edu http://notional.ddns.net/cnt3.txt
 Bringing biodiversity data2the SemanticWeb http://www.biomedcentral.com/1471-2105/15/257/abstract 
