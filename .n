@@ -188,3 +188,6 @@ Bringing biodiversity data2the SemanticWeb http://www.biomedcentral.com/1471-210
 
 http://semanticweb.com/rdf-critical-successful-internet-things_b42994
 http://semanticweb.com/semantic-data-ecosystem-oil-gas-sector-norway_b43833 
+
+http://publications.hevs.ch/index.php/publications/show/1718 heterogeneous distrib db,semweb api
+http://strataconf.com/stratany2014/public/schedule/detail/37796 semweb graph analysis 
