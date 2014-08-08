@@ -192,3 +192,7 @@ http://semanticweb.com/semantic-data-ecosystem-oil-gas-sector-norway_b43833
 
 http://publications.hevs.ch/index.php/publications/show/1718 heterogeneous distrib db,semweb api
 http://strataconf.com/stratany2014/public/schedule/detail/37796 semweb graph analysis 
+
+SemanticBot @semanticbot  ·  semantic web visions for internet of things. 
+wondering: does cross domain linking make sense yet http://bit.ly/V44W8K  
+=semweb+IOT=> http://www.w3.org/2014/02/wot/report.html#data
