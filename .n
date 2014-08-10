@@ -197,3 +197,13 @@ SemanticBot @semanticbot  ·  semantic web visions for internet of things.
 wondering: does cross domain linking make sense yet http://bit.ly/V44W8K  
 =semweb+IOT=> http://www.w3.org/2014/02/wot/report.html#data
 http://www.w3.org/community/rsp/ gets back2 instans
+ http://www.sensormeasurement.appspot.com/?p=ontologies http://everywarelab.di.unimi.it/palspot 
+ - http://sensormeasurement.appspot.com/ ?p=m3 http://www.w3.org/2005/Incubator/ssn/ssnx/ssn#
+http://www.eurecom.fr/~gyrard/publication/m2mPresentationGyrardV2.pdf WFIOT_Gyrard.pdf
+https://iotdb.org/social/imadeit/tagged/Semantic-Web 
+http://www.etsi.org/deliver/etsi_tr/101500_101599/101584/02.01.01_60/tr_101584v020101p.pdf 
+http://www.biomedcentral.com/1755-8794/7/S1/S12 auto detect&resolve measure-unit aggr-data conflicts
+http://www.arl.army.mil/arlreports/2007/ARL-TR-4172.pdf  Meterology
+http://didattica.arces.unibo.it/file.php/76/Tutorials/Semantic_Web_09_smart_environment_applicationsv2_R_WEBSITE.pdf 
+http://hal.archives-ouvertes.fr/docs/00/64/21/93/PDF/IotMiddleware.pdf 
+http://www.vtt.fi/inf/pdf/researchhighlights/2013/R7.pdf 
