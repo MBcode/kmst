@@ -207,3 +207,7 @@ http://www.arl.army.mil/arlreports/2007/ARL-TR-4172.pdf  Meterology
 http://didattica.arces.unibo.it/file.php/76/Tutorials/Semantic_Web_09_smart_environment_applicationsv2_R_WEBSITE.pdf 
 http://hal.archives-ouvertes.fr/docs/00/64/21/93/PDF/IotMiddleware.pdf 
 http://www.vtt.fi/inf/pdf/researchhighlights/2013/R7.pdf 
+
+MBR model-based chem
+In search of a "robo-chemist" that can synthesize any organic compound: http://bit.ly/1pXEQMV  via @NatureNews pic.twitter.com/nuEoeGDoZL
+Organic synthesis: The robo-chemist : Nature News & Comment , see more http://bit.ly/1oeyq0g  
