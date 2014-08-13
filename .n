@@ -217,5 +217,5 @@ Carole's keynote at #vivo2014 on #researchobject #reproducibility http://www.sli
 
 http://franz.com/success/customer_apps/bioinformatics/mdl_story.lhtml
 http://jeffshrager.org/vita/pubs/2001designforscience.pdf
-http://jeffshrager.org/vita/pubs/2010chasm.pdf
-http://commerce.net/people/jeff-shrager/ 
+http://jeffshrager.org/vita/pubs/2010chasm.pdf http://commerce.net/people/jeff-shrager/ 
+how2do an expanded ver of this now: semweb/iIOT.. more on this soon;also see re:semSci tweets
