@@ -232,3 +232,5 @@ Call-by-meaning: applying the semantic web to APIs http://bit.ly/1wHDHlr
 ReplyReplied to 0 times RetweetedRetweeted 2 times2 FavoriteFavorited 0 times 
 
 http://radar.oreilly.com/2014/06/ais-dueling-definitions.html 
+
+http://en.wikipedia.org/wiki/Model-based_reasoning 
