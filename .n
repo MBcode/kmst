@@ -236,4 +236,6 @@ http://radar.oreilly.com/2014/06/ais-dueling-definitions.html
 http://en.wikipedia.org/wiki/Model-based_reasoning 
 
 would even work on: http://www.ncsa.illinois.edu/about/jobs/A1400040 if I could use Stella:
-  http://www.isi.edu/isd/LOOM/Stella/
+  http://www.isi.edu/isd/LOOM/Stella/ from http://www.isi.edu/isd/LOOM/PowerLoom/
+ but cl-autowrap & abcl/etc are still options too;I've also wrapped end-clients w/CLIPS/Jess
+http://www.isi.edu/isd/LOOM/ came 1st/but still using KM more
