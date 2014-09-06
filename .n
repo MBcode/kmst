@@ -240,3 +240,5 @@ would even work on: http://www.ncsa.illinois.edu/about/jobs/A1400040 if I could 
    from http://www.isi.edu/isd/LOOM/PowerLoom/
  but cl-autowrap & abcl/etc are still options too;I've also wrapped end-clients w/CLIPS/Jess
 http://www.isi.edu/isd/LOOM/ came 1st/but still using KM more
+
+have a bit on planning in kmp, want more than stips, PDDL; NDDL, ANML
