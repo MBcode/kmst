@@ -242,3 +242,6 @@ would even work on: http://www.ncsa.illinois.edu/about/jobs/A1400040 if I could 
 http://www.isi.edu/isd/LOOM/ came 1st/but still using KM more
 
 have a bit on planning in kmp, want more than stips, PDDL; NDDL, ANML
+    http://en.wikipedia.org/wiki/Planning_Domain_Definition_Language 
+    https://code.google.com/p/europa-pso/wiki/NDDLReference 
+    http://ti.arc.nasa.gov/m/pub-archive/1423h/1423%20(Smith,%20D).pdf 
