@@ -248,3 +248,6 @@ have a bit on planning in kmp, want more than stips, PDDL; NDDL, ANML
     http://en.wikipedia.org/wiki/Planning_Domain_Definition_Language 
     https://code.google.com/p/europa-pso/wiki/NDDLReference 
     http://ti.arc.nasa.gov/m/pub-archive/1423h/1423%20(Smith,%20D).pdf 
+
+Paul Groth ‏@pgroth  5h
+Stoked about the panel I’ll be moderating at #RDAPlenary - #datascience science meets #escience 
