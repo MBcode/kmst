@@ -234,6 +234,9 @@ ReplyReplied to 0 times RetweetedRetweeted 2 times2 FavoriteFavorited 0 times
 http://radar.oreilly.com/2014/06/ais-dueling-definitions.html 
 
 http://en.wikipedia.org/wiki/Model-based_reasoning 
+MBR simgen
+    http://www.aaai.org/Papers/AAAI/1993/AAAI93-084.pdf
+    http://ijcai.org/Past%20Proceedings/IJCAI-95-VOL2/PDF/099.pdf
 
 would even work on: http://www.ncsa.illinois.edu/about/jobs/A1400040 if I could use Stella:
   www.isi.edu/isd/LOOM/Stella /documentation/manual.pdf www.isi.edu/~hans/publications/LUGM99.pdf
