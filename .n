@@ -252,3 +252,15 @@ have a bit on planning in kmp, want more than stips, PDDL; NDDL, ANML
 
 Paul Groth ‏@pgroth  5h
 Stoked about the panel I’ll be moderating at #RDAPlenary - #datascience science meets #escience 
+
+=rules
+kmp> gred -n rule note
+97:build-rule
+175:could I have lisa.sf.net match on wilbur instances; so like jess w/swrl rules;& instans like too
+180: listed under: https://www.w3.org/2001/sw/wiki/Category:Rule_Reasoner
+189:attempto: github.com/tkuhn/AceRules http://svn.cs.rpi.edu/svn/tayloj/cl-ace !wrk/but would be fun
+251:en.wikipedia.org/wiki/Rule_Interchange_Format /v www.brcommunity.com/b597.php DecisionModelNotation
+424:  qry/rules
+ 
+http://www.slideshare.net/swadpasc/paschke-rule-ml2014keynote 
+ instans another CEP http://en.wikipedia.org/wiki/Complex_event_processing
