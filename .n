@@ -267,3 +267,6 @@ http://www.slideshare.net/swadpasc/paschke-rule-ml2014keynote
 
 https://gigaom.com/2014/09/17/watch-the-live-stream-of-our-future-of-ai-and-deep-learning-event-tonight/
  @etzioni best part/but everything I got to see was interesting; hope to catch archive
+
+switched from osx to linux for daily use; also getting 1st cut twitter archive w/script of rainbowstream
+ would like to iterate on this&organize &maybe annote this, &build out from this;..
