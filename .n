@@ -269,4 +269,9 @@ https://gigaom.com/2014/09/17/watch-the-live-stream-of-our-future-of-ai-and-deep
  @etzioni best part/but everything I got to see was interesting; hope to catch archive
 
 switched from osx to linux for daily use; also getting 1st cut twitter archive w/script of rainbowstream
- would like to iterate on this&organize &maybe annote this, &build out from this;..
+ would like to iterate on this&organize &maybe annote this, &build out from this;.. Should use: USER(1): (qa "twit")
+#<SYSTEM cl-twit-repl / cl-twitter-20131003-git / quicklisp 2014-08-26>
+#<SYSTEM cl-twitter / cl-twitter-20131003-git / quicklisp 2014-08-26>
+#<SYSTEM twitter-elephant-driver / cl-twitter-20131003-git / quicklisp 2014-08-26>
+#<SYSTEM twitter-mongodb-driver / cl-twitter-20131003-git / quicklisp 2014-08-26>
+ 
