@@ -274,4 +274,5 @@ switched from osx to linux for daily use; also getting 1st cut twitter archive w
 #<SYSTEM cl-twitter / cl-twitter-20131003-git / quicklisp 2014-08-26>
 #<SYSTEM twitter-elephant-driver / cl-twitter-20131003-git / quicklisp 2014-08-26>
 #<SYSTEM twitter-mongodb-driver / cl-twitter-20131003-git / quicklisp 2014-08-26>
- 
+http://common-lisp.net/project/cl-twitter/ http://chaitanyagupta.com/lisp/cl-twit/
+http://cl-twitter.blogspot.com/ https://github.com/quek/twitter-client alt any2arch as km 
