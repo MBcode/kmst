@@ -278,6 +278,7 @@ http://common-lisp.net/project/cl-twitter/ http://chaitanyagupta.com/lisp/cl-twi
 http://cl-twitter.blogspot.com/ https://github.com/quek/twitter-client alt any2arch as km 
  make KM objs around the final URLs, &collect txt/times/etc around it /try to classify
  use tree of given #tags, and guesses (as prismaticbottelnose...)tie into km components..  
+ http://www.quora.com/?qp_story=4185418&window_id=dep208-3097776695201503467 cyc on twit
 other than lisp nlp&stanford coreNLP there is: scala's Epic 
  http://www.meetup.com/sfmachinelearning/events/202556852/ 
  http://www.scalanlp.org/ https://github.com/dlwh/epic/
