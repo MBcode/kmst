@@ -286,3 +286,6 @@ other than lisp nlp&stanford coreNLP there is: scala's Epic
  http://www.scalanlp.org/ https://github.com/dlwh/epic/
 
 considering: http://www.meetup.com/Open-Data-Bay-Area/events/209112862/
+
+context: http://www.meetup.com/Data-Mining/events/206195122/ like usf parking app just before but much more; openstreetmap etc  incl graphX
+
