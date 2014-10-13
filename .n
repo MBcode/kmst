@@ -292,3 +292,5 @@ context: http://www.meetup.com/Data-Mining/events/206195122/ like usf parking ap
 
 Titus Brown @ctitusbrown  ·  Dear computational scientists everywhere, please go look at the NIH Software Discovery Index report & comment! http://softwarediscoveryindex.org
 
+The Imminent Decentralized Computing Revolution http://on.wsj.com/1sxIuUn  (http://bit.ly/1p4BeZW )
+
