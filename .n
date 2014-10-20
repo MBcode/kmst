@@ -289,8 +289,9 @@ considering: http://www.meetup.com/Open-Data-Bay-Area/events/209112862/
 
 context: http://www.meetup.com/Data-Mining/events/206195122/ like usf parking app just before but much more; openstreetmap etc  incl graphX
 
-
 Titus Brown @ctitusbrown  ·  Dear computational scientists everywhere, please go look at the NIH Software Discovery Index report & comment! http://softwarediscoveryindex.org
 
 The Imminent Decentralized Computing Revolution http://on.wsj.com/1sxIuUn  (http://bit.ly/1p4BeZW )
+
+http://www.slideshare.net/allaves1/towards-efficient  processing of rdf data streams
 
