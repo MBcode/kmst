@@ -253,6 +253,8 @@ have a bit on planning in kmp, want more than stips, PDDL; NDDL, ANML
 Paul Groth ‏@pgroth  5h
 Stoked about the panel I’ll be moderating at #RDAPlenary - #datascience science meets #escience 
 
+@TheContentMine talk "ContentMine: Open Data and Social Machines" slides at http://www.slideshare.net/petermurrayrust/contentmine-open-data-and-social-machines … 
+
 =rules
 kmp> gred -n rule note
 97:build-rule
