@@ -299,3 +299,8 @@ http://www.slideshare.net/allaves1/towards-efficient  processing of rdf data str
 
  Open Science retweeted Lora Aroyo ‏@laroyo  Nov 14 Amsterdam, North Holland
 Software Sustainability: Better Software Better Science #openscience #opensource http://www.slideshare.net/carolegoble/software-sustainability-better-software-better-science … via @SlideShare @CaroleAnneGoble
+
+Kaitlin Thaney @kaythaney  ·  Nov 16
+My slides from this morning’s keynote at #WSSSPE on Designing for Truth, Scale + Sustainability: http://www.slideshare.net/kaythaney/designing-for-truth-scale-and-sustainability-wssspe2-keynote … #openscience
+ SemanticBot @semanticbot  ·  Nov 14
+Generating Biomedical Hypotheses Using Semantic Web Technologies discovery formalization http://slidesha.re/1sPVgYR 
