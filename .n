@@ -304,3 +304,5 @@ Kaitlin Thaney @kaythaney  ·  Nov 16
 My slides from this morning’s keynote at #WSSSPE on Designing for Truth, Scale + Sustainability: http://www.slideshare.net/kaythaney/designing-for-truth-scale-and-sustainability-wssspe2-keynote … #openscience
  SemanticBot @semanticbot  ·  Nov 14
 Generating Biomedical Hypotheses Using Semantic Web Technologies discovery formalization http://slidesha.re/1sPVgYR 
+
+Machine Learning Will Make Its Mark On The Sciences http://www.dataversity.net/machine-learning-will-make-mark-sciences/ … via @DATAVERSITY 
