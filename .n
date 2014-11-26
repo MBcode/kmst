@@ -309,3 +309,6 @@ Machine Learning Will Make Its Mark On The Sciences http://www.dataversity.net/m
 
 @RainerJoswig  Mobile Ad Hoc Network communication protocol for Human-Robot Search and Rescue Teams.  In Common #Lisp / #sbcl https://github.com/jsmpereira/chopin-routing … 
   http://chopin.isr.uc.pt/ /didn't work yet
+
+still want2find sofware/srvc to compose it: figshare ‏@figshare  5h5 hours ago
+    Theres also some interesting work on 'grabbing' metadata here: https://github.com/mbjones/codemeta … #ShakingItUp14
