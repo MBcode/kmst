@@ -314,3 +314,5 @@ still want2find sofware/srvc to compose it: figshare ‏@figshare  5h5 hours ago
     Theres also some interesting work on 'grabbing' metadata here: https://github.com/mbjones/codemeta … #ShakingItUp14
 more@: http://www.digital-science.com/events/shaking-it-up-how-to-thrive-in-and-change-the-research-ecosystem
 #ShakingItUp14 and live/archived http://ll.ms-studiosmedia.com/events/2014/1411/ShakingItUp/live/ShakingItUp-live.html … 
+
+If not previously stated any repositry that I have ability to mark as bsd or mit I do.  
