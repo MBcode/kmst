@@ -316,3 +316,10 @@ more@: http://www.digital-science.com/events/shaking-it-up-how-to-thrive-in-and-
 #ShakingItUp14 and live/archived http://ll.ms-studiosmedia.com/events/2014/1411/ShakingItUp/live/ShakingItUp-live.html … 
 
 If not previously stated any repositry that I have ability to mark as bsd or mit I do.  
+Also to incl: when advising:
+Any software prototypes created for this project may utilize software tools
+and/or design code that the advisor has created independently of this project and/or which is intended to be
+used by advisor in other capacities. Therefore, while the company will own the customized instantiation of
+the prototype, the advisor retains the ownership in the underlying software tools and design code. The
+software prototype is not intended for production or “off the shelf” use and is provided for design purposes
+only. 
