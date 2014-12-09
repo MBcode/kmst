@@ -323,3 +323,5 @@ used by advisor in other capacities. Therefore, while the company will own the c
 the prototype, the advisor retains the ownership in the underlying software tools and design code. The
 software prototype is not intended for production or “off the shelf” use and is provided for design purposes
 only. 
+
+pull together nlp work: cl-nlp/langutils/.... kme/sys has a listing ;for1st cut info-extract,look4templated info(high level regexp)/if possible/but will prob need more
