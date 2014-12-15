@@ -325,3 +325,6 @@ software prototype is not intended for production or “off the shelf” use and
 only. 
 
 pull together nlp work: cl-nlp/langutils/.... kme/sys has a listing ;for1st cut info-extract,look4templated info(high level regexp)/if possible/but will prob need more
+
+Idafen SP @idafensp  ·  Dec 10
+Conservation of Scientific Workflow Infrastructures by Using Semantics - 2012 by @idafensp #escience http://www.slideshare.net/idafensp/conservation-of-scientific-workflow-infrastructures-by-using-semantics-2012 … vía @SlideShare
