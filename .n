@@ -334,3 +334,5 @@ Interesting idea - Use semantic desktop to capture contextual research data - se
 
 The Story of Siri, by its founder Adam Cheyer https://wit.ai/blog/2014/12/18/adam-keynote …
  
+Jay Byte Off @tobyjaffey  ·  Dec 16
+@BorisAdryan This might interest you, http://www.slideshare.net/PayamBarnaghi/semantic-technologies-for-the-internet-of-things … Good overview of semantic technologies and ontology for IoT 
