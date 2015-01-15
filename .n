@@ -336,3 +336,5 @@ The Story of Siri, by its founder Adam Cheyer https://wit.ai/blog/2014/12/18/ada
  
 Jay Byte Off @tobyjaffey  ·  Dec 16
 @BorisAdryan This might interest you, http://www.slideshare.net/PayamBarnaghi/semantic-technologies-for-the-internet-of-things … Good overview of semantic technologies and ontology for IoT 
+
+was just bookmarking to https://twitter.com/favorites then checking, but now using pocket (helps w/upcoming unpluged vacation;)
