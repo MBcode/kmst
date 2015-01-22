@@ -338,3 +338,5 @@ Jay Byte Off @tobyjaffey  ·  Dec 16
 @BorisAdryan This might interest you, http://www.slideshare.net/PayamBarnaghi/semantic-technologies-for-the-internet-of-things … Good overview of semantic technologies and ontology for IoT 
 
 was just bookmarking to https://twitter.com/favorites then checking, but now using pocket (helps w/upcoming unpluged vacation;)
+
+Kingsley Uyi Idehen @kidehen  ·  Nice piece of history by John F. Sowa: http://www.jfsowa.com/ikl/index.htm . #SemanticWeb #Logic #AI #RDF #IKL #CommonLogic #History #LinkedData 
