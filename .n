@@ -341,4 +341,6 @@ was just bookmarking to https://twitter.com/favorites then checking, but now usi
 
 Kingsley Uyi Idehen @kidehen  ·  Nice piece of history by John F. Sowa: http://www.jfsowa.com/ikl/index.htm . #SemanticWeb #Logic #AI #RDF #IKL #CommonLogic #History #LinkedData 
 
+-http://plato.stanford.edu/entries/computational-mind/
+
 planetlisp pgloader http://tapoueh.org/blog/2015/01/22-my-first-slashdot-effect.html #<SYSTEM pgloader / pgloader-3.1.1 / quicklisp 2015-01-13> 
