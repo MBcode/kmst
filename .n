@@ -344,3 +344,8 @@ Kingsley Uyi Idehen @kidehen  ·  Nice piece of history by John F. Sowa: http://
 -http://plato.stanford.edu/entries/computational-mind/
 
 planetlisp pgloader http://tapoueh.org/blog/2015/01/22-my-first-slashdot-effect.html #<SYSTEM pgloader / pgloader-3.1.1 / quicklisp 2015-01-13> 
+
+David Wood ‏@prototypo Science Bots: A Model for the Future of Scientific Computation? http://buff.ly/1D9N9xd  #semweb
+jahendler ‏@jahendler  @prototypo what these need is an agent markup language!  (Oh, wait, time warped into the past - just ignore me)
+
+a lot from https://twitter.com/hashtag/ontologysummit?src=hash
