@@ -348,7 +348,7 @@ planetlisp pgloader http://tapoueh.org/blog/2015/01/22-my-first-slashdot-effect.
 David Wood ‏@prototypo Science Bots: A Model for the Future of Scientific Computation? http://buff.ly/1D9N9xd  #semweb
 jahendler ‏@jahendler  @prototypo what these need is an agent markup language!  (Oh, wait, time warped into the past - just ignore me)
 
-a lot from https://twitter.com/hashtag/ontologysummit?src=hash
+a lot from https://twitter.com/hashtag/ontologysummit?src=hash , https://twitter.com/ontologysummit 28,287 tweets archived
 
 http://www.meetup.com/USF-Seminar-Series-in-Analytics/events/216142252/
  iot+datasci+mbr reminds me or re ge talks using eureqa
