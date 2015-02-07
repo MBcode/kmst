@@ -356,3 +356,6 @@ http://www.meetup.com/USF-Seminar-Series-in-Analytics/events/216142252/
 Phys.org @physorg_com  ·  Feb 3 Artificially intelligent #robotscientist 'Eve' could boost search for new drugs http://phy.so/342205342  @Cambridge_Uni
 
 Oliver Hoffmann @wiemanindenwald  ·  Feb 3 After #OpenScience we should have #SemanticScience: Human- and machine-readable, so conclusions can be computed across publications :)
+Kingsley Uyi Idehen @kidehen  ·  4h 4 hours ago
+ 
+A #LinkedData #URI that identifies "Linking Scientific Metadata (presented at DC2010)" presentation on @slideshare: http://linkeddata.uriburner.com/about/id/entity/http/www.slideshare.net/jqin/dc2010-linking-sci-metadata …
