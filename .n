@@ -359,3 +359,5 @@ Oliver Hoffmann @wiemanindenwald  ·  Feb 3 After #OpenScience we should have #S
 Kingsley Uyi Idehen @kidehen  ·  4h 4 hours ago
  
 A #LinkedData #URI that identifies "Linking Scientific Metadata (presented at DC2010)" presentation on @slideshare: http://linkeddata.uriburner.com/about/id/entity/http/www.slideshare.net/jqin/dc2010-linking-sci-metadata …
+
+@semanticbot  ·  AI vs. Humans. TEDx by Jim Hendler, originator of semantic web and a researcher at , my PhD alma mater http://bit.ly/1A3peCm  
