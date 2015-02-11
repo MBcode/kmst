@@ -361,3 +361,5 @@ Kingsley Uyi Idehen @kidehen  ·  4h 4 hours ago
 A #LinkedData #URI that identifies "Linking Scientific Metadata (presented at DC2010)" presentation on @slideshare: http://linkeddata.uriburner.com/about/id/entity/http/www.slideshare.net/jqin/dc2010-linking-sci-metadata …
 
 @semanticbot  ·  AI vs. Humans. TEDx by Jim Hendler, originator of semantic web and a researcher at , my PhD alma mater http://bit.ly/1A3peCm  
+
+Hacker News @HNTweets  ·  Announcing AllegroGraph 5.0: http://franz.com/about/press_room/allegrograph_5.0_2-9-2015.lhtml … Comments: https://news.ycombinator.com/item?id=9028439 
