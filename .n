@@ -376,3 +376,5 @@ Some adds now too, but down 491^h^h10 now, after a pass through who I'm followin
 http://www.meetup.com/SF-Artificial-Intelligence-in-health/events/220358931/ get vid of mtg1 which is more AI focused; uneven kn, but still some good discussion pnts
 
 Start a simple mapping of restricted english to sparql queries on dbpedia/wikidata;  Start w/direct asks of an attribute on a particular subj; use context2disambiguate.
+
+https://web.archive.org/web/20140701100232/https://blog.standardanalytics.io/post/linked-data-for-science 
