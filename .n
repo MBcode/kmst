@@ -377,4 +377,7 @@ http://www.meetup.com/SF-Artificial-Intelligence-in-health/events/220358931/ get
 
 Start a simple mapping of restricted english to sparql queries on dbpedia/wikidata;  Start w/direct asks of an attribute on a particular subj; use context2disambiguate.
 
-https://web.archive.org/web/20140701100232/https://blog.standardanalytics.io/post/linked-data-for-science 
+https://web.archive.org/web/20140701100232/https://blog.standardanalytics.io/post/linked-data-for-science  &tweeted a few more blog links
+
+http://notional.no-ip.org/intro2KE.pdf should be added to my CV's &I should check any other paper/etc that should point to archive.org now
+ 
