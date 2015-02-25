@@ -380,4 +380,5 @@ Start a simple mapping of restricted english to sparql queries on dbpedia/wikida
 https://web.archive.org/web/20140701100232/https://blog.standardanalytics.io/post/linked-data-for-science  &tweeted a few more blog links
 
 http://notional.no-ip.org/intro2KE.pdf should be added to my CV's &I should check any other paper/etc that should point to archive.org now
+ intro2KnowledgeEngineering, w/some examples from my career in that area
  
