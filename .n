@@ -381,4 +381,6 @@ https://web.archive.org/web/20140701100232/https://blog.standardanalytics.io/pos
 
 http://notional.no-ip.org/intro2KE.pdf should be added to my CV's &I should check any other paper/etc that should point to archive.org now
  intro2KnowledgeEngineering, w/some examples from my career in that area
+
+Finally in town to catch semweb-iot call http://ontolog-02.cim3.net/wiki/ConferenceCall_2015_02_26 will catch more
  
