@@ -383,4 +383,8 @@ http://notional.no-ip.org/intro2KE.pdf should be added to my CV's &I should chec
  intro2KnowledgeEngineering, w/some examples from my career in that area
 
 Finally in town to catch semweb-iot call http://ontolog-02.cim3.net/wiki/ConferenceCall_2015_02_26 will catch more
+
+
+ Khalid Belhajjame @kbelhajj  ·  Feb 27
+A suite of ontologies for workflow research object reproducibility http://tinyurl.com/l4cdq73  @MozillaScience @openscience @eScienceCenter
  
