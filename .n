@@ -287,6 +287,8 @@ other than lisp nlp&stanford coreNLP there is: scala's Epic
  http://www.meetup.com/sfmachinelearning/events/202556852/ 
  http://www.scalanlp.org/ https://github.com/dlwh/epic/
 
+http://www.quora.com/search?q=cyc ; @danbri  ·  Mar 2 Cyc APIs - https://github.com/cycorp 
+
 considering: http://www.meetup.com/Open-Data-Bay-Area/events/209112862/
 
 context: http://www.meetup.com/Data-Mining/events/206195122/ like usf parking app just before but much more; openstreetmap etc  incl graphX
