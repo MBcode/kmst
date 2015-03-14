@@ -390,3 +390,4 @@ Finally in town to catch semweb-iot call http://ontolog-02.cim3.net/wiki/Confere
  Khalid Belhajjame @kbelhajj  ·  Feb 27
 A suite of ontologies for workflow research object reproducibility http://tinyurl.com/l4cdq73  @MozillaScience @openscience @eScienceCenter
  
+SemanticBot @semanticbot · Organizing Scientific Competitions on the Semantic Web http://zoot.li/543sc  ;re/a version of my nonprofit Ycomb idea 
