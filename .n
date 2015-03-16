@@ -391,3 +391,6 @@ Finally in town to catch semweb-iot call http://ontolog-02.cim3.net/wiki/Confere
 A suite of ontologies for workflow research object reproducibility http://tinyurl.com/l4cdq73  @MozillaScience @openscience @eScienceCenter
  
 SemanticBot @semanticbot · Organizing Scientific Competitions on the Semantic Web http://zoot.li/543sc  ;re/a version of my nonprofit Ycomb idea 
+
+"Sirius is an open end-to-end standalone speech and vision based IPA service similar to Siri, Google Now, Cortana.." http://sirius.clarity-lab.org/  
+Researchers just built a free, open-source version of Siri http://venturebeat.com/2015/03/14/researchers-just-built-a-free-open-source-version-of-siri/ … http://prsm.tc/Y5amAE  
