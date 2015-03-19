@@ -399,3 +399,8 @@ Researchers just built a free, open-source version of Siri http://venturebeat.co
 @SiemensWoT @fmichahelles http://ontolog-02.cim3.net/wiki/OntologySummit2015 … ;has a few good mtgs & many good docs
 -upcoming: @BorisAdryan  ·  Mar 12
 Oh look! My @OReillySolid webcast in May already has a landing page: http://www.oreilly.com/pub/e/3365 . Will be talking about #ontologies in the #IoT.
+
+Bruno Gonçalves (@bgoncalves) tweeted at 5:14am - 17 Mar 15: 
+[1503.04374] Science Bots: a Model for the Future of Scientific Computation? bit.ly/1MIgSRn (https://twitter.com/bgoncalves/status/577883911155531776?s=17) 
+
+ 
