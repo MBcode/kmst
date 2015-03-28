@@ -415,3 +415,5 @@ aside: sem file sys uri same-as ness update diffs many uses
 
 http://www.meetup.com/sfmachinelearning/events/220582792/ use Spark for image/timeseries 
 
+http://www.meetup.com/USF-Seminar-Series-in-Analytics/events/219616988/ A/B testing
+ 
