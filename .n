@@ -412,3 +412,6 @@ Ontology Summit @ontologysummit  ·  3h 3 hours ago
 Join #OntologySummit - Today - Discuss 2015 Summit Communique 12:30EDT 26-Mar Thurs http://bit.ly/1CLKqMY  
 
 aside: sem file sys uri same-as ness update diffs many uses 
+
+http://www.meetup.com/sfmachinelearning/events/220582792/ use Spark for image/timeseries 
+
