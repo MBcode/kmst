@@ -423,3 +423,6 @@ Applied for https://www.ycombinator.com/apply then https://www.shuttleworthfound
 https://wiki.ncsa.illinois.edu/display/NDS/National+Data+Service+Home https://github.com/nds-org http://isda.ncsa.illinois.edu/drupal/project/nist-core ... 
 
 DBWorld Updates @dbworld_ · Mar 30 http://ift.tt/1CqSSj0  Towards Exascale Scientific Metadata Management. (arXiv:1503.08482v1 [cs.DB]) #databases 
+
+Susan Athey ‏@Susan_Athey;now at: http://www.nasonline.org/programs/sackler-colloquia/completed_colloquia/Big-data.html
+@AnimalSpiritEd @dynarski My talk at National Academy of Science: Drawing Causal Inference from Big Data, here: http://www.nasonline.org/programs/sackler-colloquia/upcoming-colloquia/Big-data.html … 
