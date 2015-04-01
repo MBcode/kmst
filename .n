@@ -421,3 +421,5 @@ Applied for https://www.ycombinator.com/apply then https://www.shuttleworthfound
 
 @TACC hosted the National Data Service meeting, links data repositories for #bigscience https://www.tacc.utexas.edu/-/tacc-hosts-3rd-national-data-service-consortium-in-austin … http://www.nationaldataservice.org/  
 https://wiki.ncsa.illinois.edu/display/NDS/National+Data+Service+Home https://github.com/nds-org http://isda.ncsa.illinois.edu/drupal/project/nist-core ... 
+
+DBWorld Updates @dbworld_ · Mar 30 http://ift.tt/1CqSSj0  Towards Exascale Scientific Metadata Management. (arXiv:1503.08482v1 [cs.DB]) #databases 
