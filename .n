@@ -426,3 +426,5 @@ DBWorld Updates @dbworld_ · Mar 30 http://ift.tt/1CqSSj0  Towards Exascale Scie
 
 Susan Athey ‏@Susan_Athey;now at: http://www.nasonline.org/programs/sackler-colloquia/completed_colloquia/Big-data.html
 @AnimalSpiritEd @dynarski My talk at National Academy of Science: Drawing Causal Inference from Big Data, here: http://www.nasonline.org/programs/sackler-colloquia/upcoming-colloquia/Big-data.html … 
+
+@jahendler · Mar 27 updated version of my “Broad Data” talk, presented at #CODS2015 now available in slideshare - http://www.slideshare.net/jahendler/broad-dataindia-2015share … #bigdatamedia
