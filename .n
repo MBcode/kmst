@@ -428,3 +428,6 @@ Susan Athey ‏@Susan_Athey;now at: http://www.nasonline.org/programs/sackler-co
 @AnimalSpiritEd @dynarski My talk at National Academy of Science: Drawing Causal Inference from Big Data, here: http://www.nasonline.org/programs/sackler-colloquia/upcoming-colloquia/Big-data.html … 
 
 @jahendler · Mar 27 updated version of my “Broad Data” talk, presented at #CODS2015 now available in slideshare - http://www.slideshare.net/jahendler/broad-dataindia-2015share … #bigdatamedia
+
+Bob DuCharme @bobdc · Mar 29 ;a few more big/hadoop-ish etc rdf/graph stores, but this one a bit more interesting as it's on spark: ;need to add(a few)to: bit.ly/TP8gfz
+New blog entry: "Spark and SPARQL; RDF Graphs and GraphX" http://www.snee.com/bobdc.blog/2015/03/spark-and-sparql-rdf-graphs-an.html … #Spark #GraphX #RDF #SPARQL
