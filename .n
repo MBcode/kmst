@@ -419,6 +419,9 @@ http://www.meetup.com/USF-Seminar-Series-in-Analytics/events/219616988/ A/B test
  
 Applied for https://www.ycombinator.com/apply then https://www.shuttleworthfoundation.org/thank-you/ within 24hrs, w/same non-profit idea as last YC round, w/early mockup@ notional.no-ip.org
 
+want2check out: https://www.manylabs.org/ http://www.fiatphysica.com/research/citizen-science/ http://scistarter.com/  
+    (scicast. org/com scientistsolutions.com) citizenscience.org citizensciencecenter.com citizenscienceassociation.org
+
 @TACC hosted the National Data Service meeting, links data repositories for #bigscience https://www.tacc.utexas.edu/-/tacc-hosts-3rd-national-data-service-consortium-in-austin … http://www.nationaldataservice.org/  
 https://wiki.ncsa.illinois.edu/display/NDS/National+Data+Service+Home https://github.com/nds-org http://isda.ncsa.illinois.edu/drupal/project/nist-core ... 
 
