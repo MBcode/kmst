@@ -334,6 +334,8 @@ Conservation of Scientific Workflow Infrastructures by Using Semantics - 2012 by
 rachelbruce @rachelbruce  ·  Dec 15
 Interesting idea - Use semantic desktop to capture contextual research data - see: http://researchatrisk.ideascale.com/a/index  #RDSpring #jisc
 
+    https://news.ycombinator.com/item?id=9202286 want2find more of the more recent sem-desktop links
+
 The Story of Siri, by its founder Adam Cheyer https://wit.ai/blog/2014/12/18/adam-keynote …
  
 Jay Byte Off @tobyjaffey  ·  Dec 16
