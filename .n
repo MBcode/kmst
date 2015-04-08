@@ -398,6 +398,8 @@ also like my last yc idea: http://thinklab.com/blog/introducing-thinklab-a-platf
 "Sirius is an open end-to-end standalone speech and vision based IPA service similar to Siri, Google Now, Cortana.." http://sirius.clarity-lab.org/  
 Researchers just built a free, open-source version of Siri http://venturebeat.com/2015/03/14/researchers-just-built-a-free-open-source-version-of-siri/ … http://prsm.tc/Y5amAE  
 
+http://www.theplatform.net/2015/04/07/massive-distributed-ai-moves-out-of-the-box/ mention boinc like compute; which I have considered
+
 @SiemensWoT @fmichahelles http://ontolog-02.cim3.net/wiki/OntologySummit2015 … ;has a few good mtgs & many good docs
 -upcoming: @BorisAdryan  ·  Mar 12
 Oh look! My @OReillySolid webcast in May already has a landing page: http://www.oreilly.com/pub/e/3365 . Will be talking about #ontologies in the #IoT.
