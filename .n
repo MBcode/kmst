@@ -443,3 +443,4 @@ Olaf Hartig @olafhartig  ·  Apr 4 Nature publishes Linked Data consisting of 27
 Siri Jodha S. Khalsa @sjskhalsa  ·  Apr 8 #ClearEarth is an NSF DIBBS project building semantic resources for geology, cryology, biology http://1.usa.gov/1yWcOql  at #ECTechHands
 Gary Berg-Cross @garybcross Yolanda Gill Geosoft  project to help scientists share knowledge http://www.geosoft-earthcube.org/  #ectechhands #earthcube @resdatall @datacite @NSF
 @MBstream · semantics4sci  http://www.geosoft-earthcube.org  /ongoing-work  /demos https://www.youtube.com/watch?v=X8uhs28O3eA … ..from: http://earthcube.org/group/tech-hands-meeting … ;& http://vertnet.org  
+https://github.com/IKCAP/turbosoft.git initial install
