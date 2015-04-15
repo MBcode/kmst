@@ -448,3 +448,5 @@ https://github.com/IKCAP/turbosoft.git initial install
 María Poveda @MariaPovedaV "Ontology Engineering in the Era of Linked Data" in @asist_org with @ocorcho and @asungomezperez  @oeg_upm http://www.asis.org/Bulletin/Apr-15/AprMay15_Corcho_EtAl.html … 
 
 m bobak retweeted Ontology Summit @ontologysummit  ·  Apr 12 Join us for virtual #Ontology Summit on #IoT Challenges Apr 13-14 http://bit.ly/1aV5uGz   
+
+http://www.meetup.com/Delightful-Data-Products/events/221078062/ sythesizing human judgment+machine learning for better recommendations
