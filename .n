@@ -450,3 +450,5 @@ María Poveda @MariaPovedaV "Ontology Engineering in the Era of Linked Data" in 
 m bobak retweeted Ontology Summit @ontologysummit  ·  Apr 12 Join us for virtual #Ontology Summit on #IoT Challenges Apr 13-14 http://bit.ly/1aV5uGz   
 
 http://www.meetup.com/Delightful-Data-Products/events/221078062/ sythesizing human judgment+machine learning for better recommendations
+and
+http://www.meetup.com/Distributed-Work/events/221376369/ Is Science just a game?  @crowdflower, on Foldit&EteRNA etc
