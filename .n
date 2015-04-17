@@ -452,3 +452,10 @@ m bobak retweeted Ontology Summit @ontologysummit  ·  Apr 12 Join us for virtua
 http://www.meetup.com/Delightful-Data-Products/events/221078062/ sythesizing human judgment+machine learning for better recommendations
 and
 http://www.meetup.com/Distributed-Work/events/221376369/ Is Science just a game?  @crowdflower, on Foldit&EteRNA etc
+
+Harald Sack ‏@lysander07  Apr 14
+Slides from kickoff meeting of my current seminar Semantic Multimedia at #HPI https://docs.google.com/presentation/d/1LXa6uGiac0m6wsS9ZmUmLb1jr3OXTb1FrMqqNMknDLw/edit?usp=sharing … #semanticweb pic.twitter.com/PzfGSbdirI
+ m bobak ‏@MBstream  Apr 15
+@lysander07 hope we can follow along @ http://semmul2015.blogspot.com/  &still catch as much as I did from your other classes, openHPI offered online
+Harald Sack ‏@lysander07
+@MBstream Sure :) All course material will be published as well as the ongoing work/topics/discussions in our blog at http://semmul2015.blogspot.com/  
