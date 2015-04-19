@@ -459,3 +459,6 @@ Slides from kickoff meeting of my current seminar Semantic Multimedia at #HPI ht
 @lysander07 hope we can follow along @ http://semmul2015.blogspot.com/  &still catch as much as I did from your other classes, openHPI offered online
 Harald Sack ‏@lysander07
 @MBstream Sure :) All course material will be published as well as the ongoing work/topics/discussions in our blog at http://semmul2015.blogspot.com/  
+
+MEMEX: https://twitter.com/forbestech/status/589106044841893889
+Glen C @GlenCoppersmith · 4h4 hours ago DARPAs memex tools open source software now online: http://www.darpa.mil/opencatalog/MEMEX.html … Some great tech in there! 
