@@ -462,3 +462,5 @@ Harald Sack ‏@lysander07
 
 MEMEX: https://twitter.com/forbestech/status/589106044841893889
 Glen C @GlenCoppersmith · 4h4 hours ago DARPAs memex tools open source software now online: http://www.darpa.mil/opencatalog/MEMEX.html … Some great tech in there! 
+
+Jens Lehmann @JLehmann82 Due to many good submissions, we turned Know@LOD into a full day workshop! …http://knowalod2015.informatik.uni-mannheim.de/  #machinelearning #semanticweb 
