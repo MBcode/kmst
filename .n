@@ -466,3 +466,5 @@ Glen C @GlenCoppersmith · 4h4 hours ago DARPAs memex tools open source software
 Jens Lehmann @JLehmann82 Due to many good submissions, we turned Know@LOD into a full day workshop! …http://knowalod2015.informatik.uni-mannheim.de/  #machinelearning #semanticweb 
 
  m bobak retweeted Cristian Consonni @CristianCantoro  ·  Ask Platypus http://buff.ly/1bjZcAh  a Q&A engine for Wikidata 
+
+m bobak @MBstream · Apr 21 https://www.w3.org/wiki/Main_Page/Linked_Data_2015 … ... http://www.digital-science.com/blog/events/shaking-it-up-challenges-and-solutions-in-scholarly-information-management/ … 
