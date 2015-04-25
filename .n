@@ -469,3 +469,5 @@ Jens Lehmann @JLehmann82 Due to many good submissions, we turned Know@LOD into a
 
 m bobak @MBstream · Apr 21 https://www.w3.org/wiki/Main_Page/Linked_Data_2015 … ... http://www.digital-science.com/blog/events/shaking-it-up-challenges-and-solutions-in-scholarly-information-management/ … 
 Erik Wilde @dret  · guest speakers @smarzani (@DQuidTeam) and @vatsal1212 (@LAutomation) tomorrow in our @BerkeleyISchool #IoT course http://dret.net/lectures/iot-spring15/ …;pdf protected though
+ 
+http://www.meetup.com/SF-Artificial-Intelligence-in-health/events/221559787/ reminded me of one of our old cbr csr apps w/brightresponse(nlp)front-end;look@cto's other work
