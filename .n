@@ -471,3 +471,7 @@ m bobak @MBstream · Apr 21 https://www.w3.org/wiki/Main_Page/Linked_Data_2015 �
 Erik Wilde @dret  · guest speakers @smarzani (@DQuidTeam) and @vatsal1212 (@LAutomation) tomorrow in our @BerkeleyISchool #IoT course http://dret.net/lectures/iot-spring15/ …;pdf protected though
  
 http://www.meetup.com/SF-Artificial-Intelligence-in-health/events/221559787/ reminded me of one of our old cbr csr apps w/brightresponse(nlp)front-end;look@cto's other work
+
+http://www.meetup.com/USF-Seminar-Series-in-Analytics/events/219782563/ http://www.ai.sri.com/~braz/ Usf talk BN w/prolog like engine ;me OOBN w/prototypes 
+ ;Me nun-fnc cache that interpolates w/confidence; Also lid-fnc2it &ret anytime(lazy)series of better answ as needed; Could break dwn mbr eqn(net)4better interpolations
+ Pp generative story; Probmods.org/conditioning.html; Mcmc metropolis; Church webppl. Model not tied2pkg 
