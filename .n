@@ -475,3 +475,7 @@ http://www.meetup.com/SF-Artificial-Intelligence-in-health/events/221559787/ rem
 http://www.meetup.com/USF-Seminar-Series-in-Analytics/events/219782563/ http://www.ai.sri.com/~braz/ Usf talk BN w/prolog like engine ;me OOBN w/prototypes 
  ;Me nun-fnc cache that interpolates w/confidence; Also lid-fnc2it &ret anytime(lazy)series of better answ as needed; Could break dwn mbr eqn(net)4better interpolations
  Pp generative story; Probmods.org/conditioning.html; Mcmc metropolis; Church webppl. Model not tied2pkg 
+
+www.meetup.com/SF-Bayarea-Machine-Learning/events/221739934/ Globally Scalable Web Document Classification Using Word2Vec;Extracting information from unstructured web documents is a common problem... 
+ started w/: ND4J: A scientific computing framework for the JVM ;has scala could do clj, but probably already something similar in lisp; rest was ok, but might look@ http://dev.panlex.org/linking now
+ http://ld.panlex.org/rdf.html http://ld.panlex.org/downloads/releases/2013-02-14/2013-02-14-panlex-ontology.ttl linguistic-lod.org/llod-cloud www.semantic-web-journal.net/system/files/swj560.pdf 
