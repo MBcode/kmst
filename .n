@@ -481,3 +481,5 @@ www.meetup.com/SF-Bayarea-Machine-Learning/events/221739934/ Globally Scalable W
  http://ld.panlex.org/rdf.html http://ld.panlex.org/downloads/releases/2013-02-14/2013-02-14-panlex-ontology.ttl linguistic-lod.org/llod-cloud www.semantic-web-journal.net/system/files/swj560.pdf 
 
 after w3c(LD)wg, heard: [CL] Common Logic conference call - Tuesday 2015.04.28;then http://earthcube.org/event/c4p-webinar-geolink-earthcube-building-block-semantics-linked-data-geosciences
+
+http://forum.stanford.edu/events/2015aiworkshop.php 
