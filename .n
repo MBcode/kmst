@@ -488,3 +488,7 @@ after w3c(LD)wg, heard: [CL] Common Logic conference call - Tuesday 2015.04.28;t
 
 http://forum.stanford.edu/events/2015aiworkshop.php 
  
+https://amplab.cs.berkeley.edu/event/citris-seminar-lise-getoor-ucsc-big-graph-data-science-w-56-310-sutardja-dai-hall-noon/ Big Graph Data Science http://video.citris.berkeley.edu/playlists/webcast: 
+ saw her(Lise Getoor)@a conf last year/still interesting: http://citris-uc.org/event/reasoning-with-uncertainty/  psl.umiacs.umd.edu
+ 
+http://www.meetup.com/Data-Mining/events/222052588/ 
