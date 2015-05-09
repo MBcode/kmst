@@ -492,3 +492,5 @@ https://amplab.cs.berkeley.edu/event/citris-seminar-lise-getoor-ucsc-big-graph-d
  saw her(Lise Getoor)@a conf last year/still interesting: http://citris-uc.org/event/reasoning-with-uncertainty/  psl.umiacs.umd.edu
  
 http://www.meetup.com/Data-Mining/events/222052588/ 
+
+http://www.meetup.com/USF-Seminar-Series-in-Analytics/events/220100458/ Bootstrapped Learning of Affective Indicators in Social Media Text  E.Riloff 
