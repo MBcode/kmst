@@ -494,3 +494,6 @@ https://amplab.cs.berkeley.edu/event/citris-seminar-lise-getoor-ucsc-big-graph-d
 http://www.meetup.com/Data-Mining/events/222052588/ 
 
 http://www.meetup.com/USF-Seminar-Series-in-Analytics/events/220100458/ Bootstrapped Learning of Affective Indicators in Social Media Text  E.Riloff 
+
+several I should add
+François Belleau @FrancoisBelleau BD2K hackathon - Bio2RDF submission http://www.slideshare.net/fbelleau/bd2-k-hackathon-1-bio2rdf-submission-47949216 … via @SlideShare #hackBD2K #LinkedData 
