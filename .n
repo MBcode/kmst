@@ -499,3 +499,5 @@ several I should add
 François Belleau @FrancoisBelleau BD2K hackathon - Bio2RDF submission http://www.slideshare.net/fbelleau/bd2-k-hackathon-1-bio2rdf-submission-47949216 … via @SlideShare #hackBD2K #LinkedData 
 
 http://www.ischool.berkeley.edu/newsandevents/events/20150511-iot-showcase http://www.ischool.berkeley.edu/courses/i290-io 
+
+xach @xach  ·  http://news.gmane.org/gmane.lisp.common-lisp-net.devel … makes me very happy. All CVS projects on http://common-lisp.net  migrated to git! #lisp 
