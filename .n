@@ -464,6 +464,8 @@ Harald Sack ‏@lysander07
 MEMEX: https://twitter.com/forbestech/status/589106044841893889
 Glen C @GlenCoppersmith · 4h4 hours ago DARPAs memex tools open source software now online: http://www.darpa.mil/opencatalog/MEMEX.html … Some great tech in there! 
 
+DARPA @DARPA  ·  May 11 Happy to do our part... http://www.darpa.mil/OpenCatalog/  MT @whitehouseostp: 2 Yrs of Transformative Open Data for Public Good: http://wh.gov/iKTtk  
+
 Jens Lehmann @JLehmann82 Due to many good submissions, we turned Know@LOD into a full day workshop! …http://knowalod2015.informatik.uni-mannheim.de/  #machinelearning #semanticweb 
 
  m bobak retweeted Cristian Consonni @CristianCantoro  ·  Ask Platypus http://buff.ly/1bjZcAh  a Q&A engine for Wikidata 
@@ -514,3 +516,4 @@ Asunción Gómez-Pérez @asungomezperez  ·  May 13 @agalawrynowicz   #Poznan  S
 Dave McComb @semanticarts  ·  May 13 Just came across this great slideshare of gist in Controlled Natural Language.  Excellent.  https://sites.google.com/site/soemontreal/videos-and-presentations/smartcities?pli=1 …  #SmartCities 
 
 Thomas Steiner @tomayac  ·  ConceptNet, a common sense knowledge base (facts à la 🍌 are yellow): http://conceptnet5.media.mit.edu/ . From the #WWW2015 knowledge graph tutorial. 
+
