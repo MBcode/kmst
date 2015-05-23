@@ -518,3 +518,6 @@ Dave McComb @semanticarts  ·  May 13 Just came across this great slideshare of 
 Thomas Steiner @tomayac  ·  ConceptNet, a common sense knowledge base (facts à la 🍌 are yellow): http://conceptnet5.media.mit.edu/ . From the #WWW2015 knowledge graph tutorial. 
 
 https://twitter.com/tonyhammond/status/601405279444586497 New http://www.nature.com/ontologies/ . Grown core by 50%, two more domain models, MeSH links, better navigation. #linkeddata  
+
+Taha Kass-Hout @DrTaha_FDA · Here are the #BD2K funded centers http://datascience.nih.gov/bd2k/funded-programs/centers … #bigdatamed & https://pebourne.wordpress.com/ 
+The vision for data science at the NIH will undoubtedly change over time. What follows is the current vision as we prepare for the first meeting with Big Data to Knowledge (BD2K) awardees. 
