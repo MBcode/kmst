@@ -521,3 +521,6 @@ https://twitter.com/tonyhammond/status/601405279444586497 New http://www.nature.
 
 Taha Kass-Hout @DrTaha_FDA · Here are the #BD2K funded centers http://datascience.nih.gov/bd2k/funded-programs/centers … #bigdatamed & https://pebourne.wordpress.com/ 
 The vision for data science at the NIH will undoubtedly change over time. What follows is the current vision as we prepare for the first meeting with Big Data to Knowledge (BD2K) awardees. 
+
+https://twitter.com/hoque_michelle/status/601846755425128448
+@hoque_michelle: DeepDive helps create structured data from unstructured information (text documents) http://t.co/IYO5FGCYDs @StanfordMed  #bigdatamed
