@@ -525,3 +525,5 @@ The vision for data science at the NIH will undoubtedly change over time. What f
 https://twitter.com/hoque_michelle/status/601846755425128448
 @hoque_michelle: DeepDive helps create structured data from unstructured information (text documents) http://t.co/IYO5FGCYDs @StanfordMed  #bigdatamed
 Deepdive https://twitter.com/abresler/status/601468927437189120 https://twitter.com/hazyresearch/status/602578569768775681
+
+Bob DuCharme @bobdc · Interesting notes from U Bologna's @essepuntato on "Research Articles in Simplified HTML" format, which includes RDF https://lists.w3.org/Archives/Public/semantic-web/2015May/0126.html …
