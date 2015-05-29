@@ -488,6 +488,8 @@ https://www.w3.org/wiki/Main_Page/Linked_Data_2015 … ... http://www.digital-sc
 
 after w3c(LD)wg, heard: [CL] Common Logic conference call - Tuesday 2015.04.28;then http://earthcube.org/event/c4p-webinar-geolink-earthcube-building-block-semantics-linked-data-geosciences
 
+day before 2nd earthcube all hands mtg, I joined, incl these sub-groups: CogCi,GeoSemantics,GeoLink,EarthCollab,GEAR,EarthSysBridge,ODSIP
+
 http://forum.stanford.edu/events/2015aiworkshop.php 
  
 https://amplab.cs.berkeley.edu/event/citris-seminar-lise-getoor-ucsc-big-graph-data-science-w-56-310-sutardja-dai-hall-noon/ Big Graph Data Science http://video.citris.berkeley.edu/playlists/webcast: 
