@@ -529,3 +529,5 @@ https://twitter.com/hoque_michelle/status/601846755425128448
 Deepdive https://twitter.com/abresler/status/601468927437189120 https://twitter.com/hazyresearch/status/602578569768775681
 
 Bob DuCharme @bobdc · Interesting notes from U Bologna's @essepuntato on "Research Articles in Simplified HTML" format, which includes RDF https://lists.w3.org/Archives/Public/semantic-web/2015May/0126.html …
+
+"Spark Gets New Machine Learning Framework: KeystoneML" http://prsm.tc/7pc6mM https://twitter.com/hntweets/status/604796940140707840 
