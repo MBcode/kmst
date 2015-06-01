@@ -393,8 +393,9 @@ http://notional.no-ip.org/intro2KE.pdf should be added to my CV's &I should chec
 Finally in town to catch semweb-iot call http://ontolog-02.cim3.net/wiki/ConferenceCall_2015_02_26 will catch more
 
 
- Khalid Belhajjame @kbelhajj  ·  Feb 27
-A suite of ontologies for workflow research object reproducibility http://tinyurl.com/l4cdq73  @MozillaScience @openscience @eScienceCenter
+ Khalid Belhajjame @kbelhajj  ·  Feb 27 A suite of ontologies for workflow research object reproducibility http://tinyurl.com/l4cdq73  @MozillaScience @openscience @eScienceCenter
+
+Daniel Garijo ‏@dgarijov  My slides for the Open Research Data day: http://www.slideshare.net/dgarijo/open-research-data-day-is-pre …
  
 SemanticBot @semanticbot · Organizing Scientific Competitions on the Semantic Web http://zoot.li/543sc  ;re/a version of my nonprofit Ycomb idea 
 also like my last yc idea: http://thinklab.com/blog/introducing-thinklab-a-platform-for-massively-collaborative-open-science/38
