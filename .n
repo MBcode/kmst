@@ -535,3 +535,6 @@ Deepdive https://twitter.com/abresler/status/601468927437189120 https://twitter.
 Bob DuCharme @bobdc · Interesting notes from U Bologna's @essepuntato on "Research Articles in Simplified HTML" format, which includes RDF https://lists.w3.org/Archives/Public/semantic-web/2015May/0126.html …
 
 "Spark Gets New Machine Learning Framework: KeystoneML" http://prsm.tc/7pc6mM https://twitter.com/hntweets/status/604796940140707840 
+Wes McKinney @wesmckinn Slides from #ODSC, "DataFrames: The Extended Cut" http://www.slideshare.net/wesm/dataframes-the-extended-cut … #pydata #rstats 
+Databricks @databricks .@Databricks Launches MOOC: Data Science on @ApacheSpark http://dbricks.co/1Rw6rVj  
+AMPLab @amplab AMPBlab: Anthony: BerkeleyX Data Science on Apache Spark MOOC starts today http://goo.gl/gnqZAI  
