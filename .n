@@ -104,6 +104,8 @@ General shared standards are still a focus, but getting thigs working w/in their
  
 http://www.researchobject.org/5000-2/ get assoc vocabs together, in aid of some CS&E
 
+Daniel Garijo ‏@dgarijov  Jun 1 My slides for the Open Research Data day: http://www.slideshare.net/dgarijo/open-research-data-day-is-pre …
+
 https://github.com/willf/apex.git nasa human-factors w/pubsub...
     http://human-factors.arc.nasa.gov/publications/20051025121038_chi02.pdf 
     a hierarchical task decomposition expressed in a cognitive modeling tool 
