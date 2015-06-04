@@ -540,3 +540,5 @@ Bob DuCharme @bobdc · Interesting notes from U Bologna's @essepuntato on "Resea
 Wes McKinney @wesmckinn Slides from #ODSC, "DataFrames: The Extended Cut" http://www.slideshare.net/wesm/dataframes-the-extended-cut … #pydata #rstats 
 Databricks @databricks .@Databricks Launches MOOC: Data Science on @ApacheSpark http://dbricks.co/1Rw6rVj  
 AMPLab @amplab AMPBlab: Anthony: BerkeleyX Data Science on Apache Spark MOOC starts today http://goo.gl/gnqZAI  
+
+lots of conf update/likes in past week or so.  see my twitter likes for papers and posters.
