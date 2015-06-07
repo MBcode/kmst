@@ -545,3 +545,5 @@ lots of conf update/likes in past week or so.  see my twitter likes for papers a
 
 m bobak retweeted Ontology Summit ‏@ontologysummit  Jun 4
 K. Janowicz "Assist domain experts in becoming knowl engrs by developing reusable patterns" #ontologysummit #IoT  
+
+data-driven workflows done w/fwd-chainer(eg. lisa.sf.net)&any distrib pkg as needed; have ability to interop w/standards ;look@re semweb-sci links
