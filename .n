@@ -542,3 +542,6 @@ Databricks @databricks .@Databricks Launches MOOC: Data Science on @ApacheSpark 
 AMPLab @amplab AMPBlab: Anthony: BerkeleyX Data Science on Apache Spark MOOC starts today http://goo.gl/gnqZAI  
 
 lots of conf update/likes in past week or so.  see my twitter likes for papers and posters.
+
+m bobak retweeted Ontology Summit ‏@ontologysummit  Jun 4
+K. Janowicz "Assist domain experts in becoming knowl engrs by developing reusable patterns" #ontologysummit #IoT  
