@@ -547,3 +547,9 @@ m bobak retweeted Ontology Summit ‏@ontologysummit  Jun 4
 K. Janowicz "Assist domain experts in becoming knowl engrs by developing reusable patterns" #ontologysummit #IoT  
 
 data-driven workflows done w/fwd-chainer(eg. lisa.sf.net)&any distrib pkg as needed; have ability to interop w/standards ;look@re semweb-sci links
+
+m bobak retweeted Marty Loughlin <200f>@mloughlin  Jun 8 .@edmcouncil releases its first formal ontology standard #FIBO #semantic
+http://www.automatedtrader.net/news/at/153893/enterprise-data-management-council-releases-its-first-formal--ontology-standard
+…
+Semantics of Business Vocabulary and Business Rules (SBVR) file:///home/bobak/dwn/new/formal-15-05-07.pdf
+ 
