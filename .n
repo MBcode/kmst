@@ -564,3 +564,5 @@ http://www.citizensciencecenter.com/scientific-progress-goes-boinc/
 https://boinc.berkeley.edu/trac/wiki/AppIntro 
 http://palm.mindmodeling.org/wiki/index.php/BOINC_Lisp_Interfaces 
 http://palm.mindmodeling.org/wiki/index.php?title=ACT-R_BOINC_Process_(Client)&oldid=360 
+
+Russ Poldrack ‏@russpoldrack  Carl Sagan's Baloney Detection Kit http://www.brainpickings.org/2014/01/03/baloney-detection-kit-carl-sagan/ … via @ajshackman 
