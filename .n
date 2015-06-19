@@ -554,6 +554,9 @@ K. Janowicz "Assist domain experts in becoming knowl engrs by developing reusabl
 
 data-driven workflows done w/fwd-chainer(eg. lisa.sf.net)&any distrib pkg as needed; have ability to interop w/standards ;look@re semweb-sci links
 
+m bobak retweeted Adrian Paschke ‏@AdrianPaschke  7h7 hours ago
+#Semantic #BPM presentation at #OMGBerlin http://www.slideshare.net/swadpasc/semanticallyenabled-business-process-management … #BPMN #BPMNExecution #csw15 #semantic #lod #LinkedData #owl #rif #cep #bpel
+
 m bobak retweeted Marty Loughlin <200f>@mloughlin  Jun 8 .@edmcouncil releases its first formal ontology standard #FIBO #semantic
 http://www.automatedtrader.net/news/at/153893/enterprise-data-management-council-releases-its-first-formal--ontology-standard
 …
