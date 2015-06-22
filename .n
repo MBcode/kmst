@@ -573,3 +573,5 @@ http://palm.mindmodeling.org/wiki/index.php?title=ACT-R_BOINC_Process_(Client)&o
 Russ Poldrack ‏@russpoldrack  Carl Sagan's Baloney Detection Kit http://www.brainpickings.org/2014/01/03/baloney-detection-kit-carl-sagan/ … via @ajshackman 
 
 m bobak retweeted Bill Roberts @billroberts  Jun 19 report of the Eurostat RDF data cube workshop https://joinup.ec.europa.eu/node/143434  including several @OpenCubeProject presentations. (thx @p_w) 
+
+some more individual @smiysmiysmiy  Jun 12 #NLP query to #SPARQL query via #quepy on #dbpedia http://bit.ly/1TfYndh  #graphsearch #semanticweb #linkeddata via @machinalis 
