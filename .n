@@ -179,6 +179,8 @@ earlier used sub-domain info &did not have as much from: https://schema.org/Prod
 
 http://blog.swirrl.com/articles/linked-data-etl/ can stream vs openrefine in ram
 
+Karima Rafes @karima_rafes jun21 Enabling Accessible Knowledge http://csarven.ca/enabling-accessible-knowledge … #OpenScience
+
 https://twitter.com/philarcher1/status/481345638349938688 incl these data-descriptors
 The most important @w3c vocabulary since SKOS, Data Cube, has its own conference in September http://semstats2014.wordpress.com/  #semstats2014 @csarven
 https://twitter.com/OpenCubeProject  http://opencube-project.eu/ work-packages
