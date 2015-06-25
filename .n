@@ -577,3 +577,5 @@ Russ Poldrack ‏@russpoldrack  Carl Sagan's Baloney Detection Kit http://www.br
 m bobak retweeted Bill Roberts @billroberts  Jun 19 report of the Eurostat RDF data cube workshop https://joinup.ec.europa.eu/node/143434  including several @OpenCubeProject presentations. (thx @p_w) 
 
 some more individual @smiysmiysmiy  Jun 12 #NLP query to #SPARQL query via #quepy on #dbpedia http://bit.ly/1TfYndh  #graphsearch #semanticweb #linkeddata via @machinalis 
+
+m bobak retweeted ENVRIplus @ENVRIplus  Attending @escience conference? Join the WS on Interoperable infrastructures for interdisciplinary #bigdata... http://fb.me/3J6lnZqT5  
