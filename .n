@@ -587,3 +587,5 @@ m bobak retweeted Bill Roberts @billroberts  Jun 19 report of the Eurostat RDF d
 some more individual @smiysmiysmiy  Jun 12 #NLP query to #SPARQL query via #quepy on #dbpedia http://bit.ly/1TfYndh  #graphsearch #semanticweb #linkeddata via @machinalis 
 
 m bobak retweeted ENVRIplus @ENVRIplus  Attending @escience conference? Join the WS on Interoperable infrastructures for interdisciplinary #bigdata... http://fb.me/3J6lnZqT5  
+
+Kirk Borne @KirkDBorne  Jul 5 Maryland, USA Turing Award Winner Mike Stonebraker discusses the @SciDB array database: http://www.odbms.org/blog/2014/04/interview-mike-stonebraker-paul-brown/ … #BigData #DataScience @odbmsorg @Paradigm4 
