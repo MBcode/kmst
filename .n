@@ -589,3 +589,5 @@ some more individual @smiysmiysmiy  Jun 12 #NLP query to #SPARQL query via #quep
 m bobak retweeted ENVRIplus @ENVRIplus  Attending @escience conference? Join the WS on Interoperable infrastructures for interdisciplinary #bigdata... http://fb.me/3J6lnZqT5  
 
 Kirk Borne @KirkDBorne  Jul 5 Maryland, USA Turing Award Winner Mike Stonebraker discusses the @SciDB array database: http://www.odbms.org/blog/2014/04/interview-mike-stonebraker-paul-brown/ … #BigData #DataScience @odbmsorg @Paradigm4 
+
+Khalid Belhajjame @kbelhajj linking prospective and retrospective provenance of scripts http://tinyurl.com/o8447nr  #tapp2015 #provenance #yesworkflow #noworkflow 
