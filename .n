@@ -593,3 +593,5 @@ Kirk Borne @KirkDBorne  Jul 5 Maryland, USA Turing Award Winner Mike Stonebraker
 Khalid Belhajjame @kbelhajj linking prospective and retrospective provenance of scripts http://tinyurl.com/o8447nr  #tapp2015 #provenance #yesworkflow #noworkflow 
 
 m bobak @MBstream  Jul 7 San Francisco, CA AxelPolleres:slides of #data #workflow tutorial @ http://sssw.org/2015/programme/data-workflow-tutorial/ … … #SSSW2015 Tutorial on "Data workflows" at http://polleres.net/presentations/  
+
+want dataframe2datacube, like: http://www.slideshare.net/stephanhoyer/xray-nd-labeled-arrays-and-datasets-in-python  but w/datacube semantics
