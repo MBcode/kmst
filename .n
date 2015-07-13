@@ -599,3 +599,5 @@ Michael providing an overview of the Common Workflow Language, which is a great 
 https://github.com/common-workflow-language/common-workflow-language http://www.wf4ever-project.org/
 
 want dataframe2datacube, like: http://www.slideshare.net/stephanhoyer/xray-nd-labeled-arrays-and-datasets-in-python  but w/datacube semantics
+
+Silvia Giannini @silviaggia_  Jul 11 Materializing the Web of Linked Data https://lnkd.in/dsW3fky  
