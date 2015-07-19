@@ -611,3 +611,5 @@ Franz Inc. @Franzinc  Gruff v5.9 Now Available.  New layouts for data exploratio
 nlp/etc: found lisp bridge from ROS(robot env)to UIMA nlp env; worth a try:
  https://github.com/cram-code/cram_bridge/blob/master/cram_uima/src/uima.lisp
  also lisp to GATE nlp: informatics.mayo.edu/sharp/images/1/1c/LATE.ppt
+
+sem-NER: Ricardo Usbeck ‏@Ricardo_Usbeck  My short introduction to #GERBIL at #semdev2015 at #eswc2015 http://videolectures.net/eswc2015_usbeck_annotation_benchmarks/ … /w @NgongaAxel @MichaDerStudent @akswgroup
