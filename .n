@@ -613,3 +613,5 @@ nlp/etc: found lisp bridge from ROS(robot env)to UIMA nlp env; worth a try:
  also lisp to GATE nlp: informatics.mayo.edu/sharp/images/1/1c/LATE.ppt
 
 sem-NER: Ricardo Usbeck ‏@Ricardo_Usbeck  My short introduction to #GERBIL at #semdev2015 at #eswc2015 http://videolectures.net/eswc2015_usbeck_annotation_benchmarks/ … /w @NgongaAxel @MichaDerStudent @akswgroup
+
+@eXascaleInfolab #sssw2015 slides of the sense making tutorial are here: http://bit.ly/1RnBg1P  ! @NgongaAxel @sssw2015
