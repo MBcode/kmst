@@ -614,6 +614,7 @@ nlp/etc: found lisp bridge from ROS(robot env)to UIMA nlp env; worth a try:
 
 Bahar Sateli retweeted SemanticSoftwareLab Check out our new GATE plugin, the LODtagger! 
  SemanticSoftwareLab @SemSoft First release of LODtagger, an #NLProc component for running #DBpediaSpotlight within GATE: http://www.semanticsoftware.info/lodtagger  @GateAcUk #SemanticWeb
+several other/re https://gate.ac.uk/projects.html to look at as well.
 
 sem-NER: Ricardo Usbeck ‏@Ricardo_Usbeck  My short introduction to #GERBIL at #semdev2015 at #eswc2015 http://videolectures.net/eswc2015_usbeck_annotation_benchmarks/ … /w @NgongaAxel @MichaDerStudent @akswgroup
 
