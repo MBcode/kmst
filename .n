@@ -259,6 +259,9 @@ would even work on: http://www.ncsa.illinois.edu/about/jobs/A1400040 if I could 
  but cl-autowrap & abcl/etc are still options too;I've also wrapped end-clients w/CLIPS/Jess
 http://www.isi.edu/isd/LOOM/ came 1st/but still using KM more
 
+When doing a lisp/Common-Logic review saw/downloaded latest powerloom4, &ran: powerloom --gui 
+ this still has much of the more original direction that Protege has lost after v3
+
 have a bit on planning in kmp, want more than stips, PDDL; NDDL, ANML
     http://en.wikipedia.org/wiki/Planning_Domain_Definition_Language 
     https://code.google.com/p/europa-pso/wiki/NDDLReference 
