@@ -628,3 +628,5 @@ sem-NER: Ricardo Usbeck ‏@Ricardo_Usbeck  My short introduction to #GERBIL at 
 Paul Groth @pgroth SciGraph - Represent ontologies and ontology-encoded knowledge in a Neo4j graph #dsos - looks pretty cool https://github.com/SciGraph/SciGraph/blob/master/README.md … ;+ cl-neo4j
 
 Might play w/some email w/KM: http://notional.no-ip.org/em.km 
+
+might find excuse to try ;https://github.com/fons/cl-mongo ;https://common-lisp.net/project/cl-graph/user-guide.html together
