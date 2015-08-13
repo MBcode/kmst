@@ -643,3 +643,5 @@ m bobak ‏@MBstream  6h6 hours ago San Francisco, CA View translation
 recent re-use of: old slides:' http://mike.bobak.googlepages.com/intro2KE.pdf &I could also draw from: http://bit.ly/TP8gfz '
 
 Kno.e.sis@WrightStU @knoesis We are doing a broad variety of (usually semantics-enhanced) work involving sensors/IoT (often for personalized... http://fb.me/3pcfyrIaW  
+
+Payam Barnaghi @PBarnaghi  The Internet of Things and Data Analytics https://lnkd.in/e6E4h6S ,tools:KAT,sense2web,.SSNv.. ,ont: IoTLite,SAO,.. ; http://www.surrey.ac.uk/ics/
