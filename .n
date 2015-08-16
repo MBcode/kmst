@@ -595,6 +595,8 @@ Kirk Borne @KirkDBorne  Jul 5 Maryland, USA Turing Award Winner Mike Stonebraker
 
 Khalid Belhajjame @kbelhajj linking prospective and retrospective provenance of scripts http://tinyurl.com/o8447nr  #tapp2015 #provenance #yesworkflow #noworkflow 
 
+Paul Groth @pgroth  #Provenance for #DataMunging Environments #datacleaning #dataintegration  http://www.slideshare.net/pgroth/provenance-for-data-munging-environments … @ISI_AI
+
 m bobak @MBstream  Jul 7 San Francisco, CA AxelPolleres:slides of #data #workflow tutorial @ http://sssw.org/2015/programme/data-workflow-tutorial/ … … #SSSW2015 Tutorial on "Data workflows" at http://polleres.net/presentations/  
 
 PORTABLE WORKFLOW AND TOOL DESCRIPTIONS WITH THE CWL Michael R. Crusoe  https://smallchangebio.wordpress.com/2015/07/11/bosc2015day1b/
