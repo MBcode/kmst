@@ -651,3 +651,4 @@ Kno.e.sis@WrightStU @knoesis We are doing a broad variety of (usually semantics-
 Payam Barnaghi @PBarnaghi  The Internet of Things and Data Analytics https://lnkd.in/e6E4h6S ,tools:KAT,sense2web,.SSNv.. ,ont: IoTLite,SAO,.. ; http://www.surrey.ac.uk/ics/
 
 Semantic Tech & Biz @SemanticWeb  Aug 6 Win a free pass to #SmartDataWeek. RT by 08/07 for a chance to win! #ai #semanticweb http://ow.ly/QzXc2  ;going 18-20th 
+ many good things 1st day,... look into: http://tw.rpi.edu/web/project/SemNExT
