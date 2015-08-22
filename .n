@@ -653,5 +653,5 @@ Payam Barnaghi @PBarnaghi  The Internet of Things and Data Analytics https://lnk
 Semantic Tech & Biz @SemanticWeb  Aug 6 Win a free pass to #SmartDataWeek. RT by 08/07 for a chance to win! #ai #semanticweb http://ow.ly/QzXc2  ;going 18-20th 
  many good things 1st day,... look into: http://tw.rpi.edu/web/project/SemNExT ;; https://code.google.com/p/semanticscience/ -> https://github.com/micheldumontier/semanticscience 
  http://smartdata2015.dataversity.net/sessionPop.cfm?confid=91&proposalid=7710  The PNNL Streaming HYpothesis REasoning (SHYRE) use case ;suggested: c-sparql & instans:
-  http://www.cs.hut.fi/~mjrinne/sw/instans/INSTANS-Simulations-March2012.pdf https://github.com/aaltodsg/instans.git
+  www.cs.hut.fi/~mjrinne/sw/instans/INSTANS-Simulations-March2012.pdf https://github.com/aaltodsg/instans http://cse.aalto.fi/en/research/groups/distributed_systems/software/instans ceur-ws.org/Vol-914/paper_22.pdf
   last day http://smartdata2015.dataversity.net/agenda.cfm?confid=91&scheduleDay=08/20/15 AM2: Natural Logic(jfsowa.com/talks/ natlog.pdf), PM2: Cognitive NLP(Adam Pease, IPsoft, ex:teknowlede/SUMO)
