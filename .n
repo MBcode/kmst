@@ -627,6 +627,8 @@ Bahar Sateli retweeted SemanticSoftwareLab Check out our new GATE plugin, the LO
  SemanticSoftwareLab @SemSoft First release of LODtagger, an #NLProc component for running #DBpediaSpotlight within GATE: http://www.semanticsoftware.info/lodtagger  @GateAcUk #SemanticWeb
 several other/re https://gate.ac.uk/projects.html to look at as well.
 
+Will still try LODtagger some more, but https://github.com/mit-nlp/MITIE compiled&ran quickly&as also worth a try.
+
 @TextMining_r  Digital Research Tools (DiRT): web scraping, music OCR, statistical analysis packages, mindmapping software & more: [ http://dirtdirectory.org/categories/text-mining ] https://www.reddit.com/r/textdatamining/comments/3f3ogh/digital_research_tools_dirt_web_scraping_music/ …
 
 sem-NER: Ricardo Usbeck ‏@Ricardo_Usbeck  My short introduction to #GERBIL at #semdev2015 at #eswc2015 http://videolectures.net/eswc2015_usbeck_annotation_benchmarks/ … /w @NgongaAxel @MichaDerStudent @akswgroup
