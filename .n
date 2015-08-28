@@ -662,3 +662,5 @@ Semantic Tech & Biz @SemanticWeb  Aug 6 Win a free pass to #SmartDataWeek. RT by
   last day http://smartdata2015.dataversity.net/agenda.cfm?confid=91&scheduleDay=08/20/15 AM2: Natural Logic(jfsowa.com/talks/ natlog.pdf), PM2: Cognitive NLP(Adam Pease, IPsoft, ex:teknowlede/SUMO)
    http://www.adampease.org/OP/ https://en.wikipedia.org/wiki/Adam_Pease http://www.aclweb.org/anthology/W14-4718 ceur-ws.org/Vol-71/Pease.pdf page.mi.fu-berlin.de/cbenzmueller/papers/2010-ECAI-ARCOE-16-8.pdf 
  both touch on controlled natural-language (interop), re:km/etc I've looked at ACE before: http://attempto.ifi.uzh.ch/site/resources/ http://www.cs.rpi.edu/~tayloj/CL-ACE/ will have to look again
+
+ http://www.slideshare.net/rjw/schemaorg-extending-benefits from http://smartdata2015.dataversity.net/sessionPop.cfm?confid=91&proposalid=7656
