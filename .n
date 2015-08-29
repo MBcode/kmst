@@ -664,3 +664,6 @@ Semantic Tech & Biz @SemanticWeb  Aug 6 Win a free pass to #SmartDataWeek. RT by
  both touch on controlled natural-language (interop), re:km/etc I've looked at ACE before: http://attempto.ifi.uzh.ch/site/resources/ http://www.cs.rpi.edu/~tayloj/CL-ACE/ will have to look again
 
  http://www.slideshare.net/rjw/schemaorg-extending-benefits from http://smartdata2015.dataversity.net/sessionPop.cfm?confid=91&proposalid=7656
+
+Chris Mungall @chrismungall  How we leverage YAML and GitHub technology in the new #OBOFoundry registry http://wp.me/p25njf-1n
+ 
