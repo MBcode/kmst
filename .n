@@ -111,6 +111,8 @@ General shared standards are still a focus, but getting thigs working w/in their
  things like common-logic as well, as some cNL &much more. Want to knock out a lil in the area soon.
 
 Kemele M. Endris @KemeleM  Jun20 "Interest-based RDF Update Propagation" has been accepted at #iswc2015 #EISBonn http://eis.iai.uni-bonn.de/Projects/iRap.html …
+
+@DaSeLab Keynote by @pascalhitzler confirmed at the Diversity++ workshop at @ISWC2015 http://dase.cs.wright.edu/activities/diversity2015 … @freddylecue @cldamat @mraghava
  
 http://www.researchobject.org/5000-2/ get assoc vocabs together, in aid of some CS&E
 
