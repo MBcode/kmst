@@ -187,6 +187,8 @@ look into a lisp openrefine client, similar to: https://pypi.python.org/pypi/ref
 also at beautiful-soup equivalents/or connectors/etc.
 earlier used sub-domain info &did not have as much from: https://schema.org/Product build off now
 
+bobak retweeted David Portnoy @dportnoy “ScheMed” @W3C #healthcare data standard for #Schema.org w/ SNOMED, ICD, LOINC, ATC, RxNorm https://www.w3.org/community/schemed/ … 
+
 http://blog.swirrl.com/articles/linked-data-etl/ can stream vs openrefine in ram
 
 Karima Rafes @karima_rafes jun21 Enabling Accessible Knowledge http://csarven.ca/enabling-accessible-knowledge … #OpenScience
