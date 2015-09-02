@@ -197,6 +197,9 @@ https://twitter.com/philarcher1/status/481345638349938688 incl these data-descri
 The most important @w3c vocabulary since SKOS, Data Cube, has its own conference in September http://semstats2014.wordpress.com/  #semstats2014 @csarven
 https://twitter.com/OpenCubeProject  http://opencube-project.eu/ work-packages
 
+https://twitter.com/kalampokis/status/639020080358146048 opencube slides
+@kalampokis: Our slides for the @OpenCubeProject workshop. Next at the #eGov2015 & #ePart2015 conf http://t.co/02Cunhyzfj #LinkedData #OpenData #BigData
+
 http://yieldbot.github.io/flambo/ have wanted lisp on spark's rdd's (in ceph or similar)now w/clj
  https://amplab.cs.berkeley.edu/publication/graphx-graph-processing-in-a-distributed-dataflow-framework/
 Making sense of LSD: http://csarven.ca/sense-of-lsd-analysis … #LinkedData #SemStats #LinkedResearch 
