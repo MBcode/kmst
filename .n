@@ -110,6 +110,8 @@ General shared standards are still a focus, but getting thigs working w/in their
  best most flexible tech(where one can still explore),is still a focus.  Still have interest in
  things like common-logic as well, as some cNL &much more. Want to knock out a lil in the area soon.
 
+Christopher @communicating  [Interesting] DURA: A Declarative Event Query Language for Reactive [Complex] Event Processing [large pdf] http://www.en.pms.ifi.lmu.de/publications/dissertationen/Steffen.Hausmann/DISS_Steffen.Hausmann.pdf …
+
 Kemele M. Endris @KemeleM  Jun20 "Interest-based RDF Update Propagation" has been accepted at #iswc2015 #EISBonn http://eis.iai.uni-bonn.de/Projects/iRap.html …
 
 @DaSeLab Keynote by @pascalhitzler confirmed at the Diversity++ workshop at @ISWC2015 http://dase.cs.wright.edu/activities/diversity2015 … @freddylecue @cldamat @mraghava
