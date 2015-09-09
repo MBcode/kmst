@@ -685,3 +685,6 @@ https://twitter.com/hashtag/wikisci?src=hash
  Peter Murray-Rust @petermurrayrust  Sep 3 My slides for Wikipedia Science #wikisci http://www.slideshare.net/petermurrayrust/wikipedia2015 … @The ContentMine 
  F1000Research @F1000Research  Sep 4 We were at the Wikipedia Science Conference this week, to find out where Wikipedia and science overlap. #wikisci http://ow.ly/RMOfp  
  Duncan Hull @dullhunk  Sep 4 Improving the troubled relationship between Scientists & Wikipedia: #wikisci slides http://www.slideshare.net/dullhunk/improving-the-troubled-relationship-between-scientists-and-wikipedia … cc. @andeggs @royalsociety @u003f 
+
+@HNTweets  IPFS – A new P2P hypermedia protocal: https://ipfs.io/  Comments: https://news.ycombinator.com/item?id=10189391 … 
+ HTTP is obsolete. It's time for the distributed, permanent web: https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html … Comments: https://news.ycombinator.com/item?id=10187555 … 
