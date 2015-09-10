@@ -236,8 +236,7 @@ MBR model-based chem
 In search of a "robo-chemist" that can synthesize any organic compound: http://bit.ly/1pXEQMV  via @NatureNews pic.twitter.com/nuEoeGDoZL
 Organic synthesis: The robo-chemist : Nature News & Comment , see more http://bit.ly/1oeyq0g  
 
-researchobject.org ‏@researchobject  
-Carole's keynote at #vivo2014 on #researchobject #reproducibility http://www.slideshare.net/carolegoble/goble-keynote-vivoscits2014 … 
+researchobject.org @researchobject  Carole's keynote at #vivo2014 on #researchobject #reproducibility http://www.slideshare.net/carolegoble/goble-keynote-vivoscits2014 … 
 
 http://franz.com/success/customer_apps/bioinformatics/mdl_story.lhtml
 http://jeffshrager.org/vita/pubs/2001designforscience.pdf
@@ -420,6 +419,8 @@ Finally in town to catch semweb-iot call http://ontolog-02.cim3.net/wiki/Confere
 
 
  Khalid Belhajjame @kbelhajj  ·  Feb 27 A suite of ontologies for workflow research object reproducibility http://tinyurl.com/l4cdq73  @MozillaScience @openscience @eScienceCenter
+
+Khalid Belhajjame @kbelhajj  My work on mining #workflows for fragment reuse that I presented in IKC is available online http://tinyurl.com/ng5gbkm  #ic1302 @researchobject
 
 Daniel Garijo ‏@dgarijov  My slides for the Open Research Data day: http://www.slideshare.net/dgarijo/open-research-data-day-is-pre …
  
