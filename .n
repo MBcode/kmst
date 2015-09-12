@@ -689,3 +689,10 @@ https://twitter.com/hashtag/wikisci?src=hash
 
 @HNTweets  IPFS – A new P2P hypermedia protocal: https://ipfs.io/  Comments: https://news.ycombinator.com/item?id=10189391 … 
  HTTP is obsolete. It's time for the distributed, permanent web: https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html … Comments: https://news.ycombinator.com/item?id=10187555 … 
+
+RT @semwebcompany: SPARQL is the new King of all Data Scientist’s tools linkedin.com/pulse/sparql-n… #sparql #linkeddata #datascience
+5:41 AM - 10 Sep 2015
+SPARQL is the new King of all Data Scientist’s tools
+Inspired by the development of semantic technologies in recent years, in statistical analysis field the traditional methodology of designing, publishing and consuming statistical datasets is evolving...
+  LinkedIn @LinkedIn
+
