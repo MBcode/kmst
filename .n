@@ -614,6 +614,8 @@ Khalid Belhajjame @kbelhajj linking prospective and retrospective provenance of 
 
 Paul Groth @pgroth  #Provenance for #DataMunging Environments #datacleaning #dataintegration  http://www.slideshare.net/pgroth/provenance-for-data-munging-environments … @ISI_AI
 
+https://thinklinks.wordpress.com/2015/09/06/socal-observations/ isi 10 things
+
 m bobak @MBstream  Jul 7 San Francisco, CA AxelPolleres:slides of #data #workflow tutorial @ http://sssw.org/2015/programme/data-workflow-tutorial/ … … #SSSW2015 Tutorial on "Data workflows" at http://polleres.net/presentations/  
 
 PORTABLE WORKFLOW AND TOOL DESCRIPTIONS WITH THE CWL Michael R. Crusoe  https://smallchangebio.wordpress.com/2015/07/11/bosc2015day1b/
