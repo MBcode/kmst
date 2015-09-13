@@ -698,3 +698,5 @@ SPARQL is the new King of all Data Scientist’s tools
 Inspired by the development of semantic technologies in recent years, in statistical analysis field the traditional methodology of designing, publishing and consuming statistical datasets is evolving...
   LinkedIn @LinkedIn
 
+@mdaquin: Presentation at the #ld4kd2015 workshop, and introduction to Linked Data for Knowledge Discovery http://t.co/zO9gaffiWM
+https://twitter.com/mdaquin/status/643156433748512769
