@@ -700,3 +700,5 @@ Inspired by the development of semantic technologies in recent years, in statist
 
 @mdaquin: Presentation at the #ld4kd2015 workshop, and introduction to Linked Data for Knowledge Discovery http://t.co/zO9gaffiWM
 https://twitter.com/mdaquin/status/643156433748512769
+
+@LinDa_FP7: LinDA Linked Data Tools official documentation has been updated! See: http://t.co/CWaYgcXFzB #linkeddata #lod #SMEs @LinDa_FP7
