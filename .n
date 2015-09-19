@@ -710,3 +710,5 @@ https://twitter.com/mdaquin/status/643156433748512769
 @SemanticsConf: #semanticsconf video flicks ... the first day in running pictures ... http://t.co/gIYRHUTHyo
 
 @combine_coord: SED-ML L1 V3 draft 1, with data descriptions in NuML that can be used in simulation experiments http://t.co/Hk3KmzS0SP
+
+#UKSGwebinar 22/9: Intro to Text-Mining Research Papers http://www.uksg.org/webinars/textmining + some cool tools from @EEXCESS http://eexcess.eu
