@@ -712,3 +712,5 @@ https://twitter.com/mdaquin/status/643156433748512769
 @combine_coord: SED-ML L1 V3 draft 1, with data descriptions in NuML that can be used in simulation experiments http://t.co/Hk3KmzS0SP
 
 #UKSGwebinar 22/9: Intro to Text-Mining Research Papers http://www.uksg.org/webinars/textmining + some cool tools from @EEXCESS http://eexcess.eu
+
+Olivier Curé @oliviercure  Update of the RDF triple stores timeline #database #rdf #graph https://twitter.com/oliviercure/status/645643267246268416/photo/1
