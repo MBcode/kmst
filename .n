@@ -204,6 +204,10 @@ https://twitter.com/OpenCubeProject  http://opencube-project.eu/ work-packages
 https://twitter.com/kalampokis/status/639020080358146048 opencube slides
 @kalampokis: Our slides for the @OpenCubeProject workshop. Next at the #eGov2015 & #ePart2015 conf http://t.co/02Cunhyzfj #LinkedData #OpenData #BigData
 
+OpenCube Project @OpenCubeProject  
+ Webinar recording on the OpenCube Toolkit at https://vimeo.com/139921190  #linkedstatistics #lod #analytics #opendata
+ Slide deck on the OpenCube Toolkit as used during webinar of September 15th available at http://www.slideshare.net/OpenCubeProject/the-opencube-toolkit-webinar … #linkedstatistics #analytics
+
 http://yieldbot.github.io/flambo/ have wanted lisp on spark's rdd's (in ceph or similar)now w/clj
  https://amplab.cs.berkeley.edu/publication/graphx-graph-processing-in-a-distributed-dataflow-framework/
 Making sense of LSD: http://csarven.ca/sense-of-lsd-analysis … #LinkedData #SemStats #LinkedResearch 
