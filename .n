@@ -721,3 +721,6 @@ Olivier Curé @oliviercure  Update of the RDF triple stores timeline #database #
 
 @dogvile RT @odbmsorg Doubt & Verify: #DataScience Power Tools
     http://www.odbms.org/2015/09/doubt-and-verify-data-science-power-tools/ … http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_complete_lr.pdf … #4th_paradigm  
+
+UW CSE News @csenews  Sep 21 New post: AI breakthrough by Allen Institute and UW: GeoS system matches student performance on 11th grade SAT https://news.cs.washington.edu/2015/09/21/ai-breakthrough-by-allen-institute-and-uw-geos-system-matches-student-performance-on-11th-grade-sat-geometry-problems/ … 
+New post: "Artificial Intelligence Software Can Take (and Do Pretty Well on) the SATs" http://ift.tt/1LsPudE http://www.nytimes.com/2015/09/21/technology/personaltech/software-is-smart-enough-for-sat-but-still-far-from-intelligent.html
