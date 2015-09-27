@@ -727,3 +727,5 @@ New post: "Artificial Intelligence Software Can Take (and Do Pretty Well on) the
 
 @victoriastodden  Open data and code at NASA (and APIs) https://news.ycombinator.com/item?id=10263479 … ; https://open.nasa.gov/ 
 Paul Groth @pgroth  http://Open.nasa.gov  https://open.nasa.gov/  
+
+@dfko_0 www.meetup.com/Bay-Area-entrepreneur-in-statistics/events/224830306/ arxiv.org/abs/1505.00002 github.com/difranco www.meetup.com/Counter-Culture-Labs/members/10824033 li:anthony0difranco
