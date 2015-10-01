@@ -731,3 +731,5 @@ Paul Groth @pgroth  http://Open.nasa.gov  https://open.nasa.gov/
 @dfko_0 www.meetup.com/Bay-Area-entrepreneur-in-statistics/events/224830306/ https://dl.dropboxusercontent.com/u/514163/files/From_statistics_to_deep_learning_Anothony_Di_Franco.pdf arxiv.org/abs/1505.00002 
     github.com/difranco www.meetup.com/Counter-Culture-Labs/members/10824033 li:anthony0difranco
     From statistics to deep learning and beyondFrom statistics to deep learning and beyond https://m.youtube.com/watch?v=uQ-dZ5qlQWo&feature=youtu.be https://m.youtube.com/watch?v=ZKlOrkfEPn8 
+
+Markus Stocker @envinf RT @dret: nice overview by @envinf of where to use #SemWeb tech in environmental RI. #kesw2015  /cc @ENVRIplus https://pbs.twimg.com/media/CQIg4oKWwAA018s.jpg
