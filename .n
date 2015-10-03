@@ -733,3 +733,5 @@ Paul Groth @pgroth  http://Open.nasa.gov  https://open.nasa.gov/
     From statistics to deep learning and beyondFrom statistics to deep learning and beyond https://m.youtube.com/watch?v=uQ-dZ5qlQWo&feature=youtu.be https://m.youtube.com/watch?v=ZKlOrkfEPn8 
 
 Markus Stocker @envinf RT @dret: nice overview by @envinf of where to use #SemWeb tech in environmental RI. #kesw2015  /cc @ENVRIplus https://pbs.twimg.com/media/CQIg4oKWwAA018s.jpg
+
+Dimitris Kontokostas @jimkont Finally... The 1st US-based #DBpedia meeting will be held at @stanford on Nov 5th http://wiki.dbpedia.org/meetings/California2015 … ;I plan to go
