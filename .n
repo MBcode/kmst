@@ -627,6 +627,7 @@ m bobak @MBstream  Jul 7 San Francisco, CA AxelPolleres:slides of #data #workflo
 PORTABLE WORKFLOW AND TOOL DESCRIPTIONS WITH THE CWL Michael R. Crusoe  https://smallchangebio.wordpress.com/2015/07/11/bosc2015day1b/
 Michael providing an overview of the Common Workflow Language, which is a great standard developed out of Codefest 2014 and the BOSC community. It provides a way to define workflows and tools in a re-usable and interoperable way. Looked at many existing standards and approaches. Giving a showout to Worflow4Ever which was an awesome standard to build off.
 https://github.com/common-workflow-language/common-workflow-language http://www.wf4ever-project.org/
+https://github.com/common-workflow-language/common-workflow-language/blob/master/reference/cwltool/cwlrdf.py
 
 want dataframe2datacube, like: http://www.slideshare.net/stephanhoyer/xray-nd-labeled-arrays-and-datasets-in-python  but w/datacube semantics
  https://twitter.com/search?q=python%20sdmx .. https://gsocsemantic.wordpress.com/2013/06/12/data-frames-and-data-cubes/ 2013/06/20/frame-to-cube/
