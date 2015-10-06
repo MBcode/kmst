@@ -737,3 +737,5 @@ Paul Groth @pgroth  http://Open.nasa.gov  https://open.nasa.gov/
 Markus Stocker @envinf RT @dret: nice overview by @envinf of where to use #SemWeb tech in environmental RI. #kesw2015  /cc @ENVRIplus https://pbs.twimg.com/media/CQIg4oKWwAA018s.jpg
 
 Dimitris Kontokostas @jimkont Finally... The 1st US-based #DBpedia meeting will be held at @stanford on Nov 5th http://wiki.dbpedia.org/meetings/California2015 … ;I plan to go
+
+m bobak Retweeted Protege Project @protegeproject  24h24 hours ago Mark Musen is giving an invited talk at 1st Intl. workshop on Capturing Scientific Knowledge at #kcap2015. http://www.isi.edu/ikcap/sciknow2015/ … 
