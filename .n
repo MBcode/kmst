@@ -428,6 +428,8 @@ Finally in town to catch semweb-iot call http://ontolog-02.cim3.net/wiki/Confere
 
 Khalid Belhajjame @kbelhajj  My work on mining #workflows for fragment reuse that I presented in IKC is available online http://tinyurl.com/ng5gbkm  #ic1302 @researchobject
 
+Jodi Schneider @jschneider  Current paper uses ACT, an ontology that combines workflow & spatiotemporal perspectives: http://ontologydesignpatterns.org/wiki/Submissions:An_Ontology_Design_Pattern_for_Activity_Reasoning … Nice! #LISC2015 #ISWC2015
+
 Daniel Garijo ‏@dgarijov  My slides for the Open Research Data day: http://www.slideshare.net/dgarijo/open-research-data-day-is-pre …
  
 SemanticBot @semanticbot · Organizing Scientific Competitions on the Semantic Web http://zoot.li/543sc  ;re/a version of my nonprofit Ycomb idea 
