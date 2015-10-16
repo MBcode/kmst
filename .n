@@ -753,3 +753,6 @@ Hugo Liu @dochugo  ConceptNet in the news → AI machine achieves IQ test score 
 slides of #SSN-TC Semantic Sensor Networks #iswc2015 OpenIoT Schema Editor paper http://fr.slideshare.net/jpcik/the-schema-editor-of-openiot-for-semantic-sensor-networks …
  
 http://www.meetup.com/IBM-Watson-and-Cognitive-Computing/events/225286783/ Third Annual IBM Research Cognitive Colloquium: Augmenting Human Intelligence
+
+http://www.cs.utexas.edu/users/mfkb/ http://web.eecs.umich.edu/~kuipers/research/qsim ... , http://www.ai.sri.com/~prs/rcs.html , https://en.wikipedia.org/wiki/Robot_Scientist 
+    http://www.ai.sri.com/project/HaloPilot https://www.sri.com/work/projects/aura https://en.wikipedia.org/wiki/CALO .. http://www.qrg.northwestern.edu/ ;qual/quant physics sim qual-phase-plots  diagnosis  
