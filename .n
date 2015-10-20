@@ -208,6 +208,8 @@ OpenCube Project @OpenCubeProject
  Webinar recording on the OpenCube Toolkit at https://vimeo.com/139921190  #linkedstatistics #lod #analytics #opendata
  Slide deck on the OpenCube Toolkit as used during webinar of September 15th available at http://www.slideshare.net/OpenCubeProject/the-opencube-toolkit-webinar … #linkedstatistics #analytics
 
+m bobak Retweeted Samuel Lampa @smllmp  Oct 15 And my favorite poster: Alejandro Andrejev's work on Scientific #SPARQL. Interesting stuff! http://www.it.uu.se/research/group/udbl/SciSPARQL … 
+
 http://yieldbot.github.io/flambo/ have wanted lisp on spark's rdd's (in ceph or similar)now w/clj
  https://amplab.cs.berkeley.edu/publication/graphx-graph-processing-in-a-distributed-dataflow-framework/
 Making sense of LSD: http://csarven.ca/sense-of-lsd-analysis … #LinkedData #SemStats #LinkedResearch 
