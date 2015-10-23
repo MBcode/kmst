@@ -763,3 +763,5 @@ https://twitter.com/hashtag/OAW15SF?src=hash http://www.eventbrite.com/e/open-ac
  http://de.slideshare.net/StephanieDawson1/citation-collaboration-open-access-week-2015-sf http://wikistrategies.net/oa-wikipedia-panel/ http://icis.ucdavis.edu ctsi.ucsf.edu/news/resources/datashare-plan-increase-scientific-data-sharing
 
 aaai.org member for over 20yrs: m bobak Retweeted Lon Riesberg @lonriesberg AI - The Next 25 Years via Rutgers http://datalxr.com/1PCg7yj  #AI 
+
+@FrankVanHarmele @pgroth on #ISWC2015 themes: 1.Spectrum of Entity Resolution 2.Spectrum of Linked Data Querying 3.Buy more RAM https://thinklinks.wordpress.com/2015/10/20/trip-report-iswc-2015i/ … 
