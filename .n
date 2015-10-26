@@ -765,3 +765,5 @@ https://twitter.com/hashtag/OAW15SF?src=hash http://www.eventbrite.com/e/open-ac
 aaai.org member for over 20yrs: m bobak Retweeted Lon Riesberg @lonriesberg AI - The Next 25 Years via Rutgers http://datalxr.com/1PCg7yj  #AI 
 
 @FrankVanHarmele @pgroth on #ISWC2015 themes: 1.Spectrum of Entity Resolution 2.Spectrum of Linked Data Querying 3.Buy more RAM https://thinklinks.wordpress.com/2015/10/20/trip-report-iswc-2015i/ … 
+
+Tony Hirst @psychemedia  Oct 23 Worth a look? Badwolf - Google temporal graph #quadstore http://bit.ly/2037aCv  #linkedData #tripleStore #temporalGraph 
