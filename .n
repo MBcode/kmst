@@ -769,3 +769,5 @@ aaai.org member for over 20yrs: m bobak Retweeted Lon Riesberg @lonriesberg AI -
 Tony Hirst @psychemedia  Oct 23 Worth a look? Badwolf - Google temporal graph #quadstore http://bit.ly/2037aCv  #linkedData #tripleStore #temporalGraph 
 
 http://arxiv.org/abs/1510.07641 Phenotyping of Clinical Time Series with LSTM Recurrent Neural Networks 
+
+https://github.com/rick-monster/cl-rados/blob/master/cl-rados.lisp http://docs.ceph.com/docs/giant/man/8/rados/ if it works well I'll do another ubuntu upgrade to 15.10 to get ceph/librados everywhere
