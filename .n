@@ -771,3 +771,6 @@ Tony Hirst @psychemedia  Oct 23 Worth a look? Badwolf - Google temporal graph #q
 http://arxiv.org/abs/1510.07641 Phenotyping of Clinical Time Series with LSTM Recurrent Neural Networks 
 
 https://github.com/rick-monster/cl-rados/blob/master/cl-rados.lisp http://docs.ceph.com/docs/giant/man/8/rados/ if it works well I'll do another ubuntu upgrade to 15.10 to get ceph/librados everywhere
+
+http://download.carrot2.org/head/manual/ https://github.com/carrot2/carrot2 all working on osx for awhile, but only dcs (doc clustering server) on linux so far, no gui yet (want ins overlap viz)
+ 
