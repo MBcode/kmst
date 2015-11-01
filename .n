@@ -774,3 +774,4 @@ https://github.com/rick-monster/cl-rados/blob/master/cl-rados.lisp http://docs.c
 
 http://download.carrot2.org/head/manual/ https://github.com/carrot2/carrot2 all working on osx for awhile, but only dcs (doc clustering server) on linux so far, no gui yet (want ins overlap viz)
  
+Allen Inst. for AI @allenai_org  What if the key to computer science's greatest puzzles is lost in the millions of articles published each year? http://allenai.org/semantic-scholar.html … 
