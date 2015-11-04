@@ -773,5 +773,8 @@ http://arxiv.org/abs/1510.07641 Phenotyping of Clinical Time Series with LSTM Re
 https://github.com/rick-monster/cl-rados/blob/master/cl-rados.lisp http://docs.ceph.com/docs/giant/man/8/rados/ if it works well I'll do another ubuntu upgrade to 15.10 to get ceph/librados everywhere
 
 http://download.carrot2.org/head/manual/ https://github.com/carrot2/carrot2 all working on osx for awhile, but only dcs (doc clustering server) on linux so far, no gui yet (want ins overlap viz)
+ particularly want aduna cluster maps or similar http://www.aduna-software.com/sites/all/themes/aduna/files/cluster-map-details.png http://www.aduna-software.org 
+ http://takingnotenow.blogspot.com/2009/07/aduna-autofocus-and-connectedtext.html http://www.iskouk.org/sites/default/files/aduna.pdf look@d3/graphviz/gephi etc for similar /protege addition
+ https://github.com/rdmpage/cluster-map https://www.cs.arizona.edu/~paolosimonetto/Papers/Thesis.pdf .. revisit&carrot2 clustering/search
  
 Allen Inst. for AI @allenai_org  What if the key to computer science's greatest puzzles is lost in the millions of articles published each year? http://allenai.org/semantic-scholar.html … 
