@@ -780,3 +780,7 @@ http://download.carrot2.org/head/manual/ https://github.com/carrot2/carrot2 all 
 Allen Inst. for AI @allenai_org  What if the key to computer science's greatest puzzles is lost in the millions of articles published each year? http://allenai.org/semantic-scholar.html … 
  
 Daniel S. Katz @danielskatz Why we need a hub for software in science - from @juretriglav via @MozillaScience   http://juretriglav.si/why-we-need-a-hub-for-software-in-science/ … 
+
+@valexiev1  Nov 4 @ontotext @multisensor #NIF (#NLP2RDF) leveraged in @EuropeanaTech #enrichment task force report: http://pro.europeana.eu/files/Europeana_Professional/EuropeanaTech/EuropeanaTech_taskforces/Enrichment_Evaluation//FinalReport_EnrichmentEvaluation_102015.pdf … p19 
+http://persistence.uni-leipzig.org/nlp2rdf http://site.nlp2rdf.org/ https://stanbol.apache.org/docs/trunk/components/enhancer/engines/nif20 http://www.slideshare.net/kurzum/nif-nlp-interchange-format 
+http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core/nif-core.html https://github.com/NLP2RDF/ontologies 
