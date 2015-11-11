@@ -48,9 +48,10 @@ ModelBased(actors)for:semantic-service composition,monitoring,diagnosis,&repair 
 Want data(cube)info aligned w/the(sumo like)component-lib of KM;Start rough&cleanUp,in all directions
 http://semstats.org/
 
-Emanuele Della Valle @manudellavalle  Vienna, Austria presenting 
+(re)tweeted: Emanuele Della Valle @manudellavalle  Vienna, Austria presenting 
  #streamreasoning: #velocity+#variety for #bigdata by @polimi at #SR2015 sampling http://www.slideshare.net/emanueledellavalle/stream-reasoning-mastering-the-velocity-and-the-variety-dimensions-of-big-data-at-once … 
   #sparql & https://github.com/aaltodsg/instans …
+m bobak Retweeted Jean-Paul Calbimonte @jpcik  slides at the Stream Reasoning workshop #SR2015 http://fr.slideshare.net/jpcik/rdf-stream-processing-and-the-role-of-semantics … http://www.vcla.at/sr2015/ 
 
 get,pd: lparallel,lfarm cl-p2p pcall stmx  ;distrib-blackboard,  linda(tuple) setup going
 https://github.com/naveensundarg/RLCNL  could be used &/or km bits, to have ~NL output
