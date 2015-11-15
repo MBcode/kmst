@@ -795,3 +795,7 @@ http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core/nif-core.html htt
 
 Cognitum @cognitum_eu  Modeling #Ontologies with Natural Language  #Semantic #Linked #data #NLP http://goo.gl/kkIMBZ ,OCNL;not so far from KM (but w/parens), &not quite ACE/controlled NL
  http://techblog.cognitum.eu/2015/01/using-rontorion-package-in-r-rstudio.html http://www.istc.cnr.it/news/fred-and-tipalo-natural-language-rdfowl fred &NL in rdf(nlp2rdf)
+ 
+Tim @NovasTaylor Retweeted Kerstin Forsberg And let's go multidimensional with RDF, not just translate the existing 2-D models! So much potential... 
+  Kerstin Forsberg @kerfors Kerstin Forsberg Retweeted Wayne Kubick Yay, former CTO of @CDISC list RDF, JSON, URIs and linked data   
+    Wayne Kubick @WayneKubick Life after the v3.x SDTMIGs http://waynekubick.com/2015/11/13/life-after-the-v3-x-sdtmigs … ; http://www.cdisc.org/sdtm  ;me: datacube v dataframe
