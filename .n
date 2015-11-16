@@ -253,6 +253,8 @@ Organic synthesis: The robo-chemist : Nature News & Comment , see more http://bi
 
 researchobject.org @researchobject  Carole's keynote at #vivo2014 on #researchobject #reproducibility http://www.slideshare.net/carolegoble/goble-keynote-vivoscits2014 … 
 
+Victoria Stodden @victoriastodden  Nov 13 Urbana, IL very cool implementation of reproducibility: data, code, worksflows as first class scholarly objects http://www.researchobject.org/  @researchobject
+
 http://franz.com/success/customer_apps/bioinformatics/mdl_story.lhtml
 http://jeffshrager.org/vita/pubs/2001designforscience.pdf
 http://jeffshrager.org/vita/pubs/2010chasm.pdf http://commerce.net/people/jeff-shrager/ 
