@@ -807,3 +807,5 @@ Tim @NovasTaylor Retweeted Kerstin Forsberg And let's go multidimensional with R
     Wayne Kubick @WayneKubick Life after the v3.x SDTMIGs http://waynekubick.com/2015/11/13/life-after-the-v3-x-sdtmigs … ; http://www.cdisc.org/sdtm  ;me: datacube v dataframe, yes:
  @philarcher1 Hope Mariana Kotzeva et al at Eurostat know that RDF Data Cube is how to do SDMX in Linked Open Data http://www.w3.org/TR/vocab-data-cube #edf2015
 
+m bobak Retwted Alessa Geiger http://earthcube.org/event/webinar-doing-geoscience-earthcube-tools-0I … I look fwd to seeing more of this throughout NSF/NIH/... as it has been a longtime interest. m bobak added,
+    Alessa Geiger @CosmicIceFairy Insightfull @EarthCube #OntoSoft webinar on data/software creation/accessibility 4 broader community use/stewardship http://www.ontosoft.org/about 
