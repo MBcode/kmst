@@ -658,6 +658,8 @@ Lon Riesberg @lonriesberg  Learning to learn, or the advent of augmented data sc
 
 @HNTweets AllegroGraph 5.1 N-dimensional Geospatial: http://franz.com/agraph/support/documentation/current/geospatial-nd.html … Comments: https://news.ycombinator.com/item?id=9903404 
 Franz Inc. @Franzinc  Gruff v5.9 Now Available.  New layouts for data exploration.  http://franz.com/agraph/gruff/   #nosql #RDF #graphdatabase 
+
+@Franzinc  Bay Area Lisp/Scheme Meetup Video - Semantic Graph Databases at Franz http://buff.ly/1QrjwBg 
  
 nlp/etc: found lisp bridge from ROS(robot env)to UIMA nlp env; worth a try:
  https://github.com/cram-code/cram_bridge/blob/master/cram_uima/src/uima.lisp
