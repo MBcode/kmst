@@ -649,6 +649,8 @@ https://github.com/common-workflow-language/common-workflow-language/blob/master
 want dataframe2datacube, like: http://www.slideshare.net/stephanhoyer/xray-nd-labeled-arrays-and-datasets-in-python  but w/datacube semantics
  https://twitter.com/search?q=python%20sdmx .. https://gsocsemantic.wordpress.com/2013/06/12/data-frames-and-data-cubes/ 2013/06/20/frame-to-cube/
 
+Tim @NovasTaylor  Playing with #d3js hive plots to avoid the network graph "hairball" for multi-dimensional #RDF data cubes. #LOD 
+
 Silvia Giannini @silviaggia_  Jul 11 Materializing the Web of Linked Data https://lnkd.in/dsW3fky  
 
 Mike Conover @vagabondjack Paging Dr. Taylor - new research from Google.  http://googleresearch.blogspot.com/2014/12/automatically-making-sense-of-data.html?m=1 … 
