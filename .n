@@ -378,6 +378,8 @@ Conservation of Scientific Workflow Infrastructures by Using Semantics - 2012 by
 
 @dbworld_  http://ift.tt/1SsW2JZ  Using Cloud-Aware Provenance to Reproduce Scientific Workflow Execution on Cloud. (arXiv:1511.09061v1 [cs.DB]) #da…
 
+Carly Strasser @carlystrasser  .@PLOSBiology step-by-step guide to computing workflows by @ashley17061 & @tracykteal http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002303 … #MooreData
+
 rachelbruce @rachelbruce  ·  Dec 15
 Interesting idea - Use semantic desktop to capture contextual research data - see: http://researchatrisk.ideascale.com/a/index  #RDSpring #jisc
 
