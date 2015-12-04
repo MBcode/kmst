@@ -652,6 +652,9 @@ Michael providing an overview of the Common Workflow Language, which is a great 
 https://github.com/common-workflow-language/common-workflow-language http://www.wf4ever-project.org/
 https://github.com/common-workflow-language/common-workflow-language/blob/master/reference/cwltool/cwlrdf.py
 
+better than common-workflow-lang is probably using linked-data: m bobak Retweeted
+ Daniel Garijo @dgarijov  Slides of my PhD presentation: http://www.slideshare.net/dgarijo/phd-thesis-mining-abstractions-in-scientific-workflows …. All the resources are in @figshare through a Research Object https://w3id.org/dgarijo/ro/mining-abstractions-in-scientific-wfs …
+
 want dataframe2datacube, like: http://www.slideshare.net/stephanhoyer/xray-nd-labeled-arrays-and-datasets-in-python  but w/datacube semantics
  https://twitter.com/search?q=python%20sdmx .. https://gsocsemantic.wordpress.com/2013/06/12/data-frames-and-data-cubes/ 2013/06/20/frame-to-cube/
 
