@@ -548,6 +548,8 @@ after w3c(LD)wg, heard: [CL] Common Logic conference call - Tuesday 2015.04.28;t
 
 day before 2nd earthcube all hands mtg, I joined, incl these sub-groups: CogCi,GeoSemantics,GeoLink,EarthCollab,GEAR,EarthSysBridge,ODSIP
 
+http://www.meetup.com/manylabs-workspace/events/227105389 is the closest to http://earthcube.org/event/connect-earthcube-agu that I will get this year; would like re semantic work
+
 http://forum.stanford.edu/events/2015aiworkshop.php 
  
 https://amplab.cs.berkeley.edu/event/citris-seminar-lise-getoor-ucsc-big-graph-data-science-w-56-310-sutardja-dai-hall-noon/ Big Graph Data Science http://video.citris.berkeley.edu/playlists/webcast: 
