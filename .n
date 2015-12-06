@@ -1,6 +1,5 @@
 total 120
 -rw-r--r--  1 bobak   1.2K Feb  6 17:23 README.md
--rw-r--r--  1 bobak   1.2K Feb  6 17:22 README.md~
 lrwxr-xr-x  1 bobak    66B Feb  6 17:24 cl-kb@ -> /Users/bobak/dwn/lang/lsp/code/project/src/malecoli/malecoli/cl-kb
 lrwxr-xr-x  1 bobak    50B Feb  6 17:24 components@ -> /Users/bobak/dwn/lang/lsp/ai/ut/mfkb/km/components
 -rw-r--r--  1 bobak   788B Feb  6 17:21 ld3.cl
@@ -606,26 +605,26 @@ lots of conf update/likes in past week or so.  see my twitter likes for papers a
     http://data.semanticweb.org/conference/eswc/2015/html 
     https://www.w3.org/community/rsp/rsp-workshop-2015/#prog 
 
-m bobak retweeted Ontology Summit ‏@ontologysummit  Jun 4
+m bobak retweeted Ontology Summit @ontologysummit  Jun 4
 K. Janowicz "Assist domain experts in becoming knowl engrs by developing reusable patterns" #ontologysummit #IoT  
 
 data-driven workflows done w/fwd-chainer(eg. lisa.sf.net)&any distrib pkg as needed; have ability to interop w/standards ;look@re semweb-sci links
 
-m bobak retweeted Adrian Paschke ‏@AdrianPaschke  7h7 hours ago
+m bobak retweeted Adrian Paschke @AdrianPaschke  7h7 hours ago
 #Semantic #BPM presentation at #OMGBerlin http://www.slideshare.net/swadpasc/semanticallyenabled-business-process-management … #BPMN #BPMNExecution #csw15 #semantic #lod #LinkedData #owl #rif #cep #bpel
 
-m bobak retweeted Marty Loughlin <200f>@mloughlin  Jun 8 .@edmcouncil releases its first formal ontology standard #FIBO #semantic
+m bobak retweeted Marty Loughlin @mloughlin  Jun 8 .@edmcouncil releases its first formal ontology standard #FIBO #semantic
 http://www.automatedtrader.net/news/at/153893/enterprise-data-management-council-releases-its-first-formal--ontology-standard
 …
 Semantics of Business Vocabulary and Business Rules (SBVR) file:///home/bobak/dwn/new/formal-15-05-07.pdf
  
-CitizenScience ‏@CitizenScience_ Roll your own citizen science project http://wp.me/p4bHOm-1ap  
+CitizenScience @CitizenScience_ Roll your own citizen science project http://wp.me/p4bHOm-1ap  
 http://www.citizensciencecenter.com/scientific-progress-goes-boinc/ 
 https://boinc.berkeley.edu/trac/wiki/AppIntro 
 http://palm.mindmodeling.org/wiki/index.php/BOINC_Lisp_Interfaces 
 http://palm.mindmodeling.org/wiki/index.php?title=ACT-R_BOINC_Process_(Client)&oldid=360 
 
-Russ Poldrack ‏@russpoldrack  Carl Sagan's Baloney Detection Kit http://www.brainpickings.org/2014/01/03/baloney-detection-kit-carl-sagan/ … via @ajshackman 
+Russ Poldrack @russpoldrack  Carl Sagan's Baloney Detection Kit http://www.brainpickings.org/2014/01/03/baloney-detection-kit-carl-sagan/ … via @ajshackman 
 
 m bobak retweeted Bill Roberts @billroberts  Jun 19 report of the Eurostat RDF data cube workshop https://joinup.ec.europa.eu/node/143434  including several @OpenCubeProject presentations. (thx @p_w) 
 
@@ -686,7 +685,7 @@ Will still try LODtagger some more, but https://github.com/mit-nlp/MITIE compile
 
 @TextMining_r  Digital Research Tools (DiRT): web scraping, music OCR, statistical analysis packages, mindmapping software & more: [ http://dirtdirectory.org/categories/text-mining ] https://www.reddit.com/r/textdatamining/comments/3f3ogh/digital_research_tools_dirt_web_scraping_music/ …
 
-sem-NER: Ricardo Usbeck ‏@Ricardo_Usbeck  My short introduction to #GERBIL at #semdev2015 at #eswc2015 http://videolectures.net/eswc2015_usbeck_annotation_benchmarks/ … /w @NgongaAxel @MichaDerStudent @akswgroup
+sem-NER: Ricardo Usbeck @Ricardo_Usbeck  My short introduction to #GERBIL at #semdev2015 at #eswc2015 http://videolectures.net/eswc2015_usbeck_annotation_benchmarks/ … /w @NgongaAxel @MichaDerStudent @akswgroup
 
 @eXascaleInfolab #sssw2015 slides of the sense making tutorial are here: http://bit.ly/1RnBg1P  ! @NgongaAxel @sssw2015
 
@@ -696,7 +695,7 @@ Might play w/some email w/KM: http://notional.no-ip.org/em.km
 
 might find excuse to try ;https://github.com/fons/cl-mongo ;https://common-lisp.net/project/cl-graph/user-guide.html together
 
-m bobak ‏@MBstream  6h6 hours ago San Francisco, CA View translation
+m bobak @MBstream  6h6 hours ago San Francisco, CA View translation
 
 #ruleml tutorial http://2015.ruleml.org/tutorials.html  slides: 
  http://www.csw.inf.fu-berlin.de/rw2015/files/slides/PSOAObjRelDataRules-talk-RW2015.pdf … 
