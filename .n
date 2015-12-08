@@ -568,6 +568,8 @@ xach @xach  ·  http://news.gmane.org/gmane.lisp.common-lisp-net.devel … makes
 https://www.dataone.org/previous-webinars latest: Provenance and DataONE: Facilitating Reproducible Science ;getting me thinking about more about how I could help
 Matt Jones @metamattj · Enjoy the @DataONEorg webinar on provenance and reproducible science using #rstats, #matlab, and web search https://www.dataone.org/webinars/provenance-and-dataone-facilitating-reproducible-science … 
 
+https://www.dataone.org/upcoming-webinar dec8 Announcing DataONE Search: A New Way to Discover Data DataONE Team
+
 Naupaka Zimmerman @naupakaz  What is provenance and why, as a scientist, should you care? Very helpful overview of data mgmt concepts/tools: http://rrcns.readthedocs.org/en/latest/provenance_tracking.html … 1/2`
 See also: slides by @metamattj et al on how to link the pieces and products of research together w/ their origin  http://figshare.com/articles/Reproducible_science_via_semantics_and_provenance_for_ecological_data/1512516 … 2/2
 
