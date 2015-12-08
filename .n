@@ -826,3 +826,4 @@ m bobak Retwted Alessa Geiger http://earthcube.org/event/webinar-doing-geoscienc
 
 Helen Atkins @hba419  Nov 24 PLOS and DBpedia – an experiment towards Linked Data http://blogs.plos.org/tech/plos-and-dbpedia-an-experiment-towards-linked-data/ … 
 
+http://www.meetup.com/Federal-Big-Data-Working-Group/events/225137744/ nice to see onto use from DC, wish I could help w/it w/o having to live there
