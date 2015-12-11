@@ -833,3 +833,5 @@ http://www.meetup.com/Federal-Big-Data-Working-Group/events/225137744/ nice to s
 Daniel S. Katz @danielskatz slides: Scientific Software Challenges and Community Responses #science #software http://www.slideshare.net/danielskatz/scientific-software-challenges-and-community-responses … via @SlideShare 
 
 PA http://www.meetup.com/Advanced-Analytics-and-Big-Data/events/225876478 or https://www.eventbrite.com/e/how-will-artificial-intelligence-change-our-economic-future-tickets-19262818609 maybe.
+
+Kerstin Forsberg @kerfors  Earlier this week I met two of my favorite researchers: @ontowonka and @CaroleAnneGoble See Carole's recent slides http://www.slideshare.net/carolegoble/crediting-informatics-and-data-folks-in-life-science-teams … 
