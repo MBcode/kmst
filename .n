@@ -835,3 +835,11 @@ Daniel S. Katz @danielskatz slides: Scientific Software Challenges and Community
 PA http://www.meetup.com/Advanced-Analytics-and-Big-Data/events/225876478 or https://www.eventbrite.com/e/how-will-artificial-intelligence-change-our-economic-future-tickets-19262818609 maybe.
 
 Kerstin Forsberg @kerfors  Earlier this week I met two of my favorite researchers: @ontowonka and @CaroleAnneGoble See Carole's recent slides http://www.slideshare.net/carolegoble/crediting-informatics-and-data-folks-in-life-science-teams … 
+
+The day before the @open_ai announcement, I added this to (the end of) my notional.no-ip.org page:
+    <p>What if you wanted to do a smart CMS/etc for sci/eng to biz/etc, so the focus would go beyond team-coord/mtg-planning, to
+    <br>the ability to share personally versioned micro-docs/work-flow-bits/even~code..
+    <p>It is almost as if the HALO and CALO projects had a child, so not only coordination w/(even more)context, but ability to inform/edu/etc..
+    <p> I have the base KnowledgeBases for both of those projects, which are built off of:
+    <a href="http://www.cs.utexas.edu/users/mfkb/RKF/tree/">http://www.cs.utexas.edu/users/mfkb/RKF/tree/</a> to play around w/.
+ 
