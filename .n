@@ -847,3 +847,5 @@ Like the capturing at the point of use aspect:
 @Jenny_Mitcham  Dec 8 Blog post on digital preservation work of the Jisc Research Data Spring projects http://digital-archiving.blogspot.co.uk/2015/12/the-research-data-spring-projects.html … #dataspring #jiscrdm 
 
 3rd great HPI class https://open.hpi.de/courses/semanticweb2015 time for the final
+
+Benjamin Good @bgood  Thoughtful series of blog posts on integrating knowledge bases (think #semanticweb ) with machine learning.  http://www.mkbergman.com/category/kbai/  
