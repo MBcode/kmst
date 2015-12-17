@@ -286,6 +286,8 @@ http://www.isi.edu/isd/LOOM/ came 1st/but still using KM more
 When doing a lisp/Common-Logic review saw/downloaded latest powerloom4, &ran: powerloom --gui 
  this still has much of the more original direction that Protege has lost after v3
 
+m bobak Retweeted Jon Atack @jonatack  The Reasoned Lisper | Chris Kohlhepp's Blog https://chriskohlhepp.wordpress.com/the-reasoned-lisper/ …
+
 have a bit on planning in kmp, want more than stips, PDDL; NDDL, ANML
     http://en.wikipedia.org/wiki/Planning_Domain_Definition_Language 
     https://code.google.com/p/europa-pso/wiki/NDDLReference 
