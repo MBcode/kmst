@@ -663,6 +663,8 @@ want dataframe2datacube, like: http://www.slideshare.net/stephanhoyer/xray-nd-la
 
 Tim @NovasTaylor  Playing with #d3js hive plots to avoid the network graph "hairball" for multi-dimensional #RDF data cubes. #LOD 
 
+@dbworld_  http://ift.tt/1Pfe1Tm  Modeling and Querying Data Cubes on the Semantic Web. (arXiv:1512.06080v1 [cs.DB]) #databases 
+
 Silvia Giannini @silviaggia_  Jul 11 Materializing the Web of Linked Data https://lnkd.in/dsW3fky  
 
 Mike Conover @vagabondjack Paging Dr. Taylor - new research from Google.  http://googleresearch.blogspot.com/2014/12/automatically-making-sense-of-data.html?m=1 … 
@@ -857,3 +859,4 @@ Benjamin Good @bgood  Thoughtful series of blog posts on integrating knowledge b
 @simonjupp  Dec 18 Some graph visualisation added to the new Ontology Lookup Service beta - feedback welcome http://goo.gl/3Kva7B  
 
 Tomi Kauppinen @LinkedScience  Dec 18 Checked the analytics http://linkedscience.org/tutorials/  is still getting a nice amount of visitors: hundreds in the last month 
+
