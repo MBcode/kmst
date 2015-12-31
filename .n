@@ -868,3 +868,5 @@ Benjamin Good @bgood  Thoughtful series of blog posts on integrating knowledge b
 Tomi Kauppinen @LinkedScience  Dec 18 Checked the analytics http://linkedscience.org/tutorials/  is still getting a nice amount of visitors: hundreds in the last month 
 
 @CitizenScience_  A whole new Zooniverse http://buff.ly/1RHp9ff ;aspects of this are interesting ;; @CitizenScience_  Making Data Shareable http://buff.ly/1Ooy4BS  
+
+@stanfordnlp  Dec 28 Why Knowledge Representation is an important part of AI by @yshoham—a diversity of perspectives is always good! http://cacm.acm.org/magazines/2016/1/195730-why-knowledge-representation-matters/fulltext … 
