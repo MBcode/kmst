@@ -870,3 +870,5 @@ Tomi Kauppinen @LinkedScience  Dec 18 Checked the analytics http://linkedscience
 @CitizenScience_  A whole new Zooniverse http://buff.ly/1RHp9ff ;aspects of this are interesting ;; @CitizenScience_  Making Data Shareable http://buff.ly/1Ooy4BS  
 
 @stanfordnlp  Dec 28 Why Knowledge Representation is an important part of AI by @yshoham—a diversity of perspectives is always good! http://cacm.acm.org/magazines/2016/1/195730-why-knowledge-representation-matters/fulltext … 
+
+@markoff  31 Dec 2015 It's an Unobtrusive Assistant Whispering in Your Ear (Not Little Brother) - The New York Times http://bits.blogs.nytimes.com/2015/12/31/its-an-unobtrusive-assistant-whispering-in-your-ear-not-little-brother/?  ;much more re; also:I went4 laforgeoptical
