@@ -873,3 +873,5 @@ Tomi Kauppinen @LinkedScience  Dec 18 Checked the analytics http://linkedscience
 @stanfordnlp  Dec 28 Why Knowledge Representation is an important part of AI by @yshoham—a diversity of perspectives is always good! http://cacm.acm.org/magazines/2016/1/195730-why-knowledge-representation-matters/fulltext … 
 
 @markoff  31 Dec 2015 It's an Unobtrusive Assistant Whispering in Your Ear (Not Little Brother) - The New York Times http://bits.blogs.nytimes.com/2015/12/31/its-an-unobtrusive-assistant-whispering-in-your-ear-not-little-brother/?  ;much more re; also:I went4 laforgeoptical
+
+Will catch some more: http://www.esipfed.org/node/8965 Federation of Earth Science Information Partners; hope to see more semantics, like w/data1, &like bio-areas have been using for some time.
