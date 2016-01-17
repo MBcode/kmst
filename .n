@@ -875,3 +875,6 @@ Tomi Kauppinen @LinkedScience  Dec 18 Checked the analytics http://linkedscience
 @markoff  31 Dec 2015 It's an Unobtrusive Assistant Whispering in Your Ear (Not Little Brother) - The New York Times http://bits.blogs.nytimes.com/2015/12/31/its-an-unobtrusive-assistant-whispering-in-your-ear-not-little-brother/?  ;much more re; also:I went4 laforgeoptical
 
 Will catch some more: http://www.esipfed.org/node/8965 Federation of Earth Science Information Partners; hope to see more semantics, like w/data1, &like bio-areas have been using for some time.
+
+Mark Reid @mdreid  Jan 6 Jaron Lanier on why it's the mythology around AI that is dangerous: http://edge.org/conversation/jaron_lanier-the-myth-of-ai … (via @John4man) 
+https://pbs.twimg.com/media/CYEAlrzUAAA0J2x.jpg If you talk about AI as a set of techniques, as a field of study in mathematics or engineering, it brings benefits. If we talk about AI as a mythology of creating a post-human species, it creates a series of problems ...
