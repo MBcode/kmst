@@ -881,5 +881,9 @@ https://pbs.twimg.com/media/CYEAlrzUAAA0J2x.jpg If you talk about AI as a set of
 
 really want to look at https://www.ejenta.com/documentation more; 1st noticed it after RePast/netlogo/etc at turn of centry while at NASA
 
+re/ran into: https://github.com/willf/apex & https://github.com/willf/lisp_dmap would like to re/find old uchicago raps planner code too
+    http://web.archive.org/web/20000620080721/http://www.cs.uchicago.edu/~firby/raps/getting-raps.html but no ftp/I had it/but where/now
+ also: https://en.wikipedia.org/wiki/CycL http://www.isi.edu/isd/LOOM /Stella /PowerLoom  http://ict.usc.edu/prototypes/pdf-overviews/ 
+
 For parts of health monitoring:  http://www.openmhealth.org/documentation/#/overview/get-started https://github.com/openmhealth 
 Free, open-source code that makes it easy for developers to * digital health data ;old PI's new: http://www.openmhealth.org/ 
