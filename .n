@@ -889,3 +889,5 @@ re/ran into: https://github.com/willf/apex & https://github.com/willf/lisp_dmap 
 
 For parts of health monitoring:  http://www.openmhealth.org/documentation/#/overview/get-started https://github.com/openmhealth 
 Free, open-source code that makes it easy for developers to * digital health data ;old PI's new: http://www.openmhealth.org/ 
+ 
+Cyc, the most ambitious AI Project uses #LISP and have their own LISP-like language called CycL en.wikipedia.org/wiki/Cyc #AI #MachineLearning
