@@ -377,6 +377,7 @@ pull together nlp work: cl-nlp/langutils/.... kme/sys has a listing ;for1st cut 
 Idafen SP @idafensp  ·  Dec 10
 Conservation of Scientific Workflow Infrastructures by Using Semantics - 2012 by @idafensp #escience http://www.slideshare.net/idafensp/conservation-of-scientific-workflow-infrastructures-by-using-semantics-2012 … vía @SlideShare
 
+PhD Thesis: Conservation of Computational Scientific Execution Environments f... #conservation slideshare.net/IdafenSantanaP… vía @SlideShare   ;wicus onto
 @dbworld_  http://ift.tt/1SsW2JZ  Using Cloud-Aware Provenance to Reproduce Scientific Workflow Execution on Cloud. (arXiv:1511.09061v1 [cs.DB]) #da…
 
 Carly Strasser @carlystrasser  .@PLOSBiology step-by-step guide to computing workflows by @ashley17061 & @tracykteal http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002303 … #MooreData
