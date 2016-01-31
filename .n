@@ -377,6 +377,8 @@ pull together nlp work: cl-nlp/langutils/.... kme/sys has a listing ;for1st cut 
 Idafen SP @idafensp  ·  Dec 10
 Conservation of Scientific Workflow Infrastructures by Using Semantics - 2012 by @idafensp #escience http://www.slideshare.net/idafensp/conservation-of-scientific-workflow-infrastructures-by-using-semantics-2012 … vía @SlideShare
 
+PhD Thesis: Conservation of Computational Scientific Execution Environments f... #conservation slideshare.net/IdafenSantanaP… vía @SlideShare   ;wicus onto
+My slides on our work for addressing reproducibility using semantics: slideshare.net/dgarijo/reprod… #dagstuhl #seminar16041 ;wicus
 @dbworld_  http://ift.tt/1SsW2JZ  Using Cloud-Aware Provenance to Reproduce Scientific Workflow Execution on Cloud. (arXiv:1511.09061v1 [cs.DB]) #da…
 
 Carly Strasser @carlystrasser  .@PLOSBiology step-by-step guide to computing workflows by @ashley17061 & @tracykteal http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002303 … #MooreData
@@ -828,6 +830,8 @@ Daniel S. Katz @danielskatz Why we need a hub for software in science - from @ju
 http://persistence.uni-leipzig.org/nlp2rdf http://site.nlp2rdf.org/ https://stanbol.apache.org/docs/trunk/components/enhancer/engines/nif20 http://www.slideshare.net/kurzum/nif-nlp-interchange-format 
 http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core/nif-core.html https://github.com/NLP2RDF/ontologies 
 
+Check out PReMOn premon.fbk.eu, predicate models as LOD, just accepted for oral presentation @LREC2016 @sara_hlt @ziorufus ;lemon nif
+
 Cognitum @cognitum_eu  Modeling #Ontologies with Natural Language  #Semantic #Linked #data #NLP http://goo.gl/kkIMBZ ,OCNL;not so far from KM (but w/parens), &not quite ACE/controlled NL
  http://techblog.cognitum.eu/2015/01/using-rontorion-package-in-r-rstudio.html http://www.istc.cnr.it/news/fred-and-tipalo-natural-language-rdfowl fred &NL in rdf(nlp2rdf)
 
@@ -890,3 +894,5 @@ re/ran into: https://github.com/willf/apex & https://github.com/willf/lisp_dmap 
 
 For parts of health monitoring:  http://www.openmhealth.org/documentation/#/overview/get-started https://github.com/openmhealth 
 Free, open-source code that makes it easy for developers to * digital health data ;old PI's new: http://www.openmhealth.org/ 
+ 
+Cyc, the most ambitious AI Project uses #LISP and have their own LISP-like language called CycL en.wikipedia.org/wiki/Cyc #AI #MachineLearning
