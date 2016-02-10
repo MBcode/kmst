@@ -823,6 +823,8 @@ http://download.carrot2.org/head/manual/ https://github.com/carrot2/carrot2 all 
  particularly want aduna cluster maps or similar http://www.aduna-software.com/sites/all/themes/aduna/files/cluster-map-details.png http://www.aduna-software.org 
  http://takingnotenow.blogspot.com/2009/07/aduna-autofocus-and-connectedtext.html http://www.iskouk.org/sites/default/files/aduna.pdf look@d3/graphviz/gephi etc for similar /protege addition
  https://github.com/rdmpage/cluster-map https://www.cs.arizona.edu/~paolosimonetto/Papers/Thesis.pdf .. revisit&carrot2 clustering/search
+
+@Daniel_hladky Exploration and Visualization in the Web of Big Linked Data: A Survey of the State of the Art. See http://arxiv.org/pdf/1601.08059v1.pdf ….
  
 Allen Inst. for AI @allenai_org  What if the key to computer science's greatest puzzles is lost in the millions of articles published each year? http://allenai.org/semantic-scholar.html … 
  
