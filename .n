@@ -573,6 +573,8 @@ François Belleau @FrancoisBelleau BD2K hackathon - Bio2RDF submission http://ww
 
 http://www.ischool.berkeley.edu/newsandevents/events/20150511-iot-showcase http://www.ischool.berkeley.edu/courses/i290-io 
 
+http://www.eecs.berkeley.edu/bears/ went w/Siemen's when I did a little work w/them; will catch up again.
+
 xach @xach  ·  http://news.gmane.org/gmane.lisp.common-lisp-net.devel … makes me very happy. All CVS projects on http://common-lisp.net  migrated to git! #lisp 
 
 https://www.dataone.org/previous-webinars latest: Provenance and DataONE: Facilitating Reproducible Science ;getting me thinking about more about how I could help
