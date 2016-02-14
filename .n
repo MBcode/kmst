@@ -479,6 +479,8 @@ Ontology Summit @ontologysummit  ·  Join #OntologySummit - Today - Discuss 2015
 
 Ontology Summit @ontologysummit  Jan 28 Save May 9-10 - Ontolog Summit 2016 USA-VA http://bit.ly/202vbsz  #ontology #semanticweb #semantic 
 
+Mike Bennett @MikeHypercube  Feb 11 Ontology Summit is under way - launch meeting now, http://ontologforum.org/index.php/ConferenceCall_2016_02_11 …
+
 aside: sem file sys uri same-as ness update diffs many uses 
 
 http://www.meetup.com/sfmachinelearning/events/220582792/ use Spark for image/timeseries 
