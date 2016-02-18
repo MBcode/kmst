@@ -807,6 +807,8 @@ Allen Inst. for AI @allenai_org The Allen AI Science Challenge on @Kaggle has en
 
 Oren Etzioni @etzioni  The Best AI Still Flunks 8th Grade Science http://www.wired.com/2016/02/the-best-ai-still-flunks-8th-grade-science/ … insight by @cademetz
 
+@etzioni  Reasoning and knowledge required to get 80% on 8th grade Science Tests. Analysis and interview by @willknight http://bit.ly/1mI2eDp 
+
 Hugo Liu @dochugo  ConceptNet in the news → AI machine achieves IQ test score of young child http://m.phys.org/news/2015-10-ai-machine-iq-score-young.html … 
 
 slides of #SSN-TC Semantic Sensor Networks #iswc2015 OpenIoT Schema Editor paper http://fr.slideshare.net/jpcik/the-schema-editor-of-openiot-for-semantic-sensor-networks …
