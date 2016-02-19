@@ -409,6 +409,9 @@ jahendler ‏@jahendler  @prototypo what these need is an agent markup language!
 
 a lot from https://twitter.com/hashtag/ontologysummit?src=hash , https://twitter.com/ontologysummit 28,287 tweets archived
 
+@ontologysummit Join #Ontolog Forum online today http://bit.ly/1PI1MPY  #ontology 12:30EST #semantic #ontology 
+    http://webconf.soaphub.org/conf/room/summit_20160218
+
 http://www.meetup.com/USF-Seminar-Series-in-Analytics/events/216142252/
  iot+datasci+mbr reminds me or re ge talks using eureqa
 
