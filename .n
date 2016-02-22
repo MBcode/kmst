@@ -921,3 +921,5 @@ Free, open-source code that makes it easy for developers to * digital health dat
 Cyc, the most ambitious AI Project uses #LISP and have their own LISP-like language called CycL en.wikipedia.org/wiki/Cyc #AI #MachineLearning
 
 @NetworkFact Probabilistic graphical models ow.ly/T05it  www.meetup.com/USF-Seminar-Series-in-Analytics/events/227942974 
+
+@DublinCore  Progress in NKOS - The First NKOS Workshop at ICADL [Abstracts & presentations] http://bit.ly/1PcmJlG 
