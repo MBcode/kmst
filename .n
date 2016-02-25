@@ -923,3 +923,6 @@ Cyc, the most ambitious AI Project uses #LISP and have their own LISP-like langu
 @NetworkFact Probabilistic graphical models ow.ly/T05it  www.meetup.com/USF-Seminar-Series-in-Analytics/events/227942974 
 
 @DublinCore  Progress in NKOS - The First NKOS Workshop at ICADL [Abstracts & presentations] http://bit.ly/1PcmJlG 
+
+@tonyhammond  IBM's Watson Concept Insights API: http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/concept-insights.html … (via Az Jassal) #concept #graph #cloud
+ 
