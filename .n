@@ -124,7 +124,7 @@ Kemele M. Endris @KemeleM  Jun20 "Interest-based RDF Update Propagation" has bee
  
 http://www.researchobject.org/5000-2/ get assoc vocabs together, in aid of some CS&E
 
-Daniel Garijo ‏@dgarijov  Jun 1 My slides for the Open Research Data day: http://www.slideshare.net/dgarijo/open-research-data-day-is-pre …
+Daniel Garijo @dgarijov  Jun 1 My slides for the Open Research Data day: http://www.slideshare.net/dgarijo/open-research-data-day-is-pre …
 
 https://github.com/willf/apex.git nasa human-factors w/pubsub...
     http://human-factors.arc.nasa.gov/publications/20051025121038_chi02.pdf 
@@ -178,10 +178,10 @@ really do want data-cube/etc to annotae sci data, maybe w/kmp &hdf part of cl-an
  a few more semantic-stats links, could start w/something simple /even w/just data-tables
 
 
- Dean Wampler ‏@deanwampler  ;might help pick distrib-filestore; get RRDs on ceph too?
+ Dean Wampler @deanwampler  ;might help pick distrib-filestore; get RRDs on ceph too?
 Tachyon near-term roadmap: Ceph integration (Redhat), Hierarchical Local Storage (Intel), Improve Shark perf. (Yahoo), others. #sparksummit 
 
-Kingsley Uyi Idehen ‏@kidehen  -> Semantic Networks by John Sowa
+Kingsley Uyi Idehen @kidehen  -> Semantic Networks by John Sowa
 Semantic Networks: http://bit.ly/VBew3y  . #LinkedData #SemanticWeb #Logic #RDF #AI #SmartData #BigData #NewSQL #SPARQL #DBMS 
 cbr..bn/tms action/learning
 
@@ -293,8 +293,7 @@ have a bit on planning in kmp, want more than stips, PDDL; NDDL, ANML
     https://code.google.com/p/europa-pso/wiki/NDDLReference 
     http://ti.arc.nasa.gov/m/pub-archive/1423h/1423%20(Smith,%20D).pdf 
 
-Paul Groth ‏@pgroth  5h
-Stoked about the panel I’ll be moderating at #RDAPlenary - #datascience science meets #escience 
+Paul Groth @pgroth Stoked about the panel I’ll be moderating at #RDAPlenary - #datascience science meets #escience 
 
 @TheContentMine talk "ContentMine: Open Data and Social Machines" slides at http://www.slideshare.net/petermurrayrust/contentmine-open-data-and-social-machines … 
 
@@ -343,9 +342,9 @@ The Imminent Decentralized Computing Revolution http://on.wsj.com/1sxIuUn  (http
 http://www.slideshare.net/allaves1/towards-efficient  processing of rdf data streams
 
 
-Jean-Paul Calbimonte ‏@jpcik  17h17 hours ago #rsp RDF #streams workshop is Tomorrow at #ESWC2015 ! Happy to announce our invited speaker @AdrianPaschke http://www.w3.org/community/rsp/rsp-workshop-2015/ …
+Jean-Paul Calbimonte @jpcik  17h17 hours ago #rsp RDF #streams workshop is Tomorrow at #ESWC2015 ! Happy to announce our invited speaker @AdrianPaschke http://www.w3.org/community/rsp/rsp-workshop-2015/ …
 
- Open Science retweeted Lora Aroyo ‏@laroyo  Nov 14 Amsterdam, North Holland
+ Open Science retweeted Lora Aroyo @laroyo  Nov 14 Amsterdam, North Holland
 Software Sustainability: Better Software Better Science #openscience #opensource http://www.slideshare.net/carolegoble/software-sustainability-better-software-better-science … via @SlideShare @CaroleAnneGoble
 
 Kaitlin Thaney @kaythaney  ·  Nov 16
@@ -404,13 +403,15 @@ Kingsley Uyi Idehen @kidehen  ·  Nice piece of history by John F. Sowa: http://
 
 planetlisp pgloader http://tapoueh.org/blog/2015/01/22-my-first-slashdot-effect.html #<SYSTEM pgloader / pgloader-3.1.1 / quicklisp 2015-01-13> 
 
-David Wood ‏@prototypo Science Bots: A Model for the Future of Scientific Computation? http://buff.ly/1D9N9xd  #semweb
-jahendler ‏@jahendler  @prototypo what these need is an agent markup language!  (Oh, wait, time warped into the past - just ignore me)
+David Wood @prototypo Science Bots: A Model for the Future of Scientific Computation? http://buff.ly/1D9N9xd  #semweb
+jahendler @jahendler  @prototypo what these need is an agent markup language!  (Oh, wait, time warped into the past - just ignore me)
 
 a lot from https://twitter.com/hashtag/ontologysummit?src=hash , https://twitter.com/ontologysummit 28,287 tweets archived
 
 @ontologysummit Join #Ontolog Forum online today http://bit.ly/1PI1MPY  #ontology 12:30EST #semantic #ontology 
     http://webconf.soaphub.org/conf/room/summit_20160218
+
+@DaSeLab  Ontolog talk today by @aakrisnadhi on  Dealing with Semantic Heterogeneity in Data Integration - http://ontologforum.org/index.php?title=ConferenceCall_2016_02_25 … 12:30pm eastern
 
 http://www.meetup.com/USF-Seminar-Series-in-Analytics/events/216142252/
  iot+datasci+mbr reminds me or re ge talks using eureqa
@@ -456,7 +457,7 @@ Khalid Belhajjame @kbelhajj  My work on mining #workflows for fragment reuse tha
 
 Jodi Schneider @jschneider  Current paper uses ACT, an ontology that combines workflow & spatiotemporal perspectives: http://ontologydesignpatterns.org/wiki/Submissions:An_Ontology_Design_Pattern_for_Activity_Reasoning … Nice! #LISC2015 #ISWC2015
 
-Daniel Garijo ‏@dgarijov  My slides for the Open Research Data day: http://www.slideshare.net/dgarijo/open-research-data-day-is-pre …
+Daniel Garijo @dgarijov  My slides for the Open Research Data day: http://www.slideshare.net/dgarijo/open-research-data-day-is-pre …
  
 SemanticBot @semanticbot · Organizing Scientific Competitions on the Semantic Web http://zoot.li/543sc  ;re/a version of my nonprofit Ycomb idea 
 also like my last yc idea: http://thinklab.com/blog/introducing-thinklab-a-platform-for-massively-collaborative-open-science/38
@@ -500,7 +501,7 @@ https://wiki.ncsa.illinois.edu/display/NDS/National+Data+Service+Home https://gi
 
 DBWorld Updates @dbworld_ · Mar 30 http://ift.tt/1CqSSj0  Towards Exascale Scientific Metadata Management. (arXiv:1503.08482v1 [cs.DB]) #databases 
 
-Susan Athey ‏@Susan_Athey;now at: http://www.nasonline.org/programs/sackler-colloquia/completed_colloquia/Big-data.html
+Susan Athey @Susan_Athey;now at: http://www.nasonline.org/programs/sackler-colloquia/completed_colloquia/Big-data.html
 @AnimalSpiritEd @dynarski My talk at National Academy of Science: Drawing Causal Inference from Big Data, here: http://www.nasonline.org/programs/sackler-colloquia/upcoming-colloquia/Big-data.html … 
 
 @jahendler · Mar 27 updated version of my “Broad Data” talk, presented at #CODS2015 now available in slideshare - http://www.slideshare.net/jahendler/broad-dataindia-2015share … #bigdatamedia
@@ -526,11 +527,11 @@ http://www.meetup.com/Delightful-Data-Products/events/221078062/ sythesizing hum
 and
 http://www.meetup.com/Distributed-Work/events/221376369/ Is Science just a game?  @crowdflower, on Foldit&EteRNA etc
 
-Harald Sack ‏@lysander07  Apr 14
+Harald Sack @lysander07  Apr 14
 Slides from kickoff meeting of my current seminar Semantic Multimedia at #HPI https://docs.google.com/presentation/d/1LXa6uGiac0m6wsS9ZmUmLb1jr3OXTb1FrMqqNMknDLw/edit?usp=sharing … #semanticweb pic.twitter.com/PzfGSbdirI
- m bobak ‏@MBstream  Apr 15
+ m bobak @MBstream  Apr 15
 @lysander07 hope we can follow along @ http://semmul2015.blogspot.com/  &still catch as much as I did from your other classes, openHPI offered online
-Harald Sack ‏@lysander07
+Harald Sack @lysander07
 @MBstream Sure :) All course material will be published as well as the ongoing work/topics/discussions in our blog at http://semmul2015.blogspot.com/  
 
 MEMEX: https://twitter.com/forbestech/status/589106044841893889
