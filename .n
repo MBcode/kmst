@@ -927,3 +927,5 @@ Cyc, the most ambitious AI Project uses #LISP and have their own LISP-like langu
 
 @tonyhammond  IBM's Watson Concept Insights API: http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/concept-insights.html … (via Az Jassal) #concept #graph #cloud
  
+@pascalhitzler https://twitter.com/hashtag/phenotypeRCN?src=hash http://www.phenotypercn.org/?p=2568 
+    http://www.slideshare.net/taxonbytes/franz-2016-phenotype-rcn-representing-taxonomy-and-phylogeny-as-logically-tractable-variables 
