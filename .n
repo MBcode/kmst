@@ -309,6 +309,8 @@ kmp> gred -n rule note
 http://www.slideshare.net/swadpasc/paschke-rule-ml2014keynote 
  instans another CEP http://en.wikipedia.org/wiki/Complex_event_processing
 
+Started a very long journey w/rules w/: https://github.com/briangu/OPS5 incl mixed w/C molecular-dynamics code for MS thesis
+
 https://gigaom.com/2014/09/17/watch-the-live-stream-of-our-future-of-ai-and-deep-learning-event-tonight/
  @etzioni best part/but everything I got to see was interesting; hope to catch archive
 
