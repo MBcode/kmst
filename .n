@@ -694,6 +694,12 @@ Lon Riesberg @lonriesberg  Learning to learn, or the advent of augmented data sc
 Franz Inc. @Franzinc  Gruff v5.9 Now Available.  New layouts for data exploration.  http://franz.com/agraph/gruff/   #nosql #RDF #graphdatabase 
 
 @Franzinc  Bay Area Lisp/Scheme Meetup Video - Semantic Graph Databases at Franz http://buff.ly/1QrjwBg 
+
+
+Franz Inc. Retweeted Einstein Coll of Med #AllegroGraph #nosql #datascience http://buff.ly/1RjIkLy   Franz Inc. added,
+    Einstein Coll of Med @EinsteinMed
+    Montefiore and Einstein tapped by The White House for its #precisionmedicine initiative http://bit.ly/1WLGaE7 
+
  
 nlp/etc: found lisp bridge from ROS(robot env)to UIMA nlp env; worth a try:
  https://github.com/cram-code/cram_bridge/blob/master/cram_uima/src/uima.lisp
