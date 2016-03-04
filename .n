@@ -414,6 +414,9 @@ a lot from https://twitter.com/hashtag/ontologysummit?src=hash , https://twitter
     http://webconf.soaphub.org/conf/room/summit_20160218
 
 @DaSeLab  Ontolog talk today by @aakrisnadhi on  Dealing with Semantic Heterogeneity in Data Integration - http://ontologforum.org/index.php?title=ConferenceCall_2016_02_25 … 12:30pm eastern
+ https://s3.amazonaws.com/ontologforum/OntologySummit2016/2016-02-25_GeoSciences/ConferenceCall_20160225.mp3
+
+http://ontologforum.org/index.php/ConferenceCall_2016_03_03 Cloud Services and Semantic Integration
 
 http://www.meetup.com/USF-Seminar-Series-in-Analytics/events/216142252/
  iot+datasci+mbr reminds me or re ge talks using eureqa
