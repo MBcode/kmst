@@ -420,6 +420,9 @@ a lot from https://twitter.com/hashtag/ontologysummit?src=hash , https://twitter
 
 http://ontologforum.org/index.php/ConferenceCall_2016_03_03 Cloud Services and Semantic Integration
 
+http://ontologforum.org/index.php/ConferenceCall_2016_03_10 Health Sciences: IR,NLM interop, integrate, sem-data-lake:
+ https://s3.amazonaws.com/ontologforum/OntologySummit2016/2016-03-10_Healthcare/The-Semantic-Data-Lake-in-Healthscience--ParsaMirhaji.pdf
+
 http://www.meetup.com/USF-Seminar-Series-in-Analytics/events/216142252/
  iot+datasci+mbr reminds me or re ge talks using eureqa
 
