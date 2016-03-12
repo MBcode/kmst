@@ -883,6 +883,9 @@ Tim @NovasTaylor Retweeted Kerstin Forsberg And let's go multidimensional with R
 m bobak Retwted Alessa Geiger http://earthcube.org/event/webinar-doing-geoscience-earthcube-tools-0I … I look fwd to seeing more of this throughout NSF/NIH/... as it has been a longtime interest. m bobak added,
     Alessa Geiger @CosmicIceFairy Insightfull @EarthCube #OntoSoft webinar on data/software creation/accessibility 4 broader community use/stewardship http://www.ontosoft.org/about 
 
+http://earthcube.org/workspace/science-committee/webinar-series-doing-geoscience-earthcube-tools ..ontosoft...cybertools..
+http://earthcube.org/event/webinar-series-doing-geoscience-earthcube-tools
+
 Helen Atkins @hba419  Nov 24 PLOS and DBpedia – an experiment towards Linked Data http://blogs.plos.org/tech/plos-and-dbpedia-an-experiment-towards-linked-data/ … 
 
 http://www.meetup.com/Federal-Big-Data-Working-Group/events/225137744/ nice to see onto use from DC, wish I could help w/it w/o having to live there
