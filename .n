@@ -949,3 +949,7 @@ Cyc, the most ambitious AI Project uses #LISP and have their own LISP-like langu
 @pascalhitzler Some take-away's from my recent encounter with the #PhenotypeRCN http://dase.cs.wright.edu/blog/some-take-aways-my-recent-encounter-phenotype-research-coordination-network …
     http://www.slideshare.net/taxonbytes/franz-2016-phenotype-rcn-representing-taxonomy-and-phylogeny-as-logically-tractable-variables 
     https://twitter.com/hashtag/phenotypeRCN?src=hash http://www.phenotypercn.org/?p=2568 
+User Actions   
+Following
+ 
+Structured Dynamics @structD Re-thinking Knowledge Representation: http://www.mkbergman.com/1929/re-thinking-knowledge-representation/ … #AI #KBAI #KR 
