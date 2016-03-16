@@ -954,3 +954,5 @@ User Actions
 Following
  
 Structured Dynamics @structD Re-thinking Knowledge Representation: http://www.mkbergman.com/1929/re-thinking-knowledge-representation/ … #AI #KBAI #KR 
+
+@maribelacosta HARE: A Hybrid SPARQL Engine to Enhance Query Answers via Crowdsourcing #crowdsourcing #sparql http://www.slideshare.net/maribelacosta/hare-a-hybrid-sparql-engine-to-enhance-query-answers-via-crowdsourcing-53775691 … 
