@@ -708,6 +708,7 @@ Franz Inc. Retweeted Einstein Coll of Med #AllegroGraph #nosql #datascience http
     Einstein Coll of Med @EinsteinMed
     Montefiore and Einstein tapped by The White House for its #precisionmedicine initiative http://bit.ly/1WLGaE7 
 
+#Cognitive Computing is Turning Precision Medicine into a Reality - buff.ly/1Va6fyw #AllegroGraph #Healthcare #NoSQL #data ;-lake
  
 nlp/etc: found lisp bridge from ROS(robot env)to UIMA nlp env; worth a try:
  https://github.com/cram-code/cram_bridge/blob/master/cram_uima/src/uima.lisp
