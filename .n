@@ -731,6 +731,8 @@ sem-NER: Ricardo Usbeck @Ricardo_Usbeck  My short introduction to #GERBIL at #se
 
 http://project-hobbit.eu/the-roots-of-hobbit/ GERBIL facilitates benchmarking of named entity recognition (NER), named entity disambiguation (NED) &..
 
+http://www-nlp.stanford.edu/software/sempre/ toolkit for training semantic parsers, which map natural language utterances to denotations(answers) via intermediate logical forms
+
 @eXascaleInfolab #sssw2015 slides of the sense making tutorial are here: http://bit.ly/1RnBg1P  ! @NgongaAxel @sssw2015
 
 Paul Groth @pgroth SciGraph - Represent ontologies and ontology-encoded knowledge in a Neo4j graph #dsos - looks pretty cool https://github.com/SciGraph/SciGraph/blob/master/README.md … ;+ cl-neo4j
