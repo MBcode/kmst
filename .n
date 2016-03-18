@@ -713,7 +713,8 @@ Franz Inc. Retweeted Einstein Coll of Med #AllegroGraph #nosql #datascience http
 #Cognitive Computing is Turning Precision Medicine into a Reality - buff.ly/1Va6fyw #AllegroGraph #Healthcare #NoSQL #data ;-lake
  
 nlp/etc: found lisp bridge from ROS(robot env)to UIMA nlp env; worth a try:
- https://github.com/cram-code/cram_bridge/blob/master/cram_uima/src/uima.lisp
+ https://github.com/cram-code/cram_bridge/blob/master/cram_uima/src/uima.lisp cram_bridge/cram_uima src/uima.lisp  http://ias.in.tum.de/research/cram
+ https://github.com/cram-code/cram_demo/blob/master/cram_pr2_fccl_demo/src/uima.lisp http://wiki.ros.org/cram_core  "" events/june2012workshopinternal/topics
  also lisp to GATE nlp: informatics.mayo.edu/sharp/images/1/1c/LATE.ppt
 
 Vsevolod @vseloved today I had a lecture on the basics of #NLProc http://www.slideshare.net/vseloved/crashcourse-in-natural-language-processing …; http://vseloved.github.io/ http://github.com/vseloved/cl-nlp
