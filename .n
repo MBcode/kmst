@@ -423,6 +423,8 @@ http://ontologforum.org/index.php/ConferenceCall_2016_03_03 Cloud Services and S
 http://ontologforum.org/index.php/ConferenceCall_2016_03_10 Health Sciences: IR,NLM interop, integrate, sem-data-lake:
  https://s3.amazonaws.com/ontologforum/OntologySummit2016/2016-03-10_Healthcare/The-Semantic-Data-Lake-in-Healthscience--ParsaMirhaji.pdf
 
+http://ontologforum.org/index.php/ConferenceCall_2016_03_17 Semantic Integration in Engineering   /onto in manufacture/design model-based(sys)engineering
+
 http://www.meetup.com/USF-Seminar-Series-in-Analytics/events/216142252/
  iot+datasci+mbr reminds me or re ge talks using eureqa
 
