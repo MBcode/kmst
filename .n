@@ -966,6 +966,8 @@ Following
  
 Structured Dynamics @structD Re-thinking Knowledge Representation: http://www.mkbergman.com/1929/re-thinking-knowledge-representation/ … #AI #KBAI #KR 
 
+plugin #SemanticWebImport for #Gephi 9.1, allowing to import RDF data has just been released.goo.gl/I3wJFc
+
 QueryVOWL is a visual query language for #LinkedData #ESWC2015 vowl.visualdataweb.org/queryvowl/
 
 @maribelacosta HARE: A Hybrid SPARQL Engine to Enhance Query Answers via Crowdsourcing #crowdsourcing #sparql http://www.slideshare.net/maribelacosta/hare-a-hybrid-sparql-engine-to-enhance-query-answers-via-crowdsourcing-53775691 … 
