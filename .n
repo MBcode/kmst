@@ -973,3 +973,6 @@ plugin #SemanticWebImport for #Gephi 9.1, allowing to import RDF data has just b
 QueryVOWL is a visual query language for #LinkedData #ESWC2015 vowl.visualdataweb.org/queryvowl/
 
 @maribelacosta HARE: A Hybrid SPARQL Engine to Enhance Query Answers via Crowdsourcing #crowdsourcing #sparql http://www.slideshare.net/maribelacosta/hare-a-hybrid-sparql-engine-to-enhance-query-answers-via-crowdsourcing-53775691 … 
+
+@DataSciFact Mar 25 No amount of data can persuade you of something you assign zero prior probability to. -- Cromwell's rule 
+@etzioni "Doubt is an uncomfortable condition, but certainty is a ridiculous one" -- Voltaire HT @AlonHalevy 
