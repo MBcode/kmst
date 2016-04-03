@@ -977,3 +977,6 @@ QueryVOWL is a visual query language for #LinkedData #ESWC2015 vowl.visualdatawe
 @etzioni "Doubt is an uncomfortable condition, but certainty is a ridiculous one" -- Voltaire HT @AlonHalevy 
 
 Paul Allen doubles down on artificial intelligence research in Seattle seattletimes.com/business/techn…
+
+https://metamap.nlm.nih.gov/Sources.shtml
+ https://metamap.nlm.nih.gov/download/public_mm_src_2013v2.tar.bz2 w/pwd
