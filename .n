@@ -925,6 +925,8 @@ Like the capturing at the point of use aspect:
 
 Benjamin Good @bgood  Thoughtful series of blog posts on integrating knowledge bases (think #semanticweb ) with machine learning.  http://www.mkbergman.com/category/kbai/  
 
+http://www.mkbergman.com/1936/deep-graphs-a-new-framework-for-network-analysis/
+
 @drfeifei  Dec 14 Visual Genome: a dataset, a knowledge base, an ongoing effort to connect structured image concepts to language.  http://visualgenome.org/  
 
 @simonjupp  Dec 18 Some graph visualisation added to the new Ontology Lookup Service beta - feedback welcome http://goo.gl/3Kva7B  
