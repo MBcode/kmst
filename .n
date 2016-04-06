@@ -426,6 +426,9 @@ http://ontologforum.org/index.php/ConferenceCall_2016_03_17 Semantic Integration
  
 http://ontologforum.org/index.php/ConferenceCall_2016_03_24 Semantic Integration in Finance ;FIBO
 
+http://ontologforum.org/index.php/ConferenceCall_2016_03_31 Semantic Integration for Geographically Distributed Sensor and Control Systems
+ missed query where I could have explained rule-sets to the group
+
 http://www.meetup.com/USF-Seminar-Series-in-Analytics/events/216142252/
  iot+datasci+mbr reminds me or re ge talks using eureqa
 
