@@ -176,7 +176,9 @@ really do want data-cube/etc to annotae sci data, maybe w/kmp &hdf part of cl-an
  =https://github.com/ghollisjr/cl-ana  has hdf-table,&much more for data-analysis
  https://github.com/ghollisjr/cl-ana/wiki/Tables Histograms Fitting Plotting Generic-Math
  a few more semantic-stats links, could start w/something simple /even w/just data-tables
-https://www.hdfgroup.org/HDF5/release/obtain5110.html Single-Writer / Multiple-Reader (SWMR), So easier interop btw lang/libs
+https://www.hdfgroup.org/HDF5/release/obtain5110.html Single-Writer / Multiple-Reader (SWMR),So easier interop btw lang/libs docs.h5py.org/en/latest/swmr.html
+http://answers.semanticweb.com/questions/28331/big-hdf5-dataset-in-linked-data https://www.w3.org/TR/vocab-data-cube http://csarven.ca/linked-sdmx-data 
+hdf5 linked-data OR linked-open-data: https://bioportal.bioontology.org/projects/BIOM-LD .. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3105758/
 
 
  Dean Wampler @deanwampler  ;might help pick distrib-filestore; get RRDs on ceph too?
