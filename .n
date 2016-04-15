@@ -435,6 +435,8 @@ http://ontologforum.org/index.php/ConferenceCall_2016_03_31 Semantic Integration
 http://ontologforum.org/index.php/ConferenceCall_2016_04_07 Health Sciences
 Meet 7-APR #Ontology semantic interop for #EHR + healthcare bit.ly/1MduxFZ #OntologySummit #HIT
 
+http://ontologforum.org/index.php/ConferenceCall_2016_04_14 Synthesis (of the last topic/weeks)
+
 http://www.meetup.com/USF-Seminar-Series-in-Analytics/events/216142252/
  iot+datasci+mbr reminds me or re ge talks using eureqa
 
