@@ -993,3 +993,5 @@ Paul Allen doubles down on artificial intelligence research in Seattle seattleti
 
 https://metamap.nlm.nih.gov/Sources.shtml
  https://metamap.nlm.nih.gov/download/public_mm_src_2013v2.tar.bz2 w/pwd
+
+http://ontologydesignpatterns.org/wiki/ODPA   Association for Ontology Design & Patterns (ODPA) 
