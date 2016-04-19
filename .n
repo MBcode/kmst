@@ -998,3 +998,5 @@ https://metamap.nlm.nih.gov/Sources.shtml
 http://ontologydesignpatterns.org/wiki/ODPA   Association for Ontology Design & Patterns (ODPA) 
 
 https://force2016.sched.org/list/descriptions/ ...semantic infrastructure for research...FAIR...  
+
+http://www.tkuhn.org/pub/sempub/sempub.rash.html Genuine Semantic Publishing [Incomplete Draft, 16 April 2016]
