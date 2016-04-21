@@ -1002,3 +1002,5 @@ http://ontologydesignpatterns.org/wiki/ODPA   Association for Ontology Design & 
 https://force2016.sched.org/list/descriptions/ ...semantic infrastructure for research...FAIR...  
 
 http://www.tkuhn.org/pub/sempub/sempub.rash.html Genuine Semantic Publishing [Incomplete Draft, 16 April 2016]
+
+UoE lectures on search engines and information retrieval are now online bit.ly/ttsds2015 (186 videos) 
