@@ -1011,3 +1011,4 @@ http://www.tkuhn.org/pub/sempub/sempub.rash.html Genuine Semantic Publishing [In
 UoE lectures on search engines and information retrieval are now online bit.ly/ttsds2015 (186 videos) 
 
 AKSW @akswgroup @bergi_bergos @elfpavlik sure, this is the project resource: http://aksw.org/Projects/xOperator … source code should be available and 3 publications 
+https://github.com/connectik/xoperator.git A semantic agent for xmpp/jabber network which finds&shares content about resources(using RDF/SPARQL)for you&your jabber friends. 
