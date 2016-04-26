@@ -904,6 +904,7 @@ Check out PReMOn premon.fbk.eu, predicate models as LOD, just accepted for oral 
 
 Cognitum @cognitum_eu  Modeling #Ontologies with Natural Language  #Semantic #Linked #data #NLP http://goo.gl/kkIMBZ ,OCNL;not so far from KM (but w/parens), &not quite ACE/controlled NL
  http://techblog.cognitum.eu/2015/01/using-rontorion-package-in-r-rstudio.html http://www.istc.cnr.it/news/fred-and-tipalo-natural-language-rdfowl fred &NL in rdf(nlp2rdf)
+ https://site.nlp2rdf.org/ 
 
 @RainerJoswig One of the first larger #Lisp applications (1973): LUNAR, natural language system in the domain of lunar geology.  http://www.computer.org/csdl/proceedings/afips/1973/5081/00/50810441.pdf …
  
@@ -1014,3 +1015,5 @@ AKSW @akswgroup @bergi_bergos @elfpavlik sure, this is the project resource: htt
 https://github.com/connectik/xoperator.git A semantic agent for xmpp/jabber network which finds&shares content about resources(using RDF/SPARQL)for you&your jabber friends. 
 
 http://sioc-project.org/ http://rdfs.org/sioc/spec/ https://en.wikipedia.org/wiki/Semantically-Interlinked_Online_Communities 
+ 
+https://site.nlp2rdf.org/ http://aksw.org/Projects/AutoSPARQL.html
