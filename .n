@@ -1017,3 +1017,9 @@ https://github.com/connectik/xoperator.git A semantic agent for xmpp/jabber netw
 http://sioc-project.org/ http://rdfs.org/sioc/spec/ https://en.wikipedia.org/wiki/Semantically-Interlinked_Online_Communities 
  
 https://site.nlp2rdf.org/ http://aksw.org/Projects/AutoSPARQL.html
+
+@stanfordnlp Stanford NLP Group Retweeted Katherine Ognyanova 
+    Social science text analysis—LDA shown to be more effective than hand-written keyword lists, largely due to recall 
+    Katherine Ognyanova @Ognyanova 
+    Big social data analysis for journalism & media: Dictionary-based text analysis vs LDA topic models http://bit.ly/1qtcoK8  #nlproc #BigData
+ 
