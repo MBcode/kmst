@@ -439,6 +439,8 @@ http://ontologforum.org/index.php/ConferenceCall_2016_04_14 Synthesis (of the la
 
 http://ontologforum.org/index.php/ConferenceCall_2016_04_21 Finance and Retail
 
+http://ontologforum.org/index.php/ConferenceCall_2016_04_28 Communiqué (geo,health,engineering,finance)
+
 http://www.meetup.com/USF-Seminar-Series-in-Analytics/events/216142252/
  iot+datasci+mbr reminds me or re ge talks using eureqa
 
