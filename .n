@@ -540,6 +540,9 @@ New blog entry: "Spark and SPARQL; RDF Graphs and GraphX" http://www.snee.com/bo
 
 http://afs.github.io/rdf-thrift/ rdf-binary-thrift.html http://www.semanlink.net/tag/rdf_thrift.html 
 
+@dbworld_ http://ift.tt/1Z1fL6y  SPARQL query processing with Apache Spark. (arXiv:1604.08903v1 [cs.DB]) #databases
+
+
 Olaf Hartig @olafhartig  ·  Apr 4 Nature publishes Linked Data consisting of 270M RDF statements http://www.nature.com/press_releases/ldp.html …
 Siri Jodha S. Khalsa @sjskhalsa  ·  Apr 8 #ClearEarth is an NSF DIBBS project building semantic resources for geology, cryology, biology http://1.usa.gov/1yWcOql  at #ECTechHands
 Gary Berg-Cross @garybcross Yolanda Gill Geosoft  project to help scientists share knowledge http://www.geosoft-earthcube.org/  #ectechhands #earthcube @resdatall @datacite @NSF
