@@ -1031,3 +1031,5 @@ https://site.nlp2rdf.org/ http://aksw.org/Projects/AutoSPARQL.html
     Katherine Ognyanova @Ognyanova 
     Big social data analysis for journalism & media: Dictionary-based text analysis vs LDA topic models http://bit.ly/1qtcoK8  #nlproc #BigData
  
+
+https://www.futurelearn.com/courses/linked-data
