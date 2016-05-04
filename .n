@@ -1033,3 +1033,5 @@ https://site.nlp2rdf.org/ http://aksw.org/Projects/AutoSPARQL.html
  
 
 https://www.futurelearn.com/courses/linked-data
+
+just missed https://reproduciblescience.org/nyu/events/reproducibility-symposium-2016/schedule/
