@@ -595,7 +595,7 @@ www.meetup.com/SF-Bayarea-Machine-Learning/events/221739934/ Globally Scalable W
 m bobak @MBstream  ·  Apr 21 https://www.w3.org/wiki/Main_Page/Linked_Data_2015 … ... http://www.digital-science.com/blog/events/shaking-it-up-challenges-and-solutions-in-scholarly-information-management/ …
 
 https://www.futurelearn.com/courses/linked-data/1/todo/4679 INTRODUCTION TO LINKED DATA AND THE SEMANTIC WEB 
- finished: 4.0M    ./w2 2.2M    ./w3 2.0M    ./w1 -> 8.2M    .
+ finished last/3rd week: 4.0M    ./w2 2.2M    ./w3 2.0M    ./w1 -> 8.2M    .
 
 after w3c(LD)wg, heard: [CL] Common Logic conference call - Tuesday 2015.04.28;then http://earthcube.org/event/c4p-webinar-geolink-earthcube-building-block-semantics-linked-data-geosciences
 
