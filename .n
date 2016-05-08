@@ -1038,3 +1038,4 @@ https://site.nlp2rdf.org/ http://aksw.org/Projects/AutoSPARQL.html
 https://www.futurelearn.com/courses/linked-data
 
 just missed https://reproduciblescience.org/nyu/events/reproducibility-symposium-2016/schedule/
+Blog post on Reproducibility Symposium held at @NYUDataScience #MooreData @SloanFoundation #OpenScience theoryandpractice.org/2016/05/Reprod…
