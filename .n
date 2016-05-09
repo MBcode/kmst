@@ -207,6 +207,8 @@ Karima Rafes @karima_rafes jun21 Enabling Accessible Knowledge http://csarven.ca
 https://twitter.com/philarcher1/status/481345638349938688 incl these data-descriptors
 The most important @w3c vocabulary since SKOS, Data Cube, has its own conference in September http://semstats2014.wordpress.com/  #semstats2014 @csarven
 https://twitter.com/OpenCubeProject  http://opencube-project.eu/ work-packages
+@marin_dim CfP 4th Int'l Workshop on Semantic Statistics, part of #ISWC2016, Oct 17, Kobe|JP http://semstats.org/2016/call-for-contributions … #LinkedData #OpenData
+
 
 @OpenCubeProject: Toward a Statistical Data Integration Environment - The Role of Semantic Metadata https://t.co/NGezK3HrOH
 
