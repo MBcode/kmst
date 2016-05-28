@@ -163,7 +163,7 @@ https://www.google.com/events/io/io14videos/86c8ee27-39da-e311-b297-00155d5066d7
 http://blog.swirrl.com/articles/linked-data-etl/
  
  Retweeted by Dataverse Network
- Mercè Crosas ‏@mercecrosas  23h
+ Mercè Crosas @mercecrosas  23h
 Slides on "Dataverse with DataTags: Sharing Data you can't Share" presented with @michbarsinai at iRODS Meeting @IQSS http://owl.li/yxkh1  
 also: http://datascience.iq.harvard.edu/presentations/data-publishing-workflows-dataverse ...
 iRODS uses rules for data-store, this sci data store/share metadata not necc w3c stnd
@@ -928,6 +928,8 @@ Tim @NovasTaylor Retweeted Kerstin Forsberg And let's go multidimensional with R
   Kerstin Forsberg @kerfors Kerstin Forsberg Retweeted Wayne Kubick Yay, former CTO of @CDISC list RDF, JSON, URIs and linked data   
     Wayne Kubick @WayneKubick Life after the v3.x SDTMIGs http://waynekubick.com/2015/11/13/life-after-the-v3-x-sdtmigs … ; http://www.cdisc.org/sdtm  ;me: datacube v dataframe, yes:
  @philarcher1 Hope Mariana Kotzeva et al at Eurostat know that RDF Data Cube is how to do SDMX in Linked Open Data http://www.w3.org/TR/vocab-data-cube #edf2015
+
+http://csarven.ca/statistical-linked-dataspaces for his MS, incl tools: GraphPusher(buld load2rdf),Linked-Data-Pages(pub),&more.
 
 m bobak Retwted Alessa Geiger http://earthcube.org/event/webinar-doing-geoscience-earthcube-tools-0I … I look fwd to seeing more of this throughout NSF/NIH/... as it has been a longtime interest. m bobak added,
     Alessa Geiger @CosmicIceFairy Insightfull @EarthCube #OntoSoft webinar on data/software creation/accessibility 4 broader community use/stewardship http://www.ontosoft.org/about 
