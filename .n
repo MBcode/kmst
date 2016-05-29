@@ -204,6 +204,8 @@ http://blog.swirrl.com/articles/linked-data-etl/ can stream vs openrefine in ram
 
 Karima Rafes @karima_rafes jun21 Enabling Accessible Knowledge http://csarven.ca/enabling-accessible-knowledge … #OpenScience
 
+https://twitter.com/kmiou/status/639120630416306178 Mapping #OpenScience with a #Taxonomy http://dx.doi.org/10.6084/m9.figshare.1508606 … from the @fosterscience project http://fosteropenscience.eu/ 
+
 https://twitter.com/philarcher1/status/481345638349938688 incl these data-descriptors
 The most important @w3c vocabulary since SKOS, Data Cube, has its own conference in September http://semstats2014.wordpress.com/  #semstats2014 @csarven
 https://twitter.com/OpenCubeProject  http://opencube-project.eu/ work-packages
