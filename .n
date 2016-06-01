@@ -1052,3 +1052,5 @@ just missed https://reproduciblescience.org/nyu/events/reproducibility-symposium
 Blog post on Reproducibility Symposium held at @NYUDataScience #MooreData @SloanFoundation #OpenScience theoryandpractice.org/2016/05/Reprod…
 
 @alicraigmile Currently reading: "Open Data for Education" by Dmitry Mouromtsev @mdaquin and others.  https://pbs.twimg.com/media/CiF0hecW0AAWmQY.jpg
+
+jahendler @jahendler  My slides from ESWC 2016 keynote are now online at http://www.slideshare.net/jahendler/wither-owl … #ESWC2016 
