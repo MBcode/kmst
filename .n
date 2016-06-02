@@ -1054,3 +1054,5 @@ Blog post on Reproducibility Symposium held at @NYUDataScience #MooreData @Sloan
 @alicraigmile Currently reading: "Open Data for Education" by Dmitry Mouromtsev @mdaquin and others.  https://pbs.twimg.com/media/CiF0hecW0AAWmQY.jpg
 
 jahendler @jahendler  My slides from ESWC 2016 keynote are now online at http://www.slideshare.net/jahendler/wither-owl … #ESWC2016 
+
+@STKO_UCSB  A Provenance-Producing Transparent SPARQL Proxy for the On-Demand Computation of Linked Data http://www.slideshare.net/BlakeRegalia/volt-eswc-2016 … #eswc2016 #linkeddata 
