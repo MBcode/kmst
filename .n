@@ -1059,3 +1059,6 @@ jahendler @jahendler  My slides from ESWC 2016 keynote are now online at http://
 
 https://twitter.com/stanfordnlp/status/738607912084332544 @stanfordnlp
 .@kuttyvignesh94 Yes, using openie annotator—http://stanfordnlp.github.io/CoreNLP/openie.html …—you can get out Open IE triples like ⟨Tay,sent,polaroid of cupcake⟩
+
+I Retweeted Robert Zubek @rzubek  For #AI peeps: "Building Problems Solvers" book by Forbus & de Kleer has been re-relased as free PDF by the authors: http://www.qrg.northwestern.edu/BPS/readme.html
+TMS https://en.wikipedia.org/wiki/Reason_maintenance  
