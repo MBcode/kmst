@@ -1057,6 +1057,8 @@ jahendler @jahendler  My slides from ESWC 2016 keynote are now online at http://
 
 @STKO_UCSB  A Provenance-Producing Transparent SPARQL Proxy for the On-Demand Computation of Linked Data http://www.slideshare.net/BlakeRegalia/volt-eswc-2016 … #eswc2016 #linkeddata 
 
+http://blog.mynarz.net/2013/07/capturing-temporal-dimension-of-linked.html?m=1 
+
 https://twitter.com/stanfordnlp/status/738607912084332544 @stanfordnlp
 .@kuttyvignesh94 Yes, using openie annotator—http://stanfordnlp.github.io/CoreNLP/openie.html …—you can get out Open IE triples like ⟨Tay,sent,polaroid of cupcake⟩
 
