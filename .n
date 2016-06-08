@@ -1063,4 +1063,6 @@ https://twitter.com/stanfordnlp/status/738607912084332544 @stanfordnlp
 .@kuttyvignesh94 Yes, using openie annotator—http://stanfordnlp.github.io/CoreNLP/openie.html …—you can get out Open IE triples like ⟨Tay,sent,polaroid of cupcake⟩
 
 I Retweeted Robert Zubek @rzubek  For #AI peeps: "Building Problems Solvers" book by Forbus & de Kleer has been re-relased as free PDF by the authors: http://www.qrg.northwestern.edu/BPS/readme.html
-TMS https://en.wikipedia.org/wiki/Reason_maintenance  
+TMS https://en.wikipedia.org/wiki/Reason_maintenance belief-update explainability 
+
+http://reasoner.sourceforge.net/  Assumption-Based Truth-Maintenance System (ATMS), Rules, CLOS/MOP, lparallel
