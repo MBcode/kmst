@@ -1067,3 +1067,6 @@ TMS https://en.wikipedia.org/wiki/Reason_maintenance belief-update explainabilit
 
 http://reasoner.sourceforge.net/  Assumption-Based Truth-Maintenance System (ATMS), Rules, CLOS/MOP, lparallel http://www.cliki.net/Common%20Lisp%20Reasoner 
 https://www.reddit.com/r/lisp/comments/4kqg31/expert_systems_in_common_lisp/ 
+
+999followers,tweet1519:
+@pascalhitzler  Video of my talk on ontology modeling is online at http://andara.uqam.ca/Panopto/Pages/Viewer.aspx?id=9fd70924-e92b-42c3-b633-c3ccd6efcab2 … #ss16_reasoning 
