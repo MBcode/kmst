@@ -657,6 +657,9 @@ https://twitter.com/hoque_michelle/status/601846755425128448
 @hoque_michelle: DeepDive helps create structured data from unstructured information (text documents) http://t.co/IYO5FGCYDs @StanfordMed  #bigdatamed
 Deepdive https://twitter.com/abresler/status/601468927437189120 https://twitter.com/hazyresearch/status/602578569768775681
 
+@HazyResearch Retweeted Benjamin Good We are too! Related ML stuff http://bit.ly/1qKpwKT  and @ajratner et al's DDlite on github http://bit.ly/1rWl78u .
+ http://arxiv.org/abs/1605.07723Data Programming: Creating Large Training Sets, Quickly  https://github.com/HazyResearch/ddlite
+
 Bob DuCharme @bobdc · Interesting notes from U Bologna's @essepuntato on "Research Articles in Simplified HTML" format, which includes RDF https://lists.w3.org/Archives/Public/semantic-web/2015May/0126.html …
 
 "Spark Gets New Machine Learning Framework: KeystoneML" http://prsm.tc/7pc6mM https://twitter.com/hntweets/status/604796940140707840 
