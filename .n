@@ -1074,3 +1074,5 @@ https://www.reddit.com/r/lisp/comments/4kqg31/expert_systems_in_common_lisp/
 999followers,tweet1519:
 @pascalhitzler  Video of my talk on ontology modeling is online at http://andara.uqam.ca/Panopto/Pages/Viewer.aspx?id=9fd70924-e92b-42c3-b633-c3ccd6efcab2 … #ss16_reasoning 
 https://uqam.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9fd70924-e92b-42c3-b633-c3ccd6efcab2 
+
+@IAugenstein Learn more about our #SemEval2017 #ScienceIE task (extracting keyphrases + relations from science articles): https://scienceie.github.io/  #NLProc 
