@@ -1078,3 +1078,8 @@ https://uqam.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9fd70924-e92b-42c3-
 @IAugenstein Learn more about our #SemEval2017 #ScienceIE task (extracting keyphrases + relations from science articles): https://scienceie.github.io/  #NLProc 
 
 #LinkedData Notifications rawgit.com/csarven/ldn/ma… is now an Editor's Draft in the @w3c @SocialWebWG Issues: 
+
+@UnixToolTip;I really have been looking for programming-language-interop: 
+Babel: mixing multiple programming languages with prose in Emacs org-mode http://orgmode.org/worg/org-contrib/babel/intro.html … 
+;would prefer w/o Emacs, though a ver of eVIl/spacemacs might work for me
+;climacs running evil mode
