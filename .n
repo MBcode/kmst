@@ -1083,3 +1083,6 @@ https://uqam.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9fd70924-e92b-42c3-
 Babel: mixing multiple programming languages with prose in Emacs org-mode http://orgmode.org/worg/org-contrib/babel/intro.html … 
 ;would prefer w/o Emacs, though a ver of eVIl/spacemacs might work for me
 ;climacs running evil mode
+
+@antgoldbloom  We have renamed Kaggle Scripts to Kaggle Kernels: they're becoming far more than an online scripting environment
+http://blog.kaggle.com/2016/07/08/kaggle-kernel-a-new-name-for-scripts/ ;I wanted a cooperative citizen(data)science idea2incl this sort of thing
