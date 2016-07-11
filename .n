@@ -1086,3 +1086,5 @@ Babel: mixing multiple programming languages with prose in Emacs org-mode http:/
 
 @antgoldbloom  We have renamed Kaggle Scripts to Kaggle Kernels: they're becoming far more than an online scripting environment
 http://blog.kaggle.com/2016/07/08/kaggle-kernel-a-new-name-for-scripts/ ;I wanted a cooperative citizen(data)science idea2incl this sort of thing
+
+@amit_p Excellent panel at Semantic #MachineLearning workshop at #IJCAI16: http://ln.is/i2r.a-star.edu.sg/jNMT0 … @hemant_pt #SemanticWeb 
