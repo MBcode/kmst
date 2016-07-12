@@ -1088,3 +1088,6 @@ Babel: mixing multiple programming languages with prose in Emacs org-mode http:/
 http://blog.kaggle.com/2016/07/08/kaggle-kernel-a-new-name-for-scripts/ ;I wanted a cooperative citizen(data)science idea2incl this sort of thing
 
 @amit_p Excellent panel at Semantic #MachineLearning workshop at #IJCAI16: http://ln.is/i2r.a-star.edu.sg/jNMT0 … @hemant_pt #SemanticWeb 
+
+@lemonodor John Wiseman Retweeted Jason Baldridge Amazing set of slides on sentiment, personality and NLP. 
+ @jasonbaldridge Here are the slides for my tutorial on "Computing Sentiment, Emotion and Personality" for #SAS16! https://drive.google.com/file/d/0B6gZtrNQdPXGRWV1SmlSbEdYU1E/view?usp=sharing … 
