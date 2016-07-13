@@ -1093,3 +1093,5 @@ http://blog.kaggle.com/2016/07/08/kaggle-kernel-a-new-name-for-scripts/ ;I wante
 
 @lemonodor John Wiseman Retweeted Jason Baldridge Amazing set of slides on sentiment, personality and NLP. 
  @jasonbaldridge Here are the slides for my tutorial on "Computing Sentiment, Emotion and Personality" for #SAS16! https://drive.google.com/file/d/0B6gZtrNQdPXGRWV1SmlSbEdYU1E/view?usp=sharing … 
+
+https://www.coursera.org/learn/natural-language-processing might find time to finish this one, as brush up..
