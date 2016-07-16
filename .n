@@ -1101,3 +1101,4 @@ http://www.meetup.com/Bay-Area-Bot-Chat-and-Conversational-App-Developers/events
 https://twitter.com/flanaganlyfe/status/753919897474826240 
  @Flanaganlyfe #ArtificialIntelligence #AI Rise of the machines postponed after all contestants fail AI challenge - Inquirer 
  http://www.theinquirer.net/inquirer/news/2464959/rise-of-the-machines-postponed-after-all-contestants-fail-ai-challenge 
+https://www.technologyreview.com/s/601897/tougher-turing-test-exposes-chatbots-stupidity 
