@@ -1102,3 +1102,5 @@ https://twitter.com/flanaganlyfe/status/753919897474826240
  @Flanaganlyfe #ArtificialIntelligence #AI Rise of the machines postponed after all contestants fail AI challenge - Inquirer 
  http://www.theinquirer.net/inquirer/news/2464959/rise-of-the-machines-postponed-after-all-contestants-fail-ai-challenge 
 https://www.technologyreview.com/s/601897/tougher-turing-test-exposes-chatbots-stupidity 
+
+@jahendler  Jul 15 My #ijcai16 keynote on KR in age of #deeplearning @IBMWatson and #semweb slides are online: http://www.slideshare.net/jahendler/knowledge-representation-in-the-age-of-deep-learning-watson-and-the-semantic-web … #ai  
