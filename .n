@@ -1104,3 +1104,11 @@ https://twitter.com/flanaganlyfe/status/753919897474826240
 https://www.technologyreview.com/s/601897/tougher-turing-test-exposes-chatbots-stupidity 
 
 @jahendler  Jul 15 My #ijcai16 keynote on KR in age of #deeplearning @IBMWatson and #semweb slides are online: http://www.slideshare.net/jahendler/knowledge-representation-in-the-age-of-deep-learning-watson-and-the-semantic-web … #ai  
+
+we got an amazon-echo, tried it's sdk(too much just to play on my laptop)unless I missed the short version;so went through a long list of TTS,incl: mycroft,..
+ https://github.com/Fizzixnerd/cl-sphinx.git .. &during that found this repo w/a number of interesting pkgs:
+  https://github.com/belambert/ cl-asr.git ..  cl-pos-tagger, cl-dependency-lm, cl-language-model & cl-machine-learning ;missing blambert-utils, but found
+   http://www.cs.cmu.edu/~belamber/ &have written&he should be able to find them; Looks like interesting work/code/pubs, look fwd to perusing some more.
+    Noticed he had used Fahlman's SCONE, which I looked@while @ucsf.edu, &worked w/Dan Roth(who I missed overlapping w/);&was@amherst,liked prev ai/lisp work.
+   will also look@belambert's py work,mycroft,&others(though might lisp/hylang wrap some of it, to play w/).
+ 
