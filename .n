@@ -1094,7 +1094,7 @@ http://blog.kaggle.com/2016/07/08/kaggle-kernel-a-new-name-for-scripts/ ;I wante
 @lemonodor John Wiseman Retweeted Jason Baldridge Amazing set of slides on sentiment, personality and NLP. 
  @jasonbaldridge Here are the slides for my tutorial on "Computing Sentiment, Emotion and Personality" for #SAS16! https://drive.google.com/file/d/0B6gZtrNQdPXGRWV1SmlSbEdYU1E/view?usp=sharing … 
 
-https://www.coursera.org/learn/natural-language-processing might find time to finish this one, as brush up..
+https://www.coursera.org/learn/natural-language-processing might find time to finish this one, as brush up.. ;w3 as I'm looking@re code
 
 http://www.meetup.com/Bay-Area-Bot-Chat-and-Conversational-App-Developers/events/232444480/ 
  chat offerings have a way2go, probably too much learning&little understanding/ability2help system
@@ -1111,4 +1111,6 @@ we got an amazon-echo, tried it's sdk(too much just to play on my laptop)unless 
    http://www.cs.cmu.edu/~belamber/ &have written&he should be able to find them; Looks like interesting work/code/pubs, look fwd to perusing some more.
     Noticed he had used Fahlman's SCONE, which I looked@while @ucsf.edu, &worked w/Dan Roth(who I missed overlapping w/);&was@amherst,liked prev ai/lisp work.
    will also look@belambert's py work,mycroft,&others(though might lisp/hylang wrap some of it, to play w/).
+  got belambert-utils, still (at least) need cl-optimization/cl-lm 4ML& misc dir for models
  
+https://github.com/golems/motion-grammar-kit looks interesting, too bad in exhausts the control stack ;also problems getting ccl ppccl.image;&ecl/gcl quicklisp
