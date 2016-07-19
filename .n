@@ -1112,5 +1112,7 @@ we got an amazon-echo, tried it's sdk(too much just to play on my laptop)unless 
     Noticed he had used Fahlman's SCONE, which I looked@while @ucsf.edu, &worked w/Dan Roth(who I missed overlapping w/);&was@amherst,liked prev ai/lisp work.
    will also look@belambert's py work,mycroft,&others(though might lisp/hylang wrap some of it, to play w/).
   got belambert-utils, still (at least) need cl-optimization/cl-lm 4ML& misc dir for models
+  cl-lm was just learning-models under diff name, tried a pos-mapping in misc but wrong format; so no lm or maxent yet;have other notes on fixes
  
 https://github.com/golems/motion-grammar-kit looks interesting, too bad in exhausts the control stack ;also problems getting ccl ppccl.image;&ecl/gcl quicklisp
+
