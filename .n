@@ -1116,3 +1116,5 @@ we got an amazon-echo, tried it's sdk(too much just to play on my laptop)unless 
  
 https://github.com/golems/motion-grammar-kit looks interesting, too bad in exhausts the control stack ;also problems getting ccl ppccl.image;&ecl/gcl quicklisp
 
+Retweeted @FrankVanHarmele Excellent slides on Knowledge Engineering: the science of knowledge patterns by @aldogangemi & @vpresutti http://www.slideshare.net/gangemi/knowledge-patterns-sssw2016 … #SSSW2016 
+ 
