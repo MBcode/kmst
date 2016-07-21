@@ -1118,3 +1118,5 @@ https://github.com/golems/motion-grammar-kit looks interesting, too bad in exhau
 
 Retweeted @FrankVanHarmele Excellent slides on Knowledge Engineering: the science of knowledge patterns by @aldogangemi & @vpresutti http://www.slideshare.net/gangemi/knowledge-patterns-sssw2016 … #SSSW2016 
  
+@chrmanning I’ve put up the slides for my #sigir2016 invited talk at http://nlp.stanford.edu/~manning/talks/SIGIR2016-Deep-Learning-NLI.pdf … – including a voiceover for the last slide so it‘s clearer. 
+ 
