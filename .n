@@ -1120,3 +1120,4 @@ Retweeted @FrankVanHarmele Excellent slides on Knowledge Engineering: the scienc
  
 @chrmanning I’ve put up the slides for my #sigir2016 invited talk at http://nlp.stanford.edu/~manning/talks/SIGIR2016-Deep-Learning-NLI.pdf … – including a voiceover for the last slide so it‘s clearer. 
  
+https://twitter.com/franzinc/status/756175804615258112
