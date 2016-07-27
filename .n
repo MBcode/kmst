@@ -1130,3 +1130,5 @@ https://twitter.com/cognitum_eu/status/676509615845175296 @cognitum_eu
  http://www.slideshare.net/Cognitum/introduction-to-ontology-engineering-with-fluent-editor-2014 
 
 http://blog.stardog.com/unifying-unstructured-data/ want really easy NamedEntityExtraction/concept-tagging &dependecy/relationships between..
+
+Shaowen Wang @swuiuc Want to attend #CyberGIS16 via cyber space, live streaming will start tomorrow: http://events.ncsa.illinois.edu/vts/video/live.html … @CyberGISCenter @NCSAatIllinois 
