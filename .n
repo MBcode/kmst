@@ -1135,3 +1135,5 @@ http://blog.stardog.com/unifying-unstructured-data/ want really easy NamedEntity
 Shaowen Wang @swuiuc Want to attend #CyberGIS16 via cyber space, live streaming will start tomorrow: http://events.ncsa.illinois.edu/vts/video/live.html … @CyberGISCenter @NCSAatIllinois 
 
 www.bibsonomy.org/bibtex/2a10cf00b5110a8f2518c30b76b84262e/aksw http://svn.aksw.org/papers/2016/ESWC_Tapioca/public.pdf Detecting Similar Linked Datasets Using Topic Modelling 
+
+@marin_dim CfP #SemanticWeb Journl issue on #MachineLearning for Knowledge Base Generation & Population http://www.semantic-web-journal.net/blog/call-papers-special-issue-machine-learning-knowledge-base-generation-and-population … 
