@@ -1100,7 +1100,9 @@ http://blog.kaggle.com/2016/07/08/kaggle-kernel-a-new-name-for-scripts/ ;I wante
 
 https://www.coursera.org/learn/natural-language-processing might find time to finish this one, as brush up.. ;w3 as I'm looking@re code
 w3: http://lsa.colorado.edu/ http://web.eecs.utk.edu/research/lsi/ http://cogcomp.cs.illinois.edu/page/demo_view/SRL
-w5:stat/lex/dep-parsing(py)/semantic-parsing  maltparser.org many broken links in slides
+w5:stat/lex/dep-parsing(py):hw1/semantic-parsing  maltparser.org many broken links in slides
+after hw1 learning, might also try dep-parse w/https://github.com/belambert/cl-dependency-lm.git ;worried about the state of the class py code/not ready4masses
+
 
 http://www.meetup.com/Bay-Area-Bot-Chat-and-Conversational-App-Developers/events/232444480/ 
  chat offerings have a way2go, probably too much learning&little understanding/ability2help system
