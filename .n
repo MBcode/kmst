@@ -1154,3 +1154,12 @@ http://www.meetup.com/balisp/events/232120018 @factual they use clj&lisp(iOS/and
  NLgen.. en.wikipedia.org/wiki/Head-driven_phrase_structure_grammar github.com/ekoontz/dag-unify
 
 https://jobs.illinois.edu/academic-job-board/job-details?jobID=59863 this w/o the web-programming..
+
+news-carrier
+Research-Programmer
+RP     ;=programmer/research-computing
+consult4team that wrote mosaic
+RA/RP  ;=grad research assitant/programmer
+software-engineer doe-lab (wrote 1st expert system before moving up2main lab)
+lead programmer/analyst @nwu ai lab,4 leader in Model-Based-Reasoning
+#firstsevenjobs  ;then a bunch of knowledge-engineering, kn-based systems,&research/etc
