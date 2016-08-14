@@ -1165,3 +1165,7 @@ RA/RP  ;=grad research assitant/programmer
 software-engineer doe-lab (wrote 1st expert system before moving up2main lab)
 lead programmer/analyst @nwu ai lab,4 leader in Model-Based-Reasoning
 #firstsevenjobs  ;then a bunch of knowledge-engineering, kn-based systems,&research/etc
+ 
+HPC/MsgPassing: 
+    clips+pvm used in 'software-engineer' position@anl.gov
+    bitbucket.org/monoid/lpvm github.com/marcoheisig/cl-mpi both/compile
