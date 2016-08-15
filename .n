@@ -1170,3 +1170,12 @@ lead programmer/analyst @nwu ai lab,4 leader in Model-Based-Reasoning
 HPC/MsgPassing: 
     clips+pvm used in 'software-engineer' position@anl.gov
     bitbucket.org/monoid/lpvm github.com/marcoheisig/cl-mpi both/compile
+
+m bobak @MBstream  
+PLATO's TUTOR,& BASIC ;in HS
+Fortran ;simulation/work HS/undergrad
+Pascal ;undergrad class
+MUMPS  ;in England
+C      ;back in US
+Scheme & Lisp ;classes,then work
+#FirstSevenLanguages 
