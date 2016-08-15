@@ -1103,6 +1103,7 @@ w3: http://lsa.colorado.edu/ http://web.eecs.utk.edu/research/lsi/ http://cogcom
 w5:stat/lex/dep-parsing(py):hw1/semantic-parsing  maltparser.org many broken links in slides
 after hw1 learning, might also try dep-parse w/https://github.com/belambert/cl-dependency-lm.git ;worried about the state of the class py code/not ready4masses
  finished >1/3,but think i'll audit from here on out, looking at it&the stanford version as needed for a side pprj I've put off too long
+w6: http://www.speech.sri.com/projects/srilm/ http://www.speech.cs.cmu.edu/SLM/toolkit.html  still taking quizes/might not do much of hw2 though/right now
 
 
 http://www.meetup.com/Bay-Area-Bot-Chat-and-Conversational-App-Developers/events/232444480/ 
