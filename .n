@@ -1179,3 +1179,14 @@ MUMPS  ;in England
 C      ;back in US
 Scheme & Lisp ;classes,then work
 #FirstSevenLanguages 
+
+m bobak @MBstream  
+CLIPS ;CU/Chi anl.gov
+C++          ; ""
+Smalltalk    ; ""
+ART*Enterprise ;Brightware/Mindbox/..
+msc/mixed in,incl:
+ other Lisp rule-shells ;OPS5/Goldenworks/Jess/..
+ Python/Java XLisp/R    ;as they came out
+ Prolog SPARQL          ;class more then work/so far
+#SecondSevenLanguages ~  ;other KnRep/etc incl KnowledgeMachine
