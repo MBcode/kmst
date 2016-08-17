@@ -1190,3 +1190,8 @@ msc/mixed in,incl:
  Python/Java XLisp/R    ;as they came out
  Prolog SPARQL          ;class more then work/so far
 #SecondSevenLanguages ~  ;other KnRep/etc incl KnowledgeMachine
+
+Take a try at some (crm)app integration, starting with:
+https://api.insight.ly/v2.2/Help     https://github.com/insightly
+https://asana.com/developers/api-reference/attachments /Asana &apps
+ 
