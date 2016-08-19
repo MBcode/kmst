@@ -1191,6 +1191,8 @@ msc/mixed in,incl:
  Prolog SPARQL          ;class more then work/so far
 #SecondSevenLanguages ~  ;other KnRep/etc incl KnowledgeMachine
 
+saw a #FirstSevenLisps, but can't get the ordering right: but incl: ACL SBCL MCL ecl clisp ..some schemes..&clips/jess
+
 Take a try at some (crm)app integration, starting with:
 https://api.insight.ly/v2.2/Help     https://github.com/insightly
 https://asana.com/developers/api-reference/attachments /Asana &apps
