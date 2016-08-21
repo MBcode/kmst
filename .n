@@ -1198,3 +1198,4 @@ https://api.insight.ly/v2.2/Help     https://github.com/insightly
 https://asana.com/developers/api-reference/attachments /Asana &apps
  
 https://github.com/Kickball/awesome-selfhosted/blob/master/README.md 
+https://github.com/onurakpolat/awesome-bigdata/blob/master/README.md 
