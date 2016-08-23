@@ -182,6 +182,8 @@ hdf5 linked-data OR linked-open-data: https://bioportal.bioontology.org/projects
 
 http://www.slideshare.net/semwebcompany/heiner-oberkampf-semantics-for-integrated-analytical-laboratory-processes-the-allotrope-perspective-53970722 sld11 use of hdf5 ;sld28,look into getting qudt in KM
 Could try a mini-ver of my own w/: https://github.com/djedi23/cl-netcdf or cl-ana's hdf5 libs
+In cl-netcdf: In the run-example fnc, the call should be to: save-scatter-points 
+ /djedi23 also has a cl-cnn conv-NN, try(needs warn fixes)/collect w/rest of lisp/ML code
 
 
  Dean Wampler @deanwampler  ;might help pick distrib-filestore; get RRDs on ceph too?
