@@ -624,6 +624,8 @@ http://forum.stanford.edu/events/2015aiworkshop.php
  
 https://amplab.cs.berkeley.edu/event/citris-seminar-lise-getoor-ucsc-big-graph-data-science-w-56-310-sutardja-dai-hall-noon/ Big Graph Data Science http://video.citris.berkeley.edu/playlists/webcast: 
  saw her(Lise Getoor)@a conf last year/still interesting: http://citris-uc.org/event/reasoning-with-uncertainty/  psl.umiacs.umd.edu
+
+https://peerj.com/articles/cs-77/ Uncertainty modeling process for semantic technology    pr-owl BN
  
 http://www.meetup.com/Data-Mining/events/222052588/ 
 
