@@ -1212,3 +1212,6 @@ https://github.com/Kickball/awesome-selfhosted/blob/master/README.md
 https://github.com/onurakpolat/awesome-bigdata/blob/master/README.md 
  https://github.com/paulhoule/infovore
  https://github.com/cloudera/oryx 
+
+Fiona Jones @FionaJ_Lib Interested in #tdm? This @MQ_Library guide http://libguides.mq.edu.au/content.php?pid=695383&sid=5775293 … will introduce you to some tools and alert you to some challenges.
+ 
