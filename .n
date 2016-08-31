@@ -1215,3 +1215,4 @@ https://github.com/onurakpolat/awesome-bigdata/blob/master/README.md
 
 Fiona Jones @FionaJ_Lib Interested in #tdm? This @MQ_Library guide http://libguides.mq.edu.au/content.php?pid=695383&sid=5775293 … will introduce you to some tools and alert you to some challenges.
  
+@nandanamihindu Data Quality Vocabulary @w3c Note https://www.w3.org/TR/vocab-dqv/  @RiccardoAlberto @antoine_isaac #Web #Data #Quality #LinkedData 
