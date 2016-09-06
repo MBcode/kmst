@@ -1113,7 +1113,7 @@ after hw1 learning, might also try dep-parse w/https://github.com/belambert/cl-d
 w6: http://www.speech.sri.com/projects/srilm/ http://www.speech.cs.cmu.edu/SLM/toolkit.html  still taking quizes/might not do much of hw2 though/right now
 w7:PartOfSpeechTagging&InformationExtraction skipping hw3&prob qz from now on/still enjoying the lectures/etc
 w8:QuestionAnswering  review this for further AI2 contests
-w9:Summarization  interesting sub-techniques ;looking fwd to my HPI linked-data course soon
+w9:Summarization  interesting sub-techniques, mead/etc: http://www.summarization.com/ ;looking fwd to my HPI linked-data course soon
 
 
 http://www.meetup.com/Bay-Area-Bot-Chat-and-Conversational-App-Developers/events/232444480/ 
