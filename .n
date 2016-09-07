@@ -1228,3 +1228,6 @@ also spending a week back at UIUC and hope to catch some talks as well
 https://github.com/yacy -search/..server/cider: "Content Integration Framework: Document Extraction and Retrieval" - A document parser framework that stores parsed entities ..
  RDF vocabularies&provides knowledge-base enhanced semantic ananlysis of content. Annotated content can be used by search engines to present content navigation which will be im… 
  http://cider.yacy.net
+
+Gerard de Melo @gdm3000 PIKES now transforms text to semantic representations based on FrameBase . @FBKcom https://dkm-static.fbk.eu/people/rospocher/files 
+    [pikes|premon|rdfpro|knowledgestore|dkm|moki|].fbk.eu   MoKi:an ext of SemanticMediaWiki, that also looks interesting
