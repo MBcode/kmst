@@ -1231,3 +1231,9 @@ https://github.com/yacy -search/..server/cider: "Content Integration Framework: 
 
 Gerard de Melo @gdm3000 PIKES now transforms text to semantic representations based on FrameBase . @FBKcom https://dkm-static.fbk.eu/people/rospocher/files 
     [pikes|premon|rdfpro|knowledgestore|dkm|moki|].fbk.eu   MoKi:an ext of SemanticMediaWiki, that also looks interesting
+
+@reddit_lisp #lisp Garnet: loadable using ASDF. | https://m.reddit.com/r/lisp/comments/51oowr/garnet_loadable_using_asdf/?utm_source=mweb_redirect&compact=true
+https://github.com/earl-ducaine/cl-garnet ;but doesn't compile, only quicklisp kr subsystem is w/o problem, hasn't really worked since funding/in-grad use
+(mc)clim is being worked on, even though I think franz open-sourced there version, will be nice, but miss Garnet UI mix of constraints &much more
+http://garnetlisp.sourceforge.net/ https://www.cs.cmu.edu/~garnet/ http://sf.net/projects/garnetlisp also: https://github.com/mmontone/garnet.git 
+I think I did see garnet work a bit after a few partial attempts by ppl, the latest ver from the mmotone link seems to work nicely, in demos now
