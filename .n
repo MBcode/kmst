@@ -180,6 +180,8 @@ https://www.hdfgroup.org/HDF5/release/obtain5110.html Single-Writer / Multiple-R
 http://answers.semanticweb.com/questions/28331/big-hdf5-dataset-in-linked-data https://www.w3.org/TR/vocab-data-cube http://csarven.ca/linked-sdmx-data 
 hdf5 linked-data OR linked-open-data: https://bioportal.bioontology.org/projects/BIOM-LD .. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3105758/ https://github.com/mikel-egana-aranguren/biom-ld
 
+https://www.hdfgroup.org/projects/hdfserver/ looks like a possibly easier way to have a semweb sci-data server, look@more
+
 http://www.slideshare.net/semwebcompany/heiner-oberkampf-semantics-for-integrated-analytical-laboratory-processes-the-allotrope-perspective-53970722 sld11 use of hdf5 ;sld28,look into getting qudt in KM
 Could try a mini-ver of my own w/: https://github.com/djedi23/cl-netcdf or cl-ana's hdf5 libs
 In cl-netcdf: In the run-example fnc, the call should be to: save-scatter-points 
