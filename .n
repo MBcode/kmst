@@ -1239,3 +1239,5 @@ https://github.com/earl-ducaine/cl-garnet ;but doesn't compile, only quicklisp k
 (mc)clim is being worked on, even though I think franz open-sourced there version, will be nice, but miss Garnet UI mix of constraints &much more
 http://garnetlisp.sourceforge.net/ https://www.cs.cmu.edu/~garnet/ http://sf.net/projects/garnetlisp also: https://github.com/mmontone/garnet.git 
 I think I did see garnet work a bit after a few partial attempts by ppl, the latest ver from the mmotone link seems to work nicely, in demos now
+
+http://www.abdn.ac.uk/events/rr-2016/rr2016/programme/ Web Reasoning and Rule Systems Conference 
