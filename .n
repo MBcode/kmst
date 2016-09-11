@@ -207,6 +207,8 @@ earlier used sub-domain info &did not have as much from: https://schema.org/Prod
 
 bobak retweeted David Portnoy @dportnoy “ScheMed” @W3C #healthcare data standard for #Schema.org w/ SNOMED, ICD, LOINC, ATC, RxNorm https://www.w3.org/community/schemed/ … 
 
+Richard Wallis @rjw Sep 9 60+ Structured Data Tools - Create, Test, Plugins, Validators & More https://www.schemaapp.com/60-structured-data-tools-create-test-plugins-more/ … 
+
 http://blog.swirrl.com/articles/linked-data-etl/ can stream vs openrefine in ram
 
 Karima Rafes @karima_rafes jun21 Enabling Accessible Knowledge http://csarven.ca/enabling-accessible-knowledge … #OpenScience
