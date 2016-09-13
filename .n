@@ -1118,6 +1118,8 @@ w6: http://www.speech.sri.com/projects/srilm/ http://www.speech.cs.cmu.edu/SLM/t
 w7:PartOfSpeechTagging&InformationExtraction skipping hw3&prob qz from now on/still enjoying the lectures/etc
 w8:QuestionAnswering  review this for further AI2 contests
 w9:Summarization  interesting sub-techniques, mead/etc: http://www.summarization.com/ ;looking fwd to my HPI linked-data course soon
+w10:Collocations&Info-Retrieval
+w11:SentimentAnalysis&Semantics
 
 
 http://www.meetup.com/Bay-Area-Bot-Chat-and-Conversational-App-Developers/events/232444480/ 
