@@ -1249,3 +1249,5 @@ http://www.abdn.ac.uk/events/rr-2016/rr2016/programme/ Web Reasoning and Rule Sy
 Michael R. Crusoe @biocrusoe The #WSSSPE4 papers and abstracts are up! http://wssspe.researchcomputing.org.uk/wssspe4/agenda/  
 
 Ludovic Lux @LuxLudo Uncertainty-sensitive reasoning for inferring sameAs facts in #linkeddata https://hal.inria.fr/hal-01366296#.V9lZ-ndCnX8.twitter … via @hal_fr 
+
+rand #semanticsconf link: @wordliftit  Sep 13 Can we build backlinks from our data to @dbpedia? You Bet 🌟 and here is how https://github.com/dbpedia/links 
