@@ -938,6 +938,8 @@ Daniel S. Katz @danielskatz Why we need a hub for software in science - from @ju
 http://persistence.uni-leipzig.org/nlp2rdf http://site.nlp2rdf.org/ https://stanbol.apache.org/docs/trunk/components/enhancer/engines/nif20 http://www.slideshare.net/kurzum/nif-nlp-interchange-format 
 http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core/nif-core.html https://github.com/NLP2RDF/ontologies 
 
+@fsasaki  Sep 12 Markus Ackermann @InfAI_eV on "NIF 2.1 - Changes and Transition", at the  @H2020_FREME #semanticsconf FREME tutorial
+
 Check out PReMOn premon.fbk.eu, predicate models as LOD, just accepted for oral presentation @LREC2016 @sara_hlt @ziorufus ;lemon nif
 
 Cognitum @cognitum_eu  Modeling #Ontologies with Natural Language  #Semantic #Linked #data #NLP http://goo.gl/kkIMBZ ,OCNL;not so far from KM (but w/parens), &not quite ACE/controlled NL
