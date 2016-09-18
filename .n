@@ -1253,3 +1253,5 @@ Michael R. Crusoe @biocrusoe The #WSSSPE4 papers and abstracts are up! http://ws
 Ludovic Lux @LuxLudo Uncertainty-sensitive reasoning for inferring sameAs facts in #linkeddata https://hal.inria.fr/hal-01366296#.V9lZ-ndCnX8.twitter … via @hal_fr 
 
 rand #semanticsconf link: @wordliftit  Sep 13 Can we build backlinks from our data to @dbpedia? You Bet 🌟 and here is how https://github.com/dbpedia/links 
+
+Dario Taraborelli @ReaderMeter  Sep 15 Slides, sample queries and resources (including federated queries via @LDFragments and an overview of #genewiki): https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/2016_SPARQL_Workshop … 
