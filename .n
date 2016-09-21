@@ -1128,6 +1128,8 @@ https://www.coursera.org/learn/bioinformatics-methods-1/ NCBI/BLAST /Comparative
 
 Enjoying looking over: http://io-informatics.com/products/case-studies.html ...
 
+3rd HPI course coming up soon: https://open.hpi.de/courses/semanticweb2016
+
 
 http://www.meetup.com/Bay-Area-Bot-Chat-and-Conversational-App-Developers/events/232444480/ 
  chat offerings have a way2go, probably too much learning&little understanding/ability2help system
