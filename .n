@@ -1126,6 +1126,8 @@ w12:last week:Discourse,MT&Gen
 
 https://www.coursera.org/learn/bioinformatics-methods-1/ NCBI/BLAST /ComparativeGenomics MultSeqAlign  Phylogenetics SelectionAnalysis NGS /Metagenomics
 
+Enjoying looking over: http://io-informatics.com/products/case-studies.html ...
+
 
 http://www.meetup.com/Bay-Area-Bot-Chat-and-Conversational-App-Developers/events/232444480/ 
  chat offerings have a way2go, probably too much learning&little understanding/ability2help system
