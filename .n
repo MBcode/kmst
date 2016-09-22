@@ -1262,3 +1262,6 @@ Ludovic Lux @LuxLudo Uncertainty-sensitive reasoning for inferring sameAs facts 
 rand #semanticsconf link: @wordliftit  Sep 13 Can we build backlinks from our data to @dbpedia? You Bet 🌟 and here is how https://github.com/dbpedia/links 
 
 Dario Taraborelli @ReaderMeter  Sep 15 Slides, sample queries and resources (including federated queries via @LDFragments and an overview of #genewiki): https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/2016_SPARQL_Workshop … 
+
+physical semantics: .. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3552778/ 
+    mentions CML: https://en.wikipedia.org/wiki/Chemical_Markup_Language hoped it was: http://www.qrg.northwestern.edu/projects/HPKB/cml/cml.html 
