@@ -1267,3 +1267,5 @@ Dario Taraborelli @ReaderMeter  Sep 15 Slides, sample queries and resources (inc
 
 physical semantics: .. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3552778/ 
     mentions CML: https://en.wikipedia.org/wiki/Chemical_Markup_Language hoped it was: http://www.qrg.northwestern.edu/projects/HPKB/cml/cml.html 
+
+https://webdocs.cs.ualberta.ca/~sutton/book/code/code.html Code for: Reinforcement Learning: An Introduction by Richard S. Sutton and Andrew G. Barto 
