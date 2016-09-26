@@ -1124,7 +1124,10 @@ w8:QuestionAnswering  review this for further AI2 contests
 w9:Summarization  interesting sub-techniques, mead/etc: http://www.summarization.com/ ;looking fwd to my HPI linked-data course soon
 w10:Collocations&Info-Retrieval ..eval off IR,TextClassiication,TextClustering,IR-Toolkits:(Smart,MG,Lemur,Terrier,Clairlib,Lecene/SOLR)
 w11:SentimentAnalysis&Semantics ..Rep+UnderstaningMeaning,FOL,KR,Inf,SemParsing
-w12:last week:Discourse,MT&Gen
+w12:last week:Discourse,MT&Gen;Res ofAnaphora Proc(RAP),coherence(result,expl,parallel,elaboration,other rel)discourseParsing(rst/cst)ArgumentativeZoning
+ localEntityCoherence;DialogueSys:Architecture:understanding,dialoge-mngr,task-mngr,gen;MT(semantic interlingua),statistical,synchronosGrammers,decode A*;
+ TxtGen,NLG communicative-goal   content,coherence,style,media,syntax,aggreattion,referring expressions,lexical choice
+ 
 
 https://www.coursera.org/learn/bioinformatics-methods-1/ NCBI/BLAST /ComparativeGenomics MultSeqAlign  Phylogenetics SelectionAnalysis NGS /Metagenomics
 
