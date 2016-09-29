@@ -1127,7 +1127,8 @@ w11:SentimentAnalysis&Semantics ..Rep+UnderstaningMeaning,FOL,KR,Inf,SemParsing
 w12:last week:Discourse,MT&Gen;Res ofAnaphora Proc(RAP),coherence(result,expl,parallel,elaboration,other rel)discourseParsing(rst/cst)ArgumentativeZoning
  localEntityCoherence;DialogueSys:Architecture:understanding,dialoge-mngr,task-mngr,gen;MT(semantic interlingua),statistical,synchronosGrammers,decode A*;
  TxtGen,NLG communicative-goal   content,coherence,style,media,syntax,aggreattion,referring expressions,lexical choice
- 
+
+I've been wanting to review: http://nlp.stanford.edu/IR-book/ for awhile, so will try to fit it in.  
 
 https://www.coursera.org/learn/bioinformatics-methods-1/ NCBI/BLAST /ComparativeGenomics MultSeqAlign  Phylogenetics SelectionAnalysis NGS /Metagenomics
 
