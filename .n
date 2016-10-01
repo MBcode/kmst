@@ -1128,6 +1128,8 @@ w12:last week:Discourse,MT&Gen;Res ofAnaphora Proc(RAP),coherence(result,expl,pa
  localEntityCoherence;DialogueSys:Architecture:understanding,dialoge-mngr,task-mngr,gen;MT(semantic interlingua),statistical,synchronosGrammers,decode A*;
  TxtGen,NLG communicative-goal   content,coherence,style,media,syntax,aggreattion,referring expressions,lexical choice
 
+Deepak Babu P R @prdeepakbabu coreference resolution interesting soln from stanford http://nlp.stanford.edu/projects/coref.shtml … #datascience #analytics #NLP
+
 I've been wanting to review: http://nlp.stanford.edu/IR-book/ for awhile, so will try to fit it in.  
 
 https://www.coursera.org/learn/bioinformatics-methods-1/ NCBI/BLAST /ComparativeGenomics MultSeqAlign  Phylogenetics SelectionAnalysis NGS /Metagenomics
