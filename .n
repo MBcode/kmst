@@ -1281,3 +1281,6 @@ Mihai Surdeanu @msurd Nice discussion on "text as knowledge bases" by @stanfordn
 
 @thelittlelisper Lisp All The Way Down!  The Connection Machine [Gerald Sussman signed, acknowledging Richard Feynman & Hal Abelson] https://dspace.mit.edu/bitstream/handle/1721.1/14719/18524280-MIT.pdf … 
  my flatmate Tom was a ncsa.uiuc admin of this&others, &@ncsa I got to go through the *Lisp manual;would still love to use it
+
+@KarmaSemWeb  #news Karma v2.049 released - https://github.com/usc-isi-i2/Web-Karma/releases/tag/v2.049 … : Includes easy one-click installer for Karma, ability to show rdfs:label, Bug fixes
+http://usc-isi-i2.github.io/dig /karma https://github.com/usc-isi-i2/Web-Karma/blob/master/README.md 
