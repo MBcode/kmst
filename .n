@@ -1289,3 +1289,7 @@ http://usc-isi-i2.github.io/dig /karma https://github.com/usc-isi-i2/Web-Karma/b
 
 @victoriastodden DARPA Open Catalog makes available "software, publications, data, and experimental results" from DARPA programs http://opencatalog.darpa.mil/  
 @russpoldrack Scientific Paper of the Future - training with  @yolandagil at the Stanford Ctr for Reproducible Neuroscience http://scientificpaperofthefuture.org  
+
+@RainerJoswig the original code generator called Autosim was written in Macintosh Common Lisp.
+ https://deepblue.lib.umich.edu/bitstream/handle/2027.42/76245/AIAA-20770-590.pdf%3Bsequence=1 …
+  These products are using a Lisp-based code generator for multibody physics models: https://www.carsim.com/company/ourhistory.php … 
