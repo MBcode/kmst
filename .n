@@ -120,6 +120,8 @@ Christopher @communicating  [Interesting] DURA: A Declarative Event Query Langua
 
 Kemele M. Endris @KemeleM  Jun20 "Interest-based RDF Update Propagation" has been accepted at #iswc2015 #EISBonn http://eis.iai.uni-bonn.de/Projects/iRap.html …
 
+@DataScienceGr  Cool work to be presented by @IlaTiddi in MIRROR@IROS: Robots updating a KB to answer time-dependent SPARQL queries https://dsg.kmi.open.ac.uk/update-of-time-invalid-information-in-knowledge-bases-through-mobile-agents-by-ilaria-tiddi/ …
+
 @DaSeLab Keynote by @pascalhitzler confirmed at the Diversity++ workshop at @ISWC2015 http://dase.cs.wright.edu/activities/diversity2015 … @freddylecue @cldamat @mraghava
  
 http://www.researchobject.org/5000-2/ get assoc vocabs together, in aid of some CS&E
