@@ -1302,3 +1302,7 @@ http://usc-isi-i2.github.io/dig /karma https://github.com/usc-isi-i2/Web-Karma/b
 
 Ina Blümel @inablu sophisticated by-product of #PhD procrastination ;) by @Jimmytidey https://mystudentvoices.com/scraping-google-scholar-to-write-your-phd-literature-chapter-2ea35f8f4fa1#.9zbzukx2p … #networkanalysis 
 https://github.com/jimmytidey/bibnet-google-scholar-scraper 
+User Actions   
+Following
+ 
+@jindrichMynarz Our paper on reusable transformations of fiscal DCV datasets will presented at #semstats2016 by @marek_dudas: https://goo.gl/ZwZPHM  
