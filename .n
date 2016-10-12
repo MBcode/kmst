@@ -1308,3 +1308,5 @@ Following
 @jindrichMynarz Our paper on reusable transformations of fiscal DCV datasets will presented at #semstats2016 by @marek_dudas: https://goo.gl/ZwZPHM  
 
 @SW_Journal Vol 7 Issue 6 of the @SW_Journal is out now http://www.semantic-web-journal.net/issues  @IOSPress_STM @STKO_UCSB @pascalhitzler 
+
+@akswgroup DL-Learner 1.3 (Supervised Structured Machine Learning Framework) Released – http://ift.tt/2dZjRMa  
