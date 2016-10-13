@@ -212,6 +212,7 @@ earlier used sub-domain info &did not have as much from: https://schema.org/Prod
 bobak retweeted David Portnoy @dportnoy “ScheMed” @W3C #healthcare data standard for #Schema.org w/ SNOMED, ICD, LOINC, ATC, RxNorm https://www.w3.org/community/schemed/ … 
 
 @csarven  #LinkedData Notifications https://www.w3.org/TR/ldn/  🔔 ED: https://linkedresearch.org/ldn/  has #SchemaOrg examples. @danbri et al, feedback welcome! 🔬
+  inbox's reminds me of sbcl's mbox msg coordiation abilities
 
 Richard Wallis @rjw Sep 9 60+ Structured Data Tools - Create, Test, Plugins, Validators & More https://www.schemaapp.com/60-structured-data-tools-create-test-plugins-more/ … 
 
