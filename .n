@@ -1313,3 +1313,5 @@ Following
 @SW_Journal Vol 7 Issue 6 of the @SW_Journal is out now http://www.semantic-web-journal.net/issues  @IOSPress_STM @STKO_UCSB @pascalhitzler 
 
 @akswgroup DL-Learner 1.3 (Supervised Structured Machine Learning Framework) Released – http://ift.tt/2dZjRMa  
+
+@akswgroup LIMES 1.0.0 Released – http://ift.tt/2e2dPek ;Link Discovery Framework for Metric Spaces, for the web of data 
