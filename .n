@@ -1317,3 +1317,6 @@ Following
 @akswgroup LIMES 1.0.0 Released – http://ift.tt/2e2dPek ;Link Discovery Framework for Metric Spaces, for the web of data 
 
 @marciazeng  http://goo.gl/ZPlwkz  program,16th European Networked Knowledge Organization Systems (NKOS) Workshop #dcmi16 with @Philipp_Mayr @evamen 
+
+@hoteit  Learning open domain knowledge from text - Gabor Gyorgy Angeli (2016) dissertation at Stanford #nlp http://purl.stanford.edu/ng651gf0769  
+ not domain specific, capture common-sense facts,  probalistic relaxation of natural logic(which uses sytax on NL), results w/science QA
