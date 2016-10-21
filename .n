@@ -1323,3 +1323,11 @@ Following
 
 @hoteit  Learning open domain knowledge from text - Gabor Gyorgy Angeli (2016) dissertation at Stanford #nlp http://purl.stanford.edu/ng651gf0769  
  not domain specific, capture common-sense facts,  probalistic relaxation of natural logic(which uses sytax on NL), results w/science QA
+
+@PhilDRoberts Kitano: short term goal= to extract knowledge from papers& semantically markup papers &utilise the data they contain & OA future #iswc2016 
+@fongenae  We need a "google" for researchers that can tell them if their hypothesis is already known says Hiroakikitano #Linkedresearch #ISWC2016
+@csarven  #iswc2016 there is a keyword to capture this keynote qa discussion: #LinkedResearch
+@kalampokis Kobe-shi Chuo-ku, Hyogo Scientific discoveries require #vision & #leadership, #theory, #technology, and #management #ISWC2016 Hiroaki Kitano
+  https://pbs.twimg.com/media/CvQLq1qVUAE7XBN.jpg
+@pgroth  A new grand AI challenge - Kitano @SonyCSL #iswc2016 https://pbs.twimg.com/media/CvQEXV8UkAAvKW6.jpg
+  AI to win nobel prize and beyond: Creating the Engine fo Scientific Discovery
