@@ -906,6 +906,8 @@ http://www.meetup.com/sfedtech/events/22838708 Adaptive Learning: Potential, Pit
 Allen Inst. for AI @allenai_org The Allen AI Science Challenge on @Kaggle has ended! Results will be announced morning of Feb 16 at #AAAI Conference http://ow.ly/YiYzN 
 
 @allenai_org  AI2 has released thousands of new science questions at the 4th and 8th grade levels for AI research! Find them here: http://allenai.org/data.html 
+@etzioni Oren Etzioni Retweeted Jack Clark Check out the public data sets here: http://allenai.org/data.html  they involve NLP, vision, and more.
+
 @stanfordnlp At #acl2016berlin—Natural Logic with classifier passes @allenai_org NYSED 4th Grade Science Exam. By @gaborangeli. http://nlp.stanford.edu/pubs/angeli2016naturalli.pdf …
 
 Oren Etzioni @etzioni  The Best AI Still Flunks 8th Grade Science http://www.wired.com/2016/02/the-best-ai-still-flunks-8th-grade-science/ … insight by @cademetz
