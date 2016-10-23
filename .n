@@ -1333,3 +1333,5 @@ Following
   https://pbs.twimg.com/media/CvQLq1qVUAE7XBN.jpg
 @pgroth  A new grand AI challenge - Kitano @SonyCSL #iswc2016 https://pbs.twimg.com/media/CvQEXV8UkAAvKW6.jpg
   AI to win nobel prize and beyond: Creating the Engine fo Scientific Discovery
+
+@AmrapaliZ  Ontology Mapping for Life Science Data presented at #bmdid http://bit.ly/2ehKCMH  #iswc2016 #linkeddata #ontologies #lifescience #mapping 
