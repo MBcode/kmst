@@ -1340,4 +1340,4 @@ Taking the pup to see family near UIUC.edu till the 9th, hope to see talks@the u
 
 https://twitter.com/hashtag/escience2016?src=hash 
 
-ontology mechanic @cm_harlow tools i didn't get up to present (sorry): Vitro-Lib, Marimba, Karma, d:swarm, RML + RML Editor, CEDAR, RDF.rb, RDFLib (python) #cldisummit ..
+ontology_mechanic=@cm_harlow tools i didn't get up to present (sorry): Vitro-Lib, Marimba, Karma, d:swarm, RML + RML Editor, CEDAR, RDF.rb, RDFLib (python) #cldisummit ..
