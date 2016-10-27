@@ -1341,3 +1341,7 @@ Taking the pup to see family near UIUC.edu till the 9th, hope to see talks@the u
 https://twitter.com/hashtag/escience2016?src=hash 
 
 ontology_mechanic=@cm_harlow tools i didn't get up to present (sorry): Vitro-Lib, Marimba, Karma, d:swarm, RML + RML Editor, CEDAR, RDF.rb, RDFLib (python) #cldisummit ..
+
+KM components = http://www.cs.utexas.edu/users/mfkb/RKF/clib.html  http://www.cs.utexas.edu/users/mfkb/RKF/tree/   CALO office KB
+use of my https://open.hpi.de/courses/semanticweb2016 Linked-Data-Engineering, &concepts like: http://dbpedia.org/ontology/Person foaf schema.org
+use Protege3.5 /PowerLOOM .. https://github.com/dbpedia/dbpedia-webprotege
