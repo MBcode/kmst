@@ -1335,6 +1335,7 @@ Following
   AI to win nobel prize and beyond: Creating the Engine fo Scientific Discovery
 
 @AmrapaliZ  Ontology Mapping for Life Science Data presented at #bmdid http://bit.ly/2ehKCMH  #iswc2016 #linkeddata #ontologies #lifescience #mapping 
+@AmrapaliZ Proceedings of "#Biomedical Data Integration and #Discovery" workshop https://goo.gl/4KVrgm   #bmdid2016 #iswc2016 #linkeddata 
 
 Taking the pup to see family near UIUC.edu till the 9th, hope to see talks@the uni to replace my regular meetups/etc. Also IO-informatics&ideo things2look@
 
@@ -1345,3 +1346,4 @@ ontology_mechanic=@cm_harlow tools i didn't get up to present (sorry): Vitro-Lib
 KM components = http://www.cs.utexas.edu/users/mfkb/RKF/clib.html  http://www.cs.utexas.edu/users/mfkb/RKF/tree/   CALO office KB
 use of my https://open.hpi.de/courses/semanticweb2016 Linked-Data-Engineering, &concepts like: http://dbpedia.org/ontology/Person foaf schema.org
 use Protege3.5 /PowerLOOM .. https://github.com/dbpedia/dbpedia-webprotege
+
