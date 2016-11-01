@@ -1343,10 +1343,12 @@ https://twitter.com/hashtag/escience2016?src=hash
 
 ontology_mechanic=@cm_harlow tools i didn't get up to present (sorry): Vitro-Lib, Marimba, Karma, d:swarm, RML + RML Editor, CEDAR, RDF.rb, RDFLib (python) #cldisummit ..
 
-KM components = http://www.cs.utexas.edu/users/mfkb/RKF/clib.html  http://www.cs.utexas.edu/users/mfkb/RKF/tree/   CALO office KB
+KM components = http://www.cs.utexas.edu/users/mfkb/RKF/clib.html  http://www.cs.utexas.edu/users/mfkb/RKF/tree/   CALO office KB ;play w/this
 use of my https://open.hpi.de/courses/semanticweb2016 Linked-Data-Engineering, &concepts like: http://dbpedia.org/ontology/Person foaf schema.org
 use Protege3.5 /PowerLOOM .. https://github.com/dbpedia/dbpedia-webprotege
 
 wk2 of LDE course, ends w/RDFa which made me think of finishing off something like: http://mike.bobak.googlepages.com/bobak-rdfa-cv.html ;put in git/hub
 
 @DARPA  We're hosting a Proposers Day for our Synergistic Discovery and Design program on Nov. 10. http://ow.ly/keJ6305DYP4  #data #design #models 
+
+http://www.larkc.org/ &a#of other things to revisit, as time allows..
