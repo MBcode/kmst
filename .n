@@ -778,6 +778,8 @@ Franz Inc. Retweeted Einstein Coll of Med #AllegroGraph #nosql #datascience http
 #Cognitive Computing is Turning Precision Medicine into a Reality - buff.ly/1Va6fyw #AllegroGraph #Healthcare #NoSQL #data ;-lake
 
 A Web-based Text Mining Workbench http://argo.nactem.ac.uk/ workbench for building and running text-analysis solutions .....UIMA Support
+
+@MechatronixNews  Oct 30 All’s well that ROS well: Robot Operating System taking over the world https://roboticsandautomationnews.com/2016/10/30/alls-well-that-ros-well-robot-operating-system-taking-over-the-world/8369/ …
  
 nlp/etc: found lisp bridge from ROS(robot env)to UIMA nlp env; worth a try:
  https://github.com/cram-code/cram_bridge/blob/master/cram_uima/src/uima.lisp cram_bridge/cram_uima src/uima.lisp  http://ias.in.tum.de/research/cram
