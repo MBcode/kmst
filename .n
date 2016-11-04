@@ -1356,3 +1356,5 @@ wk2 of LDE course, ends w/RDFa which made me think of finishing off something li
 @DARPA  We're hosting a Proposers Day for our Synergistic Discovery and Design program on Nov. 10. http://ow.ly/keJ6305DYP4  #data #design #models 
 
 http://www.larkc.org/ &a#of other things to revisit, as time allows..
+
+@RainerJoswig  seven theorem provers written in #Lisp: https://github.com/theoremprover-museum … 
