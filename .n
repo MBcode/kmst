@@ -1358,3 +1358,5 @@ wk2 of LDE course, ends w/RDFa which made me think of finishing off something li
 http://www.larkc.org/ &a#of other things to revisit, as time allows..
 
 @RainerJoswig  seven theorem provers written in #Lisp: https://github.com/theoremprover-museum … 
+
+@slashdot  Meet VoCore2 Lite, a $4 Coin-Sized, Open Source Linux Computer http://bit.ly/2e8St1P  
