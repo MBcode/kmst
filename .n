@@ -1367,3 +1367,5 @@ http://www.larkc.org/ &a#of other things to revisit, as time allows..
     https://www.technologyreview.com/s/602756/software-dreams-up-new-molecules-in-quest-for-wonder-drugs/ 
 
 @webofthings Kicking off 7th #webofthings workshop, great program: #semantics #wot #modeling #mashups #ux get the papers from http://webofthings.org/events/wot/wot2016/ … 
+
+@northernjamie I've written a bit of a guide w/ @swirrl on getting #linkeddata into #r using #SPARQL. You should have a go at it!  https://t.co/95y2MCqEb5 
