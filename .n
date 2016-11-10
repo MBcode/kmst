@@ -1371,3 +1371,5 @@ http://www.larkc.org/ &a#of other things to revisit, as time allows..
 @northernjamie I've written a bit of a guide w/ @swirrl on getting #linkeddata into #r using #SPARQL. You should have a go at it!  https://t.co/95y2MCqEb5 
 
 I'm hoping for more education or whatever can give us more hope than fear.
+
+@dbworld_ http://arxiv.org/abs/1611.02816  Automatic Conversion of Relational Databases into Ontologies: A Comparative Analysis of Prot\'eg\'e Plug-ins Perfo… 
