@@ -1376,3 +1376,7 @@ I'm hoping for more education or whatever can give us more hope than fear.
 
 still like http://protegewiki.stanford.edu/wiki/Protege_3.5_Release_Notes http://protege.stanford.edu/download/protege/3.5/zip/Protege_3.5.zip 
  would like to find this version of the webprotege server, to run the same collaborative projects if possible; vs. owl only view which isn't 1st time friendly
+
+@etzioni Scientists Are Drowning, Artificial Intelligence Will Save Them - D-brief http://bit.ly/2eoOi1P  
+ In reply to Oren Etzioni Marwin Segler @marwinsegler 
+    @etzioni It will not just save them. Eventually AI will become the scientist's collaboration partner for discovery http://onlinelibrary.wiley.com/doi/10.1002/chem.201604556/full … 
