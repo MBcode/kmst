@@ -1373,3 +1373,6 @@ http://www.larkc.org/ &a#of other things to revisit, as time allows..
 I'm hoping for more education or whatever can give us more hope than fear.
 
 @dbworld_ http://arxiv.org/abs/1611.02816  Automatic Conversion of Relational Databases into Ontologies: A Comparative Analysis of Prot\'eg\'e Plug-ins Perfo… 
+
+still like http://protegewiki.stanford.edu/wiki/Protege_3.5_Release_Notes http://protege.stanford.edu/download/protege/3.5/zip/Protege_3.5.zip 
+ would like to find this version of the webprotege server, to run the same collaborative projects if possible; vs. owl only view which isn't 1st time friendly
