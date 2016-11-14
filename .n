@@ -1377,6 +1377,7 @@ I'm hoping for more education or whatever can give us more hope than fear.
 still like http://protegewiki.stanford.edu/wiki/Protege_3.5_Release_Notes http://protege.stanford.edu/download/protege/3.5/zip/Protege_3.5.zip 
  would like to find this version of the webprotege server, to run the same collaborative projects if possible; vs. owl only view which isn't 1st time friendly
  also looked at powerloom gui again; owl view might be ok;web-wise  static dump could even work; other:Ontology editors - W3C Wiki,mentioned in LDeng class
+Get back to entering taxonomies/etc; notice contextual factors;eg.around specific offers re outside world matching
 
 @etzioni Scientists Are Drowning, Artificial Intelligence Will Save Them - D-brief http://bit.ly/2eoOi1P  
  In reply to Oren Etzioni Marwin Segler @marwinsegler 
