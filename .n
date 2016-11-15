@@ -420,6 +420,9 @@ Interesting idea - Use semantic desktop to capture contextual research data - se
 
     https://news.ycombinator.com/item?id=9202286 want2find more of the more recent sem-desktop links
 
+http://ceur-ws.org/Vol-404/Paper7.pdf Semantic based Project Management  (Semantic-Desktop - web srvs - SemProM)  ;4.3 sem-dsk CALO ..
+
+
 The Story of Siri, by its founder Adam Cheyer https://wit.ai/blog/2014/12/18/adam-keynote …
 Carlos Gil @CarlosGil83  ·  Siri’s Inventors Are Building a Radical New AI That Does Anything You Ask http://wrd.cm/1R2zkcz  via @wired 
  
