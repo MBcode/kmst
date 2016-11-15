@@ -1383,3 +1383,6 @@ Trying for onto reuse, but always slightly diff needs/so at least try to reuse i
 @etzioni Scientists Are Drowning, Artificial Intelligence Will Save Them - D-brief http://bit.ly/2eoOi1P  
  In reply to Oren Etzioni Marwin Segler @marwinsegler 
     @etzioni It will not just save them. Eventually AI will become the scientist's collaboration partner for discovery http://onlinelibrary.wiley.com/doi/10.1002/chem.201604556/full … 
+
+I caught the 1st sf/bay-area mtg, but missed the 2nd as I was near UIUC.edu
+@YahooResearch  Did you miss the recent @DBpedia community meeting we recently hosted? No worries, here's the recap. http://blog.dbpedia.org/2016/11/10/retrospective-2nd-us-dbpedia-community-meeting-in-california/ … 
