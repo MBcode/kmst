@@ -577,6 +577,9 @@ Susan Athey @Susan_Athey;now at: http://www.nasonline.org/programs/sackler-collo
 Bob DuCharme @bobdc · Mar 29 ;a few more big/hadoop-ish etc rdf/graph stores, but this one a bit more interesting as it's on spark: ;need to add(a few)to: bit.ly/TP8gfz
 New blog entry: "Spark and SPARQL; RDF Graphs and GraphX" http://www.snee.com/bobdc.blog/2015/03/spark-and-sparql-rdf-graphs-an.html … #Spark #GraphX #RDF #SPARQL
 
+@LearningSPARQL  Great to see the SPARQL/Spark combination S2RDF come along forschung/projekte/DiPoS/S2RDF.html
+@LearningSPARQL  More SPARQL + Spark, also via @hatemhamza https://github.com/tyrex-team/sparqlgx 
+
 http://afs.github.io/rdf-thrift/ rdf-binary-thrift.html http://www.semanlink.net/tag/rdf_thrift.html 
 
 @dbworld_ http://ift.tt/1Z1fL6y  SPARQL query processing with Apache Spark. (arXiv:1604.08903v1 [cs.DB]) #databases
