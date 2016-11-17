@@ -1162,6 +1162,9 @@ Enjoying looking over: http://io-informatics.com/products/case-studies.html ...
 3rd HPI course coming up soon: https://open.hpi.de/courses/semanticweb2016
 
 4th HPI course: Harald Sack @lysander07  Kobe-shi Chuo-ku, Hyogo Today my new #MOOC course #LinkedData Engineering is starting on #OpenHPI https://open.hpi.de/courses/semanticweb2016/ … #iswc2016
+..
+Harald Sack @lysander07  from Baden-Württemberg, Germany
+This week you learn how to publish, program, analyze & visualize #LinkedData in my #MOOC on Linked Data Engineering https://open.hpi.de/courses/semanticweb2016/ …
 
 http://www.meetup.com/Bay-Area-Bot-Chat-and-Conversational-App-Developers/events/232444480/ 
  chat offerings have a way2go, probably too much learning&little understanding/ability2help system
