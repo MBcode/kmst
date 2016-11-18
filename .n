@@ -242,6 +242,8 @@ OpenCube Project @OpenCubeProject
 @AlfFyhrlund Publish Statistical Data In Linked Data Format: http://opendatahandbook.org/solutions/en/Linked-Data-Format/ …
  https://www.w3.org/2013/share-psi/bp/stats/ https://www.w3.org/TR/vocab-data-cube/
 
+retweeted: Christopher @communicating  STATO is a General Purpose STATistics Ontology http://stato-ontology.org/ 
+
 m bobak Retweeted Samuel Lampa @smllmp  Oct 15 And my favorite poster: Alejandro Andrejev's work on Scientific #SPARQL. Interesting stuff! http://www.it.uu.se/research/group/udbl/SciSPARQL … 
 
 http://yieldbot.github.io/flambo/ have wanted lisp on spark's rdd's (in ceph or similar)now w/clj
