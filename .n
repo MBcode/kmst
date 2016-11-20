@@ -1397,3 +1397,7 @@ Trying for onto reuse, but always slightly diff needs/so at least try to reuse i
 
 I caught the 1st sf/bay-area mtg, but missed the 2nd as I was near UIUC.edu
 @YahooResearch  Did you miss the recent @DBpedia community meeting we recently hosted? No worries, here's the recap. http://blog.dbpedia.org/2016/11/10/retrospective-2nd-us-dbpedia-community-meeting-in-california/ … 
+
+@WikiResearch  Nov 18 San Francisco, CA The Docforia 1.0 specs: a data model and query system for use in #nlproc applications   Wikipedia and Wikidata
+ Docforia: Storing formatting, lexical, syntactic, and semantic annotations on Wikipedia. Klang and Nugues (2016) http://www8.cs.umu.se/~johanna/sltc2016/abstracts/SLTC_2016_paper_4.pdf …
+ https://pbs.twimg.com/media/CxmIByeUkAQfpIN.jpg https://pbs.twimg.com/media/CxmIEGRUQAA9biA.jpg
