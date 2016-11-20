@@ -1401,3 +1401,7 @@ I caught the 1st sf/bay-area mtg, but missed the 2nd as I was near UIUC.edu
 @WikiResearch  Nov 18 San Francisco, CA The Docforia 1.0 specs: a data model and query system for use in #nlproc applications   Wikipedia and Wikidata
  Docforia: Storing formatting, lexical, syntactic, and semantic annotations on Wikipedia. Klang and Nugues (2016) http://www8.cs.umu.se/~johanna/sltc2016/abstracts/SLTC_2016_paper_4.pdf …
  https://pbs.twimg.com/media/CxmIByeUkAQfpIN.jpg https://pbs.twimg.com/media/CxmIEGRUQAA9biA.jpg
+
+@samerP2P  Nov 18 Samer Hassan Retweeted WebTorrent WikipediaP2P: distributing Wikipedia articles from/to users with @WebTorrentApp & @WebRTC 
+ https://news.ycombinator.com/item?id=12985114 … #Decentralization #P2P 
+ @WebTorrentApp WikipediaP2P, contribute to Wikipedia in a completely new way. Powered by WebTorrent! https://www.wikipediap2p.org/ 
