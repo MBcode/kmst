@@ -165,6 +165,8 @@ https://www.google.com/events/io/io14videos/6e2c6545-00c0-e311-b297-00155d5066d7
 https://www.google.com/events/io/io14videos/86c8ee27-39da-e311-b297-00155d5066d7
 
 http://blog.swirrl.com/articles/linked-data-etl/
+
+@diethardsteiner  Nov 18 Read my latest article on @Pentaho Data Integration: Advances in Real Time #streaming - Real Time SQL: http://diethardsteiner.github.io/pdi/2016/10/30/PDI-Streaming.html …
  
  Retweeted by Dataverse Network
  Mercè Crosas @mercecrosas  23h
@@ -1405,3 +1407,4 @@ I caught the 1st sf/bay-area mtg, but missed the 2nd as I was near UIUC.edu
 @samerP2P  Nov 18 Samer Hassan Retweeted WebTorrent WikipediaP2P: distributing Wikipedia articles from/to users with @WebTorrentApp & @WebRTC 
  https://news.ycombinator.com/item?id=12985114 … #Decentralization #P2P 
  @WebTorrentApp WikipediaP2P, contribute to Wikipedia in a completely new way. Powered by WebTorrent! https://www.wikipediap2p.org/ 
+
