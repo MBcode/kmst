@@ -1410,3 +1410,5 @@ I caught the 1st sf/bay-area mtg, but missed the 2nd as I was near UIUC.edu
  @WebTorrentApp WikipediaP2P, contribute to Wikipedia in a completely new way. Powered by WebTorrent! https://www.wikipediap2p.org/ 
 
 @rodneyabrooks My recent talk at GE Minds and Machines in SF  http://www.rethinkrobotics.com/videos/?video=xj9C08L0or8 … on the Industrial Internet of Things and how to get there from here. 
+
+@laurahollink  Slides of all presentations and keynotes of the #DriftaLOD workshop are now online at http://event.cwi.nl/drift-a-lod/2016/#prog … @ekaw2016 
