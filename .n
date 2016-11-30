@@ -1172,6 +1172,9 @@ Enjoying looking over: http://io-informatics.com/products/case-studies.html ...
 Harald Sack @lysander07  from Baden-Württemberg, Germany
 This week you learn how to publish, program, analyze & visualize #LinkedData in my #MOOC on Linked Data Engineering https://open.hpi.de/courses/semanticweb2016/ …
 @LDFragments  Linked Data Fragments explained by @lysander07 as part of the free online Linked Data Engineering course: https://open.hpi.de/courses/semanticweb2016/items/10rzxxanKWOC05Zm2tRgvy …
+wk6/last: LD-fragments, metadata+semantic-annotation, Named-Entity-Resolution, Semantic-Search, Exploratory Search&Recommender-Systems
+    http://www.cs.ubbcluj.ro/~gabis/DocDiplome/SistemeDeRecomandare/Recommender_systems_handbook.pdf 
+        http://www.mycbr-project.net/download.html
 
 http://www.meetup.com/Bay-Area-Bot-Chat-and-Conversational-App-Developers/events/232444480/ 
  chat offerings have a way2go, probably too much learning&little understanding/ability2help system
@@ -1418,3 +1421,4 @@ I caught the 1st sf/bay-area mtg, but missed the 2nd as I was near UIUC.edu
 @akswgroup  AKSW Colloquium, 28.11.2016, NED using PBOH + Large-Scale Learning of Relation-Extraction Rules. – http://ift.tt/2gJyRCq  
 
 mike.bobak.googlepages.com/knowledge-engineering -> sites.google.com/view/knowledge-engineering
+
