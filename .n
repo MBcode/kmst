@@ -1422,3 +1422,10 @@ I caught the 1st sf/bay-area mtg, but missed the 2nd as I was near UIUC.edu
 
 mike.bobak.googlepages.com/knowledge-engineering -> sites.google.com/view/knowledge-engineering
 
+Pleonastic Mendacity @quoll  I've been recorded! 
+    Photo published for Production Rules on Databases - Paula Gearon
+    Production Rules on Databases - Paula Gearon
+    While often conflated with its syntax, Datalog is actually the system defining the set of semantics used by many database query languages, including SQL, SPA...
+    youtube.com 
+I'll be presenting on Rule Systems using Naga at @clojure_conj! 
+    https://github.com/threatgrid/naga 
