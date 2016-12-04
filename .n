@@ -232,6 +232,8 @@ https://twitter.com/OpenCubeProject  http://opencube-project.eu/ work-packages
 #ISWC2016 has too many great tweets to list right here; maybe look at my 'likes' and I'll summarize in a bit. https://thinklinks.wordpress.com/2016/10/27/trip-report-iswc-2016/
  several workshops/etc, especially: #SemStats 
 
+@dandellaglio  Dec 2 Videos of @ISWC2016 talks are available at http://videolectures.net/iswc2016_kobe ! #ISWC2016
+
 @OpenCubeProject: Toward a Statistical Data Integration Environment - The Role of Semantic Metadata https://t.co/NGezK3HrOH
 
 https://twitter.com/kalampokis/status/639020080358146048 opencube slides
