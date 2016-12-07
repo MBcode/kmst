@@ -1177,6 +1177,9 @@ This week you learn how to publish, program, analyze & visualize #LinkedData in 
 wk6/last: LD-fragments, metadata+semantic-annotation, Named-Entity-Resolution, Semantic-Search, Exploratory Search&Recommender-Systems
     http://www.cs.ubbcluj.ro/~gabis/DocDiplome/SistemeDeRecomandare/Recommender_systems_handbook.pdf 
         http://www.mycbr-project.net/download.html
+material from last/week6 of the class: Harald Sack @lysander07   Baden-Württemberg, Germany
+Forgot to give you also the link to the slides: (Always) Expect the Unexpected! https://docs.google.com/presentation/d/18fLTCQvJGpI5TW_qiompdezSKlVsi2-eREkd6Saf7tI/edit?usp=sharing …
+
 
 http://www.meetup.com/Bay-Area-Bot-Chat-and-Conversational-App-Developers/events/232444480/ 
  chat offerings have a way2go, probably too much learning&little understanding/ability2help system
