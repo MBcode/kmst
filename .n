@@ -1434,3 +1434,9 @@ Pleonastic Mendacity @quoll  I've been recorded!
     youtube.com 
 I'll be presenting on Rule Systems using Naga at @clojure_conj! 
     https://github.com/threatgrid/naga 
+
+http://www.allotrope.org/what-are-we-building https://www.hdfgroup.org/allotrope-foundation/ 
+Hoping for semantics along w/large scientific/numeric datasets, &now also see:
+ Jonathan Yu @jonyu8 I just published “netCDF-LD and why it’s going to be awesome!” 
+  https://medium.com/@jonyu8/netcdf-ld-and-why-its-going-to-be-awesome-321cea929bb5#.b5t10fhbz 
+   https://binary-array-ld.github.io/netcdf-ld/ 
