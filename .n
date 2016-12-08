@@ -820,6 +820,11 @@ sem-NER: Ricardo Usbeck @Ricardo_Usbeck  My short introduction to #GERBIL at #se
 
 http://project-hobbit.eu/the-roots-of-hobbit/ GERBIL facilitates benchmarking of named entity recognition (NER), named entity disambiguation (NED) &..
 
+Nicolas Torzec @nicolastorzec
+ Fast entity linking from Yahoo Research: "Open Source Toolkit for Lightweight Multilingual Entity Linking". https://yahooresearch.tumblr.com/post/154110423951/presenting-an-open-source-toolkit-for-lightweight …
+  but I can't get to look at the hash data to run it w/o a uni email address;(
+  so the code is open, but the data to run it is not open to the full public
+
 http://www-nlp.stanford.edu/software/sempre/ toolkit for training semantic parsers, which map natural language utterances to denotations(answers) via intermediate logical forms
 
 #NLP to #SPARQL convertor Quepy bit.ly/1TfYndh Squall bit.ly/1dN094v NL-SPARQL bit.ly/1HgHLvA ;(controlled)Natural-Language 2qry, dialog challenge
