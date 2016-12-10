@@ -1447,3 +1447,6 @@ Hoping for semantics along w/large scientific/numeric datasets, &now also see:
  Jonathan Yu @jonyu8 I just published “netCDF-LD and why it’s going to be awesome!” 
   https://medium.com/@jonyu8/netcdf-ld-and-why-its-going-to-be-awesome-321cea929bb5#.b5t10fhbz 
    https://binary-array-ld.github.io/netcdf-ld/ 
+
+@akswgroup  SANSA 0.1 (Semantic Analytics Stack) Released – http://blog.aksw.org/sansa-0-1/
+@SANSA_Stack  We did the first (0.1) release of the semantic analytics stack (SANSA)! http://sda.tech/sansa-0-1  #machinelearning #semanticweb #spark #flink
