@@ -1186,6 +1186,7 @@ wk6/last: LD-fragments, metadata+semantic-annotation, Named-Entity-Resolution, S
         http://www.mycbr-project.net/download.html
 material from last/week6 of the class: Harald Sack @lysander07   Baden-Württemberg, Germany
 Forgot to give you also the link to the slides: (Always) Expect the Unexpected! https://docs.google.com/presentation/d/18fLTCQvJGpI5TW_qiompdezSKlVsi2-eREkd6Saf7tI/edit?usp=sharing …
+#COLING2016 looks like it has some interesting things, but will have to wait for the LDE final;)
 
 
 http://www.meetup.com/Bay-Area-Bot-Chat-and-Conversational-App-Developers/events/232444480/ 
