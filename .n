@@ -1454,3 +1454,6 @@ Hoping for semantics along w/large scientific/numeric datasets, &now also see:
 
 @csarven : @linkedktk Other vocabs possibly for details. @nimonika created https://w3id.org/dio  & that looks like the layer I want to describe in. 
 The Design Intent Ontology - A content ontology design pattern : is a generic ontology that provides the conceptualisation needed to capture the knowledge generated during various phases of the overall design lifecycle. It provides definitions for design artifacts such as requirements, designs, design issues, solutions, justifications and evidence and relationships between them to represent the design process and how these things lead to design outcomes. It draws upon the paradigms of IBIS(Issue Based Information System), argumentation and design rationale. 
+
+OSLC Linked-Data https://youtu.be/R2yBT6oquY4 http://open-services.net/resources/tutorials/oslc-primer/what-is-oslc/ 
+http://www.ibm.com/developerworks/library/wa-data-integration-at-scale-OSLC-and-the-linked-data-platform/index.html 
