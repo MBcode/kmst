@@ -1457,3 +1457,5 @@ The Design Intent Ontology - A content ontology design pattern : is a generic on
 
 OSLC Linked-Data https://youtu.be/R2yBT6oquY4 http://open-services.net/resources/tutorials/oslc-primer/what-is-oslc/ 
 http://www.ibm.com/developerworks/library/wa-data-integration-at-scale-OSLC-and-the-linked-data-platform/index.html 
+
+> https://github.com/dimitri/pgloader -> http://protegewiki.stanford.edu/wiki/File:DataMaster_screenshot.png 
