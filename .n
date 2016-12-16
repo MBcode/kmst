@@ -1465,3 +1465,5 @@ LODRefine (ETL/Semantics); https://en.wikipedia.org/wiki/Complex_event_processin
  &can recognize [w/co-occurance/s] events @needed level of generality 
 
 https://github.com/akb89/valencer/blob/master/README.md https://github.com/akb89/noframenet https://akb89.github.io/valencer framenet-query
+
+https://opensource.ncsa.illinois.edu/bitbucket/projects/BD/repos/dockerfiles/browse/clowder https://clowder.ncsa.illinois.edu/docs/installation.html
