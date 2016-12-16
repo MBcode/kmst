@@ -232,6 +232,8 @@ https://twitter.com/OpenCubeProject  http://opencube-project.eu/ work-packages
 #ISWC2016 has too many great tweets to list right here; maybe look at my 'likes' and I'll summarize in a bit. https://thinklinks.wordpress.com/2016/10/27/trip-report-iswc-2016/
  several workshops/etc, especially: #SemStats 
 
+@dandellaglio  Dec 2 Videos of @ISWC2016 talks are available at http://videolectures.net/iswc2016_kobe ! #ISWC2016
+
 @OpenCubeProject: Toward a Statistical Data Integration Environment - The Role of Semantic Metadata https://t.co/NGezK3HrOH
 
 https://twitter.com/kalampokis/status/639020080358146048 opencube slides
@@ -818,6 +820,11 @@ sem-NER: Ricardo Usbeck @Ricardo_Usbeck  My short introduction to #GERBIL at #se
 
 http://project-hobbit.eu/the-roots-of-hobbit/ GERBIL facilitates benchmarking of named entity recognition (NER), named entity disambiguation (NED) &..
 
+Nicolas Torzec @nicolastorzec
+ Fast entity linking from Yahoo Research: "Open Source Toolkit for Lightweight Multilingual Entity Linking". https://yahooresearch.tumblr.com/post/154110423951/presenting-an-open-source-toolkit-for-lightweight …
+  but I can't get to look at the hash data to run it w/o a uni email address;(
+  so the code is open, but the data to run it is not open to the full public
+
 http://www-nlp.stanford.edu/software/sempre/ toolkit for training semantic parsers, which map natural language utterances to denotations(answers) via intermediate logical forms
 
 #NLP to #SPARQL convertor Quepy bit.ly/1TfYndh Squall bit.ly/1dN094v NL-SPARQL bit.ly/1HgHLvA ;(controlled)Natural-Language 2qry, dialog challenge
@@ -855,6 +862,8 @@ Semantic Tech & Biz @SemanticWeb  Aug 6 Win a free pass to #SmartDataWeek. RT by
  both touch on controlled natural-language (interop), re:km/etc I've looked at ACE before: http://attempto.ifi.uzh.ch/site/resources/ http://www.cs.rpi.edu/~tayloj/CL-ACE/ will have to look again
 
 Daniele Dell'Aglio @dandellaglio  The slides of the #RDFStreamProcessing tutorial at @iswc2016 are available online! Find them at http://streamreasoning.org/events/rsp2016 ! #RSP #ISWC2016
+
+Jean-Paul Calbimonte @jpcik Oct 16 #rsp tutorial: slides of RSP implementation section at #iswc2016 http://www.slideshare.net/jpcik/rdf-stream-processing-tutorial-rsp-implementations
 
  http://www.slideshare.net/rjw/schemaorg-extending-benefits from http://smartdata2015.dataversity.net/sessionPop.cfm?confid=91&proposalid=7656
 
@@ -1172,8 +1181,18 @@ Enjoying looking over: http://io-informatics.com/products/case-studies.html ...
 Harald Sack @lysander07  from Baden-Württemberg, Germany
 This week you learn how to publish, program, analyze & visualize #LinkedData in my #MOOC on Linked Data Engineering https://open.hpi.de/courses/semanticweb2016/ …
 @LDFragments  Linked Data Fragments explained by @lysander07 as part of the free online Linked Data Engineering course: https://open.hpi.de/courses/semanticweb2016/items/10rzxxanKWOC05Zm2tRgvy …
+<<<<<<< HEAD
 material from last/week6 of the class: Harald Sack @lysander07   Baden-Württemberg, Germany
 Forgot to give you also the link to the slides: (Always) Expect the Unexpected! https://docs.google.com/presentation/d/18fLTCQvJGpI5TW_qiompdezSKlVsi2-eREkd6Saf7tI/edit?usp=sharing …
+=======
+wk6/last: LD-fragments, metadata+semantic-annotation, Named-Entity-Resolution, Semantic-Search, Exploratory Search&Recommender-Systems
+    http://www.cs.ubbcluj.ro/~gabis/DocDiplome/SistemeDeRecomandare/Recommender_systems_handbook.pdf 
+        http://www.mycbr-project.net/download.html
+material from last/week6 of the class: Harald Sack @lysander07   Baden-Württemberg, Germany
+Forgot to give you also the link to the slides: (Always) Expect the Unexpected! https://docs.google.com/presentation/d/18fLTCQvJGpI5TW_qiompdezSKlVsi2-eREkd6Saf7tI/edit?usp=sharing …
+#COLING2016 looks like it has some interesting things, but will have to wait for the LDE final;)
+
+>>>>>>> 4e7af0fad3f09fab977fcbd9b5903b18df7ede78
 
 http://www.meetup.com/Bay-Area-Bot-Chat-and-Conversational-App-Developers/events/232444480/ 
  chat offerings have a way2go, probably too much learning&little understanding/ability2help system
@@ -1420,3 +1439,38 @@ I caught the 1st sf/bay-area mtg, but missed the 2nd as I was near UIUC.edu
 @akswgroup  AKSW Colloquium, 28.11.2016, NED using PBOH + Large-Scale Learning of Relation-Extraction Rules. – http://ift.tt/2gJyRCq  
 
 mike.bobak.googlepages.com/knowledge-engineering -> sites.google.com/view/knowledge-engineering
+
+Pleonastic Mendacity @quoll  I've been recorded! 
+    Photo published for Production Rules on Databases - Paula Gearon
+    Production Rules on Databases - Paula Gearon
+    While often conflated with its syntax, Datalog is actually the system defining the set of semantics used by many database query languages, including SQL, SPA...
+    youtube.com 
+I'll be presenting on Rule Systems using Naga at @clojure_conj! 
+    https://github.com/threatgrid/naga 
+
+http://www.allotrope.org/what-are-we-building https://www.hdfgroup.org/allotrope-foundation/ 
+Hoping for semantics along w/large scientific/numeric datasets, &now also see:
+ Jonathan Yu @jonyu8 I just published “netCDF-LD and why it’s going to be awesome!” 
+  https://medium.com/@jonyu8/netcdf-ld-and-why-its-going-to-be-awesome-321cea929bb5#.b5t10fhbz 
+   https://binary-array-ld.github.io/netcdf-ld/ 
+
+@akswgroup  SANSA 0.1 (Semantic Analytics Stack) Released – http://blog.aksw.org/sansa-0-1/
+@SANSA_Stack  We did the first (0.1) release of the semantic analytics stack (SANSA)! http://sda.tech/sansa-0-1  #machinelearning #semanticweb #spark #flink
+
+@csarven : @linkedktk Other vocabs possibly for details. @nimonika created https://w3id.org/dio  & that looks like the layer I want to describe in. 
+The Design Intent Ontology - A content ontology design pattern : is a generic ontology that provides the conceptualisation needed to capture the knowledge generated during various phases of the overall design lifecycle. It provides definitions for design artifacts such as requirements, designs, design issues, solutions, justifications and evidence and relationships between them to represent the design process and how these things lead to design outcomes. It draws upon the paradigms of IBIS(Issue Based Information System), argumentation and design rationale. 
+
+OSLC Linked-Data https://youtu.be/R2yBT6oquY4 http://open-services.net/resources/tutorials/oslc-primer/what-is-oslc/ 
+http://www.ibm.com/developerworks/library/wa-data-integration-at-scale-OSLC-and-the-linked-data-platform/index.html 
+
+> https://github.com/dimitri/pgloader -> http://protegewiki.stanford.edu/wiki/File:DataMaster_screenshot.png 
+
+LODRefine (ETL/Semantics); https://en.wikipedia.org/wiki/Complex_event_processing
+ rDB cols to unstructured (NER), metadata/tagged w/shared vocabs;
+ &can recognize [w/co-occurance/s] events @needed level of generality 
+
+https://github.com/akb89/valencer/blob/master/README.md https://github.com/akb89/noframenet https://akb89.github.io/valencer framenet-query
+
+https://opensource.ncsa.illinois.edu/bitbucket/projects/BD/repos/dockerfiles/browse/clowder https://clowder.ncsa.illinois.edu/docs/installation.html
+
+PROPEL is over!Get our free book on inspecting the potential of #EnterpriseLinkedData goo.gl/b9ygGF @SabrinaKirrane @AxelPolleres
