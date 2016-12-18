@@ -1473,3 +1473,7 @@ https://github.com/akb89/valencer/blob/master/README.md https://github.com/akb89
 https://opensource.ncsa.illinois.edu/bitbucket/projects/BD/repos/dockerfiles/browse/clowder https://clowder.ncsa.illinois.edu/docs/installation.html
 
 PROPEL is over!Get our free book on inspecting the potential of #EnterpriseLinkedData goo.gl/b9ygGF @SabrinaKirrane @AxelPolleres
+
+@OSTHUS  Dec 12 Levels of #semantic expressivity – upper #ontologies, domains, super domains, instances http://bit.ly/2hkBeeB  
+ Applied Ontology  An Introduction
+http://nemo.nic.uoregon.edu/wiki/images/8/88/978-3-938793-98-5_Munn_Ontology.pdf 
