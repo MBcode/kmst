@@ -1487,3 +1487,5 @@ http://www.slideshare.net/alvarosicilia/phd-dissertation-supporting-tools-for-au
 @hobbit_project TAIPAN: Automatic Property Mapping for Tabular Data presented at  #EKAW2016 http://bit.ly/2fPwPf6  #bigdata #linkeddata #h2020 
 
 @AxelPolleres added to readinglist: http://www.semantic-web-journal.net/system/files/swj1167.pdf … @heikopaulheim’s survey on #KnowledgeGraph Refinement 
+
+@swibcon Slides and recordings for #swib16 are now online. See http://swib.org/swib16/programme.html … or the video playlist at https://www.youtube.com/playlist?list=PL7fMsenbLiQ0hL_WKmh4kVQYxu5o7e9K3 …. 
