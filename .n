@@ -1489,3 +1489,5 @@ http://www.slideshare.net/alvarosicilia/phd-dissertation-supporting-tools-for-au
 @AxelPolleres added to readinglist: http://www.semantic-web-journal.net/system/files/swj1167.pdf … @heikopaulheim’s survey on #KnowledgeGraph Refinement 
 
 @swibcon Slides and recordings for #swib16 are now online. See http://swib.org/swib16/programme.html … or the video playlist at https://www.youtube.com/playlist?list=PL7fMsenbLiQ0hL_WKmh4kVQYxu5o7e9K3 …. 
+
+@MartaSabou Semantic Web Technologies for Intelligent Engineering Applications #dataintegration http://www.slideshare.net/martasabou1/semantic-web-technologies-for-intelligent-engineering-applications 
