@@ -1494,4 +1494,5 @@ http://www.slideshare.net/alvarosicilia/phd-dissertation-supporting-tools-for-au
 
 @csarven  Today is the anniversary of my one year self-gamification streak with @github commits: https://github.com/csarven  ;closer to2yrs for me
 
-@triampurum http://www.markus-lanthaler.com/research/third-generation-web-apis-bridging-the-gap-between-rest-and-linked-data.pdf … "Bridging the Gap between REST and Linked Data", doctoral dissertation by @MarkusLanthaler 
+@MarkusLanthaler Markus Lanthaler Retweeted triampurum A heavy read for the holidays :-) 
+ @triampurum http://www.markus-lanthaler.com/research/third-generation-web-apis-bridging-the-gap-between-rest-and-linked-data.pdf … "Bridging the Gap between REST and Linked Data", doctoral dissertation by @MarkusLanthaler 
