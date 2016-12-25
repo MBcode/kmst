@@ -1491,3 +1491,5 @@ http://www.slideshare.net/alvarosicilia/phd-dissertation-supporting-tools-for-au
 @swibcon Slides and recordings for #swib16 are now online. See http://swib.org/swib16/programme.html … or the video playlist at https://www.youtube.com/playlist?list=PL7fMsenbLiQ0hL_WKmh4kVQYxu5o7e9K3 …. 
 
 @MartaSabou Semantic Web Technologies for Intelligent Engineering Applications #dataintegration http://www.slideshare.net/martasabou1/semantic-web-technologies-for-intelligent-engineering-applications 
+
+@csarven  Today is the anniversary of my one year self-gamification streak with @github commits: https://github.com/csarven  ;closer to2yrs for me
