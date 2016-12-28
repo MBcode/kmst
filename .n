@@ -1505,3 +1505,5 @@ Egon Willighⓐgen Retweeted Sven Kochmann yes... and we cannot wait for the pub
  Sven Kochmann @indianalytics Sven Kochmann Retweeted Egon Willighⓐgen
  Need more semantic connections between pubs: "Pub x was confirmed by y and z; Pub a disaggrees with x; Hypothesis of x was disproven by b.." 
 James Hare @harej @egonwillighagen @Wikicite @opencitations The work of @essepuntato on the SPAR Ontologies goes very far to develop this very data model
+
+@jsonstat Read and write JSON-stat in the Julia programming language https://github.com/klpn/JSONStat.jl … #stats #cube #opendata #data #JuliaLang 
