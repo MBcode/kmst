@@ -1498,3 +1498,10 @@ http://www.slideshare.net/alvarosicilia/phd-dissertation-supporting-tools-for-au
  @triampurum http://www.markus-lanthaler.com/research/third-generation-web-apis-bridging-the-gap-between-rest-and-linked-data.pdf … "Bridging the Gap between REST and Linked Data", doctoral dissertation by @MarkusLanthaler 
 
 @jindrichmynarz I built a simple CLI tool to page through SPARQL queries or chain multiple queries with output to CSV.  https://github.com/jindrichmynarz/sparql-to-csv 
+User Actions   
+ Follow
+ 
+Egon Willighⓐgen Retweeted Sven Kochmann yes... and we cannot wait for the publishers... my hopes are set on @opencitations and @wikicite ... 
+ Sven Kochmann @indianalytics Sven Kochmann Retweeted Egon Willighⓐgen
+ Need more semantic connections between pubs: "Pub x was confirmed by y and z; Pub a disaggrees with x; Hypothesis of x was disproven by b.." 
+James Hare @harej @egonwillighagen @Wikicite @opencitations The work of @essepuntato on the SPAR Ontologies goes very far to develop this very data model
