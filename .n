@@ -259,6 +259,8 @@ https://semtools.ecoinformatics.org http://ontolog.cim3.net/cgi-bin/wiki.pl?Mark
  https://sonet.ecoinformatics.org  https://www.nceas.ucsb.edu http://notional.ddns.net/cnt3.txt
 Bringing biodiversity data2the SemanticWeb http://www.biomedcentral.com/1471-2105/15/257/abstract 
 
+https://en.m.wikipedia.org/wiki/National_Center_for_Ecological_Analysis_and_Synthesis stopped4coffee&ended up2blocks away would still love2do sci semweb work for them
+
 http://semanticweb.com/rdf-critical-successful-internet-things_b42994
 http://semanticweb.com/semantic-data-ecosystem-oil-gas-sector-norway_b43833 
 
