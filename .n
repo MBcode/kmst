@@ -1511,3 +1511,5 @@ Egon Willighⓐgen Retweeted Sven Kochmann yes... and we cannot wait for the pub
 James Hare @harej @egonwillighagen @Wikicite @opencitations The work of @essepuntato on the SPAR Ontologies goes very far to develop this very data model
 
 @jsonstat Read and write JSON-stat in the Julia programming language https://github.com/klpn/JSONStat.jl … #stats #cube #opendata #data #JuliaLang 
+
+@ontologysummit Dec 30 Kincho H. Law Cross-domain http://bit.ly/222R3Z8  #ontologysummit #law #ontology #informationretrieval #discovery 
