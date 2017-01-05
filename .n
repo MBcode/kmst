@@ -1479,6 +1479,7 @@ http://www.ibm.com/developerworks/library/wa-data-integration-at-scale-OSLC-and-
 LODRefine (ETL/Semantics); https://en.wikipedia.org/wiki/Complex_event_processing
  rDB cols to unstructured (NER), metadata/tagged w/shared vocabs;
  &can recognize [w/co-occurance/s] events @needed level of generality 
+   ;might have part of what I hope Map-On r2rml tagging cols w/vocab terms, easing data-integration 
 
 https://github.com/akb89/valencer/blob/master/README.md https://github.com/akb89/noframenet https://akb89.github.io/valencer framenet-query
 
