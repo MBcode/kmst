@@ -1237,6 +1237,11 @@ https://twitter.com/cognitum_eu/status/676509615845175296 @cognitum_eu
  An introductory course for #Ontology Engineering using Controlled Natural Language #CNL #Semantic 
  http://www.slideshare.net/Cognitum/introduction-to-ontology-engineering-with-fluent-editor-2014 
 
+@NovasTaylor: @namedgraph @kidehen   Ha ha! Of course not. This is to teach newbies the core concepts. I spin through my source data with #rstats :)
+ I want newbs to easily create a few example RDF triples without SPARQL CREATE and not boring text editor. Ideas?
+@namedgraph: @NovasTaylor @kidehen what about Fluent: http://www.cognitum.eu/semantics/FluentEditor/ …
+@NovasTaylor: @namedgraph @kidehen ooooh! It has #rstats & Protege integration. Will check it out, thanks!
+
 http://blog.stardog.com/unifying-unstructured-data/ want really easy NamedEntityExtraction/concept-tagging &dependecy/relationships between..
 
 Shaowen Wang @swuiuc Want to attend #CyberGIS16 via cyber space, live streaming will start tomorrow: http://events.ncsa.illinois.edu/vts/video/live.html … @CyberGISCenter @NCSAatIllinois 
