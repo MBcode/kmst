@@ -1534,3 +1534,8 @@ tried pentaho:data-integration(knime/&others still on table);looked at virtuoso(
  nice background/tool finding but will change focus a bit; (niece's 16th today)
 I've seen virtuoso used a lot&regular debs for it, but import/restructure/etc not obvious, will still look at
 https://github.com/OpsResearchLLC/cl-marklogic.git allows this avenue to sparql, but marklogic happier w/redhat v ubuntu, but maybe osx
+
+@WimpieNortje  Challenging Clojure in Common #Lisp 
+ https://chriskohlhepp.wordpress.com/functional-programming-section/metacircular-adventures-in-functional-abstraction-challenging-clojure-in-common-lisp/ 
+ Like the collection of libs&any use case, but could have been generalized faster&I could think of a short reactive/rule based way to do it, that would be more data driven&less hand crafted code. 
+ Still believe Lisp has a lot on clj, in many/most interesting application areas.
