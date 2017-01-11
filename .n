@@ -328,6 +328,8 @@ would even work on: http://www.ncsa.illinois.edu/about/jobs/A1400040 if I could 
  but cl-autowrap & abcl/etc are still options too;I've also wrapped end-clients w/CLIPS/Jess
 http://www.isi.edu/isd/LOOM/ came 1st/but still using KM more
 
+Still use sqlDB->protege_db-tab->pprj-files->clips-loadable though a Lisp ORM w/lisa.sf.net (or agraph if it was easier2use4work)
+
 When doing a lisp/Common-Logic review saw/downloaded latest powerloom4, &ran: powerloom --gui 
  this still has much of the more original direction that Protege has lost after v3
 
