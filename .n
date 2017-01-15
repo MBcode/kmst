@@ -635,7 +635,7 @@ Glen C @GlenCoppersmith · 4h4 hours ago DARPAs memex tools open source software
 
 DARPA @DARPA  ·  May 11 Happy to do our part... http://www.darpa.mil/OpenCatalog/  MT @whitehouseostp: 2 Yrs of Transformative Open Data for Public Good: http://wh.gov/iKTtk  
 
-New blog: Making Federal Research Results Available to All https://www.whitehouse.gov/blog/2017/01/09/making-federal-research-results-available-all
+@whitehouseostp New blog: Making Federal Research Results Available to All https://www.whitehouse.gov/blog/2017/01/09/making-federal-research-results-available-all
 
 Jens Lehmann @JLehmann82 Due to many good submissions, we turned Know@LOD into a full day workshop! …http://knowalod2015.informatik.uni-mannheim.de/  #machinelearning #semanticweb 
 
