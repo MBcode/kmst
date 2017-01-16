@@ -1546,3 +1546,5 @@ https://github.com/OpsResearchLLC/cl-marklogic.git allows this avenue to sparql,
 
 https://www.w3.org/wiki/ConverterToRdf https://www.w3.org/2001/sw/wiki/SemanticWebTools#Tools_for_Converting_RDF_Data_between_different_Serializations 
 https://www.w3.org/wiki/SweoIG/TaskForces/CommunityProjects/LinkingOpenData   ; https://www.oreilly.com/ideas/what-ai-needs-is-a-dose-of-realism
+
+@jindrichmynarz I made a tool to summarize the s̶t̶r̶u̶c̶t̶u̶r̶e̶mess of data in a SPARQL endpoint into a class diagram in Graphviz: https://github.com/jindrichmynarz/sparql-to-graphviz 
