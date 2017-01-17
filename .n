@@ -1548,3 +1548,5 @@ https://www.w3.org/wiki/ConverterToRdf https://www.w3.org/2001/sw/wiki/SemanticW
 https://www.w3.org/wiki/SweoIG/TaskForces/CommunityProjects/LinkingOpenData   ; https://www.oreilly.com/ideas/what-ai-needs-is-a-dose-of-realism
 
 @jindrichmynarz I made a tool to summarize the s̶t̶r̶u̶c̶t̶u̶r̶e̶mess of data in a SPARQL endpoint into a class diagram in Graphviz: https://github.com/jindrichmynarz/sparql-to-graphviz 
+
+@nasrinmmm  Nasrin Mostafazadeh Retweeted WIRED I bet every CS person knows a few physics ppl working in CS! Very interesting article about this & how math-driven #AI is helping it further https://www.wired.com/2017/01/move-coders-physicists-will-soon-rule-silicon-valley/?mbid=social_twitter 
