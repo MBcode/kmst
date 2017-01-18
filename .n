@@ -1550,3 +1550,8 @@ https://www.w3.org/wiki/SweoIG/TaskForces/CommunityProjects/LinkingOpenData   ; 
 @jindrichmynarz I made a tool to summarize the s̶t̶r̶u̶c̶t̶u̶r̶e̶mess of data in a SPARQL endpoint into a class diagram in Graphviz: https://github.com/jindrichmynarz/sparql-to-graphviz 
 
 @nasrinmmm  Nasrin Mostafazadeh Retweeted WIRED I bet every CS person knows a few physics ppl working in CS! Very interesting article about this & how math-driven #AI is helping it further https://www.wired.com/2017/01/move-coders-physicists-will-soon-rule-silicon-valley/?mbid=social_twitter 
+
+@bearloga  Mikhail Popov Retweeted Dario Taraborelli
+WikidataQueryServiceR now on CRAN https://cran.r-project.org/package=WikidataQueryServiceR …, joining WikidataR (https://cran.r-project.org/package=WikidataR …) & WikipediR (https://cran.r-project.org/package=WikipediR …) 
+@ReaderMeter
+    An #rstats package by @bearloga to query the @wikidata query service. Send #SPARQL, get back a data.frame https://lists.wikimedia.org/pipermail/wikidata/2017-January/010156.html … 
