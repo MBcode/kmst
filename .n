@@ -1501,6 +1501,8 @@ PROPEL is over!Get our free book on inspecting the potential of #EnterpriseLinke
 
 @ontologysummit Presented: Eric Little @osthus Integrating data systems http://bit.ly/222R3Z8  #ontologysummit #bigdata
 
+@ontologysummit  Jan 16 Presented: Eric Little @osthus Integrating data systems http://bit.ly/222R3Z8  #ontologysummit #bigdata
+
 @KKjernsmo  Dec 16 Full text of my #PhD thesis: "SPARQL on the Open, Decentralised Web": http://urn.nb.no/URN:NBN:no-56537 … #SPARQL #LinkedData 
 @KKjernsmo  1/2 Conclusion from #MyPhD: Evaluation methodologies suffer from a poor foundation in philosophy of science: http://urn.nb.no/URN:NBN:no-56537 …
             2/2 Conclusion from #MyPhD: Research into relevant epistemology is important, i.e. we need to ask what is knowledge 
