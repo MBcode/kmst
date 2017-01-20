@@ -1559,3 +1559,5 @@ https://www.w3.org/wiki/SweoIG/TaskForces/CommunityProjects/LinkingOpenData   ; 
 WikidataQueryServiceR now on CRAN https://cran.r-project.org/package=WikidataQueryServiceR …, joining WikidataR (https://cran.r-project.org/package=WikidataR …) & WikipediR (https://cran.r-project.org/package=WikipediR …) 
 @ReaderMeter
     An #rstats package by @bearloga to query the @wikidata query service. Send #SPARQL, get back a data.frame https://lists.wikimedia.org/pipermail/wikidata/2017-January/010156.html … 
+
+http://www.cambridgesemantics.com/semantic-university/semantic-web-misconceptions 
