@@ -118,6 +118,9 @@ General shared standards are still a focus, but getting thigs working w/in their
  best most flexible tech(where one can still explore),is still a focus.  Still have interest in
  things like common-logic as well, as some cNL &much more. Want to knock out a lil in the area soon.
 
+http://www.skampakis.com/can-data-science-be-automated/ 
+ 1)Cambridge’s Google-funded automatic statistician 2)Wolfram’s Data Science Platform 3)MIT’s Data Science Machine
+
 Christopher @communicating  [Interesting] DURA: A Declarative Event Query Language for Reactive [Complex] Event Processing [large pdf] http://www.en.pms.ifi.lmu.de/publications/dissertationen/Steffen.Hausmann/DISS_Steffen.Hausmann.pdf …
 
 Kemele M. Endris @KemeleM  Jun20 "Interest-based RDF Update Propagation" has been accepted at #iswc2015 #EISBonn http://eis.iai.uni-bonn.de/Projects/iRap.html …
