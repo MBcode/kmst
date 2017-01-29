@@ -1568,3 +1568,5 @@ WikidataQueryServiceR now on CRAN https://cran.r-project.org/package=WikidataQue
 http://www.cambridgesemantics.com/semantic-university/semantic-web-misconceptions 
 
 @bobdc  New blog entry "Brand-name companies using SPARQL: the http://sparql.club " http://www.snee.com/bobdc.blog/2017/01/brand-name-companies-using-spa.html … 
+
+Nicolas Figay @nfigay Some advanced visualization technics for embracing complexity of Dynamic Networks of Networks https://www.linkedin.com/pulse/some-advanced-visualization 
