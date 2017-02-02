@@ -886,7 +886,8 @@ Jean-Paul Calbimonte @jpcik Oct 16 #rsp tutorial: slides of RSP implementation s
 
  http://www.slideshare.net/rjw/schemaorg-extending-benefits from http://smartdata2015.dataversity.net/sessionPop.cfm?confid=91&proposalid=7656
 
-Missing the full attendance of smartdata2016 this year, but will stop by/hopefully get a bit of an update, &will look fwd to any materials that are released.
+Missing the full attendance of smartdata2017 this year, but will stop by/hopefully get a bit of an update, &will look fwd to any materials that are released.
+ http://smartdata2017.dataversity.net/agenda.cfm?pgid=1
 
 Chris Mungall @chrismungall  How we leverage YAML and GitHub technology in the new #OBOFoundry registry http://wp.me/p25njf-1n
  
