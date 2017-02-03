@@ -1573,3 +1573,5 @@ http://www.cambridgesemantics.com/semantic-university/semantic-web-misconception
 @bobdc  New blog entry "Brand-name companies using SPARQL: the http://sparql.club " http://www.snee.com/bobdc.blog/2017/01/brand-name-companies-using-spa.html … 
 
 Nicolas Figay @nfigay Some advanced visualization technics for embracing complexity of Dynamic Networks of Networks https://www.linkedin.com/pulse/some-advanced-visualization 
+ 
+pgmodeler.sf.net / protege / .. rework schema, both in obj/frame view and in pg(incl inherits); take steps to relation hierarchies&more taging from vocabs..
