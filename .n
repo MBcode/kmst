@@ -1575,3 +1575,4 @@ http://www.cambridgesemantics.com/semantic-university/semantic-web-misconception
 Nicolas Figay @nfigay Some advanced visualization technics for embracing complexity of Dynamic Networks of Networks https://www.linkedin.com/pulse/some-advanced-visualization 
  
 pgmodeler.sf.net / protege / .. rework schema, both in obj/frame view and in pg(incl inherits); take steps to relation hierarchies&more taging from vocabs..
+clsql-orm &lisa.sf.net &/or instans
