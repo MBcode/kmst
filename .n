@@ -1577,3 +1577,5 @@ Nicolas Figay @nfigay Some advanced visualization technics for embracing complex
 pgmodeler.sf.net / protege / .. rework schema, both in obj/frame view and in pg(incl inherits); take steps to relation hierarchies&more taging from vocabs..
 clsql-orm &lisa.sf.net &/or instans
 csv v mysqldump; thought extra typing/quick load for mysql a good idea, but now doubt it; might be faster to load &create(p)ins
+
+http://aaai.org/Conferences/AAAI/aaai17.php being a lifetime member I'll at least try to read up on it; wish I could stop by though esp. as it is in town.
