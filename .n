@@ -1578,5 +1578,6 @@ pgmodeler.sf.net / protege / .. rework schema, both in obj/frame view and in pg(
 clsql-orm &lisa.sf.net &/or instans
 csv v mysqldump; thought extra typing/quick load for mysql a good idea, but now doubt it; might be faster to load &create(p)ins
  eg. https://github.com/jamesmishra/mysqldump-to-csv.git  ;&other py mysql &Rmysql..  data-tables &sparql libs..
+Want table linkage viz, tried github.com/globalcitizen/mysqlviz bc not in pg for pgmodeler, but can also get eer diagram from mysql-workbench if all keys ok
 
 http://aaai.org/Conferences/AAAI/aaai17.php being a lifetime member I'll at least try to read up on it; wish I could stop by though esp. as it is in town.
