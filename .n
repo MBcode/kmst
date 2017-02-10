@@ -1581,3 +1581,5 @@ csv v mysqldump; thought extra typing/quick load for mysql a good idea, but now 
 Want table linkage viz, tried github.com/globalcitizen/mysqlviz bc not in pg for pgmodeler, but can also get eer diagram from mysql-workbench if all keys ok
 
 http://aaai.org/Conferences/AAAI/aaai17.php being a lifetime member I'll at least try to read up on it; wish I could stop by though esp. as it is in town.
+
+@kidehen 2017 Edition of the Linked Open Data (LOD) Cloud pictorial: http://lod-cloud.net/ . Basically, #LinkedData Grid seeded by #DBpedia. 
