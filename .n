@@ -1583,3 +1583,5 @@ Want table linkage viz, tried github.com/globalcitizen/mysqlviz bc not in pg for
 http://aaai.org/Conferences/AAAI/aaai17.php being a lifetime member I'll at least try to read up on it; wish I could stop by though esp. as it is in town.
 
 @kidehen 2017 Edition of the Linked Open Data (LOD) Cloud pictorial: http://lod-cloud.net/ . Basically, #LinkedData Grid seeded by #DBpedia. 
+
+https://github.com/Microsoft/GraphEngine just got open-sourced.  https://www.graphengine.io/video/likq.video.html 
