@@ -1587,7 +1587,7 @@ http://aaai.org/Conferences/AAAI/aaai17.php being a lifetime member I'll at leas
 https://github.com/Microsoft/GraphEngine just got open-sourced.  https://www.graphengine.io/video/likq.video.html 
 
 Finally putting more in daily on a private repo than a public one.
-but looks like I don't see this if not logged in, so not sure what longest streak is anymore
+but looks like I don't see this if not logged in, so not sure what longest streak is anymore/try again
 
 @ChrisKohlhepp  "How to Write Your First Quantum Program - A View on Optimising Manufacturing Supply Chains" https://www.linkedin.com/pulse/how-write-your-first-quantum-program-view-supply-christoph … by @ChrisKohlhepp 
 
