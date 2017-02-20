@@ -1590,6 +1590,7 @@ https://github.com/Microsoft/GraphEngine just got open-sourced.  https://www.gra
 Finally putting more in daily on a private repo than a public one.
 but looks like I don't see this if not logged in, so not sure what longest streak is anymore/try again
 -having other github quirks, where updates don't show on the board getting a little tired of..
+ still want map-on maybe protege's prompt-tab or some other onto mapping going, ..  
 got a chrombook pixel
 
 @ChrisKohlhepp  "How to Write Your First Quantum Program - A View on Optimising Manufacturing Supply Chains" https://www.linkedin.com/pulse/how-write-your-first-quantum-program-view-supply-christoph … by @ChrisKohlhepp 
