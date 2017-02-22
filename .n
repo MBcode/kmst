@@ -438,6 +438,8 @@ My slides on our work for addressing reproducibility using semantics: slideshare
 
 Carly Strasser @carlystrasser  .@PLOSBiology step-by-step guide to computing workflows by @ashley17061 & @tracykteal http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002303 … #MooreData
 
+@sparontologies  Describing the whole workflow resulting in a publication of an article by means of #PWO http://www.sparontologies.net/ontologies/pwo  #SPAROntologies
+
 rachelbruce @rachelbruce  ·  Dec 15
 Interesting idea - Use semantic desktop to capture contextual research data - see: http://researchatrisk.ideascale.com/a/index  #RDSpring #jisc
 
