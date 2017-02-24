@@ -1605,3 +1605,6 @@ http://ontologforum.org/index.php/ConferenceCall_2017_02_22 has started again
 There are many connections between ontologies, AI, machine learning and reasoning. The Ontology Summit will explore, identify and articulate the relationships between these areas, with special attention to the three track themes. 
 
 @kidehen  Words are not Concepts. Syntax is not Semantics. Meaning is not Truth. — @MikeHypercube : https://www.slideshare.net/MikeHypercube1/how-tocreateagoldenontology …. #SemanticWeb #Ontology 
+
+@kurt_cagle Exploring the transition from SQL to RDF/Sparql 
+    https://www.linkedin.com/pulse/from-sql-tables-sparql-graphs-journey-kurt-cagle 
