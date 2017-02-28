@@ -1611,3 +1611,5 @@ There are many connections between ontologies, AI, machine learning and reasonin
     https://www.linkedin.com/pulse/from-sql-tables-sparql-graphs-journey-kurt-cagle 
 
 @TheodoraPetkova  Content Management, Metadata and Semantic Web by @amit_p #commercialsemanticwebtechnology https://www.slideshare.net/apsheth/content-management-metadata-and-semantic-web … via @SlideShare 
+
+@HNTweets  Feb 26 Summary of 'Programs with Common Sense' (1959) by John McCarthy: http://www.jackhoy.com/artificial-intelligence/2017/02/24/summary-of-programs-with-common-sense-john-mccarthy.html … Comments: https://news.ycombinator.com/item?id=13740598 … 
