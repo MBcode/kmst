@@ -1623,3 +1623,5 @@ There are many connections between ontologies, AI, machine learning and reasonin
 
 @Franzinc  Using AllegRo - R package with #AllegroGraph - Webcast demo https://pbs.twimg.com/media/C52kkZrWUAEyv3_.jpg 
  http://franz.com/ps/newsletter-swt.lhtml#article1b https://github.com/baasman/allegRo
+
+@ebiquity SADL – Semantic Application Design Language http://ebiquity.umbc.edu/blogger/2017/03/04/sadl-semantic-application-design-language/ 
