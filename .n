@@ -1627,3 +1627,6 @@ There are many connections between ontologies, AI, machine learning and reasonin
 @ebiquity SADL – Semantic Application Design Language http://ebiquity.umbc.edu/blogger/2017/03/04/sadl-semantic-application-design-language/ 
 
 Spent weekend going through years of backup drives&consolidating, incl getting rid of several HFS+ partitions; ext4 is fine for backup
+
+@Miel_vds My slides on 'Reproducibility with the 99 cents #linkeddata archive’ available here:  http://bit.ly/2mb9Dg7  #openbelgium 
+    https://www.slideshare.net/MielSande/reproducibility-with-the-99-cents-linked-data-archive
