@@ -1625,3 +1625,5 @@ There are many connections between ontologies, AI, machine learning and reasonin
  http://franz.com/ps/newsletter-swt.lhtml#article1b https://github.com/baasman/allegRo
 
 @ebiquity SADL – Semantic Application Design Language http://ebiquity.umbc.edu/blogger/2017/03/04/sadl-semantic-application-design-language/ 
+
+Spent weekend going through years of backup drives&consolidating, incl getting rid of several HFS+ partitions; ext4 is fine for backup
