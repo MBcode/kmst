@@ -1630,3 +1630,7 @@ Spent weekend going through years of backup drives&consolidating, incl getting r
 
 @Miel_vds My slides on 'Reproducibility with the 99 cents #linkeddata archive’ available here:  http://bit.ly/2mb9Dg7  #openbelgium 
     https://www.slideshare.net/MielSande/reproducibility-with-the-99-cents-linked-data-archive
+
+Linux tool: http://ranger.nongnu.org/ w/w3m(-ing)&poppler-utils, allows cmndline viewing of even htm&pdf-text
+ uses my fav multi pane directory viewing, but then much more, &w/vi key bindings; it will get a lot of use.
+_I got the atom editor working in a single chome(os)tab w/xiwi;might still use, but ranger has more(overall)use.
