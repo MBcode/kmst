@@ -1634,3 +1634,4 @@ Spent weekend going through years of backup drives&consolidating, incl getting r
 Linux tool: http://ranger.nongnu.org/ w/w3m(-ing)&poppler-utils, allows cmndline viewing of even htm&pdf-text
  uses my fav multi pane directory viewing, but then much more, &w/vi key bindings; it will get a lot of use.
 _I got the atom editor working in a single chome(os)tab w/xiwi;might still use, but ranger has more(overall)use.
+ thunderbird should also work in a chrome-tab; turns out sdiff is much faster than 'meld' though less pretty, in instances
