@@ -1636,6 +1636,7 @@ Linux tool: http://ranger.nongnu.org/ w/w3m(-ing)&poppler-utils, allows cmndline
 _I got the atom editor working in a single chome(os)tab w/xiwi;might still use, but ranger has more(overall)use.
  thunderbird works in a chrome-tab; turns out sdiff is much faster than 'meld' though less pretty, in instances
  protege&powerloom didn't start in a tab as well, &webpage server not coming up right away either
+  java_home was just reset so have protege w/in a chrome tab vs going to xfce4
 
 https://independent.academia.edu/MichaelBobak ;my old talk bit.ly/TP8gfz about using KM w/hadoop or similar
  
