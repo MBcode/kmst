@@ -1637,6 +1637,7 @@ _I got the atom editor working in a single chome(os)tab w/xiwi;might still use, 
  thunderbird works in a chrome-tab; turns out sdiff is much faster than 'meld' though less pretty, in instances
  protege&powerloom didn't start in a tab as well, &webpage server not coming up right away either
  plm:ontosaurus runs, &can startxfce4 for protege; maybe web/v3 applet2
+ java_home was just reset so have protege w/in a chrome tab vs going to xfce4
 
 https://independent.academia.edu/MichaelBobak ;my old talk bit.ly/TP8gfz about using KM w/hadoop or similar
  
