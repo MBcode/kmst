@@ -1640,6 +1640,7 @@ _I got the atom editor working in a single chome(os)tab w/xiwi;might still use, 
  java_home was just reset so have protege w/in a chrome tab vs going to xfce4
  if I (start-powerloom-server) also get the java-gui: xiwi -T plm;but didn't load non toy kb even w/4x of Xmx256m,get soap errors
 Past days of travel(now w/o cnct2home cluster)&neither commits from pixel, public|private are ending up on my github weekly graph:(
+Back2cluster, maybe this update will finally show up&when time I can track this down; also someday look@gitlab /etc.
 
 https://independent.academia.edu/MichaelBobak ;my old talk bit.ly/TP8gfz about using KM w/hadoop or similar
  
