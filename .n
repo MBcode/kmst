@@ -1645,3 +1645,5 @@ Back2cluster, maybe this update will finally show up&when time I can track this 
 https://independent.academia.edu/MichaelBobak ;my old talk bit.ly/TP8gfz about using KM w/hadoop or similar
  
 @tistre Mar 31 New blog post: “Your company needs its own Knowledge Graph” https://www.strehle.de/tim/weblog/archives/2017/03/31/1613
+
+#LDOW2017 http://events.linkeddata.org/ldow2017 https://www.slideshare.net/stefandietze/beyond-linked-data-exploiting-entitycentric-knowledge-on-the-web ... deepschema.github.io
