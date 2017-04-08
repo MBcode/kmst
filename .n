@@ -1652,3 +1652,6 @@ http://www.dataversity.net/surrogate-keys-paving-way-graph-nosql-data-models/
 
 @FrankVanHarmele The end of the scientific paper as we know it (in 4 easy steps) 
     https://www.slideshare.net/Frank.van.Harmelen/the-end-of-the-scientif-paper-as-we-know-it-in-4-easy-steps
+
+@structD  Apr 4 Fare Thee Well, OpenCyc: http://www.mkbergman.com/2034/fare-thee-well-opencyc/ … #linkeddata #semanticweb 
+ Strangely this happened right after this coming up in a discussion w/Doug Lenat; still sad
