@@ -957,6 +957,7 @@ m bobak Retweeted Protege Project @protegeproject  24h24 hours ago Mark Musen is
 Oren Etzioni Retweeted @GaryMarcus Game on! $50,000 to first machine that can ace an 8th grade science exam. @allenai_org & @Kaggle #BeyondTuring https://www.kaggle.com/c/the-allen-ai-science-challenge … 
 
 http://www.cs.utexas.edu/users/mfkb/RKF/tree/ pull out the ~halo libs for the kaggle ai2 and the ~calo one for other past/present thoughts ;some work in kme/nlp
+http://www.cs.utexas.edu/users/mfkb/related.html
 
 http://www.meetup.com/sfedtech/events/22838708 Adaptive Learning: Potential, Pitfalls & What's Needed For Success? ;reminds me I'd like to annotate ai2 Q&A
 
