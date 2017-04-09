@@ -487,6 +487,9 @@ http://ontologforum.org/index.php/ConferenceCall_2016_03_10 Health Sciences: IR,
 http://ontologforum.org/index.php/ConferenceCall_2016_03_17 Semantic Integration in Engineering   /onto in manufacture/design model-based(sys)engineering
     Kevin Lynch: @Raytheon @DARPA project perspective on model-based #SDLC http://bit.ly/1PbI0sn  #ontologysummit #AI
     Gruninger: "Implicit #semantics is big challenge" http://bit.ly/1PbI0sn  #ontologysummit  #ontology #manufacturing
+
+ http://www-ksl.stanford.edu/htw/dme/thermal-kb-tour/tour-01.html .CML.. http://www-ksl.stanford.edu/knowledge-sharing/
+ http://www-ksl.stanford.edu/projects/htw/KSL-MADE-PROPOSAL/KSL-MADE-Prop.html
  
 http://ontologforum.org/index.php/ConferenceCall_2016_03_24 Semantic Integration in Finance ;FIBO
 
