@@ -1665,3 +1665,5 @@ http://www.dataversity.net/surrogate-keys-paving-way-graph-nosql-data-models/
 @reddit_lisp #lisp Lisp syntax with Java semantics | https://github.com/xach/linj ;maybe time to revisit java interop
 @reddit_lisp #lisp c-mera - Lisp syntax with C semantics | https://www.reddit.com/r/lisp/comments/64pz6b/cmera_lisp_syntax_with_c_semantics/
  
+@pkarp222  Slides in @F1000research https://f1000research.com/slides/6-483 How much does curation cost and how accurate is curation?
+ Nice2see InfoExtraction,NER.. ;use of Lisp in (bio|eco|meta)cyc brg.ai.sri.com/ptools ;;also: https://en.wikipedia.org/wiki/BioBIKE 
