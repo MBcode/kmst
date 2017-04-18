@@ -1674,3 +1674,6 @@ also stella&abcl
 @dk_jackdaniel 
   LLVM-IR -> Common Lisp transpiler created by Henry Harrington: https://github.com/froggey/Iota . Very impressive! #lisp #mezzano 
   https://github.com/froggey/Iota
+
+@planet_lisp  Vsevolod Dyomkin: Pretty-Printing Trees http://lisp-univ-etc.blogspot.com/2017/04/pretty-printing-trees.html … 
+ would have used; @ucsf.edu https://github.com/vseloved?utf8=%E2%9C%93&tab=repositories&q=&type=&language=common%20lisp
