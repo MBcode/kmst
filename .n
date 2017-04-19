@@ -1677,3 +1677,5 @@ also stella&abcl
 
 @planet_lisp  Vsevolod Dyomkin: Pretty-Printing Trees http://lisp-univ-etc.blogspot.com/2017/04/pretty-printing-trees.html … 
  would have used; @ucsf.edu https://github.com/vseloved?utf8=%E2%9C%93&tab=repositories&q=&type=&language=common%20lisp
+
+http://www.l3s.de/~minack/rdf2rdf/ dbo/etc n3->ttl->km ;parseExceptions on ~1/10 of a dbo sample; correct&/or look around4backups
