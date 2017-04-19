@@ -509,6 +509,12 @@ http://ontologforum.org/index.php/ConferenceCall_2016_05_05 complete the Summit 
 
 @ontologysummit Join 9A EDT Tag #OntologySummit Virtual+F2F May9-10 #semantic #interoperability #ontology http://bit.ly/1V6K11y 
 
+@ontologysummit Feb 22 #OntologySummit '2017 12:30EST Weekly thru May "AI, Learning, Reasoning + Ontologies" http://bit.ly/2kV2PEr 
+...several interesting ones, 
+http://ontologforum.org/index.php/ConferenceCall_2017_04_19 ..
+ Combining Statistics and Semantics to Turn Data into Knowledge   L Getoor @ucsc then Y Gil@isi.usc
+ Reasoning about Scientific Knowledge with Workflow Constraints: Towards Automated Discovery from Data Repositories  
+
 http://www.meetup.com/USF-Seminar-Series-in-Analytics/events/216142252/
  iot+datasci+mbr reminds me or re ge talks using eureqa
 
