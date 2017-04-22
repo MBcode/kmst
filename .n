@@ -1685,3 +1685,6 @@ also stella&abcl
  would have used; @ucsf.edu https://github.com/vseloved?utf8=%E2%9C%93&tab=repositories&q=&type=&language=common%20lisp
 
 http://www.l3s.de/~minack/rdf2rdf/ dbo/etc n3->ttl->km ;parseExceptions on ~1/10 of a dbo sample; correct&/or look around4backups
+
+@dat_project  Wouldn't it be neat to have your twitter feed work offline, and be able to back it up safely? We thought it might ✨ https://github.com/joehand/hypertweet …
+ wish it wasn't npm/wish it worked, as I might need a new tweet archiver&have always wanted offline; maybe cl-twit archiving 
