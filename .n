@@ -1688,3 +1688,5 @@ http://www.l3s.de/~minack/rdf2rdf/ dbo/etc n3->ttl->km ;parseExceptions on ~1/10
 
 @dat_project  Wouldn't it be neat to have your twitter feed work offline, and be able to back it up safely? We thought it might ✨ https://github.com/joehand/hypertweet …
  wish it wasn't npm/wish it worked, as I might need a new tweet archiver&have always wanted offline; maybe cl-twit archiving 
+
+@MartinCracauer  Apr 20 Very nice writeup! #ai #lisp https://medium.com/ai-society/the-lisp-approach-to-ai-part-1-a48c7385a913 
