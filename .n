@@ -1697,3 +1697,4 @@ http://www.l3s.de/~minack/rdf2rdf/ dbo/etc n3->ttl->km ;parseExceptions on ~1/10
  https://developer.ibm.com/recipes/tutorials/watson-iot-with-common-lisp/ https://github.com/fsmunoz/cl-watson-iot-example.git 
 
 Trying 1st RH/Fedora distro in awhile: ScientificLinux, some of it is nice, but not seeing the thousands of rpm deb equivalents yet.
+ yum install yum-conf-* help an OoM but still OoM more debs, but ok now; ;still difficult to get linux lispworks, but sbcl.. still great
