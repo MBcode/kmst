@@ -1698,3 +1698,7 @@ http://www.l3s.de/~minack/rdf2rdf/ dbo/etc n3->ttl->km ;parseExceptions on ~1/10
 
 Trying 1st RH/Fedora distro in awhile: ScientificLinux, some of it is nice, but not seeing the thousands of rpm deb equivalents yet.
  yum install yum-conf-* help an OoM but still OoM more debs, but ok now; ;still difficult to get linux lispworks, but sbcl.. still great
+
+@RainerJoswig Currell Berry created an improved PDF of the ANSI Common #Lisp standard from the public sources.  
+    http://cvberry.com/tech_writings/notes/common_lisp_standard_draft.html …
+ 
