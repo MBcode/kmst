@@ -1655,6 +1655,7 @@ _I got the atom editor working in a single chome(os)tab w/xiwi;might still use, 
  if I (start-powerloom-server) also get the java-gui: xiwi -T plm;but didn't load non toy kb even w/4x of Xmx256m,get soap errors
 Past days of travel(now w/o cnct2home cluster)&neither commits from pixel, public|private are ending up on my github weekly graph:(
 Back2cluster, maybe this update will finally show up&when time I can track this down; also someday look@gitlab /etc.
+ still bothered by some commits not showing up
 
 https://independent.academia.edu/MichaelBobak ;my old talk bit.ly/TP8gfz about using KM w/hadoop or similar
  
