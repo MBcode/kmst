@@ -896,6 +896,9 @@ Semantic Tech & Biz @SemanticWeb  Aug 6 Win a free pass to #SmartDataWeek. RT by
    http://www.adampease.org/OP/ https://en.wikipedia.org/wiki/Adam_Pease http://www.aclweb.org/anthology/W14-4718 ceur-ws.org/Vol-71/Pease.pdf page.mi.fu-berlin.de/cbenzmueller/papers/2010-ECAI-ARCOE-16-8.pdf 
  both touch on controlled natural-language (interop), re:km/etc I've looked at ACE before: http://attempto.ifi.uzh.ch/site/resources/ http://www.cs.rpi.edu/~tayloj/CL-ACE/ will have to look again
 
+@StructStories  Think manually-entered structured knowledge is impractical and unscalable? Learn about controlled natural language.. 
+ https://steemit.com/tauchain/@dana-edwards/using-controlled-english-as-a-knowledge-representation-language
+
 Daniele Dell'Aglio @dandellaglio  The slides of the #RDFStreamProcessing tutorial at @iswc2016 are available online! Find them at http://streamreasoning.org/events/rsp2016 ! #RSP #ISWC2016
 
 Jean-Paul Calbimonte @jpcik Oct 16 #rsp tutorial: slides of RSP implementation section at #iswc2016 http://www.slideshare.net/jpcik/rdf-stream-processing-tutorial-rsp-implementations
