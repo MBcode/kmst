@@ -1518,6 +1518,9 @@ LODRefine (ETL/Semantics); https://en.wikipedia.org/wiki/Complex_event_processin
  &can recognize [w/co-occurance/s] events @needed level of generality 
    ;might have part of what I hope Map-On r2rml tagging cols w/vocab terms, easing data-integration 
 
+@OpenRefine RT @ostephens: Documentation on using OpenRefine to match from a data set you have to items in Wikidata
+ https://github.com/OpenRefine/OpenRefine/wiki/Reconciliation
+
 @nicolastorzec  BatchRefine: add batch processing capabilities to OpenRefine - https://github.com/fusepoolP3/p3-batchrefine
 
 https://github.com/akb89/valencer/blob/master/README.md https://github.com/akb89/noframenet https://akb89.github.io/valencer framenet-query
