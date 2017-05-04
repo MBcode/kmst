@@ -22,6 +22,8 @@ Still want protege w/lsw2, have a cache of svn.mumble.net:8080 &old email on get
 
 @planet_lisp ABCL Dev: ABCL 1.4.0 http://abcl-dev.blogspot.com/2016/10/abcl-140.html …
 
+@reddit_lisp #lisp Using Armed Bear Common Lisp With DeepLearning4j | https://leanpub.com/lovinglisp/read#leanpub-auto-using-armed-bear-common-lisp-with-deeplearning4j
+
 @MarkusLanthaler  Quite exciting to see TensorFlow, @Google's machine learning system, being open-sourced http://bit.ly/1PlmLtE ;nn&nice workflow-viz 
 
  Algernon(tab) is useful, but would be nicer w/full lisp; Think there is a clojure-tab around; still want stnd lisp/km.
