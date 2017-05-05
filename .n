@@ -1714,3 +1714,5 @@ Trying 1st RH/Fedora distro in awhile: ScientificLinux, some of it is nice, but 
     http://cvberry.com/tech_writings/notes/common_lisp_standard_draft.html …
  
 @khinsen New blog post: "Which mistakes do we actually make in scientific code?"  http://blog.khinsen.net/posts/2017/05/04/which-mistakes-do-we-actually-make-in-scientific-code/ … /cc @ctitusbrown 
+
+@slashdot NASA Runs Competition To Help Make Old Fortran Code Faster http://bit.ly/2pcZLCY ;I'll try,if they let me try it, in time/?
