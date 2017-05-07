@@ -1719,3 +1719,4 @@ Trying 1st RH/Fedora distro in awhile: ScientificLinux, some of it is nice, but 
 Replying to @notmisha They're looking for 100-1000x speedup, that's right in the ballpark of works like https://goo.gl/fPMpjm  and https://goo.gl/qCm3V7  
 also fun3d.larc.nasa.gov/papers
  
+@reddit_lisp  #Common_Lisp Mitch Richling: *MJRCALC* -- LISP Mathematical Library | https://www.mitchr.me/SS/mjrcalc/ https://github.com/richmit/mjrcalc 
