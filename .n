@@ -1722,3 +1722,4 @@ also fun3d.larc.nasa.gov/papers
 @reddit_lisp  #Common_Lisp Mitch Richling: *MJRCALC* -- LISP Mathematical Library | https://www.mitchr.me/SS/mjrcalc/ https://github.com/richmit/mjrcalc 
 
 @reddit_lisp  #lisp Weyl Computer Algebra Substrate (better common lisp integration than Maxima, asdf-loadable) | https://github.com/OdonataResearchLLC/weyl/
+ weyl from https://www.cs.cornell.edu/Info/Projects/SimLab from /madefast/home.html &made during KnowledgeSharingEffort
