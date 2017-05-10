@@ -1723,3 +1723,5 @@ also fun3d.larc.nasa.gov/papers
 
 @reddit_lisp  #lisp Weyl Computer Algebra Substrate (better common lisp integration than Maxima, asdf-loadable) | https://github.com/OdonataResearchLLC/weyl/
  weyl from https://www.cs.cornell.edu/Info/Projects/SimLab from /madefast/home.html &made during KnowledgeSharingEffort
+
+@structD Pulse: A Major Survey of KBAI: http://www.mkbergman.com/2041/pulse-a-major-survey-of-kbai/ … #KBAI 
