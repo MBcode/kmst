@@ -1721,7 +1721,8 @@ Trying 1st RH/Fedora distro in awhile: ScientificLinux, some of it is nice, but 
 
 @slashdot NASA Runs Competition To Help Make Old Fortran Code Faster http://bit.ly/2pcZLCY ;I'll try,if they let me try it, in time/?
 Replying to @notmisha They're looking for 100-1000x speedup, that's right in the ballpark of works like https://goo.gl/fPMpjm  and https://goo.gl/qCm3V7  
-also fun3d.larc.nasa.gov/papers
+also fun3d.larc.nasa.gov/papers ;other free nasa software links above, assuming much easier to get, so far no reply/not hopeful
+ ~2003 I started to consider a nonprofit abt making govt contracted software/etc more open;I thought progress had been made, but maybe no
  
 @reddit_lisp  #Common_Lisp Mitch Richling: *MJRCALC* -- LISP Mathematical Library | https://www.mitchr.me/SS/mjrcalc/ https://github.com/richmit/mjrcalc 
 
