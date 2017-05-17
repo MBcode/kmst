@@ -1737,3 +1737,5 @@ also fun3d.larc.nasa.gov/papers ;other free nasa software links above, assuming 
 @structD  KBpedia Relations, Part II: An Event-Action Model: http://www.mkbergman.com/2043/kbpedia-relations-part-ii-an-event-action-model/ … #AI #KBAI #KnowledgeGraph
 
 @dbpedia  Smart application of #dbpediaspotlight ;) For more uses of DBpedia Spotlight check http://www.dbpedia-spotlight.org/ . 
+
+@neumarcx welcome @MBstream to the leadership team at the Lotico San Francisco Bay Area Semantic Web #lotico meetup.com/The-San-Franci… 
