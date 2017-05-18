@@ -1739,3 +1739,5 @@ also fun3d.larc.nasa.gov/papers ;other free nasa software links above, assuming 
 @dbpedia  Smart application of #dbpediaspotlight ;) For more uses of DBpedia Spotlight check http://www.dbpedia-spotlight.org/ . 
 
 @neumarcx welcome @MBstream to the leadership team at the Lotico San Francisco Bay Area Semantic Web #lotico meetup.com/The-San-Franci… 
+
+https://www.fun-mooc.fr/courses/course-v1:inria+41013+session02/about Introduction to a Web of Linked Data 
