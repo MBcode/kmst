@@ -1741,3 +1741,5 @@ also fun3d.larc.nasa.gov/papers ;other free nasa software links above, assuming 
 @neumarcx welcome @MBstream to the leadership team at the Lotico San Francisco Bay Area Semantic Web #lotico meetup.com/The-San-Franci… 
 
 https://www.fun-mooc.fr/courses/course-v1:inria+41013+session02/about Introduction to a Web of Linked Data 
+
+@adityagpj New VLDB'17 paper: "I’ve Seen “Enough”: Incrementally Improving Visualizations to Support Rapid Decision Making": http://data-people.cs.illinois.edu/papers/incvisage-paper.pdf … https://pbs.twimg.com/media/C_-N5nKU0AA2CZh.jpg 
