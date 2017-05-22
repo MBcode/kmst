@@ -849,6 +849,7 @@ Bahar Sateli retweeted SemanticSoftwareLab Check out our new GATE plugin, the LO
  SemanticSoftwareLab @SemSoft First release of LODtagger, an #NLProc component for running #DBpediaSpotlight within GATE: http://www.semanticsoftware.info/lodtagger  @GateAcUk #SemanticWeb
 several other/re https://gate.ac.uk/projects.html to look at as well.
 
+http://discoveryhub.co/ https://hal.inria.fr/tel-01130622v1 ;mentioned in the FUN class
 
 GATE (gate.ac.uk) Retweeted Txt Mining Solutions @Txt_Mining TMS Reviews @GateAcUk New "Learning Framework" 
 - Text Mining Solutions http://www.textminingsolutions.co.uk/1/post/2016/04/tms-reviews-gates-new-learning-framework.html …
