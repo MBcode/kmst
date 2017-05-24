@@ -1746,3 +1746,6 @@ also fun3d.larc.nasa.gov/papers ;other free nasa software links above, assuming 
 https://www.fun-mooc.fr/courses/course-v1:inria+41013+session02/about Introduction to a Web of Linked Data 
 
 @adityagpj New VLDB'17 paper: "I’ve Seen “Enough”: Incrementally Improving Visualizations to Support Rapid Decision Making": http://data-people.cs.illinois.edu/papers/incvisage-paper.pdf … https://pbs.twimg.com/media/C_-N5nKU0AA2CZh.jpg 
+
+@ericschmidt  “AutoML” may take lots of computation, but every state-of-the-art neural net it invents advances the whole field! 
+ https://www.technologyreview.com/s/607894/why-googles-ceo-is-excited-about-automating-artificial-intelligence  ;had assitance idea/s
