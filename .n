@@ -1738,6 +1738,8 @@ also fun3d.larc.nasa.gov/papers ;other free nasa software links above, assuming 
 
 @structD  KBpedia Relations, Part II: An Event-Action Model: http://www.mkbergman.com/2043/kbpedia-relations-part-ii-an-event-action-model/ … #AI #KBAI #KnowledgeGraph
 
+ @structD  KBpedia Relations, Part III: A Three-Relations Model: http://www.mkbergman.com/2045/kbpedia-relations-part-iii-a-three-relations-model/ … #AI #KBAI #KnowledgeGraph #semanticweb
+
 @dbpedia  Smart application of #dbpediaspotlight ;) For more uses of DBpedia Spotlight check http://www.dbpedia-spotlight.org/ . 
  http://www.dbpedia-spotlight.org/spotlight-api /faq .. formats incl http://aksw.org/Projects/NIF.html
 
