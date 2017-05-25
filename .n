@@ -1751,3 +1751,5 @@ https://www.fun-mooc.fr/courses/course-v1:inria+41013+session02/about Introducti
 
 @ericschmidt  “AutoML” may take lots of computation, but every state-of-the-art neural net it invents advances the whole field! 
  https://www.technologyreview.com/s/607894/why-googles-ceo-is-excited-about-automating-artificial-intelligence  ;had assitance idea/s
+
+In today's(I wish this would install); https://gitlab.com/spaghettisalat/jffi https://www.fiduswriter.org/ ;2many oh well..if it..
