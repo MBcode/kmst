@@ -1753,3 +1753,6 @@ https://www.fun-mooc.fr/courses/course-v1:inria+41013+session02/about Introducti
  https://www.technologyreview.com/s/607894/why-googles-ceo-is-excited-about-automating-artificial-intelligence  ;had assitance idea/s
 
 In today's(I wish this would install); https://gitlab.com/spaghettisalat/jffi https://www.fiduswriter.org/ ;2many oh well..if it..
+
+Bill Walker Retweeted: @mozilla
+We're days away from #mozsprint, our global, distributed, open source hackathon. Bring code, coffee and big ideas. http://mzl.la/mozsprint  
