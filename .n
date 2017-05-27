@@ -1756,3 +1756,5 @@ In today's(I wish this would install); https://gitlab.com/spaghettisalat/jffi ht
 
 Bill Walker Retweeted: @mozilla
 We're days away from #mozsprint, our global, distributed, open source hackathon. Bring code, coffee and big ideas. http://mzl.la/mozsprint  
+
+@csarven Scholarly Social Machines http://www.oerc.ox.ac.uk/sites/default/files/users/user384/scholarly-social-machines.html â¦ #OpenScience #LinkedResearch
