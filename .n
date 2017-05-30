@@ -1762,4 +1762,5 @@ We're days away from #mozsprint, our global, distributed, open source hackathon.
 @danbri  Anyone tried (postgresql-based) http://www.agensgraph.com/agensgraph-docs/agensgraph_cypher_query.html â¦ e.g. with RDF data?
  https://github.com/bitnine-oss/agensgraph compiles easily
 
-#ESWC2017 hashtag on Twitter https://twitter.com/hashtag/ESWC2017?src=hash
+#ESWC2017 hashtag on Twitter https://twitter.com/hashtag/ESWC2017?src=hash ; lots of great material
+@kerfors  I will follow #eswc2017 this week. #semanticweb #linkeddata http://2017.eswc-conferences.org/ 
