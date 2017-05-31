@@ -1764,3 +1764,5 @@ We're days away from #mozsprint, our global, distributed, open source hackathon.
 
 #ESWC2017 hashtag on Twitter https://twitter.com/hashtag/ESWC2017?src=hash ; lots of great material
 @kerfors  I will follow #eswc2017 this week. #semanticweb #linkeddata http://2017.eswc-conferences.org/ 
+
+Now much larger blocks of daily updates that are not showing up; maybe gitlab will be a better friend
