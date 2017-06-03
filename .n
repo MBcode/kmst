@@ -1767,5 +1767,6 @@ We're days away from #mozsprint, our global, distributed, open source hackathon.
 
 Now much larger blocks of daily updates that are not showing up; maybe gitlab will be a better friend
 I think think my updates are only showing up from one machine in the cluster..
+Need to find a way to have commits from other machines recognized
 
 http://www.secnav.navy.mil/innovation/HTML_Pages/2017/02/ApacheRya.htm  triple-store human-machine communication/lang2robot action/s
