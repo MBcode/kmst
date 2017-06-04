@@ -1770,3 +1770,7 @@ I think think my updates are only showing up from one machine in the cluster..
 Need to find a way to have commits from other machines recognized
 
 http://www.secnav.navy.mil/innovation/HTML_Pages/2017/02/ApacheRya.htm  triple-store human-machine communication/lang2robot action/s
+
+https://github.com/maxlath/wikidata-cli/blob/master/README.md https://github.com/nichtich/wikidata-taxonomy
+https://www.npmjs.com/package/wikidata-filter https://github.com/inventaire/wikidata-subset-search-engine
+https://m.wikidata.org/wiki/Wikidata:Tools/External_tools 
