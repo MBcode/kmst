@@ -1774,3 +1774,6 @@ http://www.secnav.navy.mil/innovation/HTML_Pages/2017/02/ApacheRya.htm  triple-s
 https://github.com/maxlath/wikidata-cli/blob/master/README.md https://github.com/nichtich/wikidata-taxonomy
 https://www.npmjs.com/package/wikidata-filter https://github.com/inventaire/wikidata-subset-search-engine
 https://m.wikidata.org/wiki/Wikidata:Tools/External_tools 
+
+@valexiev1  Jun 2 Anyone interested supporting #w3c #QB #SPARQL #LinkedStatistics cubes in @databrewery #cubes and in #cubesviewer? 
+https://github.com/DataBrewery/cubes/issues/442 
