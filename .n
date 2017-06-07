@@ -1779,3 +1779,5 @@ https://m.wikidata.org/wiki/Wikidata:Tools/External_tools
 https://github.com/DataBrewery/cubes/issues/442 
 
 @MarcoBrambi  #eswc2017: vision and tools for "Continuous Knowledge Extraction, Sharing & Benchmarking" at #LinkedResearch wshop https://marco-brambilla.com/2017/05/11/instrumenting-continuous-knowledge-extraction-sharing-and-benchmarking/ â¦
+
+@DanielKhashabi  http://deagol.cs.illinois.edu:8080/   CogComp-Pipeline: A collection of popular NLP annotators #NLProc
