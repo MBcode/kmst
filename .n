@@ -1781,3 +1781,5 @@ https://github.com/DataBrewery/cubes/issues/442
 @MarcoBrambi  #eswc2017: vision and tools for "Continuous Knowledge Extraction, Sharing & Benchmarking" at #LinkedResearch wshop https://marco-brambilla.com/2017/05/11/instrumenting-continuous-knowledge-extraction-sharing-and-benchmarking/ â¦
 
 @DanielKhashabi  http://deagol.cs.illinois.edu:8080/   CogComp-Pipeline: A collection of popular NLP annotators #NLProc
+
+Harald Sackâ @lysander07 (HPI prof)  In the ISE lecture today, we will talk about identification and representation  https://docs.google.com/presentation/d/12QF4qFkEAKAlxz2RSx29lunjGCvhxvtSz2vIvkxR-KM/pub?start=false&loop=false&delayms=3000 â¦ #semanticweb #linkeddata #nlp
