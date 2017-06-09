@@ -1782,4 +1782,5 @@ https://github.com/DataBrewery/cubes/issues/442
 
 @DanielKhashabi  http://deagol.cs.illinois.edu:8080/   CogComp-Pipeline: A collection of popular NLP annotators #NLProc
 
-Harald Sackâ @lysander07 (HPI prof)  In the ISE lecture today, we will talk about identification and representation  https://docs.google.com/presentation/d/12QF4qFkEAKAlxz2RSx29lunjGCvhxvtSz2vIvkxR-KM/pub?start=false&loop=false&delayms=3000 â¦ #semanticweb #linkeddata #nlp
+Harald Sackâ @lysander07 (was HPI prof)  In the ISE lecture today, we will talk about identification and representation  https://docs.google.com/presentation/d/12QF4qFkEAKAlxz2RSx29lunjGCvhxvtSz2vIvkxR-KM/pub?start=false&loop=false&delayms=3000 â¦ #semanticweb #linkeddata #nlp
+now: http://www.aifb.kit.edu/web/Harald_Sack/en http://www.aifb.kit.edu/web/Information_Service_Engineering/en
