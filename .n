@@ -1784,5 +1784,6 @@ https://github.com/DataBrewery/cubes/issues/442
 
 Harald Sackâ @lysander07 (was HPI prof)  In the ISE lecture today, we will talk about identification and representation  https://docs.google.com/presentation/d/12QF4qFkEAKAlxz2RSx29lunjGCvhxvtSz2vIvkxR-KM/pub?start=false&loop=false&delayms=3000 â¦ #semanticweb #linkeddata #nlp
 now: http://www.aifb.kit.edu/web/Harald_Sack/en http://www.aifb.kit.edu/web/Information_Service_Engineering/en
+but, still: https://open.hpi.de/courses/semanticweb2017 in 2018
 
 my G+ https://plus.google.com/+MichaelBobak groups: https://plus.google.com/112141946798542182515/palette ;also linkedIn &meetup too
