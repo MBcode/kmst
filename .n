@@ -1787,3 +1787,5 @@ now: http://www.aifb.kit.edu/web/Harald_Sack/en http://www.aifb.kit.edu/web/Info
 but, still: https://open.hpi.de/courses/semanticweb2017 in 2018
 
 my G+ https://plus.google.com/+MichaelBobak groups: https://plus.google.com/112141946798542182515/palette ;also linkedIn &meetup too
+
+@DublinCore  Foundations of RDF?and SPARQL? (An Alternative Approach to Statement-Level Metadata in RDF) / @olafhartig  http://bit.ly/2svRX1y   #AMW2017
