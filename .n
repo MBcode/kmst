@@ -1050,6 +1050,8 @@ Tim @NovasTaylor Retweeted Kerstin Forsberg And let's go multidimensional with R
 
 http://csarven.ca/statistical-linked-dataspaces for his MS, incl tools: GraphPusher(buld load2rdf),Linked-Data-Pages(pub),&more.
 
+#<SYSTEM cls / common-lisp-stat-20150505-git / quicklisp 2017-05-16>  cl-ana mlcl ... ;time2play
+
 m bobak Retwted Alessa Geiger http://earthcube.org/event/webinar-doing-geoscience-earthcube-tools-0I … I look fwd to seeing more of this throughout NSF/NIH/... as it has been a longtime interest. m bobak added,
     Alessa Geiger @CosmicIceFairy Insightfull @EarthCube #OntoSoft webinar on data/software creation/accessibility 4 broader community use/stewardship http://www.ontosoft.org/about 
 
