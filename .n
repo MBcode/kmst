@@ -1794,3 +1794,5 @@ my G+ https://plus.google.com/+MichaelBobak groups: https://plus.google.com/1121
 @DublinCore  Foundations of RDF?and SPARQL? (An Alternative Approach to Statement-Level Metadata in RDF) / @olafhartig  http://bit.ly/2svRX1y   #AMW2017
 
 Finally a break from work above the home office, and starting more thoughts of travel; then actual travel w/summer's start
+
+@MBstream Genuine Semantic Publishing http://www.tkuhn.org/pub/sempub  /RASH /Dokieli 
