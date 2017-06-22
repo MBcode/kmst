@@ -1801,3 +1801,5 @@ Finally a break from work above the home office, and starting more thoughts of t
 @MBstream Genuine Semantic Publishing http://www.tkuhn.org/pub/sempub  /RASH /Dokieli 
 
 Newest https://www.isi.edu/isd/LOOM/Stella/ loads easily  Lisp/C++/Java
+
+@nicolastorzec Google Job Search: annotate your job postings with schema_org and Google will surface them for "job seeking" queries https://developers.google.com/search/docs/data-types/job-postings …
