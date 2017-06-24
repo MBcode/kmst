@@ -835,6 +835,8 @@ Franz Inc. Retweeted Einstein Coll of Med #AllegroGraph #nosql #datascience http
     Einstein Coll of Med @EinsteinMed
     Montefiore and Einstein tapped by The White House for its #precisionmedicine initiative http://bit.ly/1WLGaE7 
 
+@Franzinc  Data with Relationships Yields Insights Before Analytics http://data-informed.com/data-with-relationships-yields-insights-before-analytics #AllegroGraph #GraphDatabase #RDF @Data_Informed
+
 #Cognitive Computing is Turning Precision Medicine into a Reality - buff.ly/1Va6fyw #AllegroGraph #Healthcare #NoSQL #data ;-lake
 
 A Web-based Text Mining Workbench http://argo.nactem.ac.uk/ workbench for building and running text-analysis solutions .....UIMA Support
