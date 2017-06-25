@@ -1806,4 +1806,6 @@ Finally a break from work above the home office, and starting more thoughts of t
 
 Newest https://www.isi.edu/isd/LOOM/Stella/ loads easily  Lisp/C++/Java
 
+@reddit_lisp #lisp Hy 0.13.0 released | https://www.reddit.com/r/lisp/comments/6j9mus/hy_0130_released/ https://github.com/hylang/hy/releases
+
 @nicolastorzec Google Job Search: annotate your job postings with schema_org and Google will surface them for "job seeking" queries https://developers.google.com/search/docs/data-types/job-postings …
