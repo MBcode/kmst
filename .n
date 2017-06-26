@@ -1311,6 +1311,7 @@ http://www.meetup.com/balisp/events/232120018 @factual they use clj&lisp(iOS/and
 _I might try a HPSG w/ http://edg.sourceforge.net/ &KM
 
 https://jobs.illinois.edu/academic-job-board/job-details?jobID=59863 this w/o the web-programming..
+https://jobs.illinois.edu/academic-job-board/job-details?jobID=76930&job=research-programmer-senior-research-programmer-national-center-for-supercomputing-applications-a1700172 or similar
 
 news-carrier
 Research-Programmer
