@@ -732,6 +732,8 @@ Thomas Steiner @tomayac  ·  ConceptNet, a common sense knowledge base (facts à
 
 https://twitter.com/tonyhammond/status/601405279444586497 New http://www.nature.com/ontologies/ . Grown core by 50%, two more domain models, MeSH links, better navigation. #linkeddata  
 
+@timalthoff All talks from #BigDataBioMed conference recorded here: http://bigdata.stanford.edu/pastevents/2017-presentations.html?mc_cid=ad1ef2764c&mc_eid=1a93cf3dc8#day_1_wednesday_may24 … 
+
 Taha Kass-Hout @DrTaha_FDA · Here are the #BD2K funded centers http://datascience.nih.gov/bd2k/funded-programs/centers … #bigdatamed & https://pebourne.wordpress.com/ 
 The vision for data science at the NIH will undoubtedly change over time. What follows is the current vision as we prepare for the first meeting with Big Data to Knowledge (BD2K) awardees. 
 
