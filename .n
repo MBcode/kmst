@@ -1751,6 +1751,9 @@ June19: "After careful deliberation, NASA has decided to cancel the competition 
 
  @structD  KBpedia Relations, Part III: A Three-Relations Model: http://www.mkbergman.com/2045/kbpedia-relations-part-iii-a-three-relations-model/ … #AI #KBAI #KnowledgeGraph #semanticweb
 
+@structD KBpedia Relations, Part IV: The Detailed Relations Hierarchy: http://www.mkbergman.com/2046/kbpedia-relations-part-iv-the-detailed-relations-hierarchy/ … #AI #KBAI #KnowledgeGraph #semanticweb
+
+
 @dbpedia  Smart application of #dbpediaspotlight ;) For more uses of DBpedia Spotlight check http://www.dbpedia-spotlight.org/ . 
  http://www.dbpedia-spotlight.org/spotlight-api /faq .. formats incl http://aksw.org/Projects/NIF.html
 
