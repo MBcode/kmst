@@ -1818,3 +1818,4 @@ Newest https://www.isi.edu/isd/LOOM/Stella/ loads easily  Lisp/C++/Java
 
 @nicolastorzec Possible Future Directions for Data On The Web, by @philarcher1: eg. research data, RDF annotations, JSON-LD, SHACL. https://www.w3.org/blog/2017/06/possible-future-directions-for-data-on-the-web/ …
 
+@blahah404 🎈 ScienceFair v1.0 is out!🎈 Open source, p2p desktop science reader that puts users in control.  http://sciencefair-app.com
