@@ -1308,6 +1308,8 @@ www.bibsonomy.org/bibtex/2a10cf00b5110a8f2518c30b76b84262e/aksw http://svn.aksw.
 
 @bobdc New blog entry: SPARQL in a Jupyter (a.k.a. IPython) notebook http://www.snee.com/bobdc.blog/2016/07/sparql-in-a-jupyter-aka-ipytho.html … 
 
+https://github.com/airbnb/knowledge-repo &much more/research-objects...
+
 http://www.meetup.com/balisp/events/232120018 @factual they use clj&lisp(iOS/android)mocl? 
  elt of..interesting,would like slides;(0mq)'s c4: http://rfc.zeromq.org/spec:22/C4/, clj graphQL, 
  NLgen.. en.wikipedia.org/wiki/Head-driven_phrase_structure_grammar github.com/ekoontz/dag-unify
