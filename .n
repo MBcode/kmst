@@ -1830,3 +1830,5 @@ Need to expand the blurbs from my last bit of consuling while living w/Rachel in
 LAFORGE‏ @SeeLaforge  Jul 1 [LAFORGE] 👓 June 2017 Recap/ July 2017 Preview -  http://mailchi.mp/laforgeoptical/june-2017-recap …
 
 @txkuhn Replying to @namedgraph Trusty URIs (http://trustyuri.net/ ) applied to nanopublications (@nanopub_org) do that. https://arxiv.org/abs/1507.01697 https://peerj.com/articles/cs-78/
+
+What happened to the Semantic Web? #semanticweb https://www.slideshare.net/pmika/what-happened-to-the-semantic-web … via @SlideShare
