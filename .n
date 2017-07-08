@@ -1832,3 +1832,6 @@ LAFORGE‏ @SeeLaforge  Jul 1 [LAFORGE] 👓 June 2017 Recap/ July 2017 Preview 
 @txkuhn Replying to @namedgraph Trusty URIs (http://trustyuri.net/ ) applied to nanopublications (@nanopub_org) do that. https://arxiv.org/abs/1507.01697 https://peerj.com/articles/cs-78/
 
 What happened to the Semantic Web? #semanticweb https://www.slideshare.net/pmika/what-happened-to-the-semantic-web … via @SlideShare
+
+@reddit_lisp #Common_Lisp Darkmatter — The notebook-style Common Lisp Environment | https://www.reddit.com/r/Common_Lisp/comments/6lvi1u/darkmatter_the_notebookstyle_common_lisp/ 
+https://medium.com/@cddadr/darkmatter-the-notebook-style-common-lisp-environment-d6cff805f22e compiles but I don't see pulldowns
