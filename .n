@@ -1836,3 +1836,6 @@ What happened to the Semantic Web? #semanticweb https://www.slideshare.net/pmika
 @reddit_lisp #Common_Lisp Darkmatter — The notebook-style Common Lisp Environment | https://www.reddit.com/r/Common_Lisp/comments/6lvi1u/darkmatter_the_notebookstyle_common_lisp/ 
 https://medium.com/@cddadr/darkmatter-the-notebook-style-common-lisp-environment-d6cff805f22e  https://github.com/tamamu/darkmatter
 https://news.ycombinator.com/item?id=14725878 compiles but I don't see pulldowns ;should be better than cl-jupyter, keep tabs
+
+@yolandagil  Yolanda Gil Retweeted Science Magazine Yesssss!!!  @sciencemagazine
+Tracking traffic, improving math education, and a special section on AI in our newest issue of Science: http://science.sciencemag.org/content/357/6346
