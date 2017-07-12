@@ -1841,3 +1841,5 @@ https://news.ycombinator.com/item?id=14725878 compiles but I don't see pulldowns
 Tracking traffic, improving math education, and a special section on AI in our newest issue of Science: http://science.sciencemag.org/content/357/6346
 
 @ProfCompMod  Introduction to #Python 3 for Computational Science book now available as #jupyter notebooks (one per chapter): https://github.com/fangohr/introduction-to-python-for-computational-science-and-engineering/blob/master/Readme.md …
+
+@DublinCore  https://pbs.twimg.com/media/C--HfaQXkAAX7jO.jpg
