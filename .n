@@ -1844,3 +1844,5 @@ Tracking traffic, improving math education, and a special section on AI in our n
 @ProfCompMod  Introduction to #Python 3 for Computational Science book now available as #jupyter notebooks (one per chapter): https://github.com/fangohr/introduction-to-python-for-computational-science-and-engineering/blob/master/Readme.md …
 
 @DublinCore  https://pbs.twimg.com/media/C--HfaQXkAAX7jO.jpg
+
+More work on house, incl. electrical, so severs down; have to figure out setting so updates show in more than comments.. but in plot2
