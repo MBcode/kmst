@@ -1846,3 +1846,5 @@ Tracking traffic, improving math education, and a special section on AI in our n
 @DublinCore  https://pbs.twimg.com/media/C--HfaQXkAAX7jO.jpg
 
 More work on house, incl. electrical, so severs down; have to figure out setting so updates show in more than comments.. but in plot2
+
+https://concept.research.microsoft.com/Home/Introduction
