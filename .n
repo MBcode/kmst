@@ -1529,6 +1529,7 @@ Hoping for semantics along w/large scientific/numeric datasets, &now also see:
 
 @akswgroup  SANSA 0.1 (Semantic Analytics Stack) Released – http://blog.aksw.org/sansa-0-1/
 @SANSA_Stack  We did the first (0.1) release of the semantic analytics stack (SANSA)! http://sda.tech/sansa-0-1  #machinelearning #semanticweb #spark #flink
+@saleem_muhamad  Distributed #Semantic Analytics using the SANSA Stack, a Big Data analytics framework to be presented at  #ISWC2017
 
 @csarven : @linkedktk Other vocabs possibly for details. @nimonika created https://w3id.org/dio  & that looks like the layer I want to describe in. 
 The Design Intent Ontology - A content ontology design pattern : is a generic ontology that provides the conceptualisation needed to capture the knowledge generated during various phases of the overall design lifecycle. It provides definitions for design artifacts such as requirements, designs, design issues, solutions, justifications and evidence and relationships between them to represent the design process and how these things lead to design outcomes. It draws upon the paradigms of IBIS(Issue Based Information System), argumentation and design rationale. 
