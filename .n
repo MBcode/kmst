@@ -1827,7 +1827,7 @@ Newest https://www.isi.edu/isd/LOOM/Stella/ loads easily  Lisp/C++/Java
 
 @blahah404 🎈 ScienceFair v1.0 is out!🎈 Open source, p2p desktop science reader that puts users in control.  http://sciencefair-app.com
 
-Need to expand the blurbs from my last bit of consuling while living w/Rachel in SF, so starting some notes http://notional.no-ip.org/last.txt but not sure how much to include.
+Need to expand the blurbs from my last bit of consulting while living w/Rachel in SF, so starting some notes http://notional.no-ip.org/last.txt but not sure how much to include. updated in m-bobak.pdf
 
 LAFORGE @SeeLaforge  Jul 1 [LAFORGE] 👓 June 2017 Recap/ July 2017 Preview -  http://mailchi.mp/laforgeoptical/june-2017-recap …
 
