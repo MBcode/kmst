@@ -1849,3 +1849,5 @@ Tracking traffic, improving math education, and a special section on AI in our n
 More work on house, incl. electrical, so severs down; have to figure out setting so updates show in more than comments.. but in plot2
 
 https://concept.research.microsoft.com/Home/Introduction
+
+@slashdot  Mesh Networking Comes To Bluetooth, Which Could Set Off a New Wave of Smart Buildings http://bit.ly/2u6XzSo 
