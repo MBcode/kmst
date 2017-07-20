@@ -1544,6 +1544,8 @@ LODRefine (ETL/Semantics); https://en.wikipedia.org/wiki/Complex_event_processin
  &can recognize [w/co-occurance/s] events @needed level of generality 
    ;might have part of what I hope Map-On r2rml tagging cols w/vocab terms, easing data-integration 
 
+@markmoby Jul 18 Useful stuff!  Integrating Relational Databases with the Semantic Web: A Reflection by @juansequeda #directmapping
+
 @OpenRefine RT @ostephens: Documentation on using OpenRefine to match from a data set you have to items in Wikidata
  https://github.com/OpenRefine/OpenRefine/wiki/Reconciliation
 
