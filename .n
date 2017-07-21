@@ -1693,6 +1693,9 @@ Past days of travel(now w/o cnct2home cluster)&neither commits from pixel, publi
 Back2cluster, maybe this update will finally show up&when time I can track this down; also someday look@gitlab /etc.
  still bothered by some commits not showing up
 
+@vsoch Instead of hacking a graphical browser into a headless server, why not bring the UI to the terminal?  https://asciinema.org/a/129860?speed=2 …
+  @MBstream  Replying to @vsoch https://github.com/ranger/ranger/wiki/Image-Previews
+
 https://independent.academia.edu/MichaelBobak ;my old talk bit.ly/TP8gfz about using KM w/hadoop or similar
  
 @tistre Mar 31 New blog post: “Your company needs its own Knowledge Graph” https://www.strehle.de/tim/weblog/archives/2017/03/31/1613
