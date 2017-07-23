@@ -1857,3 +1857,5 @@ More work on house, incl. electrical, so severs down; have to figure out setting
 https://concept.research.microsoft.com/Home/Introduction
 
 @slashdot  Mesh Networking Comes To Bluetooth, Which Could Set Off a New Wave of Smart Buildings http://bit.ly/2u6XzSo 
+
+@reddit_lisp #Common_Lisp Introduction to ML with Common Lisp | https://gorkovchanin.wordpress.com/2017/07/21/introduction-to-ml-with-common-lisp/
