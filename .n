@@ -1859,3 +1859,6 @@ https://concept.research.microsoft.com/Home/Introduction
 @slashdot  Mesh Networking Comes To Bluetooth, Which Could Set Off a New Wave of Smart Buildings http://bit.ly/2u6XzSo 
 
 @reddit_lisp #Common_Lisp Introduction to ML with Common Lisp | https://gorkovchanin.wordpress.com/2017/07/21/introduction-to-ml-with-common-lisp/
+
+@pebourne Will Data Science Approaches Impact Our Science? From 3Dsig 2017 https://www.slideshare.net/pebourne/will-data-science-approaches-impact-our-science … @UVADSI @PDBj_en @3dsig @rcsbPDB @PDBeurope
+
