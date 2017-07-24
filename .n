@@ -1862,3 +1862,5 @@ https://concept.research.microsoft.com/Home/Introduction
 
 @pebourne Will Data Science Approaches Impact Our Science? From 3Dsig 2017 https://www.slideshare.net/pebourne/will-data-science-approaches-impact-our-science … @UVADSI @PDBj_en @3dsig @rcsbPDB @PDBeurope
 
+@HansHuebner Video of Roger's talk: https://www.youtube.com/playlist?list=PLoH3jteqsb2h-F5AHG4XVyZ6GwODX4uVB
+
