@@ -654,6 +654,7 @@ Slides from kickoff meeting of my current seminar Semantic Multimedia at #HPI ht
 Harald Sack @lysander07
  @lysander07  In the lecture today you will learn about the fundamentals of InformationRetrieval https://www.slideshare.net/lysander07/10-information-retrieval-1 … @KITKarlsruhe @FIZKarlsruhe
 @lysander07  In the lecture today, you will learn how to properly evaluate search results https://www.slideshare.net/lysander07/11-information-retrieval-2 … #ise @FIZKarlsruhe @KITKarlsruhe
+@lysander07 In the lecture today, you will learn more about Exploratory Search and Recommender Systems with #LinkedData https://www.slideshare.net/lysander07/13-exploratory-search …
 @MBstream Sure :) All course material will be published as well as the ongoing work/topics/discussions in our blog at http://semmul2015.blogspot.com/  
 
 MEMEX: https://twitter.com/forbestech/status/589106044841893889
