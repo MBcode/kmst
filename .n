@@ -1824,6 +1824,8 @@ Finally a break from work above the home office, and starting more thoughts of t
 
 @MBstream Genuine Semantic Publishing http://www.tkuhn.org/pub/sempub  /RASH /Dokieli 
 
+@csarven  https://dokie.li/  #Chrome extension: https://chrome.google.com/webstore/detail/dokieli/ddmhaonbhodhgkaljpjlglodncddalid … #RWW #LinkedData
+
 Newest https://www.isi.edu/isd/LOOM/Stella/ loads easily  Lisp/C++/Java
 
 @reddit_lisp #lisp Hy 0.13.0 released | https://www.reddit.com/r/lisp/comments/6j9mus/hy_0130_released/ https://github.com/hylang/hy/releases
