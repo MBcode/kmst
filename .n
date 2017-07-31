@@ -1871,3 +1871,5 @@ https://concept.research.microsoft.com/Home/Introduction
 
 @ISI_AI We're happy to welcome #USC ISI to Twitter & Facebook! Follow @USC_ISI | http://ow.ly/7Y4s30dU6Xc  for more ISI news and announcements!
 
+@reddit_lisp  Jul 30 #Common_Lisp Your personal DIY image search | https://www.reddit.com/r/Common_Lisp/comments/6qg46y/your_personal_diy_image_search/
+ http://readevalprint.tumblr.com/post/163569150438/your-personal-diy-image-search
