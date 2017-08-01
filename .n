@@ -1319,7 +1319,7 @@ _I might try a HPSG w/ http://edg.sourceforge.net/ &KM
 
 https://jobs.illinois.edu/academic-job-board/job-details?jobID=59863 this w/o the web-programming..
 https://jobs.illinois.edu/academic-job-board/job-details?jobID=76930&job=research-programmer-senior-research-programmer-national-center-for-supercomputing-applications-a1700172 or similar
-(Have a few Q&A's: http://notional.no-ip.org/ncsa.txt This would be so fun:) in-person interview soon;await data confirm
+(Have a few Q&A's: http://notional.no-ip.org/ncsa.txt This would be so fun:) interview:info day before/so no prep
 expect to get the mix of problems as from consulting, but even more in my domain/s &w/broader use of tool/techniques
 
 news-carrier
