@@ -199,7 +199,8 @@ In cl-netcdf: In the run-example fnc, the call should be to: save-scatter-points
  /djedi23 also has a cl-cnn conv-NN, try(needs warn fixes)/collect w/rest of lisp/ML code
 
 Finally read on https://mitpress.mit.edu/building-ontologies w/ http://basic-formal-ontology.org/
- https://github.com/bfo-ontology/BFO/wiki http://ncorwiki.buffalo.edu/index.php/Basic_Formal_Ontology_2.0
+ https://github.com/bfo-ontology/BFO/ wiki *.lisp http://ncorwiki.buffalo.edu/index.php/Basic_Formal_Ontology_2.0
+ https://github.com/BFO-ontology/BFO2 bfo(_ro).owl
 
 
  Dean Wampler @deanwampler  ;might help pick distrib-filestore; get RRDs on ceph too?
