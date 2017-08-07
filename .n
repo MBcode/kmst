@@ -198,6 +198,8 @@ Could try a mini-ver of my own w/: https://github.com/djedi23/cl-netcdf or cl-an
 In cl-netcdf: In the run-example fnc, the call should be to: save-scatter-points 
  /djedi23 also has a cl-cnn conv-NN, try(needs warn fixes)/collect w/rest of lisp/ML code
 
+https://www.allotrope.org/allotrope-framework Taxonomies Domain Model ;Semantic Annotation of HDF5 files
+
 Finally read on https://mitpress.mit.edu/building-ontologies w/ http://basic-formal-ontology.org/
  https://github.com/bfo-ontology/BFO/ wiki *.lisp http://ncorwiki.buffalo.edu/index.php/Basic_Formal_Ontology_2.0
  https://github.com/BFO-ontology/BFO2 bfo(_ro).owl
