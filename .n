@@ -1882,3 +1882,6 @@ https://concept.research.microsoft.com/Home/Introduction
 
 @reddit_lisp  Jul 30 #Common_Lisp Your personal DIY image search | https://www.reddit.com/r/Common_Lisp/comments/6qg46y/your_personal_diy_image_search/
  http://readevalprint.tumblr.com/post/163569150438/your-personal-diy-image-search
+
+http://icbo.cgrb.oregonstate.edu/node/318 http://ceur-ws.org/Vol-1747/IT605_ICBO2016.pdf 
+ SEPIO: A Semantic Model for the Integration and Analysis of Scientific Evidence
