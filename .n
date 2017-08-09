@@ -719,6 +719,9 @@ http://www.ischool.berkeley.edu/newsandevents/events/20150511-iot-showcase http:
 
 http://www.eecs.berkeley.edu/bears/ went w/Siemen's when I did a little work w/them; will catch up again.
 
+https://m.slashdot.org/story/17/08/08/2119240/ai-factory-boss-will-tell-workers-and-robots-how-to-work-together they could have done
+    https://www.fastcompany.com/3067414/robo-foremen-could-direct-human-and-robot-factory-workers-alike  a shop-planner+ years ago
+
 xach @xach  ·  http://news.gmane.org/gmane.lisp.common-lisp-net.devel … makes me very happy. All CVS projects on http://common-lisp.net  migrated to git! #lisp 
 
 https://www.dataone.org/previous-webinars latest: Provenance and DataONE: Facilitating Reproducible Science ;getting me thinking about more about how I could help
