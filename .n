@@ -1890,3 +1890,6 @@ http://icbo.cgrb.oregonstate.edu/node/318 http://ceur-ws.org/Vol-1747/IT605_ICBO
  SEPIO: A Semantic Model for the Integration and Analysis of Scientific Evidence
 
 coming up2speed(try2avoidBrooksLaw;)&other msc..(incl not sure abt octotree anymore,want something similar in gitlab)
+
+@HolgerKnublauch SHACL and OWL compared http://spinrdf.org/shacl-and-owl.html …
+
