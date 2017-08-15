@@ -1893,3 +1893,4 @@ coming up2speed(try2avoidBrooksLaw;)&other msc..(incl not sure abt octotree anym
 
 @HolgerKnublauch SHACL and OWL compared http://spinrdf.org/shacl-and-owl.html …
 
+Have had to make use of cmap, xmind, &freemind; nice to get things to svg/txt/dot if possible
