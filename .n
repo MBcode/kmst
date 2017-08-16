@@ -1473,6 +1473,8 @@ KM components = http://www.cs.utexas.edu/users/mfkb/RKF/clib.html  http://www.cs
 use of my https://open.hpi.de/courses/semanticweb2016 Linked-Data-Engineering, &concepts like: http://dbpedia.org/ontology/Person foaf schema.org
 use Protege3.5 /PowerLOOM .. https://github.com/dbpedia/dbpedia-webprotege
 
+curious about synergies w/(power)LOOM&KM
+
 wk2 of LDE course, ends w/RDFa which made me think of finishing off something like: http://mike.bobak.googlepages.com/bobak-rdfa-cv.html ;put in git/hub
 
 @DARPA  We're hosting a Proposers Day for our Synergistic Discovery and Design program on Nov. 10. http://ow.ly/keJ6305DYP4  #data #design #models 
