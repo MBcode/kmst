@@ -1898,3 +1898,6 @@ coming up2speed(try2avoidBrooksLaw;)&other msc..(incl not sure abt octotree anym
 Have had to make use of cmap, xmind, &freemind; nice to get things to svg/txt/dot if possible
 
 https://github.com/sjl/cl-nrepl to https://protegewiki.stanford.edu/wiki/Protege-nrepl might be easier/better than abcl w/in;A Ruttenberg
+
+@yhaudry Rethinking access to Scientific Publications with Knowledge Graphs #FAIR #OWL
+ https://www.linkedin.com/pulse/rethinking-scientific-knowledge-graphs-stefan-decker
