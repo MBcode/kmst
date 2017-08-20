@@ -1902,3 +1902,7 @@ https://github.com/sjl/cl-nrepl to https://protegewiki.stanford.edu/wiki/Protege
 
 @yhaudry Rethinking access to Scientific Publications with Knowledge Graphs #FAIR #OWL
  https://www.linkedin.com/pulse/rethinking-scientific-knowledge-graphs-stefan-decker
+
+@spchamp Sean Champ Retweeted Sean Champ But ISO CL is great, too. cf. OMG ODM metamodel onto ISO CL, abstractly
+ i.e First Order Logic in LOOM, PowerLOOM, thence C++, Java, and ANSI Common Lisp (ANSI CL, such that is not ISO Common Logic, per se)
+  Found what may be a great software project to "Start" with, in documenting software that already exists. s/o @USCViterbi b.c FOL in P'LOOM
