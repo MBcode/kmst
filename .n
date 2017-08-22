@@ -1908,3 +1908,6 @@ https://github.com/sjl/cl-nrepl to https://protegewiki.stanford.edu/wiki/Protege
   Found what may be a great software project to "Start" with, in documenting software that already exists. s/o @USCViterbi b.c FOL in P'LOOM
 
 Semantic interoperability in astrophysics http://iwei2015.mines-ales.fr/sites/mines-ales.fr/files/u417/paper1.1_thierry_louge.pdf
+
+@structD Why I Study C.S. Peirce: http://www.mkbergman.com/2066/why-i-study-c-s-peirce/ … #AI #Logic #Peirce #semanticweb
+
