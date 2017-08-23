@@ -1911,3 +1911,5 @@ Semantic interoperability in astrophysics http://iwei2015.mines-ales.fr/sites/mi
 
 @structD Why I Study C.S. Peirce: http://www.mkbergman.com/2066/why-i-study-c-s-peirce/ … #AI #Logic #Peirce #semanticweb
 
+@evankirstel #Apple AI expert, Tom Gruber explains Siri’s “humanistic #AI” at TED https://9to5mac.com/2017/08/21/apple-ai-expert-tom-gruber-explains-siris-humanistic-ai-ted/ … @BrianRoemmele
+
