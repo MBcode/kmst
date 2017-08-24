@@ -1915,3 +1915,5 @@ Semantic interoperability in astrophysics http://iwei2015.mines-ales.fr/sites/mi
 
 @etzioni Oren Etzioni Retweeted Allen Inst. for AI 3-minutes video (aimed at the general public) here: https://vimeo.com/226955559 
  Oren Etzioni added, Allen Inst. for AI @allenai_org Learn about the inspiration and outcomes of the 2015 Allen #AI Science Challenge in our @CACMmag contributed article http://ow.ly/21o730eD05C  
+
+@spmallette Interesting summary of the current state of sparql-gremlin https://groups.google.com/d/msg/gremlin-users/y6qJk3I9MFA/VtDtfzOMCwAJ … #sparql #graphdb #rdf
