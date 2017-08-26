@@ -1919,3 +1919,5 @@ Semantic interoperability in astrophysics http://iwei2015.mines-ales.fr/sites/mi
 @spmallette Interesting summary of the current state of sparql-gremlin https://groups.google.com/d/msg/gremlin-users/y6qJk3I9MFA/VtDtfzOMCwAJ … #sparql #graphdb #rdf
 
 http://www.opmw.org/model/p-plan/ ext of prov-o for plans that guid the exe of sci processes; describes composition&re prov of exe itself.
+
+@AmelieGyrard #IoT #Smart #City #WebofThings #WoT and #WirelessSensorNetworks #SSN #WSN #ontology updated classification #LOV4IoT http://sensormeasurement.appspot.com/?p=ontologies
