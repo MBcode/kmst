@@ -1928,3 +1928,6 @@ http://www.opmw.org/model/p-plan/ ext of prov-o for plans that guid the exe of s
 
 https://github.com/dice-group ... http://cs.uni-paderborn.de/ds/ https://twitter.com/DiceUPB  semweb linkeddata ML DataSci e.g.
 Interested in fusing #linkeddata? Check out DEER: http://cs.uni-paderborn.de/ds/news-single/news/rdf-enrichment-with-deer/ … #MachineLearning #DataScience
+
+Iretweeted: @SoerenAuer  18 Aug 2016 Slides of my #VIVO16 keynote on "Towards Digitizing Scholarly Communication
+ https://www.slideshare.net/soeren1611/towards-digitizing-scholarly-communication
