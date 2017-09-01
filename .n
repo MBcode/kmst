@@ -1935,3 +1935,6 @@ Iretweeted: @SoerenAuer  18 Aug 2016 Slides of my #VIVO16 keynote on "Towards Di
 
 https://www.meetup.com/Stanford-Biolisp-Meetup/events/242916776/ https://biolisp.github.io/ met the guys who wrote it at an early BayLisp
  that I might have even gone to before I moved for the ucsf Lisp post, (maybe when I was consulting at lbl.gov)?
+
+
+1st trip2japan
