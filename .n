@@ -1936,5 +1936,7 @@ Iretweeted: @SoerenAuer  18 Aug 2016 Slides of my #VIVO16 keynote on "Towards Di
 https://www.meetup.com/Stanford-Biolisp-Meetup/events/242916776/ https://biolisp.github.io/ met the guys who wrote it at an early BayLisp
  that I might have even gone to before I moved for the ucsf Lisp post, (maybe when I was consulting at lbl.gov)?
 
-
 1st trip2japan
+
+@idafensp After 8 years working on Sem. Web I'm finally a foaf:Person :) https://idafen.wordpress.com ; http://ontoology.linkeddata.es
+ http://vocab.linkeddata.es/wicus/wicus Workflow Infrastructure Conservation ; https://github.com/idafensp/ar2dtool rdf2graphical
