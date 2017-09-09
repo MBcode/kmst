@@ -1941,3 +1941,6 @@ https://www.meetup.com/Stanford-Biolisp-Meetup/events/242916776/ https://biolisp
 
 @idafensp After 8 years working on Sem. Web I'm finally a foaf:Person :) https://idafen.wordpress.com ; http://ontoology.linkeddata.es
  http://vocab.linkeddata.es/wicus/wicus Workflow Infrastructure Conservation ; https://github.com/idafensp/ar2dtool rdf2graphical
+
+@reddit_lisp  #Common_Lisp September of Sly | https://www.reddit.com/r/Common_Lisp/comments/6ysqn3/september_of_sly/
+    http://lispblog.xach.com/post/165078221528/september-of-sly
