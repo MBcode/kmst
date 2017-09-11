@@ -1944,3 +1944,5 @@ https://www.meetup.com/Stanford-Biolisp-Meetup/events/242916776/ https://biolisp
 
 @reddit_lisp  #Common_Lisp September of Sly | https://www.reddit.com/r/Common_Lisp/comments/6ysqn3/september_of_sly/
     http://lispblog.xach.com/post/165078221528/september-of-sly
+
+@DublinCore  "@Wikidata as authority linking hub" – Neubert & @nichtich  #WikiCite https://hackmd.io/p/S1YmXWC0e#/ 
