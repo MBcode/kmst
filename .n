@@ -1946,3 +1946,5 @@ https://www.meetup.com/Stanford-Biolisp-Meetup/events/242916776/ https://biolisp
     http://lispblog.xach.com/post/165078221528/september-of-sly
 
 @DublinCore  "@Wikidata as authority linking hub" – Neubert & @nichtich  #WikiCite https://hackmd.io/p/S1YmXWC0e#/ 
+
+Had tried jena-fuseki to serve some triples, tried https://github.com/idafensp/ar2dtool for viz &more general jena tools
