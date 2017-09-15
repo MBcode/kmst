@@ -1948,3 +1948,6 @@ https://www.meetup.com/Stanford-Biolisp-Meetup/events/242916776/ https://biolisp
 @DublinCore  "@Wikidata as authority linking hub" – Neubert & @nichtich  #WikiCite https://hackmd.io/p/S1YmXWC0e#/ 
 
 Had tried jena-fuseki to serve some triples, tried https://github.com/idafensp/ar2dtool for viz &more general jena tools
+
+@mcourtot Melanie Courtot Retweeted James Malone Someone(s) told me it was a great talk.
+ @jamesmalone My slides from #icbo2017 keynote "Format Wars" https://www.slideshare.net/JamesMalone5/malone-icbo2017-keynote
