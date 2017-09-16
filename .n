@@ -1951,3 +1951,5 @@ Had tried jena-fuseki to serve some triples, tried https://github.com/idafensp/a
 
 @mcourtot Melanie Courtot Retweeted James Malone Someone(s) told me it was a great talk.
  @jamesmalone My slides from #icbo2017 keynote "Format Wars" https://www.slideshare.net/JamesMalone5/malone-icbo2017-keynote
+
+ @amnovak  Sep 9 `spang` lets you make SPARQL queries super simply with shortcuts and chain them with Unix pipes. http://mbgd.genome.ad.jp/spang/  #biohack17
