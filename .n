@@ -1955,3 +1955,5 @@ Had tried jena-fuseki to serve some triples, tried https://github.com/idafensp/a
  @amnovak  Sep 9 `spang` lets you make SPARQL queries super simply with shortcuts and chain them with Unix pipes. http://mbgd.genome.ad.jp/spang/  #biohack17
 
 https://www.meetup.com/USF-Seminar-Series-in-Analytics/events/242008469 Tree strucured boosting @UCSF
+
+@dgarijov  Sep 22 Proceedings for #SemSci2017 are now online: http://ceur-ws.org/Vol-1931/  See you at @iswc2017 !!
