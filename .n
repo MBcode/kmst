@@ -1957,3 +1957,5 @@ Had tried jena-fuseki to serve some triples, tried https://github.com/idafensp/a
 https://www.meetup.com/USF-Seminar-Series-in-Analytics/events/242008469 Tree strucured boosting @UCSF
 
 @dgarijov  Sep 22 Proceedings for #SemSci2017 are now online: http://ceur-ws.org/Vol-1931/  See you at @iswc2017 !!
+
+@georgina_nesi  Sep 11 Into Sustainable Software for Science? @WSSSPE 5.2 workshop @escience Oct 24th programme is available now - http://wssspe.researchcomputing.org.uk/wssspe5/workshop-on-sustainable-software-for-science-practice-and-experiences-wssspe5-2-agenda/ … @NeSI_NZ
