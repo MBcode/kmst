@@ -1962,3 +1962,6 @@ https://www.meetup.com/USF-Seminar-Series-in-Analytics/events/242008469 Tree str
 
 CS @ ILLINOIS Retweeted Grigore Rosu ASE, a major software engineering conference, is coming to campus later this fall.  ..
  @RosuGrigore ASE'17 (http://ase2017.org ) update: Program at  http://ase2017.org/program ..
+
+@vespaengine  Announcing the open sourcing of Vespa, Yahoo’s Big Data Processing and Serving Engine at http://vespa.ai :
+  http://blog.vespa.ai/post/165763618906/open-sourcing-vespa-yahoos-big-data-processing
