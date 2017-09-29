@@ -1968,3 +1968,5 @@ CS @ ILLINOIS Retweeted Grigore Rosu ASE, a major software engineering conferenc
 
 @heikopaulheim Artificial intelligence ingredients of Industry 4.0 in Wolfgang Wahlster's keynote at #ki2017 @DFKI
  https://pbs.twimg.com/media/DKuumPpXkAA2yIo.jpg:large Semantics/Ontology/multi-agt planning../ML
+
+@communicating  The 30M Factoid QA Corpus consists of 30M English natural language questions & their corresponding facts in Freebase http://agarciaduran.org/ 
