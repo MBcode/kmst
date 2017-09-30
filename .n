@@ -1970,3 +1970,6 @@ CS @ ILLINOIS Retweeted Grigore Rosu ASE, a major software engineering conferenc
  https://pbs.twimg.com/media/DKuumPpXkAA2yIo.jpg:large Semantics/Ontology/multi-agt planning../ML
 
 @communicating  The 30M Factoid QA Corpus consists of 30M English natural language questions & their corresponding facts in Freebase http://agarciaduran.org/ 
+
+@ProfLHunter  Sep 28 Replying to @YYCist @chrismungall and 2 others
+ If only about SPARQL ~= Prolog, but I agree that SemWeb applications in bioinformatics are important and growing.  And lisp/prolog friendly!
