@@ -1977,3 +1977,6 @@ CS @ ILLINOIS Retweeted Grigore Rosu ASE, a major software engineering conferenc
 @argonne #ICYMI - Turbocharging engine design with @AramcoServices -http://www.anl.gov/articles/turbocharging-engine-design
  re:of current(code)reading: parallel.illinois.edu xpacc.illinois.edu wgropp.cs.illinois.edu https://bitbucket.org/xpacc/plascomcm.git
 
+@Franzinc  Sep 27 Shaping healthcare's future with genomic data * @AstraZeneca @CUDenver #Graphdatabase #AllegroGraph #LinkedData
+ * http://www.kmworld.com/Articles/Editorial/Features/Shaping-healthcares-future-with-genomic-data-120390.aspx
+
