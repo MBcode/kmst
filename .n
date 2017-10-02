@@ -833,6 +833,10 @@ Tim @NovasTaylor  Playing with #d3js hive plots to avoid the network graph "hair
 
 @dbworld_  http://ift.tt/1Pfe1Tm  Modeling and Querying Data Cubes on the Semantic Web. (arXiv:1512.06080v1 [cs.DB]) #databases 
 
+@linkedktk  Sep 27 RDF Data Cube extensions for spatio-temporal components, will have to check that out for current @zazukocom projects https://w3c.github.io/sdw/qb4st/ 
+
+@dbworld_  Sep 28 http://ift.tt/2hB7RXf  A Simple and Efficient MapReduce Algorithm for Data Cube Materialization. (arXiv:1709.10072v1 [cs.DB]) #databases
+
 Silvia Giannini @silviaggia_  Jul 11 Materializing the Web of Linked Data https://lnkd.in/dsW3fky  
 
 Mike Conover @vagabondjack Paging Dr. Taylor - new research from Google.  http://googleresearch.blogspot.com/2014/12/automatically-making-sense-of-data.html?m=1 … 
