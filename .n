@@ -1984,3 +1984,5 @@ CS @ ILLINOIS Retweeted Grigore Rosu ASE, a major software engineering conferenc
 @Franzinc  Sep 27 Shaping healthcare's future with genomic data * @AstraZeneca @CUDenver #Graphdatabase #AllegroGraph #LinkedData
  * http://www.kmworld.com/Articles/Editorial/Features/Shaping-healthcares-future-with-genomic-data-120390.aspx
 
+@pablomendes  Oct 12th DBpedia Community Meeting and Bay Area Knowledge Graphs Meetup hosted at Apple. Register now! #DBpediaCA http://wiki.dbpedia.org/meetings/California_2017 …
+ Will ask ppl about speaking at a bay-area semantic-web meetup reboot.
