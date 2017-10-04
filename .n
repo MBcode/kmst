@@ -1986,3 +1986,7 @@ CS @ ILLINOIS Retweeted Grigore Rosu ASE, a major software engineering conferenc
 
 @pablomendes  Oct 12th DBpedia Community Meeting and Bay Area Knowledge Graphs Meetup hosted at Apple. Register now! #DBpediaCA http://wiki.dbpedia.org/meetings/California_2017 …
  Will ask ppl about speaking at a bay-area semantic-web meetup reboot.
+
+github.com protegeproject/webprotege.git easiest,dbpedia/dbpedia-webprotege compiles, but WebVOWL: hammar/webprotege.git didn't
+ would love to see it combined w/a rstudio like env w/any of the jupyter/hub langs; then go beyond simple datacube refs
+ want easier semantics for both data &compute in a variety of languages, that can be more easily composed from the descriptions
