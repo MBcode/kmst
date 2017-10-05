@@ -1990,3 +1990,11 @@ CS @ ILLINOIS Retweeted Grigore Rosu ASE, a major software engineering conferenc
 github.com protegeproject/webprotege.git easiest,dbpedia/dbpedia-webprotege compiles, but WebVOWL: hammar/webprotege.git didn't
  would love to see it combined w/a rstudio like env w/any of the jupyter/hub langs; then go beyond simple datacube refs
  want easier semantics for both data &compute in a variety of languages, that can be more easily composed from the descriptions
+
+@ludaesch  Oct 4 Bertram Ludäscher Retweeted Bertram Ludäscher
+ .. and slides from Tuesday talk on YesWorkflow provenance: https://www.slideshare.net/ludaesch/ballroom-a-tuesday1215ludaescher … #tdwg17 #yesworkflowBertram Ludäscher added,
+  Bertram Ludäscher @ludaesch Wild idea slides here: https://www.slideshare.net/ludaesch/wild-ideas-at-tdwg17-embrace-multiple-possible-worlds-abandon-technoligion …  #tdwg17 https://twitter.com/rdmpage/status/915567087283838976 …
+
+@ludaesch  Oct 4 Bertram Ludäscher Retweeted Roderic Page
+ Wild idea slides here: https://www.slideshare.net/ludaesch/wild-ideas-at-tdwg17-embrace-multiple-possible-worlds-abandon-technoligion …  #tdwg17Bertram Ludäscher added,
+  Roderic Page @rdmpage Wild idea #TDWG17 Multiple possible worlds (multiple taxonomies), abandon techno-lingo, use plain language, keep keep things simple
