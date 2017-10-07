@@ -1998,3 +1998,5 @@ github.com protegeproject/webprotege.git easiest,dbpedia/dbpedia-webprotege comp
 @ludaesch  Oct 4 Bertram Ludäscher Retweeted Roderic Page
  Wild idea slides here: https://www.slideshare.net/ludaesch/wild-ideas-at-tdwg17-embrace-multiple-possible-worlds-abandon-technoligion …  #tdwg17Bertram Ludäscher added,
   Roderic Page @rdmpage Wild idea #TDWG17 Multiple possible worlds (multiple taxonomies), abandon techno-lingo, use plain language, keep keep things simple
+
+@allenai_org Announcing the #AI2 Key Scientific Challenges Program! Get $10K in seed funding + #AI research support & mentorship: http://ow.ly/FBza30fH9Yr
