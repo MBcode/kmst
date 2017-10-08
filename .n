@@ -2000,3 +2000,6 @@ github.com protegeproject/webprotege.git easiest,dbpedia/dbpedia-webprotege comp
   Roderic Page @rdmpage Wild idea #TDWG17 Multiple possible worlds (multiple taxonomies), abandon techno-lingo, use plain language, keep keep things simple
 
 @allenai_org Announcing the #AI2 Key Scientific Challenges Program! Get $10K in seed funding + #AI research support & mentorship: http://ow.ly/FBza30fH9Yr
+
+@reddit_lisp #Common_Lisp Project Listing - Confession 76 - 74 projects by Shinmera |
+ https://www.reddit.com/r/Common_Lisp/comments/74wr44/project_listing_confession_76_74_projects_by/ https://reader.tymoon.eu/article/357
