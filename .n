@@ -2003,3 +2003,7 @@ github.com protegeproject/webprotege.git easiest,dbpedia/dbpedia-webprotege comp
 
 @reddit_lisp #Common_Lisp Project Listing - Confession 76 - 74 projects by Shinmera |
  https://www.reddit.com/r/Common_Lisp/comments/74wr44/project_listing_confession_76_74_projects_by/ https://reader.tymoon.eu/article/357
+
+@OntoEric Eric Little Retweeted Ronald van Loon Data Science includes Semantics. Great picture!
+    Data Science Summarized in One Picture | #DataScience #MachineLearning #RT http://bit.ly/2lvGmvr 
+ Though I would have put semantics much earlier in the picture; Had early ideas abt data-prep through ML choice, through describing (in context).
