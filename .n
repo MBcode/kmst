@@ -2007,3 +2007,7 @@ github.com protegeproject/webprotege.git easiest,dbpedia/dbpedia-webprotege comp
 @OntoEric Eric Little Retweeted Ronald van Loon Data Science includes Semantics. Great picture!
     Data Science Summarized in One Picture | #DataScience #MachineLearning #RT http://bit.ly/2lvGmvr 
  Though I would have put semantics much earlier in the picture; Had early ideas abt data-prep through ML choice, through describing (in context).
+
+@etzioni AI to Win the Nobel Prize.  Visionary paper by Hiroaki Kitano:
+ https://www.semanticscholar.org/paper/Artificial-Intelligence-to-Win-the-Nobel-Prize-and-Kitano/a9269acd143b340071a4562b8194334daf9da4d9
+  Artificial Intelligence to Win the Nobel Prize and Beyond: Creating the Engine for Scientific Discovery
