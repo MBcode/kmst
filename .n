@@ -2012,3 +2012,6 @@ github.com protegeproject/webprotege.git easiest,dbpedia/dbpedia-webprotege comp
 @etzioni AI to Win the Nobel Prize.  Visionary paper by Hiroaki Kitano:
  https://www.semanticscholar.org/paper/Artificial-Intelligence-to-Win-the-Nobel-Prize-and-Kitano/a9269acd143b340071a4562b8194334daf9da4d9
   Artificial Intelligence to Win the Nobel Prize and Beyond: Creating the Engine for Scientific Discovery
+
+@Franzinc Why Enterprise Knowledge Graphs Need Semantics https://buff.ly/2ybE77G   #AllegroGraph #KnowledgeGraph
+  https://www.datanami.com/2017/10/02/enterprise-knowledge-graphs-need-semantics
