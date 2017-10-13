@@ -2015,3 +2015,5 @@ github.com protegeproject/webprotege.git easiest,dbpedia/dbpedia-webprotege comp
 
 @Franzinc Why Enterprise Knowledge Graphs Need Semantics https://buff.ly/2ybE77G   #AllegroGraph #KnowledgeGraph
   https://www.datanami.com/2017/10/02/enterprise-knowledge-graphs-need-semantics
+
+@Frances_Mancini Such a great @MozillaScience community call! Plenty of awesome resources for #OpenData #openscience at this link https://public.etherpad-mozilla.org/p/sciencelab-calls-oct12-2017 … 
