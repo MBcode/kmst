@@ -2017,3 +2017,7 @@ github.com protegeproject/webprotege.git easiest,dbpedia/dbpedia-webprotege comp
   https://www.datanami.com/2017/10/02/enterprise-knowledge-graphs-need-semantics
 
 @Frances_Mancini Such a great @MozillaScience community call! Plenty of awesome resources for #OpenData #openscience at this link https://public.etherpad-mozilla.org/p/sciencelab-calls-oct12-2017 … 
+
+@reddit_lisp #lisp ChrysaLisp - a 64-bit Lisp OS |https://www.reddit.com/r/lisp/comments/765kn2/chrysalisp_a_64bit_lisp_os/
+ https://github.com/vygr/ChrysaLisp
+
