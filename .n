@@ -2021,3 +2021,6 @@ github.com protegeproject/webprotege.git easiest,dbpedia/dbpedia-webprotege comp
 @reddit_lisp #lisp ChrysaLisp - a 64-bit Lisp OS |https://www.reddit.com/r/lisp/comments/765kn2/chrysalisp_a_64bit_lisp_os/
  https://github.com/vygr/ChrysaLisp
 
+ @Illinois_Alma  Oct 13 Video: #withILLINOIS, students at Siebel Center for Design will use design thinking to solve the world’s challenges https://youtu.be/YSIRJk3ic_8 
+ Rachel applied to direct
+
