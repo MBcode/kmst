@@ -2031,4 +2031,5 @@ github.com protegeproject/webprotege.git easiest,dbpedia/dbpedia-webprotege comp
 http://www.access-ai.com/blogs/semantic-reasoning-almost-forgotten-half-ai/
 
 @MBstream  http://aliquote.org/memos/2011/02/05/diving-into-lisp-for-statistical-computing … http://www.cliki.net/Mathematics  incl statistics,in common-lisp, cls, cl-ana;bridges: rcl,cl-jupyter, http://www.cliki.net/Python%20programming%20language …
+;above, quicklisp load of 'cls is for: http://www.cliki.net/cl-mathstats, which is as close2a xlispstat in CL as we might get,minus great viz
 =&don't forget: http://www.cliki.net/machine%20learning &much more really
