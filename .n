@@ -2033,3 +2033,5 @@ http://www.access-ai.com/blogs/semantic-reasoning-almost-forgotten-half-ai/
 @MBstream  http://aliquote.org/memos/2011/02/05/diving-into-lisp-for-statistical-computing … http://www.cliki.net/Mathematics  incl statistics,in common-lisp, cls, cl-ana;bridges: rcl,cl-jupyter, http://www.cliki.net/Python%20programming%20language …
 ;above, quicklisp load of 'cls is for: http://www.cliki.net/cl-mathstats, which is as close2a xlispstat in CL as we might get,minus great viz
 =&don't forget: http://www.cliki.net/machine%20learning &much more really
+
+@CameronNeylon  More on this project next week, but if you're wondering what happened after my rant a while back on data packaging:  http://ptsefton.com/2017/10/19/datacrate.htm
