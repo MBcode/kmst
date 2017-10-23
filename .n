@@ -2035,3 +2035,5 @@ http://www.access-ai.com/blogs/semantic-reasoning-almost-forgotten-half-ai/
 =&don't forget: http://www.cliki.net/machine%20learning &much more really
 
 @CameronNeylon  More on this project next week, but if you're wondering what happened after my rant a while back on data packaging:  http://ptsefton.com/2017/10/19/datacrate.htm
+
+@ocorcho Slides from @ocorcho keynote at the @iswc2017 @s4biodiv workshop available at https://www.slideshare.net/ocorcho/towards-reproducible-science-a-few-building-blocks-from-my-personal-experience … @olgaxgiraldo @idafensp
