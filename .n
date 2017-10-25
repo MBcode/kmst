@@ -2039,3 +2039,5 @@ http://www.access-ai.com/blogs/semantic-reasoning-almost-forgotten-half-ai/
 @ocorcho Slides from @ocorcho keynote at the @iswc2017 @s4biodiv workshop available at https://www.slideshare.net/ocorcho/towards-reproducible-science-a-few-building-blocks-from-my-personal-experience … @olgaxgiraldo @idafensp
 
 https://twitter.com/hashtag/iswc2017?src=hash &related
+
+Semantics for MDM/PLM/PIM/... ;pulling in vocabs&organizing them, to authoratatively tag data.., ease/incr use..
