@@ -2041,3 +2041,5 @@ http://www.access-ai.com/blogs/semantic-reasoning-almost-forgotten-half-ai/
 https://twitter.com/hashtag/iswc2017?src=hash &related
 
 Semantics for MDM/PLM/PIM/... ;pulling in vocabs&organizing them, to authoratatively tag data.., ease/incr use..
+
+Was familiar w/ http://www.flownet.com/gat/jpl-lisp.html &author,but not: https://en.wikipedia.org/wiki/SHINE_Expert_System
