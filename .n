@@ -2045,3 +2045,5 @@ Semantics for MDM/PLM/PIM/... ;pulling in vocabs&organizing them, to authoratati
 Was familiar w/ http://www.flownet.com/gat/jpl-lisp.html &author,but not: https://en.wikipedia.org/wiki/SHINE_Expert_System
 
 @DublinCore Presentations from 3rd Workshop on an Open Knowledge Network http://bit.ly/2ha6QT0  via @eSayeed #dcmi17 http://ichs.ucsf.edu/okn-documents/
+
+@pascalhitzler  #Rules are better than #OWL for #ontology modeling: presentation video from #ESWC2017 http://videolectures.net/eswc2017_hitzler_OWL_modeling/ … @aakrisnadhi http://videolectures.net/eswc2017_hitzler_OWL_modeling/
