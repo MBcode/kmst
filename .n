@@ -2047,3 +2047,6 @@ Was familiar w/ http://www.flownet.com/gat/jpl-lisp.html &author,but not: https:
 @DublinCore Presentations from 3rd Workshop on an Open Knowledge Network http://bit.ly/2ha6QT0  via @eSayeed #dcmi17 http://ichs.ucsf.edu/okn-documents/
 
 @pascalhitzler  #Rules are better than #OWL for #ontology modeling: presentation video from #ESWC2017 http://videolectures.net/eswc2017_hitzler_OWL_modeling/ … @aakrisnadhi http://videolectures.net/eswc2017_hitzler_OWL_modeling/
+
+http://ontologforum.org/index.php/ConferenceCall_2017_10_25 sowa, going weekly again
+has been putting out random older retweets but not announcing that they started back up awhile ago
