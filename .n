@@ -125,9 +125,9 @@ http://www.skampakis.com/can-data-science-be-automated/
 
 Christopher @communicating  [Interesting] DURA: A Declarative Event Query Language for Reactive [Complex] Event Processing [large pdf] http://www.en.pms.ifi.lmu.de/publications/dissertationen/Steffen.Hausmann/DISS_Steffen.Hausmann.pdf …
 
-@pgroth 12h12 hours ago
+@pgroth ISWC 2017 Trip Report https://thinklinks.wordpress.com/2017/10/29/trip-report-iswc-2017/ … @iswc2017 #iswc2017
+@merpeltje My #iswc2017 trip report is up at https://www.clariah.nl/en/new/blogs/iswc-trip-report … @CLARIAH_NL @KNAWHuC
 
-ISWC 2017 Trip Report https://thinklinks.wordpress.com/2017/10/29/trip-report-iswc-2017/ … @iswc2017 #iswc2017
 
 
 Kemele M. Endris @KemeleM  Jun20 "Interest-based RDF Update Propagation" has been accepted at #iswc2015 #EISBonn http://eis.iai.uni-bonn.de/Projects/iRap.html …
