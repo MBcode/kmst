@@ -2057,3 +2057,6 @@ http://ontologforum.org/index.php/ConferenceCall_2017_10_25 sowa, going weekly a
 has been putting out random older retweets but not announcing that they started back up awhile ago
 
 @skontopo  Looking for a nice #visualization tool for #ontologies? Then take a look at Grafoo by @essepuntato (implemented as a #yEd plugin) @yworks
+
+
+@DublinCore Sweet Tools listing of 1000+ semantic technology tools fixed, now again operational http://www.mkbergman.com/sweet-tools/ #semanticweb #lilnkeddata
