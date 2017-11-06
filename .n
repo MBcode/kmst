@@ -2063,3 +2063,6 @@ has been putting out random older retweets but not announcing that they started 
 @pebourne Biomedical Engineering (BME) in a Changing Scholarly Landscape - 50th anniversary https://www.slideshare.net/pebourne/biomedical-engineering-in-a-changing-scholarly-landscape … @UVADSI   @UVAEngineers @UVAmed
 
 Like JuPyteR notebook, but very simple annotated html w/uri-s for all by ref calls, could incl arrays as img data w/xmp metadata, so could see those args.
+
+@linkedktk  
+As an RDF Data Cube fan I'm happy to see more related work: Earth Observation Data & Discrete Global Grid System https://www.w3.org/TR/eo-qb/ 
