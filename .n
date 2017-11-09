@@ -2068,3 +2068,5 @@ Use sw onto to describe JuPyteR etc computational components _instantiate and be
 _something like web-protege(w/old tabs)along w/web-Rstudio would be nice;knime/etc wf too/?
 
 @linkedktk  As an RDF Data Cube fan I'm happy to see more related work: Earth Observation Data & Discrete Global Grid System https://www.w3.org/TR/eo-qb/ 
+
+@Comp_Inst Coverage of the NIH Data Commons at @bioitworld highlights contributions from @globusonline and @UChicagoCDIS: http://www.bio-itworld.com/2017/11/07/nih-launches-data-commons-pilot-with-9-projects.aspx …
