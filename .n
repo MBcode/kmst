@@ -2074,3 +2074,5 @@ What simple bit of magic would allow easier x-lang use; incl apache arrow's feat
 @Comp_Inst Coverage of the NIH Data Commons at @bioitworld highlights contributions from @globusonline and @UChicagoCDIS: http://www.bio-itworld.com/2017/11/07/nih-launches-data-commons-pilot-with-9-projects.aspx …
 
 https://github.com/rdfhdt now working; http://www.rdfhdt.org/ downloads datasets hdt-mr developement   jena/fuseki integration  RDF binary format
+
+@WikiResearch 10 years of Linked Open Data, 2007-2017 (ht @kidehen) #lod @dbpedia https://twitter.com/twitter/statuses/929424252909977600
