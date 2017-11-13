@@ -2063,11 +2063,13 @@ has been putting out random older retweets but not announcing that they started 
 @pebourne Biomedical Engineering (BME) in a Changing Scholarly Landscape - 50th anniversary https://www.slideshare.net/pebourne/biomedical-engineering-in-a-changing-scholarly-landscape … @UVADSI   @UVAEngineers @UVAmed
 
 Like JuPyteR notebook, but very simple annotated html w/uri-s for all by ref calls, could incl arrays as img data w/xmp metadata, so could see those args.
-Use sw onto to describe JuPyteR etc computational components _instantiate and be able2run
+Use sw onto(theswo.sf.net) to describe JuPyteR etc computational components _instantiate and be able2run
  nice in that both 1plc to search for functionality and might be able to focus on fnc vs form
 _something like web-protege(w/old tabs)along w/web-Rstudio would be nice;knime/etc wf too/?
 What simple bit of magic would allow easier x-lang use; incl apache arrow's feather,scidb,...
  maybe a notebook using ipynb like use of json-ld, w/refs2the larger shared bits,still easily load/used by each lang.
+
+https://www.youtube.com/watch?v=TQBTrdV6Pe8&index=448&list=LLTAMuEzip2alnjKCC8N55EA An Inferred System Description Facility ;Dydra rdf lisp
 
 @linkedktk  As an RDF Data Cube fan I'm happy to see more related work: Earth Observation Data & Discrete Global Grid System https://www.w3.org/TR/eo-qb/ 
 
