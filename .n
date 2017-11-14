@@ -2078,3 +2078,6 @@ https://www.youtube.com/watch?v=TQBTrdV6Pe8&index=448&list=LLTAMuEzip2alnjKCC8N5
 https://github.com/rdfhdt now working; http://www.rdfhdt.org/ downloads datasets hdt-mr developement   jena/fuseki integration  RDF binary format
 
 @WikiResearch 10 years of Linked Open Data, 2007-2017 (ht @kidehen) #lod @dbpedia https://twitter.com/twitter/statuses/929424252909977600
+
+https://gorkovchanin.wordpress.com/2015/05/02/building-a-common-lisp-gui-with-commonqt/ http://www.cliki.net/Mitch%27s%20LISP%20Mathematical%20Library 
+    http://www.mitchr.me/SS/mjrcalc/ https://github.com/richmit/mjrcalc
