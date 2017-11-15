@@ -2084,3 +2084,4 @@ https://gorkovchanin.wordpress.com/2015/05/02/building-a-common-lisp-gui-with-co
 
 @jahendler information and slides from our National Academies seminar on “International coordination for science data infrastructure” now available on line: http://sites.nationalacademies.org/pga/brdi/pga_181009 …
 
+@structD Hierarchies in Knowledge Representation: http://www.mkbergman.com/2087/hierarchies-in-knowledge-representation/ … #AI #hierarchy #KnowledgeGraph #KR 
