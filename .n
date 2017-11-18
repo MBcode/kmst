@@ -2087,3 +2087,6 @@ https://gorkovchanin.wordpress.com/2015/05/02/building-a-common-lisp-gui-with-co
 @structD Hierarchies in Knowledge Representation: http://www.mkbergman.com/2087/hierarchies-in-knowledge-representation/ … #AI #hierarchy #KnowledgeGraph #KR 
 
 https://lepisma.github.io/2016/11/02/org-babel/ would be nice if other notebooks could read/write it http://orgmode.org/worg/org-contrib/babel/ 's simple format/eg. https://gist.githubusercontent.com/lepisma/6157074b8cec0eecfcc97555ac72289c/raw/ca39f3715b714d28ff138c49946b2188bf00e7f5/ob.org
+
+@Repositorian Oct 22 Excellent overview of need for #futurepaper! The Rhetoric of Research Objects @CaroleAnneGoble
+ https://www.slideshare.net/carolegoble/the-rhetoric-of-research-objects-81065325
