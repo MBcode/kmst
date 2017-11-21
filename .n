@@ -2094,3 +2094,5 @@ https://lepisma.github.io/2016/11/02/org-babel/ would be nice if other notebooks
  https://www.slideshare.net/carolegoble/the-rhetoric-of-research-objects-81065325
 
 Science has outgrown the human mind http://hn.premii.com/#/article/15735016
+
+http://mathesaurus.sourceforge.net/ ;use2index
