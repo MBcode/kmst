@@ -2098,3 +2098,5 @@ Science has outgrown the human mind http://hn.premii.com/#/article/15735016
 http://mathesaurus.sourceforge.net/ ;use2index
 
 @DBpediaPL RML and FnO: Shaping @DBpedia Declaratively https://link.springer.com/chapter/10.1007/978-3-319-70407-4_32
+
+@DanielKhashabi Must-watch talk by @GaryMarcus  https://www.youtube.com/watch?v=7dnN3P2bCJo … ;Allen AI2 Inst
