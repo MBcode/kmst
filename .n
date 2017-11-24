@@ -1120,6 +1120,8 @@ Benjamin Good @bgood  Thoughtful series of blog posts on integrating knowledge b
 
 http://www.mkbergman.com/1936/deep-graphs-a-new-framework-for-network-analysis/
 
+What is Representation?: mkbergman.com/2115/what-is-r… #KR #Peirce #Semiosis
+
 @drfeifei  Dec 14 Visual Genome: a dataset, a knowledge base, an ongoing effort to connect structured image concepts to language.  http://visualgenome.org/  
 
 @simonjupp  Dec 18 Some graph visualisation added to the new Ontology Lookup Service beta - feedback welcome http://goo.gl/3Kva7B  
