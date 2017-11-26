@@ -2104,3 +2104,5 @@ http://mathesaurus.sourceforge.net/ ;use2index
 @DanielKhashabi Must-watch talk by @GaryMarcus  https://www.youtube.com/watch?v=7dnN3P2bCJo … ;Allen AI2 Inst
 
 @ontologysummit re:on: Nov 23 Presented: Ruth Duerr #Semantics + Discovery/use in #geoscience data http://bit.ly/21jTVk4  #ontologysummit
+
+@RainerJoswig MIND.AI looks for a #lisp engineer https://lispjobs.wordpress.com/2017/11/22/lisp-engineer-mind-ai-seoul-korea-l-a-usa/
