@@ -340,6 +340,8 @@ MBR simgen
     http://www.aaai.org/Papers/AAAI/1993/AAAI93-084.pdf
     http://ijcai.org/Past%20Proceedings/IJCAI-95-VOL2/PDF/099.pdf
 
+https://en.wikipedia.org/wiki/Scientific_modelling
+
 would even work on: http://www.ncsa.illinois.edu/about/jobs/A1400040 if I could use Stella:
   www.isi.edu/isd/LOOM/Stella /documentation/manual.pdf www.isi.edu/~hans/publications/LUGM99.pdf
    from http://www.isi.edu/isd/LOOM/PowerLoom/
