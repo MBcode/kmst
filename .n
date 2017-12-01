@@ -2114,10 +2114,13 @@ http://mathesaurus.sourceforge.net/ ;use2index
 @allenai_org Watch @armancohan Arman Cohan's talk "Text Summarization and Categorization for Scientific and Health-Related Data" on reducing citation inaccuracy, an extractive summarization method for capturing contributions, assessment of health risk, & more https://www.youtube.com/watch?v=hNo9ybjh4sM … #NLP #AI2
 
 AWS #Neptune: large-scale, low latency, graph database that supports both property graphs and RDF graphs, along with their respective query languages TinkerPop Gremlin and SPARQL. https://aws.amazon.com/neptune/
-Frank van Harmelen‏ 
 More Frank van Harmelen Retweeted metaphacts "More than half a dozen use cases, ranging from semantic master data management and production monitoring to finance and risk management, will be presented by 
 Thomas Hubauer, Portfolio Project Manager for Knowledge Graph & Semantics at Siemens Corporate Technology."
  @metaphacts Siemens and metaphacts showcase Enterprise Knowledge Graphs on Amazon Neptune: http://metaphacts.com/news  
 Read the full press release here: http://metaphacts.com/images/PDFs/PR-AWS-reInvent-2017_final-EN.pdf … #Neptune #graphdatabase #knowledgegraph
 Your #knowledgegraph with metaphactory on the new Amazon #Neptune #graphdatabase! https://metaphacts.com/amazon-neptune  #rdf #sparql
  https://pbs.twimg.com/media/DP1QCVdUQAAkv0u.jpg:large
+
+Harald Sack @lysander07
+The slides of my inaugural lecture today on Combining Semantics and Deep Learning at AIFB @KITKarlsruhe @FIZKarlsruhe 
+https://www.slideshare.net/lysander07/combining-semantics-an-deep-learning-for-intelligent-information-services …
