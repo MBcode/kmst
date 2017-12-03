@@ -2033,7 +2033,7 @@ github.com protegeproject/webprotege.git easiest,dbpedia/dbpedia-webprotege comp
  https://github.com/vygr/ChrysaLisp
 
  @Illinois_Alma  Oct 13 Video: #withILLINOIS, students at Siebel Center for Design will use design thinking to solve the world’s challenges https://youtu.be/YSIRJk3ic_8 
- Rachel applied to direct/now interviewing; http://storied.illinois.edu/siebelcenterfordesign  
+ Rachel applied to direct/now interviewing; http://storied.illinois.edu/siebelcenterfordesign dec11 
 
 @SDSC_UCSD  Oct 13 NoCal Wildfires Generate 1.5M Views of @UCSanDiego @WIFIREProject Firemap Resource https://goo.gl/fs3ExK  #AtlasFire #TubbsFire 
 
@@ -2124,3 +2124,5 @@ Your #knowledgegraph with metaphactory on the new Amazon #Neptune #graphdatabase
 Harald Sack @lysander07
 The slides of my inaugural lecture today on Combining Semantics and Deep Learning at AIFB @KITKarlsruhe @FIZKarlsruhe 
 https://www.slideshare.net/lysander07/combining-semantics-an-deep-learning-for-intelligent-information-services …
+
+Have 1page CV now as gDoc, but looses most of formating as soon I put it in a static/sharable format; which is sad; but soon.
