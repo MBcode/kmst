@@ -2127,3 +2127,6 @@ https://www.slideshare.net/lysander07/combining-semantics-an-deep-learning-for-i
 
 Have 1page CV now as gDoc, but looses most of formating as soon I put it in a static/sharable format; which is sad; but soon.
 Now have 1page: http://mike.bobak.googlepages.com/MikeBobak.pdf that mentions m-bobak.pdf &notional web version w/more details
+
+https://www.meetup.com/balisp/events/244921835 Lisp at the Frontier of Computation @rigetti.com Great talk looking fwd2 madrigel BLAS code
+ And playing w/cl-forest &the py code for the quantum simulator
