@@ -2133,3 +2133,6 @@ https://www.meetup.com/balisp/events/244921835 Lisp at the Frontier of Computati
 
 @allenai_org Dec 4
 Jay Pujara, Sameer Singh, and #AI2's Bhavana Dalvi presented an overview of existing approaches to extracting candidate facts from text and incorporating these into a well-formed knowledge graph: "Knowledge Graph Construction From Text" #AAAI2017 #AI #NLP http://ow.ly/A5db30h0gSa 
+@allenai_org Dec 5
+Niket Tandon of #AI2, Aparna Varde, & Gerard de Melo presented "Commonsense for Machine Intelligence" at #CIKM2017, introducing & comparing commonsense to encyclopedic knowledge & enumerating existing knowledge bases for each type of #commonsense. #AI #NLP
+http://allenai.org/tutorials/csk/index.html
