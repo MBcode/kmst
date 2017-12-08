@@ -2130,6 +2130,8 @@ Now have 1page: http://mike.bobak.googlepages.com/MikeBobak.pdf that mentions m-
 
 https://www.meetup.com/balisp/events/244921835 Lisp at the Frontier of Computation @rigetti.com Great talk looking fwd2 madrigel BLAS code
  And playing w/cl-forest &the py code for the quantum simulator
+'(Robert Smith) @stylewarning Video of my talk "#Lisp at the Frontier of Computation" is up! Learn about some Lisp and #quantum computation. Thanks to @rigetti for hosting the event!
+ https://www.youtube.com/watch?v=f9vRcSAneiw&feature=youtu.be
 
 @allenai_org Dec 4
 Jay Pujara, Sameer Singh, and #AI2's Bhavana Dalvi presented an overview of existing approaches to extracting candidate facts from text and incorporating these into a well-formed knowledge graph: "Knowledge Graph Construction From Text" #AAAI2017 #AI #NLP http://ow.ly/A5db30h0gSa 
