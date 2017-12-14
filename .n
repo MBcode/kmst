@@ -2077,6 +2077,8 @@ _something like web-protege(w/old tabs)along w/web-Rstudio would be nice;knime/e
 What simple bit of magic would allow easier x-lang use; incl apache arrow's feather,scidb,...
  maybe a notebook using ipynb like use of json-ld, w/refs2the larger shared bits,still easily load/used by each lang.
 revisiting sagemath.org which has a jupyter front end, a much wider variety of math capabilities beneth it; lots of py/R,&lisp
+Might be easier to continue w/this1jupyter kernal that has a few w/in: https://vatlab.github.io/sos-docs/#runningsos ;but still not smooth
+Still RStudio w/rPython JuliaCall  then snow &/or some (rest)rpc ?  ;rPython to sage would still be nice
 
 https://www.youtube.com/watch?v=TQBTrdV6Pe8&index=448&list=LLTAMuEzip2alnjKCC8N55EA An Inferred System Description Facility ;Dydra rdf lisp
 
