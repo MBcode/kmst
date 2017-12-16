@@ -2146,3 +2146,6 @@ Jay Pujara, Sameer Singh, and #AI2's Bhavana Dalvi presented an overview of exis
 @allenai_org Dec 5
 Niket Tandon of #AI2, Aparna Varde, & Gerard de Melo presented "Commonsense for Machine Intelligence" at #CIKM2017, introducing & comparing commonsense to encyclopedic knowledge & enumerating existing knowledge bases for each type of #commonsense. #AI #NLP
 http://allenai.org/tutorials/csk/index.html
+
+@Jakenfelds On the 15th day of Christmas my true love gave to me VERSION 1.0 @GraknLabs Well done to the entire team! What a great end to 2017!
+ https://discuss.grakn.ai/t/grakn-ai-1-0-0-is-now-available/616
