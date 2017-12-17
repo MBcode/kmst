@@ -2150,3 +2150,5 @@ http://allenai.org/tutorials/csk/index.html
 
 @Jakenfelds On the 15th day of Christmas my true love gave to me VERSION 1.0 @GraknLabs Well done to the entire team! What a great end to 2017!
  https://discuss.grakn.ai/t/grakn-ai-1-0-0-is-now-available/616
+
+@reddit_lisp Dec 15 #Common_Lisp Course: Robot Programming with Lisp | https://ai.uni-bremen.de/teaching/cs-lisp-ws17
