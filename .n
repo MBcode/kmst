@@ -1353,6 +1353,8 @@ More interesting things going on at: http://www.appliedresearch.illinois.edu/ wo
 
 https://jobs.illinois.edu/academic-job-board/job-details?jobID=86430&job=visiting-research-programmer-coordinated-science-laboratory-a1700683 CSL job, still of interest.
 @CSL_Illinois We're hiring! Apply by December 31.  Visiting Research Programmer: http://bit.ly/2kGpp61 Senior Research [Programmer]: http://bit.ly/2B32UyE 
+@NewsAtIllinois Dec 15 Team @CSL_Illinois creates method to simplify programming for clusters of computers https://buff.ly/2CiMu1R 
+ https://csl.illinois.edu/news/illinois-team-creates-method-simplify-programming-clusters-computers
 
 news-carrier
 Research-Programmer
