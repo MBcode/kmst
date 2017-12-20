@@ -2157,3 +2157,6 @@ http://allenai.org/tutorials/csk/index.html
  https://discuss.grakn.ai/t/grakn-ai-1-0-0-is-now-available/616
 
 @reddit_lisp Dec 15 #Common_Lisp Course: Robot Programming with Lisp | https://ai.uni-bremen.de/teaching/cs-lisp-ws17
+
+@PaulZH The CubiQL (GraphQL) API for RDF Data Cubes nearing its first release https://github.com/Swirrl/graphql-qb … #linkedstatistics
+ https://pbs.twimg.com/media/DRfSiQbWsAAmZbO.jpg
