@@ -2085,6 +2085,7 @@ revisiting sagemath.org which has a jupyter front end, a much wider variety of m
 Might be easier to continue w/this1jupyter kernal that has a few w/in: https://vatlab.github.io/sos-docs/#runningsos ;but still not smooth
 Still RStudio w/rPython JuliaCall  then snow &/or some (rest)rpc ?  ;rPython to sage would still be nice
 Maybe back2wf w/prov, like: yesworkflow ..    also try: sage/etc w/public https://cocalc.com/ 1st 
+-note on dyn-typing:building up as needed, but at times class info/meaning more important, than base typing(which can still easily err)
 
 https://www.youtube.com/watch?v=TQBTrdV6Pe8&index=448&list=LLTAMuEzip2alnjKCC8N55EA An Inferred System Description Facility ;Dydra rdf lisp
 
