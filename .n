@@ -2164,3 +2164,5 @@ http://allenai.org/tutorials/csk/index.html
 
 IEEE article - Transmuting Information to Knowledge with an Enterprise Knowledge Graph - #AllegroGraph (link: https://buff.ly/2BsxYZw) buff.ly/2BsxYZw   #KnowledgeGraph #Graphdatabase 
 https://allegrograph.com/the-enterprise-knowledge-graph/
+
+@RrichaJalota Dec 22 Want to build your own SPARQL server? Check out my new blogpost on “How to: Apache Jena Fuseki — 3.x.x”!! https://medium.com/@rrichajalota234/how-to-apache-jena-fuseki-3-x-x-1304dd810f09 …  #DataScience #linkeddata #semanticweb
