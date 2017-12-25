@@ -2166,3 +2166,5 @@ IEEE article - Transmuting Information to Knowledge with an Enterprise Knowledge
 https://allegrograph.com/the-enterprise-knowledge-graph/
 
 @RrichaJalota Dec 22 Want to build your own SPARQL server? Check out my new blogpost on “How to: Apache Jena Fuseki — 3.x.x”!! https://medium.com/@rrichajalota234/how-to-apache-jena-fuseki-3-x-x-1304dd810f09 …  #DataScience #linkeddata #semanticweb
+
+@biorxiv_sysbio Dec 23 Tellurium Notebooks - An Environment for Dynamical Model Development, Reproducibility, and Reuse  http://biorxiv.org/cgi/content/short/239004v1 … #biorxiv_sysbio
