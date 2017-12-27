@@ -2172,3 +2172,6 @@ https://allegrograph.com/the-enterprise-knowledge-graph/
 @pythonocc Dec 22 #pythonocc development wip: rendering a #CAD #STEP file in a #jupyter notebook @JupyterProject. Using the wonderful #pythreejs library, thanks @SylvainCorlay et al. Not released yet in #pythonocc, check the online preview at http://bit.ly/2l0AElZ  Merry #Christmas !
 
 @DublinCore SWIB17 Semantic Web in Libraries programme (with links to content) http://swib.org/swib17/programme.html
+
+ 
+@phaase Semantic Web and Semantic Technology Trends in 2018 http://www.dataversity.net/semantic-technology-semantic-web-trends-2018/ … #knowledgegraph
