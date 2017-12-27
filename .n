@@ -2170,3 +2170,5 @@ https://allegrograph.com/the-enterprise-knowledge-graph/
 @biorxiv_sysbio Dec 23 Tellurium Notebooks - An Environment for Dynamical Model Development, Reproducibility, and Reuse  http://biorxiv.org/cgi/content/short/239004v1 … #biorxiv_sysbio
 
 @pythonocc Dec 22 #pythonocc development wip: rendering a #CAD #STEP file in a #jupyter notebook @JupyterProject. Using the wonderful #pythreejs library, thanks @SylvainCorlay et al. Not released yet in #pythonocc, check the online preview at http://bit.ly/2l0AElZ  Merry #Christmas !
+
+@DublinCore SWIB17 Semantic Web in Libraries programme (with links to content) http://swib.org/swib17/programme.html
