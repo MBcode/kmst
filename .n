@@ -2175,3 +2175,6 @@ https://allegrograph.com/the-enterprise-knowledge-graph/
 
  
 @phaase Semantic Web and Semantic Technology Trends in 2018 http://www.dataversity.net/semantic-technology-semantic-web-trends-2018/ … #knowledgegraph
+
+@Waterslashcycle New paper out on making ecological models adequate--matching details to data and the questions addressed. http://onlinelibrary.wiley.com/doi/10.1111/ele.12893/full …
+    https://pbs.twimg.com/media/DSFEro4VwAEH_-u.jpg @geodosu @cboettig @SD_Chamberlain @VLSB5048  @stephromanach @ColinJCarlson @SadieRyan
