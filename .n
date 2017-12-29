@@ -2178,3 +2178,5 @@ https://allegrograph.com/the-enterprise-knowledge-graph/
 
 @Waterslashcycle New paper out on making ecological models adequate--matching details to data and the questions addressed. http://onlinelibrary.wiley.com/doi/10.1111/ele.12893/full …
     https://pbs.twimg.com/media/DSFEro4VwAEH_-u.jpg @geodosu @cboettig @SD_Chamberlain @VLSB5048  @stephromanach @ColinJCarlson @SadieRyan
+
+@danielskatz Oct 19 My slides for the closing #eResAU17 talk: Software in Research: Underappreciated and Underrewarded https://figshare.com/articles/_/5518933
