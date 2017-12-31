@@ -2180,3 +2180,8 @@ https://allegrograph.com/the-enterprise-knowledge-graph/
     https://pbs.twimg.com/media/DSFEro4VwAEH_-u.jpg @geodosu @cboettig @SD_Chamberlain @VLSB5048  @stephromanach @ColinJCarlson @SadieRyan
 
 @danielskatz Oct 19 My slides for the closing #eResAU17 talk: Software in Research: Underappreciated and Underrewarded https://figshare.com/articles/_/5518933
+
+@csarven More Sarven Capadisli Retweeted Jean-Paul Calbimonte
+    URL of the article "Multi-Agent Interactions on the Web through #LinkedData Notifications": http://publications.hevs.ch/index.php/attachments/single/1215 …
+    https://twitter.com/jpcik/status/941259463784267777
+    https://www.slideshare.net/jpcik/multiagent-interactions-on-the-web-through-linked-data-notifications  
