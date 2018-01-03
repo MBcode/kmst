@@ -2189,3 +2189,5 @@ https://allegrograph.com/the-enterprise-knowledge-graph/
 This is the only day in history when every adult was born in the 1900s, and every minor was born in the 2000s.
 
 Becoming a Data Scientist Podcast Episode 15: David Meza, Chief Knowledge Architect at NASA @davidmeza1 becomingadatascientist.com/2017/01/29/bec…
+
+@FrankVanHarmele Interesting attempt at domain-indepent methods for scientific data sharing: https://github.com/BlueBrain/nexus
