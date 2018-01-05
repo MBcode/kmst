@@ -2193,3 +2193,5 @@ Becoming a Data Scientist Podcast Episode 15: David Meza, Chief Knowledge Archit
 @FrankVanHarmele Interesting attempt at domain-indepent methods for scientific data sharing: https://github.com/BlueBrain/nexus
 
 @HNTweets Join Human Dx to empower anyone with the world's collective medical insight: https://www.humandx.org/team  Comments: https://news.ycombinator.com/item?id=16067542 …
+
+@CompSciFact 'The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise' - Edsger Dijkstra
