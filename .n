@@ -2195,3 +2195,6 @@ Becoming a Data Scientist Podcast Episode 15: David Meza, Chief Knowledge Archit
 @HNTweets Join Human Dx to empower anyone with the world's collective medical insight: https://www.humandx.org/team  Comments: https://news.ycombinator.com/item?id=16067542 …
 
 @CompSciFact 'The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise' - Edsger Dijkstra
+
+@NovasTaylor More Tim Williams Retweeted Connected Data LDN "Many of the graph-architects from Google, LinkedIn and Facebook ... are now venturing out on their own to develop solutions for the enterprise."  Winter has arrived. Now "Graph is coming!"😎  #RDF #LinkedData
+ @Connected_Data 2018 the year of knowledge graphs! We couldnt agree more! https://medium.com/@dmccreary/2018-the-year-of-enterprise-knowledge-graphs-66e868762b49
