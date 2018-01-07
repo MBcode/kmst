@@ -2198,3 +2198,15 @@ Becoming a Data Scientist Podcast Episode 15: David Meza, Chief Knowledge Archit
 
 @NovasTaylor More Tim Williams Retweeted Connected Data LDN "Many of the graph-architects from Google, LinkedIn and Facebook ... are now venturing out on their own to develop solutions for the enterprise."  Winter has arrived. Now "Graph is coming!"😎  #RDF #LinkedData
  @Connected_Data 2018 the year of knowledge graphs! We couldnt agree more! https://medium.com/@dmccreary/2018-the-year-of-enterprise-knowledge-graphs-66e868762b49
+
+@FroehlichMarcel 21 Dec 2017 Formal knowledge representation should work extremely well in mathematical domains.  
+    Publishing granular machine readable definitions of terms and proof structures in RDF instead of PDF papers could become very powerful.  
+    A growing #math knowledge graph that can be queried. #LOD
+Seems Christoph (@clange) has done some work in this direction.
+    Anybody else?
+    http://www.semantic-web-journal.net/sites/default/files/swj122_3.pdf …
+    https://content.iospress.com/articles/semantic-web/sw059 …
+    #KnowledgeRepresentation #Mathematics
+@SoerenAuer 25 Dec 2017 Replying to @FroehlichMarcel @clange
+    We also aim at representing computer science knowledge similarly:
+    https://www.researchgate.net/publication/319419350_Towards_a_Knowledge_Graph_Representing_Research_Findings_by_Semantifying_Survey_Articles
