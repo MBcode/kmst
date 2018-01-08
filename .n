@@ -751,6 +751,8 @@ Dave McComb @semanticarts  ·  May 13 Just came across this great slideshare of 
 
 Thomas Steiner @tomayac  ·  ConceptNet, a common sense knowledge base (facts à la 🍌 are yellow): http://conceptnet5.media.mit.edu/ . From the #WWW2015 knowledge graph tutorial. 
 
+    http://conceptnet.io/
+
 https://twitter.com/tonyhammond/status/601405279444586497 New http://www.nature.com/ontologies/ . Grown core by 50%, two more domain models, MeSH links, better navigation. #linkeddata  
 
 @timalthoff All talks from #BigDataBioMed conference recorded here: http://bigdata.stanford.edu/pastevents/2017-presentations.html?mc_cid=ad1ef2764c&mc_eid=1a93cf3dc8#day_1_wednesday_may24 … 
