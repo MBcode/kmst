@@ -1358,6 +1358,8 @@ https://jobs.illinois.edu/academic-job-board/job-details?jobID=86430&job=visitin
 @NewsAtIllinois Dec 15 Team @CSL_Illinois creates method to simplify programming for clusters of computers https://buff.ly/2CiMu1R 
  https://csl.illinois.edu/news/illinois-team-creates-method-simplify-programming-clusters-computers
 
+https://cs.lbl.gov/news-media/news/2017/berkeley-labs-arrayudf-tool-turns-large-scale-scientific-array-data-analysis-into-a-cakewalk/
+
 news-carrier
 Research-Programmer
 RP     ;=programmer/research-computing
