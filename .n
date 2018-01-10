@@ -2216,3 +2216,7 @@ Seems Christoph (@clange) has done some work in this direction.
 @SoerenAuer 25 Dec 2017 Replying to @FroehlichMarcel @clange
     We also aim at representing computer science knowledge similarly:
     https://www.researchgate.net/publication/319419350_Towards_a_Knowledge_Graph_Representing_Research_Findings_by_Semantifying_Survey_Articles
+
+@rzubek Jan 9 I could say I hate being right but, no, no I don't.  
+    Natural language conversation is a Hard Problem, and not remotely in the same category as sorting images into bins.
+    https://www.wired.com/story/facebooks-virtual-assistant-m-is-dead-so-are-chatbots/
