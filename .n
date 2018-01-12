@@ -2093,6 +2093,8 @@ Still RStudio w/rPython JuliaCall  then snow &/or some (rest)rpc ?  ;rPython to 
 Maybe back2wf w/prov, like: yesworkflow ..    also try: sage/etc w/public https://cocalc.com/ 1st 
 -note on dyn-typing:building up as needed, but at times class info/meaning more important, than base typing(which can still easily err)
 
+https://gty.org.in/2017/03/19/embedding-julia-in-lisp/ would be great
+
 https://www.youtube.com/watch?v=TQBTrdV6Pe8&index=448&list=LLTAMuEzip2alnjKCC8N55EA An Inferred System Description Facility ;Dydra rdf lisp
 
 @linkedktk  As an RDF Data Cube fan I'm happy to see more related work: Earth Observation Data & Discrete Global Grid System https://www.w3.org/TR/eo-qb/ 
