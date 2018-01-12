@@ -2220,3 +2220,8 @@ Seems Christoph (@clange) has done some work in this direction.
 @rzubek Jan 9 I could say I hate being right but, no, no I don't.  
     Natural language conversation is a Hard Problem, and not remotely in the same category as sorting images into bins.
     https://www.wired.com/story/facebooks-virtual-assistant-m-is-dead-so-are-chatbots/
+
+https://twitter.com/joeerl/status/951357931559284736 Joe Armstrong ;good thread
+    I’m interested in the forgotten ideas of computer science. Needed for a talk.  
+    Can you post examples of great CS ideas that have been largely forgotten.  
+    Examples: Linda tuple spaces, Boyer-Moore algorithm
