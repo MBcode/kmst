@@ -2229,3 +2229,4 @@ https://twitter.com/joeerl/status/951357931559284736 Joe Armstrong ;good thread
     Examples: Linda tuple spaces, Boyer-Moore algorithm
 
 editor(multi)lang interaction:spacemacs w/sly/slime..(babel);atom.._juno  ,sublime-text w/repl
+ juno ~= rstudio for julia in atom (but ~rough);&julia allows easy connections to py&R
