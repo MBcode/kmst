@@ -123,6 +123,9 @@ General shared standards are still a focus, but getting thigs working w/in their
 http://www.skampakis.com/can-data-science-be-automated/ 
  1)Cambridge’s Google-funded automatic statistician 2)Wolfram’s Data Science Platform 3)MIT’s Data Science Machine
 
+http://www.datasciencecentral.com/profiles/blogs/automated-machine-learning-for-professionals
+https://www.datasciencecentral.com/profiles/blogs/more-on-fully-automated-machine-learning
+
 Christopher @communicating  [Interesting] DURA: A Declarative Event Query Language for Reactive [Complex] Event Processing [large pdf] http://www.en.pms.ifi.lmu.de/publications/dissertationen/Steffen.Hausmann/DISS_Steffen.Hausmann.pdf …
 
 @pgroth ISWC 2017 Trip Report https://thinklinks.wordpress.com/2017/10/29/trip-report-iswc-2017/ … @iswc2017 #iswc2017
