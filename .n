@@ -1816,8 +1816,8 @@ June19: "After careful deliberation, NASA has decided to cancel the competition 
 
 @structD  Jul 31 KBpedia Relations, Part V: The Updated KBpedia Grammar: http://www.mkbergman.com/2059/kbpedia-relations-part-v-the-updated-kbpedia-grammar/ … #AI #KBAI #KnowledgeGraph #semanticweb
 
-@dbpedia  Smart application of #dbpediaspotlight ;) For more uses of DBpedia Spotlight check http://www.dbpedia-spotlight.org/ . 
- http://www.dbpedia-spotlight.org/spotlight-api /faq .. formats incl http://aksw.org/Projects/NIF.html
+@DublinCore Jan 10 KBpedia http://kbpedia.com/  "is a comprehensive knowledge structure for promoting data interoperability and knowledge-based artificial intelligence [KBAI]"
+@DublinCore Jan 14 Hierarchies in Knowledge Representation / @structD http://www.mkbergman.com/2087/hierarchies-in-knowledge-representation/
 
 @neumarcx welcome @MBstream to the leadership team at the Lotico San Francisco Bay Area Semantic Web #lotico meetup.com/The-San-Franci… 
 
