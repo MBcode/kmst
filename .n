@@ -2246,3 +2246,8 @@ https://twitter.com/joeerl/status/951357931559284736 Joe Armstrong ;good thread
 
 editor(multi)lang interaction:spacemacs w/sly/slime..(babel);atom.._juno  ,sublime-text w/repl
  juno ~= rstudio for julia in atom (but ~rough);&julia allows easy connections to py&R
+
+@ThomasTeskeOrcl More Thomas Teske Retweeted Bruno Borges
+    Any #developer using R should check this. It is always about efficient runtime.Thomas Teske added,
+  Say hello to #FastR, an alternative implementation of the R language, based on the Truffle framework: https://github.com/oracle/fastr 
+  #GitHub @OracleDevs #GraalVM
