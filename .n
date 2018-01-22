@@ -2251,3 +2251,11 @@ editor(multi)lang interaction:spacemacs w/sly/slime..(babel);atom.._juno  ,subli
     Any #developer using R should check this. It is always about efficient runtime.Thomas Teske added,
   Say hello to #FastR, an alternative implementation of the R language, based on the Truffle framework: https://github.com/oracle/fastr 
   #GitHub @OracleDevs #GraalVM
+
+@ClausStadler Jan 19
+Fetch heterogeneous data (JSON, CSV and XML) from the Web and integrate it - all with only a sequence of SPARQL queries (only standard syntax + function extensions)
+@jindrichmynarz Jan 19 Any plans on named graph + SPARQL 1.1 Update support? (As in https://github.com/tarql/tarql/issues/67 ….)
+Replying to @jindrichmynarz
+SparqlIntegrate is just a CLI to Jena ARQ - and ARQ already supports GRAPH in CONSTRUCT queries: https://jena.apache.org/documentation/query/construct-quad.html … - also see our updated example: https://github.com/SmartDataAnalytics/SparqlIntegrate/blob/master/example.sparql …
+Remote SPARQL update requires specification where to run .sparql files / queries - not yet supported
+    https://github.com/SmartDataAnalytics/Sparqlintegrate
