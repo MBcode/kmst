@@ -1344,6 +1344,7 @@ https://twitter.com/cognitum_eu/status/676509615845175296 @cognitum_eu
 @NovasTaylor: @namedgraph @kidehen ooooh! It has #rstats & Protege integration. Will check it out, thanks!
 
 http://blog.stardog.com/unifying-unstructured-data/ want really easy NamedEntityExtraction/concept-tagging &dependecy/relationships between..
+@stardog_db Our Integrity Constraint Validation (ICV) services provide a powerful way to improve data quality in the Knowledge Graph. Learn how this works by looking at some examples from the Knowledge Graph project at NASA that is built on Stardog: https://buff.ly/2mZAjBf 
 
 Shaowen Wang @swuiuc Want to attend #CyberGIS16 via cyber space, live streaming will start tomorrow: http://events.ncsa.illinois.edu/vts/video/live.html … @CyberGISCenter @NCSAatIllinois 
 
