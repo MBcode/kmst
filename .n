@@ -2260,3 +2260,6 @@ Replying to @jindrichmynarz
 SparqlIntegrate is just a CLI to Jena ARQ - and ARQ already supports GRAPH in CONSTRUCT queries: https://jena.apache.org/documentation/query/construct-quad.html … - also see our updated example: https://github.com/SmartDataAnalytics/SparqlIntegrate/blob/master/example.sparql …
 Remote SPARQL update requires specification where to run .sparql files / queries - not yet supported
     https://github.com/SmartDataAnalytics/Sparqlintegrate
+
+@wohnjalker Jan 8 3rd post in #RDF validation series: Validating material composition data using #SHACL with #SPARQL-based constraints with aggregates
+  https://blog.semaku.com/post/169476159408/validating-material-composition-data-using-shacl
