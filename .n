@@ -2263,3 +2263,7 @@ Remote SPARQL update requires specification where to run .sparql files / queries
 
 @wohnjalker Jan 8 3rd post in #RDF validation series: Validating material composition data using #SHACL with #SPARQL-based constraints with aggregates
   https://blog.semaku.com/post/169476159408/validating-material-composition-data-using-shacl
+
+@jasonpriem Jan 19 Knowen hopes to build massive open knowledge graph for science, using a collaborative editor to attract authors to annotate. http://knowen.org/ 
+    I want it to work. Historically, this has been a hard nut to crack--authors don't like to annotate, or change writing workflows.
+    https://pbs.twimg.com/media/DT6AA78U0AADseW.jpg
