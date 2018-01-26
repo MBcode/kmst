@@ -261,6 +261,8 @@ The most important @w3c vocabulary since SKOS, Data Cube, has its own conference
 https://twitter.com/OpenCubeProject  http://opencube-project.eu/ work-packages
 @marin_dim CfP 4th Int'l Workshop on Semantic Statistics, part of #ISWC2016, Oct 17, Kobe|JP http://semstats.org/2016/call-for-contributions … #LinkedData #OpenData
 
+@fair_reviews Jan 18 We have defined new skos:closMatch relations for our review rating concepts, check them out in https://w3id.org/fr/def/core  #fairreviews #skos https://pbs.twimg.com/media/DT1zkXqWAAAlpL5.jpg
+
 #ISWC2016 has too many great tweets to list right here; maybe look at my 'likes' and I'll summarize in a bit. https://thinklinks.wordpress.com/2016/10/27/trip-report-iswc-2016/
  several workshops/etc, especially: #SemStats 
 
