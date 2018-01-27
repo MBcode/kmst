@@ -2174,6 +2174,7 @@ https://www.meetup.com/balisp/events/244921835 Lisp at the Frontier of Computati
 '(Robert Smith) @stylewarning Video of my talk "#Lisp at the Frontier of Computation" is up! Learn about some Lisp and #quantum computation. Thanks to @rigetti for hosting the event!
  https://www.youtube.com/watch?v=f9vRcSAneiw&feature=youtu.be
 @JacobBiamonte Dec 15 Our new quantum machine learning result was done using @rigetti’s Forest — thanking Will Zeng and the Rigetti software team.  https://arxiv.org/abs/1712.05304 
+@stylewarning MAGICL is an open source linear algebra library in #Lisp. Definitely a WIP. Please send improvements or design suggestions! https://github.com/rigetticomputing/magicl …
 
 @allenai_org Dec 4
 Jay Pujara, Sameer Singh, and #AI2's Bhavana Dalvi presented an overview of existing approaches to extracting candidate facts from text and incorporating these into a well-formed knowledge graph: "Knowledge Graph Construction From Text" #AAAI2017 #AI #NLP http://ow.ly/A5db30h0gSa 
