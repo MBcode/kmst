@@ -2273,3 +2273,7 @@ Remote SPARQL update requires specification where to run .sparql files / queries
 
 @TIBHannover From document-based to knowledge-based information flows in science and technology: TIB publishes position paper on Open Research Knowledge Graph https://www.tib.eu/en/service/news/details/tib-publishes-position-paper-on-open-research-knowledge-graph/ …
     https://pbs.twimg.com/media/DUSqybAXUAAadQT.jpg
+
+
+@ryanjgallag 5 Nov 2017 Nice article quoting @SimonDeDeo and @alexvespi on the persistent challenges of working with unstructured data
+ https://www.quantamagazine.org/the-mathematical-shape-of-big-science-data-20131004/ ;compressed-sensing/topological-data-analysis
