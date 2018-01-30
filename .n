@@ -2277,3 +2277,6 @@ Remote SPARQL update requires specification where to run .sparql files / queries
 
 @ryanjgallag 5 Nov 2017 Nice article quoting @SimonDeDeo and @alexvespi on the persistent challenges of working with unstructured data
  https://www.quantamagazine.org/the-mathematical-shape-of-big-science-data-20131004/ ;compressed-sensing/topological-data-analysis
+
+@varish Jan 25 New paper from @GEResearch: Using #semantics & #knowledgegraphs  to enable access to polyglot persistent #BigData stores, while giving appearance that all data is fully captured within #knowledgegraph.  http://ieeexplore.ieee.org/document/8258083/ …
+#SemanticWeb #LinkedData @PaulCuddihy3 @vijayskumar https://pbs.twimg.com/media/DUZe0u4VAAAk_Ny.jpg
