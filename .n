@@ -2282,3 +2282,6 @@ Remote SPARQL update requires specification where to run .sparql files / queries
 #SemanticWeb #LinkedData @PaulCuddihy3 @vijayskumar https://pbs.twimg.com/media/DUZe0u4VAAAk_Ny.jpg
 
 @BlazeGraph 4 May 2016 Blazegraph #GraphDB Enables #Geospatial Searching & PubChem Data Processing https://www.blazegraph.com/press/ #precisionmed
+
+@reddit_lisp #Common_Lisp Numerical libraries for scientific computing in Common Lisp |
+ https://www.reddit.com/r/Common_Lisp/comments/7twkk9/numerical_libraries_for_scientific_computing_in/
