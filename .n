@@ -2280,3 +2280,5 @@ Remote SPARQL update requires specification where to run .sparql files / queries
 
 @varish Jan 25 New paper from @GEResearch: Using #semantics & #knowledgegraphs  to enable access to polyglot persistent #BigData stores, while giving appearance that all data is fully captured within #knowledgegraph.  http://ieeexplore.ieee.org/document/8258083/ …
 #SemanticWeb #LinkedData @PaulCuddihy3 @vijayskumar https://pbs.twimg.com/media/DUZe0u4VAAAk_Ny.jpg
+
+@BlazeGraph 4 May 2016 Blazegraph #GraphDB Enables #Geospatial Searching & PubChem Data Processing https://www.blazegraph.com/press/ #precisionmed
