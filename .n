@@ -2287,3 +2287,5 @@ Remote SPARQL update requires specification where to run .sparql files / queries
  https://www.reddit.com/r/Common_Lisp/comments/7twkk9/numerical_libraries_for_scientific_computing_in/
 
 https://lbl.referrals.selectminds.com/jobs/senior-biological-data-software-developer-296 very interesting mix of duties
+
+@AxelPolleres Jan 31 Looking fwd to talk about Data Integration for (Linked?) Open Data on the Web at @protegeproject's research meeting https://sites.google.com/site/protegeresearchmeeting/meeting-materials/data-integration-for-linked-open-data-on-the-web …
