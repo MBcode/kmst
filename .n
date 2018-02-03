@@ -1379,6 +1379,9 @@ https://jobs.illinois.edu/academic-job-board/job-details?jobID=86430&job=visitin
 
 https://cs.lbl.gov/news-media/news/2017/berkeley-labs-arrayudf-tool-turns-large-scale-scientific-array-data-analysis-into-a-cakewalk/
 
+Was in grad school near ks.uiuc then when I came back my office was right near NAMD/VMD people:
+https://jobs.illinois.edu/academic-job-board/job-details?jobID=91767&job=research-programmer-senior-research-programmer-beckman-institute-a1800074
+
 news-carrier
 Research-Programmer
 RP     ;=programmer/research-computing
