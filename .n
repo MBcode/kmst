@@ -2294,3 +2294,5 @@ https://lbl.referrals.selectminds.com/jobs/senior-biological-data-software-devel
 @AxelPolleres Jan 31 Looking fwd to talk about Data Integration for (Linked?) Open Data on the Web at @protegeproject's research meeting https://sites.google.com/site/protegeresearchmeeting/meeting-materials/data-integration-for-linked-open-data-on-the-web …
  @protegeproject Slides now available at: http://polleres.net/presentations/ 
   https://aic.ai.wu.ac.at/~polleres/presentations/20180202Data_Integration_for_(Linked)_Open_Data_on_the_Web.pdf
+
+@RealAAAI Feb2/NOLA Plenary sessions and invited talks of #AAAI2018 will be live streamed! Livestream link will be available at the conference webpage: https://aaai.org/Conferences/AAAI-18/ http://cdn.digitalservices.online/AAAI/
