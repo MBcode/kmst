@@ -2296,3 +2296,5 @@ https://lbl.referrals.selectminds.com/jobs/senior-biological-data-software-devel
   https://aic.ai.wu.ac.at/~polleres/presentations/20180202Data_Integration_for_(Linked)_Open_Data_on_the_Web.pdf
 
 @RealAAAI Feb2/NOLA Plenary sessions and invited talks of #AAAI2018 will be live streamed! Livestream link will be available at the conference webpage: https://aaai.org/Conferences/AAAI-18/ http://cdn.digitalservices.online/AAAI/
+
+https://exhibits.stanford.edu/feigenbaum/catalog/gn521fd3585 PROTEAN: Deriving protein structure from constraints.
