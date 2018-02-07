@@ -2298,3 +2298,9 @@ https://lbl.referrals.selectminds.com/jobs/senior-biological-data-software-devel
 @RealAAAI Feb2/NOLA Plenary sessions and invited talks of #AAAI2018 will be live streamed! Livestream link will be available at the conference webpage: https://aaai.org/Conferences/AAAI-18/ http://cdn.digitalservices.online/AAAI/
 
 https://exhibits.stanford.edu/feigenbaum/catalog/gn521fd3585 PROTEAN: Deriving protein structure from constraints.
+
+@mrocklin New Blog: HDF in the cloud   An analysis of the challenges and potential solutions for scientific data on cloud storage 
+http://matthewrocklin.com/blog/work/2018/02/06/hdf-in-the-cloud …  https://pbs.twimg.com/media/DVWtPtrU8AAptRL.jpg
+ 3 replies 44 retweets 67 likes; Reply 3   Retweet 44   Liked 67   Direct message Todd Small‏ 
+  @ToddSmall Replying to @mrocklin
+   You might also be interested in Climate Corp's Mandoline, which is a version of your option 4 ("Build a Distributed Service"): https://github.com/TheClimateCorporation/mandoline … cc @shoyer
