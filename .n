@@ -2306,3 +2306,6 @@ http://matthewrocklin.com/blog/work/2018/02/06/hdf-in-the-cloud …  https://pbs
    You might also be interested in Climate Corp's Mandoline, which is a version of your option 4 ("Build a Distributed Service"): https://github.com/TheClimateCorporation/mandoline … cc @shoyer
 
 https://twitter.com/codinghorror/status/961389912317509633 Adult principles, by John Perry Barlow https://mobile.twitter.com/codinghorror/status/961389912317509633/photo/1
+
+@SoftwareSaved In our blog today: "How do we help adapt software best practices to make them more applicable to domain researchers?"
+http://bit.ly/2EaPmn3 
