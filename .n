@@ -2307,5 +2307,7 @@ http://matthewrocklin.com/blog/work/2018/02/06/hdf-in-the-cloud …  https://pbs
 
 https://twitter.com/codinghorror/status/961389912317509633 Adult principles, by John Perry Barlow https://mobile.twitter.com/codinghorror/status/961389912317509633/photo/1
 
-@SoftwareSaved In our blog today: "How do we help adapt software best practices to make them more applicable to domain researchers?"
-http://bit.ly/2EaPmn3 
+@SoftwareSaved In our blog today: "How do we help adapt software best practices to make them more applicable to domain researchers?" http://bit.ly/2EaPmn3 
+
+ 
+@Franzinc Hubble’s View of Little Blue Dots - Sky & Telescope https://buff.ly/2G0X7si   #lisp https://buff.ly/2G2WVbX  and https://buff.ly/2FYpreP   #AllegroCL #Scheduling #AI
