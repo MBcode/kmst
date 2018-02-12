@@ -2312,3 +2312,5 @@ https://twitter.com/codinghorror/status/961389912317509633 Adult principles, by 
 @Franzinc Hubble’s View of Little Blue Dots - Sky & Telescope https://buff.ly/2G0X7si   #lisp https://buff.ly/2G2WVbX  and https://buff.ly/2FYpreP   #AllegroCL #Scheduling #AI
 
 @iswc2017 23 Oct 2017 #iswc2017 Ontologies #past and #present @dlmcguinness https://pbs.twimg.com/media/DMzrcEyXcAA31yW.jpg
+
+Stanford HPC-AI Advisory Council Conference and Docker Tutorial; looks interesting, but can't attend again; out of town
