@@ -2318,4 +2318,7 @@ Stanford HPC-AI Advisory Council Conference and Docker Tutorial; looks interesti
 @ucbrise RISE Seminar 2/15/18 : Mihai Budiu (VMware) - Hillview: a spreadsheet for big data
  https://rise.cs.berkeley.edu/event/rise-seminar-2118-yangqing-jia-applied-machine-learning-facebook-datacenter-infrastructure-perspective-2
 
-https://bluewaters.ncsa.illinois.edu/webinars/calendar/2018 https://bluewaters.ncsa.illinois.edu/webinars/software-ecosystems/software-sustainability
+https://bluewaters.ncsa.illinois.edu/webinars/calendar/2018 
+ https://bluewaters.ncsa.illinois.edu/webinars/software-ecosystems/software-sustainability
+  slides: https://bluewaters.ncsa.illinois.edu/documents/10157/7322fae6-809f-40f6-8e39-0ca5c66c87fe
+  video: looks like it is archived after the webinar, so I don't know why a time is given
