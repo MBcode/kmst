@@ -2314,3 +2314,6 @@ https://twitter.com/codinghorror/status/961389912317509633 Adult principles, by 
 @iswc2017 23 Oct 2017 #iswc2017 Ontologies #past and #present @dlmcguinness https://pbs.twimg.com/media/DMzrcEyXcAA31yW.jpg
 
 Stanford HPC-AI Advisory Council Conference and Docker Tutorial; looks interesting, but can't attend again; out of town
+
+@ucbrise RISE Seminar 2/15/18 : Mihai Budiu (VMware) - Hillview: a spreadsheet for big data
+ https://rise.cs.berkeley.edu/event/rise-seminar-2118-yangqing-jia-applied-machine-learning-facebook-datacenter-infrastructure-perspective-2
