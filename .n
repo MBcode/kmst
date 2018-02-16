@@ -2321,4 +2321,7 @@ Stanford HPC-AI Advisory Council Conference and Docker Tutorial; looks interesti
 https://bluewaters.ncsa.illinois.edu/webinars/calendar/2018 
  https://bluewaters.ncsa.illinois.edu/webinars/software-ecosystems/software-sustainability
   slides: https://bluewaters.ncsa.illinois.edu/documents/10157/7322fae6-809f-40f6-8e39-0ca5c66c87fe
-  video: looks like it is archived after the webinar, so I don't know why a time is given
+  video: https://youtu.be/D5efYuav7ak?list=PLO8UWE9gZTlAMRvvVfS7-6q3x1DrXKmkR
+
+@XSEDEscience We just announced our next #HPC workshop, happening on March 6th and focusing on GPU programming with @OpenACCorg.  
+Find the full list of satellite sites here: https://www.facebook.com/events/187793318645898/ …
