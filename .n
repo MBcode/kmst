@@ -2325,3 +2325,7 @@ https://bluewaters.ncsa.illinois.edu/webinars/calendar/2018
 
 @XSEDEscience We just announced our next #HPC workshop, happening on March 6th and focusing on GPU programming with @OpenACCorg.  
 Find the full list of satellite sites here: https://www.facebook.com/events/187793318645898/ …
+
+
+
+Data Science @dtscnc We should return to the literal meaning of "semantic publishing" by letting scientists themselves represent and publish their results in a semantic notation, argue Tobias Kuhn (@txkuhn) and Michel Dumontier (@micheldumontier) in their position paper: https://doi.org/10.3233/DS-170010 …
