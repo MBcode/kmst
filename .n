@@ -848,6 +848,9 @@ Michael providing an overview of the Common Workflow Language, which is a great 
 https://github.com/common-workflow-language/common-workflow-language http://www.wf4ever-project.org/
 https://github.com/common-workflow-language/common-workflow-language/blob/master/reference/cwltool/cwlrdf.py
 
+@victoriastodden Feb 16 a list of workflow systems - really nice!
+https://github.com/common-workflow-language/common-workflow-language/wiki/Existing-Workflow-systems
+
 better than common-workflow-lang is probably using linked-data: m bobak Retweeted
  Daniel Garijo @dgarijov  Slides of my PhD presentation: http://www.slideshare.net/dgarijo/phd-thesis-mining-abstractions-in-scientific-workflows …. All the resources are in @figshare through a Research Object https://w3id.org/dgarijo/ro/mining-abstractions-in-scientific-wfs …
 
