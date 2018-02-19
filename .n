@@ -1329,8 +1329,9 @@ we got an amazon-echo, tried it's sdk(too much just to play on my laptop)unless 
   got belambert-utils, still (at least) need cl-optimization/cl-lm 4ML& misc dir for models
   cl-lm was just learning-models under diff name, tried a pos-mapping in misc but wrong format; so no lm or maxent yet;have other notes on fixes
 
--would have used scone/instans if I knew they were openly available much earlier.  I see scone is open now too:
-    http://www.cs.cmu.edu/%7Esef/scone/ https://github.com/lispm/scone
+-would have used scone/instans if I knew they were openly available much earlier.  I see scone (base) is open now too:
+    http://www.cs.cmu.edu/%7Esef/scone/ Scone-User.pdf https://github.com/lispm/scone
+    https://github.com/sfahlman/scone.git https://asagae.github.io/
  
 https://github.com/golems/motion-grammar-kit looks interesting, too bad in exhausts the control stack ;also problems getting ccl ppccl.image;&ecl/gcl quicklisp
 
