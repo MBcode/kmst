@@ -2336,3 +2336,5 @@ Find the full list of satellite sites here: https://www.facebook.com/events/1877
 
 
 Data Science @dtscnc We should return to the literal meaning of "semantic publishing" by letting scientists themselves represent and publish their results in a semantic notation, argue Tobias Kuhn (@txkuhn) and Michel Dumontier (@micheldumontier) in their position paper: https://doi.org/10.3233/DS-170010 …
+
+http://www.hpcadvisorycouncil.com/events/2018/stanford-workshop/agenda.php will try again
