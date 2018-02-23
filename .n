@@ -2339,5 +2339,6 @@ http://www.hpcadvisorycouncil.com/events/2018/stanford-workshop/agenda.php will 
 
 Data Science @dtscnc We should return to the literal meaning of "semantic publishing" by letting scientists themselves represent and publish their results in a semantic notation, argue Tobias Kuhn (@txkuhn) and Michel Dumontier (@micheldumontier) in their position paper: https://doi.org/10.3233/DS-170010 …
 
-
 @essepuntato 28 Dec 2017 Thinking a scholarly article as a complex biological system: one of the main points discussed in my #openaccess article “Automating Semantic Publishing” recently published as part of the inaugural issue of @dtscnc by @IOSPress_STM - https://doi.org/10.3233/DS-170012 … #SemPub #datascience
+
+Data Science @dtscnc Feb 19 We can automatically and gradually build semantic information from scientific papers starting from low-level syntactic elements in a markup language like HTML, with minimal additional effort by authors, argues Silvio Peroni (@essepuntato) in Data Science: https://doi.org/10.3233/DS-170012 …
