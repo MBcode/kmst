@@ -2342,3 +2342,7 @@ Data Science @dtscnc We should return to the literal meaning of "semantic publis
 @essepuntato 28 Dec 2017 Thinking a scholarly article as a complex biological system: one of the main points discussed in my #openaccess article “Automating Semantic Publishing” recently published as part of the inaugural issue of @dtscnc by @IOSPress_STM - https://doi.org/10.3233/DS-170012 … #SemPub #datascience
 
 Data Science @dtscnc Feb 19 We can automatically and gradually build semantic information from scientific papers starting from low-level syntactic elements in a markup language like HTML, with minimal additional effort by authors, argues Silvio Peroni (@essepuntato) in Data Science: https://doi.org/10.3233/DS-170012 …
+
+
+@xah_lee Feb 19 #math free text book.  Functional Geometry, 2013, Sussman, Wisdom, Farr.  http://xahlee.info/math/functional_geometry_2013_sussman.html …
+    Sussman is the same guy who wrote SICP #lisp #racketlang #haskell
