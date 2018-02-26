@@ -2346,3 +2346,5 @@ Data Science @dtscnc Feb 19 We can automatically and gradually build semantic in
 
 @xah_lee Feb 19 #math free text book.  Functional Geometry, 2013, Sussman, Wisdom, Farr.  http://xahlee.info/math/functional_geometry_2013_sussman.html …
     Sussman is the same guy who wrote SICP #lisp #racketlang #haskell
+
+@xach Peter Norvig just posted the PDF of Paradigms of AI Programming to github. This is fantastic. It's a great book for learning Common Lisp.  (Thanks pierpa on IRC!) https://github.com/norvig/paip-lisp
