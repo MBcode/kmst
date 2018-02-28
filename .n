@@ -2351,3 +2351,6 @@ Data Science @dtscnc Feb 19 We can automatically and gradually build semantic in
     Sussman is the same guy who wrote SICP #lisp #racketlang #haskell
 
 @xach Peter Norvig just posted the PDF of Paradigms of AI Programming to github. This is fantastic. It's a great book for learning Common Lisp.  (Thanks pierpa on IRC!) https://github.com/norvig/paip-lisp
+
+@cray_inc Feb 26 What If Supercomputers Could Predict Crop Yields Before Planting a Single Seed? @NCSAatIllinois http://bit.ly/2svegbI  #BlueWaters #supercomputer
+    http://www.ncsa.illinois.edu/news/story/ncsa_researchers_create_one_of_the_most_reliable_tools_for_long_term_crop_p
