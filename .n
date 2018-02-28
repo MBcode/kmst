@@ -859,6 +859,9 @@ http://www.cuneiform-lang.org/ https://github.com/joergen7/cuneiform Distributed
 want dataframe2datacube, like: http://www.slideshare.net/stephanhoyer/xray-nd-labeled-arrays-and-datasets-in-python  but w/datacube semantics
  https://twitter.com/search?q=python%20sdmx .. https://gsocsemantic.wordpress.com/2013/06/12/data-frames-and-data-cubes/ 2013/06/20/frame-to-cube/
 
+@csarven Replying to @danbri @cygri and 2 others
+FWIW: Not tabular but https://github.com/csarven/linked-sdmx … does XML to RDF/XML. It was designed to take SDMX (meta)data from statistical agency APIs and transform. The agencies' endpoints, eg .Stat software tends to support various formats; including tabular. Result: http://270a.info/ 
+
 Tim @NovasTaylor  Playing with #d3js hive plots to avoid the network graph "hairball" for multi-dimensional #RDF data cubes. #LOD 
 
 @dbworld_  http://ift.tt/1Pfe1Tm  Modeling and Querying Data Cubes on the Semantic Web. (arXiv:1512.06080v1 [cs.DB]) #databases 
