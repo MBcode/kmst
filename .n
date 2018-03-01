@@ -2354,3 +2354,5 @@ Data Science @dtscnc Feb 19 We can automatically and gradually build semantic in
 
 @cray_inc Feb 26 What If Supercomputers Could Predict Crop Yields Before Planting a Single Seed? @NCSAatIllinois http://bit.ly/2svegbI  #BlueWaters #supercomputer
     http://www.ncsa.illinois.edu/news/story/ncsa_researchers_create_one_of_the_most_reliable_tools_for_long_term_crop_p
+
+@pascalhitzler A few hours of sleep, then the fun begins #us2ts http://us2ts.org/posts/program/  @MarshallXMa @STKO_UCSB @kgeographer @chrismungall @cbaru @danbri @timFinin @taswegian @ontowonka @ekansa @dlmcguinness @azaroth42 @PhilipSchreur @rybesh @bulicny @juansequeda @WSUCSE @wrightstate http://us2ts.org/posts/program/
