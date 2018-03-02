@@ -2355,6 +2355,10 @@ Data Science @dtscnc Feb 19 We can automatically and gradually build semantic in
 @cray_inc Feb 26 What If Supercomputers Could Predict Crop Yields Before Planting a Single Seed? @NCSAatIllinois http://bit.ly/2svegbI  #BlueWaters #supercomputer
     http://www.ncsa.illinois.edu/news/story/ncsa_researchers_create_one_of_the_most_reliable_tools_for_long_term_crop_p
 
+@NCSAatIllinois Researchers right here at NCSA are using code to help farmers in @Illinois_Alma's FARMDOC program get accurate crop insurance quotes.
+    Get full story here: https://twitter.com/twitter/statuses/969255314565550087
+
+Get the full story here:
 @MarshallXMa Jan 30 Sildes of my talk at @uidaho GEOL Dept on Feb/01/18 GEO-DATA SCIENCE: #geoinformatics #datascience #opendata
 Leveraging Geoscience Research with Geoinformatics, Semantics and Open Data https://webpages.uidaho.edu/max/UI_GEOL_XM.pdf
 
