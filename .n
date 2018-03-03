@@ -1262,6 +1262,9 @@ Babel: mixing multiple programming languages with prose in Emacs org-mode http:/
 ;would prefer w/o Emacs, though a ver of eVIl/spacemacs might work for me
 ;climacs running evil mode
 
+;would like to get a ipy/jup/etc like ~sheet of multi-languages, and not even have to use spacEmacs
+https://www.gnu.org/software/emacs/manual/html_node/org/Languages.html https://common-lisp.net/project/cl-org-mode/
+
 @antgoldbloom  We have renamed Kaggle Scripts to Kaggle Kernels: they're becoming far more than an online scripting environment
 http://blog.kaggle.com/2016/07/08/kaggle-kernel-a-new-name-for-scripts/ ;I wanted a cooperative citizen(data)science idea2incl this sort of thing
 ;now even more in the collaboritive(recognition)vien:
