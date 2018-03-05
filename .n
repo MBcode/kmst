@@ -2366,5 +2366,11 @@ Get the full story here:
 Leveraging Geoscience Research with Geoinformatics, Semantics and Open Data https://webpages.uidaho.edu/max/UI_GEOL_XM.pdf
 
 @pascalhitzler A few hours of sleep, then the fun begins #us2ts http://us2ts.org/posts/program/  @MarshallXMa @STKO_UCSB @kgeographer @chrismungall @cbaru @danbri @timFinin @taswegian @ontowonka @ekansa @dlmcguinness @azaroth42 @PhilipSchreur @rybesh @bulicny @juansequeda @WSUCSE @wrightstate http://us2ts.org/posts/program/
+@juansequeda My trip report on the 1st U.S. Semantic Technologies Symposium (#US2TS) http://www.juansequeda.com/blog/2018/03/05/trip-report-2018-us2ts/
+ @MBstream Mar 2 More ⚡️ “http://us2ts.org  18ends” by @MBstream 
+    https://twitter.com/i/moments/969689898906103808 …
+    http://okn-initiative.org/cgi-bin/mailman/listinfo/info …
+    us needs2organize &reach out more, in semantics &sci.. infrastructure
+    si2urssi ResearchSoftEng/SoftwareSaved/WSSSPE IntRSE /need KnEng2
 
 @PaulGAllen Mar 1 Launching Project Alexandria at @allenai_org to jump start what AI still lacks—ordinary common sense—one of the most fundamental & difficult problems for AI. By tackling this, we can unleash AI’s greatest potential impact in research, business & medicine https://www.paulallen.com/ai-common-sense-project-alexandria/
