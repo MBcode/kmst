@@ -127,6 +127,8 @@ http://www.skampakis.com/can-data-science-be-automated/
 http://www.datasciencecentral.com/profiles/blogs/automated-machine-learning-for-professionals
 https://www.datasciencecentral.com/profiles/blogs/more-on-fully-automated-machine-learning
 
+@DARPA With $ from our Data-Driven Discovery of Models program, @MIT researchers are working w/ @Accenture to test tech for easily applying #MachineLearning to business needs. The automation tools allow SMEs w/o data sci experience to use #ML to solve problems. http://news.mit.edu/2018/ml-20-machine-learning-many-data-science-0306 … https://pbs.twimg.com/media/DXtEK66XcAQruFP.jpg
+
 @randal_olson Jan 17 More Randy Olson Retweeted Randy Olson
     To me, it looks like @googleresearch either: 
     a) is ignorant of what #AutoML really is and doesn't know better, or 
