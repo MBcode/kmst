@@ -1940,6 +1940,8 @@ What happened to the Semantic Web? #semanticweb https://www.slideshare.net/pmika
 https://medium.com/@cddadr/darkmatter-the-notebook-style-common-lisp-environment-d6cff805f22e  https://github.com/tamamu/darkmatter
 https://news.ycombinator.com/item?id=14725878 compiles but I don't see pulldowns ;should be better than cl-jupyter, keep tabs
 
+http://langnostic.inaimathi.ca/posts/the-return-of-cl-notebook
+
 @yolandagil  Yolanda Gil Retweeted Science Magazine Yesssss!!!  @sciencemagazine
 Tracking traffic, improving math education, and a special section on AI in our newest issue of Science: http://science.sciencemag.org/content/357/6346
 
