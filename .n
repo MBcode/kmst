@@ -19,6 +19,7 @@ Still want protege w/lsw2, have a cache of svn.mumble.net:8080 &old email on get
  https://github.com/svn2github/LSW2 alter bin/abcl to take java1.7 &set abcl_bits to 64
  org.sciencecommons.lisp.protege owl2 lisp code of interest
  might be useful to interact w/wings semantic workflow, as also uses tomcat/java/etc
+  www.wings-workflows.org can use pegasus-wms ;though could use other w/cwl/prov/etc
 
 @planet_lisp ABCL Dev: ABCL 1.4.0 http://abcl-dev.blogspot.com/2016/10/abcl-140.html …
 
@@ -125,6 +126,8 @@ http://www.skampakis.com/can-data-science-be-automated/
 
 http://www.datasciencecentral.com/profiles/blogs/automated-machine-learning-for-professionals
 https://www.datasciencecentral.com/profiles/blogs/more-on-fully-automated-machine-learning
+
+@DARPA With $ from our Data-Driven Discovery of Models program, @MIT researchers are working w/ @Accenture to test tech for easily applying #MachineLearning to business needs. The automation tools allow SMEs w/o data sci experience to use #ML to solve problems. http://news.mit.edu/2018/ml-20-machine-learning-many-data-science-0306 … https://pbs.twimg.com/media/DXtEK66XcAQruFP.jpg
 
 @randal_olson Jan 17 More Randy Olson Retweeted Randy Olson
     To me, it looks like @googleresearch either: 
@@ -850,6 +853,7 @@ https://github.com/common-workflow-language/common-workflow-language/blob/master
 
 @victoriastodden Feb 16 a list of workflow systems - really nice!
 https://github.com/common-workflow-language/common-workflow-language/wiki/Existing-Workflow-systems
+ looked over several, incl.wings/yesworkflow (a few in py) &vatlab/SoS _want multi-lang &prov/semantics
 
 better than common-workflow-lang is probably using linked-data: m bobak Retweeted
  Daniel Garijo @dgarijov  Slides of my PhD presentation: http://www.slideshare.net/dgarijo/phd-thesis-mining-abstractions-in-scientific-workflows …. All the resources are in @figshare through a Research Object https://w3id.org/dgarijo/ro/mining-abstractions-in-scientific-wfs …
@@ -1716,6 +1720,7 @@ WikidataQueryServiceR now on CRAN https://cran.r-project.org/package=WikidataQue
 http://www.cambridgesemantics.com/semantic-university/semantic-web-misconceptions 
 
 @bobdc  New blog entry "Brand-name companies using SPARQL: the http://sparql.club " http://www.snee.com/bobdc.blog/2017/01/brand-name-companies-using-spa.html … 
+@LearningSPARQL Recent new members of the SPARQL club: General Motors, Nvidia, Philips, Xerox... http://www.sparql.club 
 
 Nicolas Figay @nfigay Some advanced visualization technics for embracing complexity of Dynamic Networks of Networks https://www.linkedin.com/pulse/some-advanced-visualization 
  
@@ -2368,3 +2373,11 @@ Get the full story here:
 Leveraging Geoscience Research with Geoinformatics, Semantics and Open Data https://webpages.uidaho.edu/max/UI_GEOL_XM.pdf
 
 @pascalhitzler A few hours of sleep, then the fun begins #us2ts http://us2ts.org/posts/program/  @MarshallXMa @STKO_UCSB @kgeographer @chrismungall @cbaru @danbri @timFinin @taswegian @ontowonka @ekansa @dlmcguinness @azaroth42 @PhilipSchreur @rybesh @bulicny @juansequeda @WSUCSE @wrightstate http://us2ts.org/posts/program/
+@juansequeda My trip report on the 1st U.S. Semantic Technologies Symposium (#US2TS) http://www.juansequeda.com/blog/2018/03/05/trip-report-2018-us2ts/
+ @MBstream Mar 2 More ⚡️ “http://us2ts.org  18ends” by @MBstream 
+    https://twitter.com/i/moments/969689898906103808 …
+    http://okn-initiative.org/cgi-bin/mailman/listinfo/info …
+    us needs2organize &reach out more, in semantics &sci.. infrastructure
+    si2urssi ResearchSoftEng/SoftwareSaved/WSSSPE IntRSE /need KnEng2
+
+@PaulGAllen Mar 1 Launching Project Alexandria at @allenai_org to jump start what AI still lacks—ordinary common sense—one of the most fundamental & difficult problems for AI. By tackling this, we can unleash AI’s greatest potential impact in research, business & medicine https://www.paulallen.com/ai-common-sense-project-alexandria/
