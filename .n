@@ -1266,6 +1266,9 @@ Babel: mixing multiple programming languages with prose in Emacs org-mode http:/
 ;would prefer w/o Emacs, though a ver of eVIl/spacemacs might work for me
 ;climacs running evil mode
 
+@UnixToolTip Literate DevOps with Emacs org-mode http://howardism.org/Technical/Emacs/literate-devops.html …
+ http://howardism.org/Technical/LP/introduction.html 
+
 ;would like to get a ipy/jup/etc like ~sheet of multi-languages, and not even have to use spacEmacs
 https://www.gnu.org/software/emacs/manual/html_node/org/Languages.html https://common-lisp.net/project/cl-org-mode/
 
