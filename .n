@@ -1946,6 +1946,8 @@ https://news.ycombinator.com/item?id=14725878 compiles but I don't see pulldowns
 http://langnostic.inaimathi.ca/posts/the-return-of-cl-notebook
 also tamamu.darkmatter cl-org-mode+babel cl-jupyter EmaceIpythonNotebook; gtfl also has a bit, want babel/jupyter julia py R lisp
 
+https://norvig.com/python-lisp.html
+
 @yolandagil  Yolanda Gil Retweeted Science Magazine Yesssss!!!  @sciencemagazine
 Tracking traffic, improving math education, and a special section on AI in our newest issue of Science: http://science.sciencemag.org/content/357/6346
 
