@@ -851,6 +851,8 @@ Michael providing an overview of the Common Workflow Language, which is a great 
 https://github.com/common-workflow-language/common-workflow-language http://www.wf4ever-project.org/
 https://github.com/common-workflow-language/common-workflow-language/blob/master/reference/cwltool/cwlrdf.py
 
+@NITRDgov Mar 12 Presentation by Michael R. Crusoe, @biocrusoe, at MAGIC monthly meeting on 03/07/2018: "Common Workflow Language". https://www.nitrd.gov/nitrdgroups/images/a/a0/Common_Workflow_Language.pdf …
+
 @victoriastodden Feb 16 a list of workflow systems - really nice!
 https://github.com/common-workflow-language/common-workflow-language/wiki/Existing-Workflow-systems
  looked over several, incl.wings/yesworkflow (a few in py) &vatlab/SoS _want multi-lang &prov/semantics
