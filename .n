@@ -2394,3 +2394,8 @@ Leveraging Geoscience Research with Geoinformatics, Semantics and Open Data http
     si2urssi ResearchSoftEng/SoftwareSaved/WSSSPE IntRSE /need KnEng2
 
 @PaulGAllen Mar 1 Launching Project Alexandria at @allenai_org to jump start what AI still lacks—ordinary common sense—one of the most fundamental & difficult problems for AI. By tackling this, we can unleash AI’s greatest potential impact in research, business & medicine https://www.paulallen.com/ai-common-sense-project-alexandria/
+
+@hyperir Mar 13 Human - Linked Data Interaction (HLDI): Humans at the Centre of Knowledge Graphs
+ https://www.linkedin.com/pulse/human-linked-data-interaction-hldi-humans-centre-ali-khalili-phd
+  https://www.slideshare.net/phprun/humanlinked-data-interaction http://research.ld-r.org/
+  https://media.licdn.com/dms/image/C5612AQEErOKXhYjcxg/article-inline_image-shrink_1000_1488/0?e=2120385600&v=alpha&t=oYi2SEjxgwJRkptnUA-m--1kFpYqGCfIzflJvDu1bPo
