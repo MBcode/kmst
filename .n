@@ -1546,6 +1546,8 @@ https://twitter.com/hashtag/escience2016?src=hash
 
 ontology_mechanic=@cm_harlow tools i didn't get up to present (sorry): Vitro-Lib, Marimba, Karma, d:swarm, RML + RML Editor, CEDAR, RDF.rb, RDFLib (python) #cldisummit ..
 
+@PHaDventure Mar 16 Specification and Implementation of Mapping Rule Visualization and Editing: MapVOWL and the RMLEditor ✏️ is published! https://authors.elsevier.com/a/1WjoP5bAYUSkZZ … @natadimou @RubenVerborgh @erikmannens @DimiSchuurman @alherregodts @n0thingends @Ben__DM @journalWebSem
+
 KM components = http://www.cs.utexas.edu/users/mfkb/RKF/clib.html  http://www.cs.utexas.edu/users/mfkb/RKF/tree/   CALO office KB ;play w/this
 use of my https://open.hpi.de/courses/semanticweb2016 Linked-Data-Engineering, &concepts like: http://dbpedia.org/ontology/Person foaf schema.org
 use Protege3.5 /PowerLOOM .. https://github.com/dbpedia/dbpedia-webprotege
