@@ -2399,3 +2399,6 @@ Leveraging Geoscience Research with Geoinformatics, Semantics and Open Data http
  https://www.linkedin.com/pulse/human-linked-data-interaction-hldi-humans-centre-ali-khalili-phd
   https://www.slideshare.net/phprun/humanlinked-data-interaction http://research.ld-r.org/
   https://media.licdn.com/dms/image/C5612AQEErOKXhYjcxg/article-inline_image-shrink_1000_1488/0?e=2120385600&v=alpha&t=oYi2SEjxgwJRkptnUA-m--1kFpYqGCfIzflJvDu1bPo
+
+@nceas Mar 16 3/5 weekend #sciencereads: Computing Environments for Reproducibility: Capturing the 'Whole Tale' http://bit.ly/2pftw8x  @metamattj @brycem @DataONEorg #openscience
+    https://www.sciencedirect.com/science/article/pii/S0167739X17310695 https://pbs.twimg.com/media/DYWtH7AVwAAwL3X.jpg
