@@ -2186,6 +2186,8 @@ http://mathesaurus.sourceforge.net/ ;use2index
 
 @ontologysummit re:on: Nov 23 Presented: Ruth Duerr #Semantics + Discovery/use in #geoscience data http://bit.ly/21jTVk4  #ontologysummit
 
+even ncsa has some geo semantics, and much more2look@/try,incl: in R,eg. devtools::install_github("robinlovelace/geocompr")
+
 @RainerJoswig MIND.AI looks for a #lisp engineer https://lispjobs.wordpress.com/2017/11/22/lisp-engineer-mind-ai-seoul-korea-l-a-usa/
 
 @bioontology BioPortal has made Release Candidate 3 available for Virtual Appliance 2.5, a major upgrade from version 2.4. See release notes at https://www.bioontology.org/wiki/index.php/BioPortal_Virtual_Appliance_Release_Notes … for further information.
