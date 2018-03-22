@@ -20,6 +20,7 @@ Still want protege w/lsw2, have a cache of svn.mumble.net:8080 &old email on get
  org.sciencecommons.lisp.protege owl2 lisp code of interest
  might be useful to interact w/wings semantic workflow, as also uses tomcat/java/etc
   www.wings-workflows.org can use pegasus-wms ;though could use other w/cwl/prov/etc
+   looking@/domains &other ontologies/code
 
 @planet_lisp ABCL Dev: ABCL 1.4.0 http://abcl-dev.blogspot.com/2016/10/abcl-140.html …
 
