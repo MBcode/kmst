@@ -2410,3 +2410,5 @@ Leveraging Geoscience Research with Geoinformatics, Semantics and Open Data http
     https://www.sciencedirect.com/science/article/pii/S0167739X17310695 https://pbs.twimg.com/media/DYWtH7AVwAAwL3X.jpg
 
 nix pkg mngr vs docker(which seems easier&probably more useful) ;versioning/reproducability ;tried kaggle python, but huge/much larger than expected
+
+joined: https://mastodon.social/web/getting-started
