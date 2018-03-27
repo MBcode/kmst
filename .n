@@ -1665,6 +1665,9 @@ PROPEL is over!Get our free book on inspecting the potential of #EnterpriseLinke
 
 @OSTHUS From #Big_Data to #Big_Analysis presented by Eric Little @ILabAutomation https://www.youtube.com/watch?v=vxbNYUtKOcU
 
+@OSTHUS Data lifecycle mgt across the enterprise by @OSTHUS #allotropeframework #enterprisedata https://bit.ly/2ISsB61  via @SlideShare
+    https://www.slideshare.net/MelanieGrupe/data-lifecycle-mgt-across-the-enterprise
+
 Eric Little described @OSHUS work with @AllotropeFound #ontologysummit #ontology https://pbs.twimg.com/media/DTHsxCOXUAAIRph.jpg http://ontologforum.org/index.php/ConferenceCall_2016_03_10
 
 @KKjernsmo  Dec 16 Full text of my #PhD thesis: "SPARQL on the Open, Decentralised Web": http://urn.nb.no/URN:NBN:no-56537 … #SPARQL #LinkedData 
