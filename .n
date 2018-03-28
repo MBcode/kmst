@@ -619,6 +619,8 @@ http://www.theplatform.net/2015/04/07/massive-distributed-ai-moves-out-of-the-bo
 -upcoming: @BorisAdryan  ·  Mar 12
 Oh look! My @OReillySolid webcast in May already has a landing page: http://www.oreilly.com/pub/e/3365 . Will be talking about #ontologies in the #IoT.
 
+@DMDII_ .@SiemensUSA Innovation Day is getting started! Be sure to join the live webcast and follow #SiemensInnovates to see everything happening today @UILABS_ https://sie.ag/2IQm0cu 
+
 Bruno Gonçalves (@bgoncalves) tweeted at 5:14am - 17 Mar 15: 
 [1503.04374] Science Bots: a Model for the Future of Scientific Computation? bit.ly/1MIgSRn (https://twitter.com/bgoncalves/status/577883911155531776?s=17) 
 
