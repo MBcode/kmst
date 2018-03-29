@@ -2196,6 +2196,8 @@ even ncsa has some geo semantics, and much more2look@/try,incl: JuliaGeo [&can'i
  and in R,eg. devtools::install_github("robinlovelace/geocompr") [can'import rpy2'to call from python]
   found slightly easier to get going w/kaggle/docker-rstats, and will try kaggle/docker-python more too
 
+@CMastication using #Python and #rstats in the same RMarkdown document is pretty awesome with the Reticulate Package. Objects from Python are accessible in R using the magic `py` object. Pretty amazing, imo.  https://pbs.twimg.com/media/DZXSLr8X0AAFxp0.jpg
+
 @RainerJoswig MIND.AI looks for a #lisp engineer https://lispjobs.wordpress.com/2017/11/22/lisp-engineer-mind-ai-seoul-korea-l-a-usa/
 
 @bioontology BioPortal has made Release Candidate 3 available for Virtual Appliance 2.5, a major upgrade from version 2.4. See release notes at https://www.bioontology.org/wiki/index.php/BioPortal_Virtual_Appliance_Release_Notes … for further information.
