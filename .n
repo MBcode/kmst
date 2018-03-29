@@ -2109,6 +2109,7 @@ github.com protegeproject/webprotege.git easiest,dbpedia/dbpedia-webprotege comp
  @Illinois_Alma  Oct 13 Video: #withILLINOIS, students at Siebel Center for Design will use design thinking to solve the world’s challenges https://youtu.be/YSIRJk3ic_8 
  Rachel applied to direct/now interviewing; http://storied.illinois.edu/siebelcenterfordesign dec11 
 saw the talk, cut slides to be used during questions
+http://illinois.edu/emailer/newsletter/166401.html it is official, we move to uiuc.edu by the summer
 
 @SDSC_UCSD  Oct 13 NoCal Wildfires Generate 1.5M Views of @UCSanDiego @WIFIREProject Firemap Resource https://goo.gl/fs3ExK  #AtlasFire #TubbsFire 
 
