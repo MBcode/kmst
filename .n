@@ -2424,3 +2424,6 @@ Leveraging Geoscience Research with Geoinformatics, Semantics and Open Data http
 nix pkg mngr vs docker(which seems easier&probably more useful) ;versioning/reproducability ;tried kaggle python, but huge/much larger than expected
 
 joined: https://mastodon.social/web/getting-started
+
+@LauraFrerichs Blown away with cool technologies in our community at the Army Corps of Engineers research lab (CERL). The largest shaker table for earthquake testing, 3D printed concrete buildings, robots for construction, real-time energy efficiency modeling of neighboring buildings.
+ -worked there for 6.5yrs; lots of good experiences; (incl quick1of turning that shake-table into a bass-driver;)
