@@ -2429,3 +2429,6 @@ joined: https://mastodon.social/web/getting-started
 
 @LauraFrerichs Blown away with cool technologies in our community at the Army Corps of Engineers research lab (CERL). The largest shaker table for earthquake testing, 3D printed concrete buildings, robots for construction, real-time energy efficiency modeling of neighboring buildings.
  -worked there for 6.5yrs; lots of good experiences; (incl quick1of turning that shake-table into a bass-driver;)
+ 
+@dgarijov Slides from my talk today at ISI: Capturing Context in Scientific Experiments: Towards Computer-Driven Science
+And the link to the slides: https://www.slideshare.net/dgarijo/caopturing-context-in-scientific-experiments-towards-computerdriven-science
