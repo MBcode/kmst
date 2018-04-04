@@ -351,6 +351,10 @@ http://dspace.mit.edu/handle/1721.1/37383#files-area reminds me2map sense data2c
 RoboBrain -- centralized, online brain for robots to tap into. #NSFfunded research in @PopSci http://bit.ly/1p8OuBh   
 
 Retweeted by m bobak @semanticbot Call-by-meaning: applying the semantic web to APIs http://bit.ly/1wHDHlr
+@reddit_lisp #lisp Common Lisp Standard Draft |
+    http://cvberry.com/tech_writings/notes/common_lisp_standard_draft.html
+    http://cvberry.com/downloads/cl-ansi-standard-draft-w-sidebar.pdf
+
 
 https://archive.org/stream/ost-computer-science-book_lisp/book_lisp_djvu.txt
 
