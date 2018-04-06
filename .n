@@ -2323,6 +2323,8 @@ SparqlIntegrate is just a CLI to Jena ARQ - and ARQ already supports GRAPH in CO
 Remote SPARQL update requires specification where to run .sparql files / queries - not yet supported
     https://github.com/SmartDataAnalytics/Sparqlintegrate
 
+@hyperir Just found another CSV2RDF tool called TARQL which turns CSV into RDF using SPARQL syntax!  https://github.com/tarql/tarql
+
 @wohnjalker Jan 8 3rd post in #RDF validation series: Validating material composition data using #SHACL with #SPARQL-based constraints with aggregates
   https://blog.semaku.com/post/169476159408/validating-material-composition-data-using-shacl
 
