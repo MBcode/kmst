@@ -2449,3 +2449,6 @@ And the link to the slides: https://www.slideshare.net/dgarijo/caopturing-contex
 @OpenSemSearch Mar 10 #TextMining of relations between entities from & across scanned & digital documents by combining #OpenSource search, #neo4j graph, OCR, NLP, #linkeddata knowledgegraph, thesaurus, ontologies, machinelearning, opendata & annotation by editors: https://opensemanticsearch.org/doc/analytics/graph … #ddj #NICAR18 https://pbs.twimg.com/media/DX9CYmkW0AE9zf4.jpg
 @OpenSemSearch Mar 17 Next #opensource release integrates #openstreetmap in view/tab #Map for #visualization which locations occur in how many documents / #search results: https://opensemanticsearch.org/doc/analytics/map … #mapping #textmining #nlp #linkeddata #opendata #gis #dataviz #ddj #datajournalism #dh #digitalhumanities https://pbs.twimg.com/media/DYfWbdFW0AEYe53.jpg
 
+@hyperir presentation slides are available at https://www.slideshare.net/phprun/an-introduction-to-linked-open-data-93352130 …  #LinkedData #SemanticWeb
+@hyperir Giving a lecture on Semantic Web and Linked Open Data at http://SIKS.nl  course on knowledge representation and reasoning #Utrecht @kadevgraaf
+    https://www.slideshare.net/phprun/an-introduction-to-linked-open-data-93352130
