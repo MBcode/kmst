@@ -580,6 +580,9 @@ Hacker News @HNTweets  ·  Announcing AllegroGraph 5.0: http://franz.com/about/p
 
 @TonyAgresta2 · National Science Foundation project "GeoLink" launched https://cse.wright.edu/news/19m-nsf-project-geolink-launched-concerning-data-infrastructure-earth-sciences … #semanticweb #SPARQL #RDF #textmining
 
+@ontologysummit Apr 5 Presented: Adila Krisnadhi Modular #Ontology for data int w/ #GeoLink http://bit.ly/21jTVk4  #ontologysummit
+    http://ontologforum.org/index.php?title=ConferenceCall_2016_02_25
+
 http://www.meetup.com/USF-Seminar-Series-in-Analytics/events/215114882/ incl reader analytics
 
 Just unfollowed 240 feeds from twitter, think it's time to get a bit more productive. (Enough thinking/more doing;)
