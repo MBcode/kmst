@@ -2452,3 +2452,5 @@ And the link to the slides: https://www.slideshare.net/dgarijo/caopturing-contex
 @hyperir presentation slides are available at https://www.slideshare.net/phprun/an-introduction-to-linked-open-data-93352130 …  #LinkedData #SemanticWeb
 @hyperir Giving a lecture on Semantic Web and Linked Open Data at http://SIKS.nl  course on knowledge representation and reasoning #Utrecht @kadevgraaf
     https://www.slideshare.net/phprun/an-introduction-to-linked-open-data-93352130
+
+@frank_nagle Apr 7 Researchers at @USC_ISI use AI to model the entire world http://news.usc.edu/139479/usc-darpa-artificial-intelligence/
