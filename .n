@@ -2456,6 +2456,7 @@ And the link to the slides: https://www.slideshare.net/dgarijo/caopturing-contex
 @frank_nagle Apr 7 Researchers at @USC_ISI use AI to model the entire world http://news.usc.edu/139479/usc-darpa-artificial-intelligence/
 
 Python for Earth Scientists http://homepages.see.leeds.ac.uk/~earawa/PythonEarthSci/ …
+@SciPyTip Why are there so many Pythons?  https://www.toptal.com/python/why-are-there-so-many-pythons … by @toptalllc
 
 @katyhuff Two cool resources for scientifc software development mentioned at @si2urssi #si2urssi Better Scientific Software (BSSw)
     https://bssw.io/   and Best Practices for HPC Software Developers (Webinars)
