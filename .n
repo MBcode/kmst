@@ -2460,6 +2460,8 @@ And the link to the slides: https://www.slideshare.net/dgarijo/caopturing-contex
 
 @frank_nagle Apr 7 Researchers at @USC_ISI use AI to model the entire world http://news.usc.edu/139479/usc-darpa-artificial-intelligence/
 
+@Jose_A_Alonso pycse - Python3 computations in science and engineering. ~ John Kitchin (@johnkitchin) http://kitchingroup.cheme.cmu.edu/pycse/pycse.pdf  #eBook #Python
+
 Python for Earth Scientists http://homepages.see.leeds.ac.uk/~earawa/PythonEarthSci/ …
 @SciPyTip Why are there so many Pythons?  https://www.toptal.com/python/why-are-there-so-many-pythons … by @toptalllc
 
