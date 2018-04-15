@@ -2468,3 +2468,6 @@ Python for Earth Scientists http://homepages.see.leeds.ac.uk/~earawa/PythonEarth
 @katyhuff Two cool resources for scientifc software development mentioned at @si2urssi #si2urssi Better Scientific Software (BSSw)
     https://bssw.io/   and Best Practices for HPC Software Developers (Webinars)
      https://ideas-productivity.org/events/hpc-best-practices-webinars/ …
+
+@CompSciFact New post: Comparing range and precision of IEEE and posit https://www.johndcook.com/blog/2018/04/14/ieee-vs-posit/ … 
+    half precision up to quad precision
