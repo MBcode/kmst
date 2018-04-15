@@ -20,6 +20,7 @@ Still want protege w/lsw2, have a cache of svn.mumble.net:8080 &old email on get
  org.sciencecommons.lisp.protege owl2 lisp code of interest
  might be useful to interact w/wings semantic workflow, as also uses tomcat/java/etc
   www.wings-workflows.org can use pegasus-wms ;though could use other w/cwl/prov/etc
+   looking@/domains &other ontologies/code
 
 @planet_lisp ABCL Dev: ABCL 1.4.0 http://abcl-dev.blogspot.com/2016/10/abcl-140.html …
 
@@ -350,6 +351,10 @@ http://dspace.mit.edu/handle/1721.1/37383#files-area reminds me2map sense data2c
 RoboBrain -- centralized, online brain for robots to tap into. #NSFfunded research in @PopSci http://bit.ly/1p8OuBh   
 
 Retweeted by m bobak @semanticbot Call-by-meaning: applying the semantic web to APIs http://bit.ly/1wHDHlr
+@reddit_lisp #lisp Common Lisp Standard Draft |
+    http://cvberry.com/tech_writings/notes/common_lisp_standard_draft.html
+    http://cvberry.com/downloads/cl-ansi-standard-draft-w-sidebar.pdf
+
 
 https://archive.org/stream/ost-computer-science-book_lisp/book_lisp_djvu.txt
 
@@ -575,6 +580,9 @@ Hacker News @HNTweets  ·  Announcing AllegroGraph 5.0: http://franz.com/about/p
 
 @TonyAgresta2 · National Science Foundation project "GeoLink" launched https://cse.wright.edu/news/19m-nsf-project-geolink-launched-concerning-data-infrastructure-earth-sciences … #semanticweb #SPARQL #RDF #textmining
 
+@ontologysummit Apr 5 Presented: Adila Krisnadhi Modular #Ontology for data int w/ #GeoLink http://bit.ly/21jTVk4  #ontologysummit
+    http://ontologforum.org/index.php?title=ConferenceCall_2016_02_25
+
 http://www.meetup.com/USF-Seminar-Series-in-Analytics/events/215114882/ incl reader analytics
 
 Just unfollowed 240 feeds from twitter, think it's time to get a bit more productive. (Enough thinking/more doing;)
@@ -618,6 +626,8 @@ http://www.theplatform.net/2015/04/07/massive-distributed-ai-moves-out-of-the-bo
 -upcoming: @BorisAdryan  ·  Mar 12
 Oh look! My @OReillySolid webcast in May already has a landing page: http://www.oreilly.com/pub/e/3365 . Will be talking about #ontologies in the #IoT.
 
+@DMDII_ .@SiemensUSA Innovation Day is getting started! Be sure to join the live webcast and follow #SiemensInnovates to see everything happening today @UILABS_ https://sie.ag/2IQm0cu 
+
 Bruno Gonçalves (@bgoncalves) tweeted at 5:14am - 17 Mar 15: 
 [1503.04374] Science Bots: a Model for the Future of Scientific Computation? bit.ly/1MIgSRn (https://twitter.com/bgoncalves/status/577883911155531776?s=17) 
 
@@ -650,6 +660,8 @@ DBWorld Updates @dbworld_ · Mar 30 http://ift.tt/1CqSSj0  Towards Exascale Scie
 
 Susan Athey @Susan_Athey;now at: http://www.nasonline.org/programs/sackler-colloquia/completed_colloquia/Big-data.html
 @AnimalSpiritEd @dynarski My talk at National Academy of Science: Drawing Causal Inference from Big Data, here: http://www.nasonline.org/programs/sackler-colloquia/upcoming-colloquia/Big-data.html … 
+
+@mrtz ICYMI, "Elements of Causal Inference" is freely available from this page: https://mitpress.mit.edu/books/elements-causal-inference … I much enjoyed learning from this new text book by Peters, Janzing, and Schölkopf.
 
 @jahendler · Mar 27 updated version of my “Broad Data” talk, presented at #CODS2015 now available in slideshare - http://www.slideshare.net/jahendler/broad-dataindia-2015share … #bigdatamedia
 
@@ -850,6 +862,8 @@ PORTABLE WORKFLOW AND TOOL DESCRIPTIONS WITH THE CWL Michael R. Crusoe  https://
 Michael providing an overview of the Common Workflow Language, which is a great standard developed out of Codefest 2014 and the BOSC community. It provides a way to define workflows and tools in a re-usable and interoperable way. Looked at many existing standards and approaches. Giving a showout to Worflow4Ever which was an awesome standard to build off.
 https://github.com/common-workflow-language/common-workflow-language http://www.wf4ever-project.org/
 https://github.com/common-workflow-language/common-workflow-language/blob/master/reference/cwltool/cwlrdf.py
+
+@NITRDgov Mar 12 Presentation by Michael R. Crusoe, @biocrusoe, at MAGIC monthly meeting on 03/07/2018: "Common Workflow Language". https://www.nitrd.gov/nitrdgroups/images/a/a0/Common_Workflow_Language.pdf …
 
 @victoriastodden Feb 16 a list of workflow systems - really nice!
 https://github.com/common-workflow-language/common-workflow-language/wiki/Existing-Workflow-systems
@@ -1266,6 +1280,9 @@ Babel: mixing multiple programming languages with prose in Emacs org-mode http:/
 ;would prefer w/o Emacs, though a ver of eVIl/spacemacs might work for me
 ;climacs running evil mode
 
+@UnixToolTip Literate DevOps with Emacs org-mode http://howardism.org/Technical/Emacs/literate-devops.html …
+ http://howardism.org/Technical/LP/introduction.html 
+
 ;would like to get a ipy/jup/etc like ~sheet of multi-languages, and not even have to use spacEmacs
 https://www.gnu.org/software/emacs/manual/html_node/org/Languages.html https://common-lisp.net/project/cl-org-mode/
 
@@ -1539,6 +1556,8 @@ https://twitter.com/hashtag/escience2016?src=hash
 
 ontology_mechanic=@cm_harlow tools i didn't get up to present (sorry): Vitro-Lib, Marimba, Karma, d:swarm, RML + RML Editor, CEDAR, RDF.rb, RDFLib (python) #cldisummit ..
 
+@PHaDventure Mar 16 Specification and Implementation of Mapping Rule Visualization and Editing: MapVOWL and the RMLEditor ✏️ is published! https://authors.elsevier.com/a/1WjoP5bAYUSkZZ … @natadimou @RubenVerborgh @erikmannens @DimiSchuurman @alherregodts @n0thingends @Ben__DM @journalWebSem
+
 KM components = http://www.cs.utexas.edu/users/mfkb/RKF/clib.html  http://www.cs.utexas.edu/users/mfkb/RKF/tree/   CALO office KB ;play w/this
 use of my https://open.hpi.de/courses/semanticweb2016 Linked-Data-Engineering, &concepts like: http://dbpedia.org/ontology/Person foaf schema.org
 use Protege3.5 /PowerLOOM .. https://github.com/dbpedia/dbpedia-webprotege
@@ -1654,6 +1673,9 @@ PROPEL is over!Get our free book on inspecting the potential of #EnterpriseLinke
 @ontologysummit  Jan 16 Presented: Eric Little @osthus Integrating data systems http://bit.ly/222R3Z8  #ontologysummit #bigdata
 
 @OSTHUS From #Big_Data to #Big_Analysis presented by Eric Little @ILabAutomation https://www.youtube.com/watch?v=vxbNYUtKOcU
+
+@OSTHUS Data lifecycle mgt across the enterprise by @OSTHUS #allotropeframework #enterprisedata https://bit.ly/2ISsB61  via @SlideShare
+    https://www.slideshare.net/MelanieGrupe/data-lifecycle-mgt-across-the-enterprise
 
 Eric Little described @OSHUS work with @AllotropeFound #ontologysummit #ontology https://pbs.twimg.com/media/DTHsxCOXUAAIRph.jpg http://ontologforum.org/index.php/ConferenceCall_2016_03_10
 
@@ -1941,6 +1963,11 @@ https://medium.com/@cddadr/darkmatter-the-notebook-style-common-lisp-environment
 https://news.ycombinator.com/item?id=14725878 compiles but I don't see pulldowns ;should be better than cl-jupyter, keep tabs
 
 http://langnostic.inaimathi.ca/posts/the-return-of-cl-notebook
+also tamamu.darkmatter cl-org-mode+babel cl-jupyter EmaceIpythonNotebook; gtfl also has a bit, want babel/jupyter julia py R lisp
+
+https://www.youtube.com/watch?v=JserqX6hbYw (julia)looks like python, feels like lisp, runs like C 
+
+https://norvig.com/python-lisp.html
 
 @yolandagil  Yolanda Gil Retweeted Science Magazine Yesssss!!!  @sciencemagazine
 Tracking traffic, improving math education, and a special section on AI in our newest issue of Science: http://science.sciencemag.org/content/357/6346
@@ -2091,10 +2118,17 @@ github.com protegeproject/webprotege.git easiest,dbpedia/dbpedia-webprotege comp
  @Illinois_Alma  Oct 13 Video: #withILLINOIS, students at Siebel Center for Design will use design thinking to solve the world’s challenges https://youtu.be/YSIRJk3ic_8 
  Rachel applied to direct/now interviewing; http://storied.illinois.edu/siebelcenterfordesign dec11 
 saw the talk, cut slides to be used during questions
+http://illinois.edu/emailer/newsletter/166401.html it is official, we move to uiuc.edu by the summer
+@LauraFrerichs Mar 29 Such a thrill and proud moment for the University of Illinois to announce Rachel Switzky as the Siebel Design Center Director! I was honored to serve on the search committee that helped find this awesome UofI alum from @ideo for this role @sc4dillinois  https://designcenter.illinois.edu/director-announcement.html …
+@jawurth Mar 30 Rachel Switzky of @IDEO, inaugural director of the @Illinois_Alma Siebel Center for Design, says it's about more than engineering: "We need all perspectives in order to accomplish great innovation ... how do we design for people's worlds?" http://www.news-gazette.com/news/local/2018-03-29/updated-new-ui-design-center-director-its-not-just-engineering.html …
+Renting sf plc: https://sfbay.craigslist.org/sfc/apa/d/single-family-home-in-the/6543690517.html &my site@ /sf-bryant-house
 
 @SDSC_UCSD  Oct 13 NoCal Wildfires Generate 1.5M Views of @UCSanDiego @WIFIREProject Firemap Resource https://goo.gl/fs3ExK  #AtlasFire #TubbsFire 
 
 @paul_houle https://github.com/paulhoule/gastrodon … <- Visualizing RDF Data in Pandas with Gastrodon
+
+@tymwol Mar 12 I just discovered the 'everything you wanted to know about #pandas' kind of playlist by @PyData #Python #DataScience
+    https://www.youtube.com/playlist?list=PLGVZCDnMOq0oywykwgVAcGvsGzagyMbwS
 
 http://www.access-ai.com/blogs/semantic-reasoning-almost-forgotten-half-ai/
 
@@ -2170,6 +2204,12 @@ http://mathesaurus.sourceforge.net/ ;use2index
 @DanielKhashabi Must-watch talk by @GaryMarcus  https://www.youtube.com/watch?v=7dnN3P2bCJo … ;Allen AI2 Inst
 
 @ontologysummit re:on: Nov 23 Presented: Ruth Duerr #Semantics + Discovery/use in #geoscience data http://bit.ly/21jTVk4  #ontologysummit
+
+even ncsa has some geo semantics, and much more2look@/try,incl: JuliaGeo [&can'import julia'to call from python]
+ and in R,eg. devtools::install_github("robinlovelace/geocompr") [can'import rpy2'to call from python]
+  found slightly easier to get going w/kaggle/docker-rstats, and will try kaggle/docker-python more too
+
+@CMastication using #Python and #rstats in the same RMarkdown document is pretty awesome with the Reticulate Package. Objects from Python are accessible in R using the magic `py` object. Pretty amazing, imo.  https://pbs.twimg.com/media/DZXSLr8X0AAFxp0.jpg
 
 @RainerJoswig MIND.AI looks for a #lisp engineer https://lispjobs.wordpress.com/2017/11/22/lisp-engineer-mind-ai-seoul-korea-l-a-usa/
 
@@ -2289,6 +2329,8 @@ SparqlIntegrate is just a CLI to Jena ARQ - and ARQ already supports GRAPH in CO
 Remote SPARQL update requires specification where to run .sparql files / queries - not yet supported
     https://github.com/SmartDataAnalytics/Sparqlintegrate
 
+@hyperir Just found another CSV2RDF tool called TARQL which turns CSV into RDF using SPARQL syntax!  https://github.com/tarql/tarql
+
 @wohnjalker Jan 8 3rd post in #RDF validation series: Validating material composition data using #SHACL with #SPARQL-based constraints with aggregates
   https://blog.semaku.com/post/169476159408/validating-material-composition-data-using-shacl
 
@@ -2362,6 +2404,11 @@ Data Science @dtscnc Feb 19 We can automatically and gradually build semantic in
 
 @xach Peter Norvig just posted the PDF of Paradigms of AI Programming to github. This is fantastic. It's a great book for learning Common Lisp.  (Thanks pierpa on IRC!) https://github.com/norvig/paip-lisp
 
+@NCSAatIllinois More NCSAatIllinois Retweeted WeatherNation
+ Thanks to @WeatherNation for covering NCSA and #BlueWaters professor Kaiyu Guan's innovation involving crop growing data and #HPC!
+  @WeatherNation Satellites, supercomputers, and "machine learning" provide real-time crop and growing conditions Data:
+   http://www.weathernationtv.com/news/satellites-supercomputers-provide-real-time-crop-growing-conditions-data/
+
 @cray_inc Feb 26 What If Supercomputers Could Predict Crop Yields Before Planting a Single Seed? @NCSAatIllinois http://bit.ly/2svegbI  #BlueWaters #supercomputer
     http://www.ncsa.illinois.edu/news/story/ncsa_researchers_create_one_of_the_most_reliable_tools_for_long_term_crop_p
 
@@ -2372,6 +2419,9 @@ Get the full story here:
 @MarshallXMa Jan 30 Sildes of my talk at @uidaho GEOL Dept on Feb/01/18 GEO-DATA SCIENCE: #geoinformatics #datascience #opendata
 Leveraging Geoscience Research with Geoinformatics, Semantics and Open Data https://webpages.uidaho.edu/max/UI_GEOL_XM.pdf
 
+@BerkeleyLab Our #smartfarm project marries microbiology and #machinelearning http://bit.ly/SOILmicrobes 
+  https://newscenter.lbl.gov/2018/03/14/harnessing_the_power_of_soil_microbes_for_more_sustainable_farming/
+
 @pascalhitzler A few hours of sleep, then the fun begins #us2ts http://us2ts.org/posts/program/  @MarshallXMa @STKO_UCSB @kgeographer @chrismungall @cbaru @danbri @timFinin @taswegian @ontowonka @ekansa @dlmcguinness @azaroth42 @PhilipSchreur @rybesh @bulicny @juansequeda @WSUCSE @wrightstate http://us2ts.org/posts/program/
 @juansequeda My trip report on the 1st U.S. Semantic Technologies Symposium (#US2TS) http://www.juansequeda.com/blog/2018/03/05/trip-report-2018-us2ts/
  @MBstream Mar 2 More ⚡️ “http://us2ts.org  18ends” by @MBstream 
@@ -2381,3 +2431,38 @@ Leveraging Geoscience Research with Geoinformatics, Semantics and Open Data http
     si2urssi ResearchSoftEng/SoftwareSaved/WSSSPE IntRSE /need KnEng2
 
 @PaulGAllen Mar 1 Launching Project Alexandria at @allenai_org to jump start what AI still lacks—ordinary common sense—one of the most fundamental & difficult problems for AI. By tackling this, we can unleash AI’s greatest potential impact in research, business & medicine https://www.paulallen.com/ai-common-sense-project-alexandria/
+
+@hyperir Mar 13 Human - Linked Data Interaction (HLDI): Humans at the Centre of Knowledge Graphs
+ https://www.linkedin.com/pulse/human-linked-data-interaction-hldi-humans-centre-ali-khalili-phd
+  https://www.slideshare.net/phprun/humanlinked-data-interaction http://research.ld-r.org/
+  https://media.licdn.com/dms/image/C5612AQEErOKXhYjcxg/article-inline_image-shrink_1000_1488/0?e=2120385600&v=alpha&t=oYi2SEjxgwJRkptnUA-m--1kFpYqGCfIzflJvDu1bPo
+
+@nceas Mar 16 3/5 weekend #sciencereads: Computing Environments for Reproducibility: Capturing the 'Whole Tale' http://bit.ly/2pftw8x  @metamattj @brycem @DataONEorg #openscience
+    https://www.sciencedirect.com/science/article/pii/S0167739X17310695 https://pbs.twimg.com/media/DYWtH7AVwAAwL3X.jpg
+
+nix pkg mngr vs docker(which seems easier&probably more useful) ;versioning/reproducability ;tried kaggle python, but huge/much larger than expected
+
+joined: https://mastodon.social/web/getting-started
+
+@LauraFrerichs Blown away with cool technologies in our community at the Army Corps of Engineers research lab (CERL). The largest shaker table for earthquake testing, 3D printed concrete buildings, robots for construction, real-time energy efficiency modeling of neighboring buildings.
+ -worked there for 6.5yrs; lots of good experiences; (incl quick1of turning that shake-table into a bass-driver;)
+ 
+@dgarijov Slides from my talk today at ISI: Capturing Context in Scientific Experiments: Towards Computer-Driven Science
+And the link to the slides: https://www.slideshare.net/dgarijo/caopturing-context-in-scientific-experiments-towards-computerdriven-science
+
+@OpenSemSearch Mar 3 Free #OpenSource #research #tools and tutorials for #semantic #search, analysis, #textmining & #annotation of large document collections, archives, news & #opendata: https://opensemanticsearch.org  #ddj #datajournalism  #openscience #digitalhumanities #dh #lod #OpenDataDay #ODD18 
+@OpenSemSearch Mar 10 #TextMining of relations between entities from & across scanned & digital documents by combining #OpenSource search, #neo4j graph, OCR, NLP, #linkeddata knowledgegraph, thesaurus, ontologies, machinelearning, opendata & annotation by editors: https://opensemanticsearch.org/doc/analytics/graph … #ddj #NICAR18 https://pbs.twimg.com/media/DX9CYmkW0AE9zf4.jpg
+@OpenSemSearch Mar 17 Next #opensource release integrates #openstreetmap in view/tab #Map for #visualization which locations occur in how many documents / #search results: https://opensemanticsearch.org/doc/analytics/map … #mapping #textmining #nlp #linkeddata #opendata #gis #dataviz #ddj #datajournalism #dh #digitalhumanities https://pbs.twimg.com/media/DYfWbdFW0AEYe53.jpg
+
+@hyperir presentation slides are available at https://www.slideshare.net/phprun/an-introduction-to-linked-open-data-93352130 …  #LinkedData #SemanticWeb
+@hyperir Giving a lecture on Semantic Web and Linked Open Data at http://SIKS.nl  course on knowledge representation and reasoning #Utrecht @kadevgraaf
+    https://www.slideshare.net/phprun/an-introduction-to-linked-open-data-93352130
+
+@frank_nagle Apr 7 Researchers at @USC_ISI use AI to model the entire world http://news.usc.edu/139479/usc-darpa-artificial-intelligence/
+
+Python for Earth Scientists http://homepages.see.leeds.ac.uk/~earawa/PythonEarthSci/ …
+@SciPyTip Why are there so many Pythons?  https://www.toptal.com/python/why-are-there-so-many-pythons … by @toptalllc
+
+@katyhuff Two cool resources for scientifc software development mentioned at @si2urssi #si2urssi Better Scientific Software (BSSw)
+    https://bssw.io/   and Best Practices for HPC Software Developers (Webinars)
+     https://ideas-productivity.org/events/hpc-best-practices-webinars/ …
