@@ -2462,6 +2462,8 @@ And the link to the slides: https://www.slideshare.net/dgarijo/caopturing-contex
 
 @Jose_A_Alonso pycse - Python3 computations in science and engineering. ~ John Kitchin (@johnkitchin) http://kitchingroup.cheme.cmu.edu/pycse/pycse.pdf  #eBook #Python
 
+https://hn.premii.com/#/article/16843926 Advanced Topics with Python
+
 Python for Earth Scientists http://homepages.see.leeds.ac.uk/~earawa/PythonEarthSci/ …
 @SciPyTip Why are there so many Pythons?  https://www.toptal.com/python/why-are-there-so-many-pythons … by @toptalllc
 
