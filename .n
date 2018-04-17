@@ -2473,3 +2473,7 @@ Python for Earth Scientists http://homepages.see.leeds.ac.uk/~earawa/PythonEarth
 
 @CompSciFact New post: Comparing range and precision of IEEE and posit https://www.johndcook.com/blog/2018/04/14/ieee-vs-posit/ … 
     half precision up to quad precision
+
+ 
+@lysander07 Week #1 of free @OpenHPI Mooc "Information Service Engineering" starts today at 10am (CEST) with an Introduction to #NLP. In the very fist section, we will talk about #information and #knowledge 
+https://open.hpi.de/courses/semanticweb2017 …
