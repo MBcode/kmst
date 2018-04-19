@@ -2479,3 +2479,5 @@ Python for Earth Scientists http://homepages.see.leeds.ac.uk/~earawa/PythonEarth
     https://open.hpi.de/courses/semanticweb2017 … https://pbs.twimg.com/media/Da4dPieXUAAVjPA.jpg:large
 @lysander07 In the 2nd part of Week1 of our free @OpenHPI #MOOC "Information Service Engineering", you will learn about 'Language and Understanding'
     https://open.hpi.de/courses/semanticweb2017/ … #NLP https://pbs.twimg.com/media/Da9o373WsAA2a8X.jpg:large
+
+@ILHealthEng Apr 16 "Friends Don't Let Friends Deploy Blackbox Model" see what Rick Caruana from @Microsoft is saying in the context of healthcare during his Keynote address http://healthdataanalytics.illinois.edu/  #BigDataAnalytics #healthcare #DataScience
