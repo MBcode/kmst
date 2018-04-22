@@ -2123,6 +2123,8 @@ http://illinois.edu/emailer/newsletter/166401.html it is official, we move to ui
 @jawurth Mar 30 Rachel Switzky of @IDEO, inaugural director of the @Illinois_Alma Siebel Center for Design, says it's about more than engineering: "We need all perspectives in order to accomplish great innovation ... how do we design for people's worlds?" http://www.news-gazette.com/news/local/2018-03-29/updated-new-ui-design-center-director-its-not-just-engineering.html …
 Renting sf plc: https://sfbay.craigslist.org/sfc/apa/d/single-family-home-in-the/6543690517.html &my site@ /sf-bryant-house
 
+@TECenter Apr 19 The Siebel Center for Design (SC4D) Groundbreaking Ceremony is NEXT WEEK! Tuesday, 4/24, at 2pm join TEC and the SC4D staff at Fourth St. between Gregory and Peabody for this exciting event!
+
 @SDSC_UCSD  Oct 13 NoCal Wildfires Generate 1.5M Views of @UCSanDiego @WIFIREProject Firemap Resource https://goo.gl/fs3ExK  #AtlasFire #TubbsFire 
 
 @paul_houle https://github.com/paulhoule/gastrodon … <- Visualizing RDF Data in Pandas with Gastrodon
