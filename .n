@@ -2489,3 +2489,5 @@ Python for Earth Scientists http://homepages.see.leeds.ac.uk/~earawa/PythonEarth
 @ILHealthEng Apr 16 "Friends Don't Let Friends Deploy Blackbox Model" see what Rick Caruana from @Microsoft is saying in the context of healthcare during his Keynote address http://healthdataanalytics.illinois.edu/  #BigDataAnalytics #healthcare #DataScience
 
 Looking fwd to http://healthdataanalytics.illinois.edu/program-3/
+
+Have old saved .n/notes on http://notional.no-ip.org machine can put on /n for a bit, when I'm back to reset it;but incl previous ideas
