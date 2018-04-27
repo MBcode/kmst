@@ -2493,3 +2493,5 @@ Python for Earth Scientists http://homepages.see.leeds.ac.uk/~earawa/PythonEarth
 Looking fwd to http://healthdataanalytics.illinois.edu/program-3/
 
 Have old saved .n/notes on http://notional.no-ip.org machine can put on /n for a bit, when I'm back to reset it;but incl previous ideas
+
+@reddit_lisp #Common_Lisp Petalisp: Elegant High Performance Computing | https://www.reddit.com/r/Common_Lisp/comments/8f6wez/petalisp_elegant_high_performance_computing/ https://github.com/marcoheisig?utf8=%E2%9C%93&tab=repositories&q=&type=source&language=common+lisp
