@@ -1925,6 +1925,7 @@ Harald Sackâ @lysander07 (was HPI prof)  In the ISE lecture today, we will talk
 @lysander07  In the lecture today, we will be looking for adventures in RDF, RDFS, and SPARQL https://docs.google.com/presentation/d/1wEPYSUE7Yw_eKwJOCVIRHrEgxFrQ9cXvFNCZ13OR1Q0/pub?start=false&loop=false&delayms=3000 … #semanticweb #linkeddata #lod
 @lysander07  In the lecture today we will "Query on with SPARQL" ;-) https://www.slideshare.net/lysander07/08-linked-data-engineering-3 … #semanticweb #linkeddata #lod @KITKarlsruhe
 @lysander07  Good luck to all the students who today are writing the "Information Service Engineering" final exam @KITKarlsruhe https://www.slideshare.net/lysander07/presentations … ;link has all slides
+=week2 finite-state* lang-models POS
 
 now: http://www.aifb.kit.edu/web/Harald_Sack/en http://www.aifb.kit.edu/web/Information_Service_Engineering/en
 but, still: https://open.hpi.de/courses/semanticweb2017 in 2018
