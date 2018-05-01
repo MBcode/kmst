@@ -2499,3 +2499,5 @@ Looking fwd to http://healthdataanalytics.illinois.edu/program-3/
 Have old saved .n/notes on http://notional.no-ip.org machine can put on /n for a bit, when I'm back to reset it;but incl previous ideas
 
 @reddit_lisp #Common_Lisp Petalisp: Elegant High Performance Computing | https://www.reddit.com/r/Common_Lisp/comments/8f6wez/petalisp_elegant_high_performance_computing/ https://github.com/marcoheisig?utf8=%E2%9C%93&tab=repositories&q=&type=source&language=common+lisp
+
+@planet_lisp Zach Beane: Thoughts on ELS 2018 http://lispblog.xach.com/post/173467550358/thoughts-on-els-2018
