@@ -2513,3 +2513,6 @@ Have old saved .n/notes on http://notional.no-ip.org machine can put on /n for a
         Binder (BinderHub + Jupyter)
         https://mybinder.org 
         ... @ProjectJupyter
+
+@OpenSemSearch May 1 New #OpenSource release of #Open #Semantic #EntityExtraction #API with #Python module Entity Manager for easier import of Entities from custom datasources (f.e import of names from database (SQL) or content management system (CMS): https://github.com/opensemanticsearch/open-semantic-entity-search-api … #ddj #digitalhumanities
+    https://github.com/opensemanticsearch/open-semantic-entity-search-api
