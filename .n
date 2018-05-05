@@ -2522,3 +2522,13 @@ https://twitter.com/lagroportal
 @H2020_eROSA 17 Nov 2017 @H2020_eROSA together with @AGINFRA contribute in building a shared vision on a common EU agrifood infrastructure. #H2020SC2 #InvestEUresearch #eosc #OpenScience
 @AIMS_Community 12 Dec 2017 Fostering @lagroportal : a backbone for #dataintegration & standardization in #Agronomy @irstea @agro_ld @irstea #UNFAO #opendata in #agriculture #SemanticWeb #LinkedData @FAIRsharing_org @GFARforum @AGINFRA @resdatall #GODANAction #IGAD #AGROVOC @AgTrials http://bit.ly/2jwZ5ef 
     http://aims.fao.org/activity/blog/agroportal-backbone-data-integration-and-standardization-agronomy#.Wi_zLHAePnI.twitter
+@MVickySchneider 4 Apr 2017 Working with agronomic data? Check AgroPortal  http://agroportal.lirmm.fr  @Eudat_eu #RDAPlenary, @watsonhaigh @EMBL_ABR @tsonika @PlantTeaching
+ http://crop.agroportal.lirmm.fr/ http://exclu.agroportal.lirmm.fr/ ..
+@lagroportal 18 Dec 2017 AgroPortal journal publication is out published by #Elsevier in COMPAG see https://www.sciencedirect.com/science/article/pii/S0168169916309541 …
+@lagroportal Mar 22 More AgroPortal Retweeted İlkay Holt FAIRyifing ontologies and vocabularies within @lagroportal from @LIRMM @umontpellier. #goodmetadatahelp
+@jonquet_lirmm More Clement Jonquet Retweeted Nedellec
+Nice to collaborate with ontologies and vocabularies in agronomy with @lagroportal @LIRMM @umontpellier
+    Nedellec @ClaireNedellec Follow Follow @ClaireNedellec More Nedellec Retweeted Alvis Inra
+    Le futur du TDM scientifique avec l'@INIST_CNRS et l'@Inra_France dans le projet #VisaTM  ? http://www.inist.fr/?VISA-TM  #textmining
+        @Alvis_Inra Follow Follow @Alvis_Inra "Rapidly growing volumes of scientific information make it increasingly  complex to find relevant knowledge. #TDM can help scientists with this." Read Stephane Schneider from @INIST_CNRS #TDMstory ! #textmining #istex @ISTEX_Platform
+            http://openminted.eu/tdm-story-scientists-as-tdm-costumers/
