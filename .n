@@ -2533,6 +2533,7 @@ Nice to collaborate with ontologies and vocabularies in agronomy with @lagroport
     Le futur du TDM scientifique avec l'@INIST_CNRS et l'@Inra_France dans le projet #VisaTM  ? http://www.inist.fr/?VISA-TM  #textmining
         @Alvis_Inra Follow Follow @Alvis_Inra "Rapidly growing volumes of scientific information make it increasingly  complex to find relevant knowledge. #TDM can help scientists with this." Read Stephane Schneider from @INIST_CNRS #TDMstory ! #textmining #istex @ISTEX_Platform
             http://openminted.eu/tdm-story-scientists-as-tdm-costumers/
+@lagroportal Proud to have passed 100 ontologies and vocabularies for #agronomy, #plantscience #food #biodiversity and also #agriculture in AgroPortal: http://agroportal.lirmm.fr/ontologies . Thanks to partner organizations  @umontpellier  @BioversityInt @Inra_France @ird_fr @irstea @Stanford @bioportal
 
 @PNNLab May 6 Check out @Monya_science's interview w/ @victoriastodden https://buff.ly/2rhzMN2   - "Why #scientists must share their research code" via @naturenews for a taste of what's to come from our morning keynote at PNNL's #Publishing Summit #reproducibility
     https://www.nature.com/news/why-scientists-must-share-their-research-code-1.20504
