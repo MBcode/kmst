@@ -2537,3 +2537,6 @@ Nice to collaborate with ontologies and vocabularies in agronomy with @lagroport
 
 @PNNLab May 6 Check out @Monya_science's interview w/ @victoriastodden https://buff.ly/2rhzMN2   - "Why #scientists must share their research code" via @naturenews for a taste of what's to come from our morning keynote at PNNL's #Publishing Summit #reproducibility
     https://www.nature.com/news/why-scientists-must-share-their-research-code-1.20504
+
+@MerrileeIAm May 7 Linked Open Data Cloud: then (2007) and now.  http://lod-cloud.net/ #lodlam
+  https://pbs.twimg.com/media/DcoQLlUVMAAZxIS.png https://pbs.twimg.com/media/DcoQ35SV0AAX7T8.jpg
