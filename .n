@@ -2545,3 +2545,6 @@ Nice to collaborate with ontologies and vocabularies in agronomy with @lagroport
   https://www.reddit.com/r/lisp/comments/8kpbcz/shcl_an_unholy_union_of_posix_shell_and_common/
 
 @arxiv_cs_cl https://arxiv.org/abs/1802.02870  Biomedical term normalization of EHRs with UMLS. (arXiv:1802.02870v2 [http://cs.CL ] UPDATED) #NLProc
+
+@marciazeng Our paper on LOD KOS "Knowledge Organization Systems (KOS) in the  Semantic Web: a multi-dimensional review" is published and view-able online at https://rdcu.be/PgZW  . @Philipp_Mayr @LODLAM
+    https://link.springer.com/epdf/10.1007/s00799-018-0241-2
