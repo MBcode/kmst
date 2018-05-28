@@ -2548,3 +2548,5 @@ Nice to collaborate with ontologies and vocabularies in agronomy with @lagroport
 
 @marciazeng Our paper on LOD KOS "Knowledge Organization Systems (KOS) in the  Semantic Web: a multi-dimensional review" is published and view-able online at https://rdcu.be/PgZW  . @Philipp_Mayr @LODLAM
     https://link.springer.com/epdf/10.1007/s00799-018-0241-2
+
+@dbworld_ https://arxiv.org/abs/1805.09979  SOSA: A Lightweight Ontology for Sensors, Observations, Samples, and Actuators. (arXiv:1805.09979v1 [http://cs.AI ]) #ai
