@@ -2552,3 +2552,5 @@ Nice to collaborate with ontologies and vocabularies in agronomy with @lagroport
 @dbworld_ https://arxiv.org/abs/1805.09979  SOSA: A Lightweight Ontology for Sensors, Observations, Samples, and Actuators. (arXiv:1805.09979v1 [http://cs.AI ]) #ai
 
 @choldgraf Blending Python, R, and Julia in a single Jupyter notebook https://blog.jupyter.org/i-python-you-r-we-julia-baf064ca1fb6
+
+@DublinCore Baidu's knowledge graph: http://bit.ly/2qGzuzg   http://bit.ly/2qGzuzg  "It's similar to  http://schema.org  and compatible, but adds entities..." - @storyneedle
