@@ -1931,6 +1931,9 @@ Harald Sackâ @lysander07 (was HPI prof)  In the ISE lecture today, we will talk
 =week2 finite-state* lang-models POS
 =week3 Linked Data Engineering  rdf/s;1/2class finished
 =week4 Linked Data Engineering II owl/sparql
+=week5 machine-learning
+=week6 putting it all together:linked-data-programming,knowledge-mining+information,semantic search, exploratory search
+back from 3weeks of vaca-travel,and just finished wk6 lectures ;will finish class w/in a week
 
 now: http://www.aifb.kit.edu/web/Harald_Sack/en http://www.aifb.kit.edu/web/Information_Service_Engineering/en
 but, still: https://open.hpi.de/courses/semanticweb2017 in 2018
