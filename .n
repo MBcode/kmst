@@ -2554,3 +2554,6 @@ Nice to collaborate with ontologies and vocabularies in agronomy with @lagroport
 @choldgraf Blending Python, R, and Julia in a single Jupyter notebook https://blog.jupyter.org/i-python-you-r-we-julia-baf064ca1fb6
 
 @DublinCore Baidu's knowledge graph: http://bit.ly/2qGzuzg   http://bit.ly/2qGzuzg  "It's similar to  http://schema.org  and compatible, but adds entities..." - @storyneedle
+
+@AxelPolleres So, we submitted our joint rant about #LinkedData and why it still hasn't reached its full potential to @DeSemWeb 2018... Thanks to @maulikkamdar @ciutti T.Tudoracche, M.Musen! BTW, @DeSemWeb uses @openreviewnet , so all comments welcome!
+    https://openreview.net/forum?id=H1lS_g81gX https://openreview.net/pdf?id=H1lS_g81gX
