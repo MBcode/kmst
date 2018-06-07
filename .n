@@ -2563,3 +2563,9 @@ Nice to collaborate with ontologies and vocabularies in agronomy with @lagroport
 
 @johndmk May 30 Slides from my #websci18  Keynote on the future of semantics on the web https://www.slideshare.net/johndomingue/the-future-of-semantics-on-the-web … @kmiou
     https://www.slideshare.net/johndomingue/the-future-of-semantics-on-the-web
+
+@pascalhitzler Jun 4 #eswc2018 keynote. I know that issue 🙂 @STKO_UCSB @FrankVanHarmele
+  https://pbs.twimg.com/media/De6IWPAWsAAxJxN.jpg big data needs semantics
+ @jahendler Replying to @pascalhitzler @STKO_UCSB @FrankVanHarmele
+    We also need to fix OWL (or similar) to handle the needs of data integration - see
+        https://www.slideshare.net/jahendler/wither-owl
