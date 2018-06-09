@@ -2569,3 +2569,5 @@ Nice to collaborate with ontologies and vocabularies in agronomy with @lagroport
  @jahendler Replying to @pascalhitzler @STKO_UCSB @FrankVanHarmele
     We also need to fix OWL (or similar) to handle the needs of data integration - see
         https://www.slideshare.net/jahendler/wither-owl
+
+June9,2018 sf2uiuc goodbye party
