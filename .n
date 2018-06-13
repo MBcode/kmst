@@ -2576,3 +2576,5 @@ June9,2018 sf2uiuc goodbye party
 @Harsh9t If you’re at @sigmod2018, do check out my video talk on “SPARQL querying of Property graphs via GREMLINATOR” at the #GRADES-NDA workshop. Slides: https://bit.ly/2JJWvg7  paper: https://bit.ly/2IpwcrO  @WDAqua @apachetinkerpop @SDA_Research @eis_bonn @MSCActions
     https://www.slideshare.net/harsh9t1/grades-nda-2018-gremlinator-demo-talk-harsh-thakkar
     http://harshthakkar.in/wp-content/uploads/2018/05/GRADES_2018_Gremlinator_Demo_Preprint.pdf
+
+@dgarijov I wrote a trip summary for last week's #ECAHM18: https://linkingresearch.wordpress.com/2018/06/13/earthcube-all-hands-meeting-ecahm-2018/ … Check it out if you missed it! @EarthCube @Linked_Earth 
