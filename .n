@@ -287,6 +287,7 @@ OpenCube Project @OpenCubeProject
 retweeted: Christopher @communicating  STATO is a General Purpose STATistics Ontology http://stato-ontology.org/ 
 
 m bobak Retweeted Samuel Lampa @smllmp  Oct 15 And my favorite poster: Alejandro Andrejev's work on Scientific #SPARQL. Interesting stuff! http://www.it.uu.se/research/group/udbl/SciSPARQL … 
+    @smllmp Jun 9 Slides: Linked Data for improved organization of research data https://www.slideshare.net/SamuelLampa/linked-data-for-improved-organization-of-research-data … #linkeddata #semanticweb #excelhell
 
 http://yieldbot.github.io/flambo/ have wanted lisp on spark's rdd's (in ceph or similar)now w/clj
  https://amplab.cs.berkeley.edu/publication/graphx-graph-processing-in-a-distributed-dataflow-framework/
